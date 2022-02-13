@@ -2,7 +2,7 @@
 title: 'Modern professional ski boots'
 date: 2014-08-27T12:24:12+00:00
 author: rcaucino
-author_url: https://depositphotos.com/portfolio-1001163.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1001163.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1001163/image/5206/52063301/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['sport' ,'red' ,'white' ,'background' ,'on' ,'isolated' ,'equipment' ,'young' ,'mountain' ,'boy' ,'boots' ,'kid' ,'race' ,'modern' ,'two' ,'professional' ,'gear' ,'ski' ,'shoe' ,'boot' ,'for' ,'junior' ]

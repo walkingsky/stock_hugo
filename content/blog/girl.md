@@ -2,7 +2,7 @@
 title: 'girl'
 date: 2018-02-06T08:52:53+00:00
 author: YuliyaKirayonakBO
-author_url: https://depositphotos.com/portfolio-14847044.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-14847044.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/14847044/image/18260/182600716/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['leisure' ,'beautiful' ,'holiday' ,'person' ,'travel' ,'girl' ,'female' ,'summer' ,'people' ,'outdoors' ,'nature' ,'caucasian' ,'tropical' ,'resting' ,'relax' ,'woman' ,'beach' ,'tourism' ,'cap' ,'sand' ,'vacation' ,'resort' ,'journey' ,'attractive' ,'trip' ,'relaxing' ,'tourist' ,'daylight' ,'slim' ,'weekend' ,'daytime' ,'traveler' ,'summertime' ,'swimsuit' ,'bodysuit' ,'young adult' ,'natural light' ]

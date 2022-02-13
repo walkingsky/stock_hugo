@@ -2,7 +2,7 @@
 title: 'Feedback-the concept of the man crying because he didn"t his job'
 date: 2015-04-14T08:18:14+00:00
 author: jehsomwang
-author_url: https://depositphotos.com/portfolio-3256961.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3256961.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/3256961/vector/7023/70236551/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

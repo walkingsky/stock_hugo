@@ -2,7 +2,7 @@
 title: 'selective focus of sad woman covering face with hand through window with raindrops and copy space'
 date: 2019-02-01T13:10:23+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13193658/image/24079/240792650/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['person' ,'female' ,'people' ,'window' ,'crying' ,'home' ,'emotions' ,'woman' ,'stress' ,'indoors' ,'loneliness' ,'negative' ,'alone' ,'sad' ,'upset' ,'lonely' ,'Worried' ,'Anxiety' ,'depressed' ,'raindrops' ,'copy space' ,'selective focus' ,'bad mood' ,'touching face' ,'covering face with hand' ]

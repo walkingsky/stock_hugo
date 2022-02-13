@@ -2,7 +2,7 @@
 title: 'high angle view of smiling young florist in apron holding green plants in flower shop'
 date: 2018-03-23T14:07:42+00:00
 author: AllaSerebrina
-author_url: https://depositphotos.com/portfolio-12985790.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985790.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12985790/image/18877/188777014/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'beautiful' ,'retail' ,'holding' ,'person' ,'store' ,'Decor' ,'girl' ,'female' ,'young' ,'smiling' ,'people' ,'fresh' ,'plants' ,'flora' ,'floral' ,'flowers' ,'european' ,'pretty' ,'woman' ,'working' ,'work' ,'job' ,'indoors' ,'profession' ,'alone' ,'attractive' ,'worker' ,'owner' ,'horticulture' ,'florist' ,'apron' ,'floristry' ,'High Angle View' ,'professional occupation' ,'copy space' ,'Small Business' ,'flower arrangement' ,'flower shop' ,'caucasian woman' ,'craft paper' ,'millennial' ]

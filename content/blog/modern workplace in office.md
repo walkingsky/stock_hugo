@@ -2,7 +2,7 @@
 title: 'modern workplace in office'
 date: 2017-07-24T11:15:07+00:00
 author: alebloshka
-author_url: https://depositphotos.com/portfolio-12674628.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12674628.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12674628/image/16063/160633206/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'objects' ,'nobody' ,'business' ,'empty' ,'technology' ,'caffeine' ,'drink' ,'office' ,'aromatic' ,'beverage' ,'electronic' ,'mobility' ,'wireless' ,'working' ,'laptop' ,'network' ,'indoors' ,'aroma' ,'workplace' ,'appliance' ,'smartphone' ,'notebooks' ,'gadgets' ,'copy space' ,'selective focus' ,'coffee cup' ,'digital devices' ]

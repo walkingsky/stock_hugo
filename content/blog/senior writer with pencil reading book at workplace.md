@@ -2,7 +2,7 @@
 title: 'senior writer with pencil reading book at workplace'
 date: 2018-02-20T10:20:22+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12982378/image/18439/184391172/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['paper' ,'person' ,'people' ,'male' ,'creativity' ,'old' ,'vintage' ,'inspiration' ,'creative' ,'beard' ,'indoor' ,'stylish' ,'age' ,'working' ,'professional' ,'writing' ,'information' ,'manuscript' ,'profession' ,'alone' ,'handsome' ,'old fashioned' ,'senior' ,'retirement' ,'mustache' ,'writer' ,'typewriter' ,'freelancer' ,'home office' ,'Grey Hair' ,'Retro Style' ,'typing machine' ,'Caucasian Man' ,'self employment' ]

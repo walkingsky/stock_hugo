@@ -2,7 +2,7 @@
 title: 'Be positive or negative'
 date: 2012-06-07T15:34:58+00:00
 author: alphaspirit
-author_url: https://depositphotos.com/portfolio-1001201.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1001201.html?ref=64678756
 image: https://static9.depositphotos.com/thumbs/1001201/image/1101/11019194/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

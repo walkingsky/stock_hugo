@@ -2,7 +2,7 @@
 title: 'Company of three persons on the grass and flying drone'
 date: 2018-03-05T10:12:02+00:00
 author: skynextphoto
-author_url: https://depositphotos.com/portfolio-8254594.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-8254594.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/8254594/image/18644/186447842/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['group' ,'beautiful' ,'happy' ,'girl' ,'female' ,'young' ,'smiling' ,'grass' ,'people' ,'meadow' ,'lawn' ,'laughing' ,'happiness' ,'joy' ,'cheerful' ,'cute' ,'friendship' ,'man' ,'black' ,'modern' ,'beard' ,'woman' ,'device' ,'lifestyle' ,'curly' ,'friends' ,'camera' ,'remote' ,'fly' ,'guy' ,'company' ,'attractive' ,'robot' ,'flight' ,'propeller' ,'video' ,'operate' ,'glade' ,'mixed' ,'controller' ,'biracial' ,'brazilian' ,'drone' ,'hipster' ,'filmmaking' ,'african american' ,'vlog' ,'Selfie' ,'quadcopter' ,'multirotor' ]

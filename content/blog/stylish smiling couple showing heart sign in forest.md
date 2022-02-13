@@ -2,7 +2,7 @@
 title: 'stylish smiling couple showing heart sign in forest'
 date: 2019-06-06T12:03:50+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12982378/image/26830/268301174/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'celebration' ,'event' ,'happy' ,'love' ,'romance' ,'girl' ,'smiling' ,'outdoors' ,'cheerful' ,'nature' ,'caucasian' ,'smile' ,'style' ,'fashion' ,'trees' ,'symbol' ,'emotion' ,'couple' ,'stylish' ,'romantic' ,'wedding' ,'bride' ,'woman' ,'forest' ,'emotional' ,'together' ,'togetherness' ,'trendy' ,'blonde' ,'attractive' ,'wife' ,'husband' ,'gesture' ,'Gesturing' ,'relationship' ,'marriage' ,'fashionable' ,'boyfriend' ,'girlfriend' ,'bridegroom' ,'looking at camera' ,'Two People' ,'selective focus' ,'young adult' ,'formal wear' ,'heart sign' ]

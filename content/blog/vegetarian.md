@@ -2,7 +2,7 @@
 title: 'vegetarian'
 date: 2013-01-31T21:01:06+00:00
 author: prometeus
-author_url: https://depositphotos.com/portfolio-1606463.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1606463.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1606463/image/1954/19545693/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'copy' ,'space' ,'isolated' ,'beautiful' ,'holding' ,'person' ,'studio' ,'girl' ,'female' ,'young' ,'smiling' ,'people' ,'fresh' ,'portrait' ,'orange' ,'health' ,'healthy' ,'food' ,'diet' ,'apple' ,'fruit' ,'medicine' ,'healthcare' ,'medical' ,'care' ,'eating' ,'nutrition' ,'over' ,'vegetarian' ,'vitamin' ,'doctor' ,'hospital' ,'vegetables' ,'woman' ,'with' ,'occupation' ,'professional' ,'lifestyle' ,'therapy' ,'treatment' ,'indoors' ,'friendly' ,'uniform' ,'positive' ,'kind' ,'fruits' ,'pear' ,'banana' ,'no' ]

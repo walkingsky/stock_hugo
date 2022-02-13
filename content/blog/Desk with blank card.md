@@ -2,7 +2,7 @@
 title: 'Desk with blank card'
 date: 2016-06-01T13:01:08+00:00
 author: peshkova
-author_url: https://depositphotos.com/portfolio-1144687.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1144687.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1144687/image/11140/111408176/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'white' ,'objects' ,'background' ,'render' ,'nobody' ,'illustration' ,'copy' ,'paper' ,'space' ,'closeup' ,'business' ,'morning' ,'up' ,'plants' ,'close' ,'wooden' ,'pattern' ,'cup' ,'coffee' ,'card' ,'3d' ,'clock' ,'office' ,'wall' ,'interior' ,'blank' ,'mug' ,'desktop' ,'work' ,'job' ,'desk' ,'copyspace' ,'notepad' ,'tools' ,'inside' ,'brick' ,'template' ,'top' ,'cactus' ,'standing' ,'workplace' ,'alarm' ,'workspace' ,'stationery' ,'rendering' ,'items' ,'clips' ,'mockup' ,'mock' ]

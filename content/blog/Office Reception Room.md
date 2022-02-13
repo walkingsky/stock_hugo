@@ -2,7 +2,7 @@
 title: 'Office Reception Room'
 date: 2014-10-07T13:51:06+00:00
 author: bewitch
-author_url: https://depositphotos.com/portfolio-1207017.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1207017.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1207017/vector/5483/54834807/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'view' ,'customer' ,'equipment' ,'chair' ,'easter' ,'building' ,'office' ,'window' ,'working' ,'furniture' ,'room' ,'floor' ,'waiting' ,'sofa' ,'reception' ,'visitor' ,'and' ,'vie' ,'oficina' ]

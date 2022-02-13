@@ -2,7 +2,7 @@
 title: 'Smiling blonde girl holding retro sunglasses isolated on grey'
 date: 2018-04-05T08:12:36+00:00
 author: Y-Boychenko
-author_url: https://depositphotos.com/portfolio-12071432.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12071432.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12071432/image/19061/190610724/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['red' ,'white' ,'background' ,'isolated' ,'beautiful' ,'person' ,'elegance' ,'girl' ,'people' ,'beauty' ,'model' ,'caucasian' ,'smile' ,'black' ,'style' ,'retro' ,'vintage' ,'fashion' ,'pretty' ,'elegant' ,'stylish' ,'woman' ,'grey' ,'trendy' ,'blonde' ,'clothes' ,'sunglasses' ,'vogue' ,'attractive' ,'outfit' ,'posing' ,'fashionable' ,'modeling' ,'styling' ,'Studio Shot' ,'young adult' ,'red lipstick' ,'Fashion Shoot' ]

@@ -2,7 +2,7 @@
 title: 'Remote aerial drone, technology design. Box and camera. Vector art on isolated background'
 date: 2015-11-25T10:48:21+00:00
 author: johndory
-author_url: https://depositphotos.com/portfolio-5922238.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-5922238.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/5922238/vector/8996/89961320/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'view' ,'illustration' ,'photography' ,'sky' ,'box' ,'package' ,'parcel' ,'vehicle' ,'medical' ,'technology' ,'photo' ,'banner' ,'flat' ,'taking' ,'law' ,'camera' ,'remote' ,'recording' ,'delivery' ,'panoramic' ,'fly' ,'navigation' ,'military' ,'robot' ,'flight' ,'conceptual' ,'control' ,'video' ,'helicopter' ,'mechanical' ,'spy' ,'signal' ,'surveillance' ,'sensor' ,'mail' ,'aerial' ,'enforcement' ,'rotor' ,'rotorcraft' ,'robotics' ,'hover' ,'videography' ,'drones' ,'reconnaissance' ,'unmanned' ,'multicopter' ,'octocopter' ,'quadcopter' ,'quadrotor' ]

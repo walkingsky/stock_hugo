@@ -2,7 +2,7 @@
 title: 'Put your hands up in the air!'
 date: 2015-09-11T09:44:01+00:00
 author: bernardbodo
-author_url: https://depositphotos.com/portfolio-2959013.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2959013.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/2959013/image/8326/83265464/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['fun' ,'group' ,'nightlife' ,'white' ,'entertainment' ,'background' ,'celebration' ,'event' ,'happy' ,'human' ,'party' ,'young' ,'people' ,'cheering' ,'happiness' ,'cheerful' ,'air' ,'up' ,'light' ,'black' ,'silhouette' ,'hands' ,'hand' ,'open' ,'pop' ,'smoke' ,'festival' ,'night' ,'band' ,'sound' ,'live' ,'music' ,'performance' ,'stage' ,'spotlight' ,'show' ,'dance' ,'rock' ,'dj' ,'concert' ,'club' ,'disco' ,'crowd' ,'audience' ,'fan' ,'Raising' ,'popular' ,'and' ,'de' ,'applauding' ]

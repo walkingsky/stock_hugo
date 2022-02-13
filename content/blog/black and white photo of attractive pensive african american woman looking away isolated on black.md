@@ -2,7 +2,7 @@
 title: 'black and white photo of attractive pensive african american woman looking away isolated on black'
 date: 2018-10-23T12:17:35+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12982378/image/22136/221369024/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['background' ,'beautiful' ,'person' ,'girl' ,'people' ,'beauty' ,'model' ,'face' ,'style' ,'fashion' ,'backdrop' ,'pensive' ,'vogue' ,'attractive' ,'fashionable' ,'modeling' ,'styling' ,'copy space' ,'black and white' ,'Studio Shot' ,'young adult' ,'black woman' ,'african american' ,'looking away' ,'isolated on black' ,'perfect skin' ,'Fashion Shoot' ]

@@ -2,7 +2,7 @@
 title: 'young woman looking at camera while holding cup of coffee in cabriolet on road near forest'
 date: 2020-11-03T10:46:08+00:00
 author: HayDmitriy
-author_url: https://depositphotos.com/portfolio-20363444.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-20363444.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/20363444/image/41304/413044302/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['leisure' ,'beautiful' ,'happy' ,'travel' ,'young' ,'smiling' ,'outdoors' ,'cheerful' ,'nature' ,'caucasian' ,'transport' ,'vehicle' ,'cup' ,'coffee' ,'caffeine' ,'drink' ,'style' ,'retro' ,'vintage' ,'car' ,'road' ,'emotion' ,'stylish' ,'beverage' ,'forest' ,'lifestyle' ,'joyful' ,'tourism' ,'vacation' ,'journey' ,'attractive' ,'adventure' ,'casual' ,'trip' ,'tourist' ,'automobile' ,'weekend' ,'traveler' ,'cabriolet' ,'convertible' ,'looking at camera' ,'copy space' ,'one person' ]

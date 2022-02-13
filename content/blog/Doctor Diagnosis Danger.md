@@ -2,7 +2,7 @@
 title: 'Doctor Diagnosis Danger'
 date: 2013-10-14T11:10:33+00:00
 author: lightsource
-author_url: https://depositphotos.com/portfolio-1229718.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1229718.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1229718/image/3321/33211673/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['high' ,'sky' ,'concepts' ,'risk' ,'health' ,'danger' ,'medicine' ,'medical' ,'care' ,'line' ,'coat' ,'concept' ,'doctor' ,'heart' ,'monitor' ,'data' ,'exam' ,'patient' ,'pulse' ,'professional' ,'therapy' ,'information' ,'metaphor' ,'lab' ,'science' ,'leader' ,'safety' ,'second' ,'leadership' ,'research' ,'lead' ,'analysis' ,'management' ,'insurance' ,'Advice' ,'challenge' ,'diagnosis' ,'Heartbeat' ,'physician' ,'scientist' ,'monitoring' ,'symptoms' ,'lifeline' ,'opinion' ,'Ecg' ,'medico' ,'tightrope' ,'en' ,'dangerouse' ,'medicina' ]

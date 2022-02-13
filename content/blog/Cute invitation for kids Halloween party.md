@@ -2,7 +2,7 @@
 title: 'Cute invitation for kids Halloween party.'
 date: 2015-10-06T11:53:10+00:00
 author: Lezhepyoka
-author_url: https://depositphotos.com/portfolio-3676191.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3676191.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/3676191/vector/8571/85718238/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['color' ,'fun' ,'vector' ,'background' ,'illustration' ,'design' ,'small' ,'isolated' ,'beautiful' ,'happy' ,'holiday' ,'party' ,'season' ,'girl' ,'autumn' ,'cute' ,'hair' ,'october' ,'child' ,'little' ,'black' ,'card' ,'cartoon' ,'banner' ,'character' ,'fantasy' ,'candy' ,'suit' ,'lovely' ,'tradition' ,'cover' ,'magic' ,'template' ,'invitation' ,'evil' ,'pirate' ,'pumpkin' ,'horror' ,'halloween' ,'treat' ,'fairy' ,'costume' ,'story' ,'poster' ,'skeleton' ,'witch' ,'broom' ,'leaflet' ,'trick' ,'broomstick' ]

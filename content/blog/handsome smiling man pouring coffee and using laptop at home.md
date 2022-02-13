@@ -2,7 +2,7 @@
 title: 'handsome smiling man pouring coffee and using laptop at home'
 date: 2018-10-23T12:13:04+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13193658/image/22130/221309352/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['happy' ,'person' ,'smiling' ,'people' ,'morning' ,'caucasian' ,'cup' ,'male' ,'man' ,'coffee' ,'drink' ,'pouring' ,'beverage' ,'mug' ,'network' ,'indoors' ,'casual' ,'handsome' ,'Homey' ,'freelance' ,'freelancer' ,'teleworking' ,'teleworker' ,'looking at camera' ,'copy space' ,'home office' ,'coffee pot' ,'at home' ,'remote work' ]

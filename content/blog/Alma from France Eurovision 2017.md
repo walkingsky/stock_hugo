@@ -2,7 +2,7 @@
 title: 'Alma from France Eurovision 2017'
 date: 2017-05-11T12:05:09+00:00
 author: Chernichkin
-author_url: https://depositphotos.com/portfolio-12749700.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12749700.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12749700/image/15290/152905912/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['competition' ,'lights' ,'entertainment' ,'event' ,'young' ,'people' ,'spring' ,'european' ,'festival' ,'screen' ,'live' ,'music' ,'musical' ,'singer' ,'stage' ,'france' ,'ukraine' ,'song' ,'concert' ,'famous' ,'europe' ,'broadcasting' ,'Contest' ,'international' ,'union' ,'popular' ,'annual' ,'Kyiv' ,'fans' ,'ukrainian' ,'2017' ,'eurovision' ,'requiem' ,'alma' ,'iec' ,'eurovision song contest' ,'eurovision 2017' ,'Eurovision participants' ]

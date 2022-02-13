@@ -2,7 +2,7 @@
 title: 'pharmacist giving pills to pregnant woman'
 date: 2017-10-17T11:24:03+00:00
 author: SashaKhalabuzar
-author_url: https://depositphotos.com/portfolio-12039320.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12039320.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12039320/image/16972/169727696/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['customer' ,'shop' ,'store' ,'female' ,'people' ,'smile' ,'health' ,'medicine' ,'healthcare' ,'medical' ,'care' ,'pharmacy' ,'work' ,'treatment' ,'abdomen' ,'belly' ,'indoors' ,'inside' ,'profession' ,'medication' ,'pharmaceutical' ,'pills' ,'fertility' ,'buyer' ,'client' ,'pharmacist' ,'drugstore' ,'pregnant' ,'seller' ,'pregnancy' ,'pharmaceutics' ,'maternity' ,'childbirth' ,'pharmaceutist' ,'professional occupation' ,'Pharmaceutical Industry' ,'white coat' ,'asian woman' ,'caucasian woman' ,'multiethnic women' ]

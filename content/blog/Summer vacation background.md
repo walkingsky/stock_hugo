@@ -2,7 +2,7 @@
 title: 'Summer vacation background'
 date: 2017-05-10T08:09:51+00:00
 author: DimaBaranow
-author_url: https://depositphotos.com/portfolio-12039412.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12039412.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12039412/image/15237/152378914/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['background' ,'colorful' ,'nobody' ,'holiday' ,'travel' ,'summer' ,'clothing' ,'style' ,'fashion' ,'ticket' ,'stylish' ,'accessories' ,'tourism' ,'headphones' ,'clothes' ,'vacation' ,'journey' ,'adventure' ,'casual' ,'trip' ,'voyage' ,'trousers' ,'tour' ,'weekend' ,'traveler' ,'summertime' ,'tickets' ,'passport' ,'adventurer' ,'copy space' ,'Group of Objects' ,'denim trousers' ,'flip flops' ,'flatlay' ]

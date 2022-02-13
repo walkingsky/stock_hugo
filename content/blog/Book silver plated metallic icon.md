@@ -2,7 +2,7 @@
 title: 'Book silver plated metallic icon'
 date: 2021-06-01T12:27:22+00:00
 author: Infolight
-author_url: https://depositphotos.com/portfolio-50337402.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-50337402.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/50337402/vector/47118/471180408/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'metal' ,'silver' ,'love' ,'icon' ,'heart' ,'notebook' ,'book' ,'education' ,'royal' ,'knowledge' ,'story' ,'logo' ,'donation' ,'charity' ,'novel' ,'eps' ,'premium' ,'love and romance' ]

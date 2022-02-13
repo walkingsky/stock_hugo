@@ -2,7 +2,7 @@
 title: 'Business people and architects collaborating on business project'
 date: 2018-03-15T15:09:32+00:00
 author: nd3000
-author_url: https://depositphotos.com/portfolio-5392356.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-5392356.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/5392356/image/18683/186830888/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'group' ,'business' ,'person' ,'female' ,'young' ,'people' ,'women' ,'caucasian' ,'smile' ,'20s' ,'male' ,'modern' ,'Men' ,'architecture' ,'corporate' ,'office' ,'woman' ,'communication' ,'manager' ,'data' ,'work' ,'job' ,'conference' ,'information' ,'together' ,'looking' ,'indoors' ,'project' ,'discussion' ,'company' ,'executive' ,'team' ,'teamwork' ,'workplace' ,'successful' ,'management' ,'meeting' ,'staff' ,'businessmen' ,'partners' ,'blueprint' ,'colleagues' ,'brainstorming' ,'businesswomen' ,'brainstorm' ,'briefing' ,'workteam' ]

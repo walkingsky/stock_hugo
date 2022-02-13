@@ -2,7 +2,7 @@
 title: 'side view of beautiful brunette woman using laptop with blank screen'
 date: 2018-04-06T12:50:39+00:00
 author: Y-Boychenko
-author_url: https://depositphotos.com/portfolio-12071432.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12071432.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12071432/image/19080/190800642/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'person' ,'elegance' ,'girl' ,'female' ,'sitting' ,'young' ,'people' ,'caucasian' ,'brunette' ,'european' ,'connection' ,'style' ,'pretty' ,'elegant' ,'stylish' ,'woman' ,'communication' ,'electronic' ,'laptop' ,'grey' ,'indoors' ,'using' ,'trendy' ,'lady' ,'clothes' ,'charming' ,'vogue' ,'alone' ,'attractive' ,'gadget' ,'networking' ,'fashionable' ,'side view' ,'copy space' ,'blank screen' ,'caucasian woman' ,'digital device' ]

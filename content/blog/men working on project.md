@@ -2,7 +2,7 @@
 title: 'men working on project '
 date: 2017-04-19T15:12:17+00:00
 author: TarasMalyarevich
-author_url: https://depositphotos.com/portfolio-10638998.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-10638998.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/10638998/image/14997/149975354/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['group' ,'business' ,'young' ,'people' ,'caucasian' ,'Men' ,'conversation' ,'working' ,'talking' ,'laptop' ,'occupation' ,'together' ,'togetherness' ,'friends' ,'indoors' ,'discussion' ,'profession' ,'casual' ,'team' ,'handsome' ,'teamwork' ,'meeting' ,'colleagues' ,'brainstorming' ,'coworkers' ,'discussing' ,'professionals' ,'multiethnic' ,'freelance' ,'notepads' ,'homeoffice' ,'mixed race' ,'Small Business' ,'overhead view' ,'smartphones' ]

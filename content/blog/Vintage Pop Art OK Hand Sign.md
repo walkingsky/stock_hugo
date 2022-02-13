@@ -2,7 +2,7 @@
 title: 'Vintage Pop Art OK Hand Sign.'
 date: 2014-02-12T13:43:30+00:00
 author: jorgenmac
-author_url: https://depositphotos.com/portfolio-2778793.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2778793.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/2778793/vector/4069/40690657/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'illustration' ,'happy' ,'business' ,'concepts' ,'sign' ,'human' ,'art' ,'success' ,'attitude' ,'best' ,'male' ,'style' ,'retro' ,'vintage' ,'cartoon' ,'hand' ,'comic' ,'pop' ,'symbol' ,'cool' ,'star' ,'expression' ,'icon' ,'finger' ,'thumb' ,'communications' ,'support' ,'lifestyle' ,'agreement' ,'book' ,'winner' ,'perfect' ,'trust' ,'choice' ,'congratulations' ,'positive' ,'positivity' ,'good' ,'ok' ,'gesture' ,'approval' ,'Gesturing' ,'okay' ,'decision' ,'showing' ,'yes' ,'great' ,'of' ,'satisfaction' ]

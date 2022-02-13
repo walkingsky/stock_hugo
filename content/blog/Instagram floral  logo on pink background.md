@@ -2,7 +2,7 @@
 title: 'Instagram floral  logo on pink background'
 date: 2017-11-01T10:41:32+00:00
 author: apolobay
-author_url: https://depositphotos.com/portfolio-2391659.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2391659.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/2391659/image/17167/171678954/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['entertainment' ,'equipment' ,'sign' ,'new' ,'summer' ,'beauty' ,'floral' ,'flowers' ,'pattern' ,'botany' ,'photo' ,'fashion' ,'symbol' ,'creative' ,'icon' ,'communication' ,'mobile' ,'network' ,'internet' ,'template' ,'profile' ,'marketing' ,'application' ,'logo' ,'logotype' ,'brand' ,'pictogram' ,'blog' ,'like' ,'blogger' ,'blogging' ,'overhead' ,'mockup' ,'hipster' ,'femenine' ,'top view' ,'pink background' ,'social media' ,'over head' ,'Mock Up' ,'art abstract' ,'flat lay' ,'instagram' ,'petal plant' ,'funky design' ,'internet online' ,'Collage concept' ,'flatlay' ,'postcard poster' ,'minimal minimalism' ]

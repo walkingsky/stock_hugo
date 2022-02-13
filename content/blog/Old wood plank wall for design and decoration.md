@@ -2,7 +2,7 @@
 title: 'Old wood plank wall for design and decoration'
 date: 2018-11-01T13:57:14+00:00
 author: weerapat
-author_url: https://depositphotos.com/portfolio-2977159.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2977159.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/2977159/image/22275/222758798/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'color' ,'background' ,'design' ,'decoration' ,'decor' ,'nature' ,'abstract' ,'texture' ,'vertical' ,'natural' ,'brown' ,'wooden' ,'board' ,'pattern' ,'dark' ,'grunge' ,'old' ,'retro' ,'rustic' ,'vintage' ,'trunk' ,'backdrop' ,'exterior' ,'structure' ,'wall' ,'interior' ,'panel' ,'grain' ,'wood' ,'material' ,'textured' ,'weathered' ,'surface' ,'hardwood' ,'timber' ,'plank' ,'floor' ,'rough' ,'oak' ,'hard' ,'laminate' ,'woodgrain' ]

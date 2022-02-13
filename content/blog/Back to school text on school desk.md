@@ -2,7 +2,7 @@
 title: 'Back to school text on school desk'
 date: 2016-07-18T12:53:28+00:00
 author: Zodchiy
-author_url: https://depositphotos.com/portfolio-1001070.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1001070.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1001070/vector/11688/116888330/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['red' ,'vector' ,'illustration' ,'design' ,'isolated' ,'sky' ,'equipment' ,'sign' ,'vehicle' ,'danger' ,'black' ,'technology' ,'silhouette' ,'symbol' ,'icon' ,'stylized' ,'digital' ,'camera' ,'remote' ,'safety' ,'security' ,'fly' ,'stencil' ,'military' ,'flight' ,'warning' ,'attack' ,'innovation' ,'aircraft' ,'spy' ,'surveillance' ,'predator' ,'stop' ,'plane' ,'logo' ,'aerial' ,'pictogram' ,'zone' ,'ban' ,'prohibited' ,'copter' ,'drone' ,'piloted' ,'unmanned' ,'uav' ,'no fly' ,'quadrocopter' ]

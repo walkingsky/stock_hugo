@@ -2,7 +2,7 @@
 title: 'Once upon a time'
 date: 2012-01-20T14:45:49+00:00
 author: nupix
-author_url: https://depositphotos.com/portfolio-1186033.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1186033.html?ref=64678756
 image: https://static8.depositphotos.com/thumbs/1186033/image/859/8597444/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['on' ,'old' ,'vintage' ,'beginning' ,'time' ,'fashioned' ,'fingers' ,'writing' ,'book' ,'in' ,'fairy' ,'tale' ,'write' ,'fiction' ,'story' ,'type' ,'writer' ,'of' ,'author' ,'plot' ,'script' ,'the' ,'a' ,'ladies' ,'novel' ,'an' ,'typewriter' ,'written' ,'once' ,'typed' ,'upon' ,'novelist' ,'old fashioned' ,'escritor' ]

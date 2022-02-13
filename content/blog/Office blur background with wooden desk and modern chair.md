@@ -2,7 +2,7 @@
 title: 'Office blur background with wooden desk and modern chair'
 date: 2015-02-27T13:02:29+00:00
 author: myfishiiz
-author_url: https://depositphotos.com/portfolio-4392653.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-4392653.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/4392653/image/6596/65960955/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'white' ,'computer' ,'background' ,'design' ,'space' ,'glass' ,'beautiful' ,'business' ,'person' ,'new' ,'art' ,'Decor' ,'elegance' ,'female' ,'sitting' ,'people' ,'abstract' ,'texture' ,'light' ,'wooden' ,'pattern' ,'chair' ,'technology' ,'style' ,'modern' ,'creative' ,'concept' ,'blur' ,'building' ,'corporate' ,'office' ,'urban' ,'window' ,'interior' ,'working' ,'with' ,'monitor' ,'desktop' ,'occupation' ,'desk' ,'clean' ,'furniture' ,'wood' ,'indoors' ,'discussion' ,'blurred' ,'worker' ,'meeting' ,'armchair' ]

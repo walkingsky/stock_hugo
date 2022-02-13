@@ -2,7 +2,7 @@
 title: 'Surprised woman in sunglasses holding purchases with sale word on price tags while talking on smartphone on pink background'
 date: 2020-08-27T14:45:05+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12982378/image/40097/400975688/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['colors' ,'colorful' ,'shopping' ,'beautiful' ,'discount' ,'sale' ,'customer' ,'caucasian' ,'connection' ,'technology' ,'accessory' ,'pink' ,'emotion' ,'hold' ,'woman' ,'call' ,'cellphone' ,'communication' ,'conversation' ,'talk' ,'wireless' ,'surprised' ,'sunglasses' ,'attractive' ,'letters' ,'gadget' ,'shocked' ,'symbols' ,'signs' ,'word' ,'use' ,'smartphone' ,'shopaholic' ,'purchases' ,'lettering' ,'copy space' ,'one person' ,'Studio Shot' ,'Mobile Phone' ,'young adult' ,'shopping bags' ,'Open Mouth' ,'price tags' ,'digital device' ]

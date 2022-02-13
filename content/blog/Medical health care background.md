@@ -2,7 +2,7 @@
 title: 'Medical health care background'
 date: 2013-11-27T10:10:46+00:00
 author: vladimir_kreat
-author_url: https://depositphotos.com/portfolio-2096107.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2096107.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/2096107/vector/3613/36138755/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['image' ,'vector' ,'computer' ,'backgrounds' ,'graphic' ,'design' ,'painting' ,'business' ,'concepts' ,'sign' ,'human' ,'ideas' ,'art' ,'people' ,'abstract' ,'health' ,'healthy' ,'pattern' ,'lifestyles' ,'medicine' ,'illness' ,'medical' ,'symbol' ,'inspiration' ,'icon' ,'heart' ,'internet' ,'body' ,'hygiene' ,'stomach' ,'concentration' ,'biology' ,'science' ,'lung' ,'system' ,'order' ,'organ' ,'bud' ,'illustrations' ,'brochure' ,'internal' ,'anatomy' ,'info' ,'brain' ,'surgery' ,'physiology' ,'liver' ,'kidney' ,'fondo' ,'medicina' ]

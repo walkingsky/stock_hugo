@@ -2,7 +2,7 @@
 title: 'Businessman working at desk with tablet'
 date: 2015-04-20T15:09:04+00:00
 author: stokkete
-author_url: https://depositphotos.com/portfolio-1258191.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1258191.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1258191/image/7065/70654329/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'objects' ,'computer' ,'object' ,'view' ,'business' ,'empty' ,'equipment' ,'holding' ,'people' ,'man' ,'technology' ,'hands' ,'corporate' ,'office' ,'blank' ,'mobile' ,'phone' ,'portable' ,'screen' ,'wireless' ,'digital' ,'working' ,'manager' ,'laptop' ,'desktop' ,'desk' ,'shirt' ,'tools' ,'finance' ,'top' ,'tablet' ,'executive' ,'At' ,'workplace' ,'workspace' ,'organizer' ,'stationery' ,'paperwork' ,'documents' ,'smartphone' ,'clipboard' ,'entrepreneur' ,'app' ,'Raum' ,'derecho' ,'ekran' ,'professional occupation' ,'copy space' ,'Mobile Phone' ]

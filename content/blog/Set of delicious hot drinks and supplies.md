@@ -2,7 +2,7 @@
 title: 'Set of delicious hot drinks and supplies'
 date: 2012-08-01T12:06:19+00:00
 author: moonkin
-author_url: https://depositphotos.com/portfolio-1352665.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1352665.html?ref=64678756
 image: https://static9.depositphotos.com/thumbs/1352665/vector/1195/11956481/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'illustration' ,'design' ,'set' ,'glass' ,'isolated' ,'herbal' ,'honey' ,'cube' ,'food' ,'cream' ,'tea' ,'cup' ,'delicious' ,'sweet' ,'coffee' ,'mocha' ,'espresso' ,'cappuccino' ,'drink' ,'cartoon' ,'elements' ,'cookie' ,'icon' ,'real' ,'hot' ,'saucer' ,'cafe' ,'foam' ,'grey' ,'foods' ,'aroma' ,'collection' ,'china' ,'in' ,'drinks' ,'chocolate' ,'stick' ,'icons' ,'sugar' ,'drinking' ,'lemon' ,'hazelnuts' ,'hazelnut' ,'supplies' ,'jar' ,'mint' ,'latte' ,'porcelain' ,'sticks' ]

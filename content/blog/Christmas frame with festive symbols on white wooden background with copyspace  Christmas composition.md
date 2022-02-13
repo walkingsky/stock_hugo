@@ -2,7 +2,7 @@
 title: 'Christmas frame with festive symbols on white wooden background with copyspace. Christmas composition'
 date: 2018-01-10T12:25:50+00:00
 author: Zakharova
-author_url: https://depositphotos.com/portfolio-2370557.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2370557.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/2370557/image/17423/174237156/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'lights' ,'horizontal' ,'space' ,'gift' ,'celebration' ,'christmas' ,'decoration' ,'happy' ,'holiday' ,'xmas' ,'new' ,'gold' ,'nature' ,'wooden' ,'branch' ,'border' ,'card' ,'frame' ,'vintage' ,'snow' ,'year' ,'merry' ,'text' ,'desk' ,'copyspace' ,'wood' ,'magic' ,'composition' ,'comfort' ,'garland' ,'snowstorm' ,'copy space' ,'christmas tree' ,'fir tree' ,'christmas decoration' ,'christmas background' ,'christmas card' ,'flat lay' ,'card ribbon' ,'flatlay' ,'happu new year' ]

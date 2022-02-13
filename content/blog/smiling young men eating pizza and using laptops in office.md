@@ -2,7 +2,7 @@
 title: 'smiling young men eating pizza and using laptops in office'
 date: 2018-07-06T14:28:16+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13193658/image/20267/202670806/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['business' ,'ideas' ,'young' ,'smiling' ,'people' ,'success' ,'caucasian' ,'food' ,'male' ,'drink' ,'eating' ,'modern' ,'Men' ,'corporate' ,'office' ,'beverage' ,'electronics' ,'working' ,'development' ,'work' ,'together' ,'indoors' ,'project' ,'using' ,'strategy' ,'casual' ,'team' ,'handsome' ,'teamwork' ,'workplace' ,'workspace' ,'management' ,'pizza' ,'colleagues' ,'laptops' ,'coworkers' ,'gadgets' ,'startup' ,'professional occupation' ,'looking at camera' ,'start up' ,'paper cup' ,'coffee to go' ,'digital devices' ]

@@ -2,7 +2,7 @@
 title: 'handsome bearded man holding cigar and looking at typewriter'
 date: 2019-01-02T15:52:01+00:00
 author: AllaSerebrina
-author_url: https://depositphotos.com/portfolio-12985790.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985790.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12985790/image/23386/233868188/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'background' ,'equipment' ,'person' ,'people' ,'caucasian' ,'male' ,'man' ,'style' ,'retro' ,'vintage' ,'smoke' ,'window' ,'stylish' ,'grey' ,'smoking' ,'tobacco' ,'profession' ,'glasses' ,'handsome' ,'workplace' ,'workspace' ,'journalist' ,'cigar' ,'writer' ,'smoker' ,'author' ,'typewriter' ,'bearded' ,'professional occupation' ,'copy space' ,'Studio Shot' ,'formal wear' ,'bad habit' ]

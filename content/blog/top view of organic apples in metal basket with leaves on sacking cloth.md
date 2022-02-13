@@ -2,7 +2,7 @@
 title: 'top view of organic apples in metal basket with leaves on sacking cloth'
 date: 2018-09-17T12:39:55+00:00
 author: KateNovikova
-author_url: https://depositphotos.com/portfolio-15583058.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-15583058.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/15583058/image/21414/214147156/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['seasonal' ,'fresh' ,'rural' ,'autumn' ,'raw' ,'food' ,'diet' ,'fruit' ,'tasty' ,'delicious' ,'appetizing' ,'ripe' ,'freshness' ,'harvest' ,'vegetarian' ,'organic' ,'eco' ,'apples' ,'vitamins' ,'selection' ,'antioxidant' ,'vegan' ,'vital' ,'unprocessed' ,'Healthy Eating' ,'top view' ,'fresh picked' ,'metal basket' ,'apple tree leaves' ,'clean eating' ,'flatlay' ,'sacking cloth' ]

@@ -2,7 +2,7 @@
 title: 'Vector vintage background. Vector illustration.'
 date: 2018-10-19T09:17:02+00:00
 author: ClassyCatStudio
-author_url: https://depositphotos.com/portfolio-2208320.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2208320.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/2208320/vector/1846/18468299/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['red' ,'entertainment' ,'blue' ,'vector' ,'background' ,'element' ,'design' ,'paper' ,'festive' ,'label' ,'summer' ,'texture' ,'shine' ,'solar' ,'spray' ,'line' ,'style' ,'border' ,'card' ,'frame' ,'grungy' ,'old' ,'retro' ,'scrapbook' ,'vintage' ,'groovy' ,'explosion' ,'backdrop' ,'hot' ,'stain' ,'stylish' ,'heat' ,'aged' ,'template' ,'trendy' ,'dirty' ,'page' ,'beam' ,'ray' ,'radial' ,'radiate' ,'stripes' ,'poster' ,'hello' ,'emblem' ,'burst' ]

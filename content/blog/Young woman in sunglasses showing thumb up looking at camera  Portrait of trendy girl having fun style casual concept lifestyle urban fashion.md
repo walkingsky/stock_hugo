@@ -2,7 +2,7 @@
 title: 'Young woman in sunglasses showing thumb up looking at camera. Portrait of trendy girl having fun style casual concept lifestyle urban fashion'
 date: 2015-08-20T09:18:40+00:00
 author: undrey
-author_url: https://depositphotos.com/portfolio-2171279.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2171279.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/2171279/image/8114/81145924/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['leisure' ,'fun' ,'white' ,'victory' ,'sign' ,'girl' ,'female' ,'young' ,'summer' ,'people' ,'joy' ,'portrait' ,'funny' ,'hand' ,'fashion' ,'peace' ,'emotion' ,'city' ,'urban' ,'stylish' ,'glamour' ,'woman' ,'fingers' ,'lifestyle' ,'street' ,'having' ,'looking' ,'trendy' ,'sunglasses' ,'vogue' ,'chic' ,'glasses' ,'casual' ,'student' ,'backpack' ,'rucksack' ,'teenage' ,'positive' ,'showing' ,'fashionable' ,'like' ,'saluting' ,'salute' ,'boarder' ,'hipster' ,'swagger' ,'swag' ,'thumb up' ,'gesrture' ]

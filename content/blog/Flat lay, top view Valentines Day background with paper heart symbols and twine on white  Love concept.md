@@ -2,7 +2,7 @@
 title: 'Flat lay, top view Valentines Day background with paper heart symbols and twine on white. Love concept.'
 date: 2019-01-18T14:30:06+00:00
 author: maximleshkovich
-author_url: https://depositphotos.com/portfolio-7595566.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-7595566.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/7595566/image/23720/237207156/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'background' ,'colorful' ,'view' ,'paper' ,'celebration' ,'decoration' ,'happy' ,'holiday' ,'love' ,'women' ,'texture' ,'pattern' ,'card' ,'symbol' ,'pink' ,'concept' ,'lay' ,'couple' ,'romantic' ,'wedding' ,'flat' ,'lifestyle' ,'desk' ,'feminine' ,'template' ,'styled' ,'top' ,'rope' ,'media' ,'header' ,'social' ,'minimalism' ,'valentines' ,'blog' ,'twine' ,'hearts' ,'minimal' ,'blogger' ,'top view' ,'flat lay' ,'flatlay' ]

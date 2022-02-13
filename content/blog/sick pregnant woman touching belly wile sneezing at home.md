@@ -2,7 +2,7 @@
 title: 'sick pregnant woman touching belly wile sneezing at home '
 date: 2019-09-11T09:49:30+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12982378/image/29898/298983080/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'glass' ,'water' ,'caucasian' ,'health' ,'life' ,'medicine' ,'healthcare' ,'illness' ,'medical' ,'european' ,'drink' ,'napkin' ,'home' ,'beverage' ,'woman' ,'bottle' ,'belly' ,'disease' ,'indoors' ,'touching' ,'attractive' ,'casual' ,'ill' ,'expectation' ,'tissue' ,'mother' ,'sofa' ,'sick' ,'tummy' ,'sickness' ,'Medicare' ,'pregnant' ,'pregnancy' ,'parenthood' ,'sneezing' ,'expectant' ,'maternity' ,'motherhood' ,'sneeze' ,'diseased' ,'copy space' ,'one person' ,'Living Room' ,'nasal spray' ,'running nose' ,'tissue box' ]

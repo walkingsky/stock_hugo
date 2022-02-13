@@ -2,7 +2,7 @@
 title: 'Couple sitting on floor'
 date: 2017-02-14T11:05:23+00:00
 author: TarasMalyarevich
-author_url: https://depositphotos.com/portfolio-10638998.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-10638998.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/10638998/image/14182/141826178/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['horizontal' ,'happy' ,'package' ,'smiling' ,'people' ,'caucasian' ,'packing' ,'friendship' ,'man' ,'home' ,'couple' ,'moving' ,'woman' ,'boxes' ,'togetherness' ,'friends' ,'indoors' ,'casual' ,'closeness' ,'fireplace' ,'relationship' ,'magazines' ,'relocation' ,'unpacking' ,'relocating' ,'selective focus' ,'new home' ,'moving in' ,'Cardboard Boxes' ,'carton boxes' ]

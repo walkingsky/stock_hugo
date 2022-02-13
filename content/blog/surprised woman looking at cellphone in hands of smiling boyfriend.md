@@ -2,7 +2,7 @@
 title: 'surprised woman looking at cellphone in hands of smiling boyfriend '
 date: 2021-06-14T07:34:37+00:00
 author: RostyslavOleksin
-author_url: https://depositphotos.com/portfolio-19406380.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-19406380.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/19406380/image/47750/477503996/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'happy' ,'smiling' ,'clothing' ,'people' ,'cheerful' ,'caucasian' ,'man' ,'technology' ,'hands' ,'sit' ,'modern' ,'rest' ,'home' ,'couple' ,'emotions' ,'hold' ,'woman' ,'mobile' ,'surprised' ,'together' ,'indoors' ,'phones' ,'attractive' ,'casual' ,'handsome' ,'sofa' ,'shocked' ,'couch' ,'relationship' ,'use' ,'cellphones' ,'devices' ,'boyfriend' ,'girlfriend' ,'t shirts' ,'Living Room' ,'smartphones' ]

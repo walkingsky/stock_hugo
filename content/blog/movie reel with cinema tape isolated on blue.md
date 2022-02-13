@@ -2,7 +2,7 @@
 title: 'movie reel with cinema tape isolated on blue'
 date: 2018-12-06T09:49:02+00:00
 author: VadimVasenin
-author_url: https://depositphotos.com/portfolio-13324256.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13324256.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13324256/image/22898/228986394/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['leisure' ,'entertainment' ,'objects' ,'nobody' ,'equipment' ,'old' ,'retro' ,'vintage' ,'record' ,'tape' ,'negative' ,'cinema' ,'cinematography' ,'film' ,'filmstrip' ,'media' ,'movie' ,'reel' ,'multimedia' ,'copy space' ,'Studio Shot' ,'top view' ,'isolated on blue' ,'flat lay' ]

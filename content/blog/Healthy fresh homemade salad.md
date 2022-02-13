@@ -2,7 +2,7 @@
 title: 'Healthy fresh homemade salad'
 date: 2015-04-22T14:26:42+00:00
 author: stockasso
-author_url: https://depositphotos.com/portfolio-3889193.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3889193.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/3889193/image/7085/70859787/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

@@ -2,7 +2,7 @@
 title: 'Grey armchairs on carpet '
 date: 2017-06-07T15:30:51+00:00
 author: Y-Boychenko
-author_url: https://depositphotos.com/portfolio-12071432.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12071432.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12071432/image/15608/156081362/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

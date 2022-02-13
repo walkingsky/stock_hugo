@@ -2,7 +2,7 @@
 title: 'Smiling young businessmen using digital tablet and showing charts, business teamwork concept'
 date: 2018-09-03T11:05:13+00:00
 author: ArturVerkhovetskiy
-author_url: https://depositphotos.com/portfolio-9880800.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-9880800.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/9880800/image/21088/210886926/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['business' ,'young' ,'smiling' ,'people' ,'caucasian' ,'european' ,'Men' ,'concept' ,'office' ,'hold' ,'working' ,'occupation' ,'work' ,'together' ,'indoors' ,'using' ,'profession' ,'casual' ,'team' ,'teamwork' ,'showing' ,'businessmen' ,'businesspeople' ,'colleagues' ,'coworkers' ,'charts' ,'graphs' ,'professionals' ,'multiethnic' ,'african american' ,'Business Meeting' ,'Digital Tablet' ,'new project' ]

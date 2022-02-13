@@ -2,7 +2,7 @@
 title: 'Pretty girl'
 date: 2013-10-23T16:07:16+00:00
 author: pressmaster
-author_url: https://depositphotos.com/portfolio-1594308.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1594308.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1594308/image/3290/32904189/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['isolated' ,'beautiful' ,'happy' ,'single' ,'person' ,'one' ,'girl' ,'female' ,'sitting' ,'young' ,'smiling' ,'people' ,'beauty' ,'femininity' ,'cheerful' ,'serene' ,'portrait' ,'cute' ,'smile' ,'face' ,'style' ,'calm' ,'emotion' ,'expression' ,'pretty' ,'home' ,'lovely' ,'woman' ,'with' ,'lifestyle' ,'feminine' ,'joyful' ,'looking' ,'camera' ,'blonde' ,'lady' ,'in' ,'clothes' ,'charming' ,'alone' ,'perfect' ,'attractive' ,'comfort' ,'casual' ,'gorgeous' ,'posing' ,'positive' ,'toothy' ,'charm' ,'isolation' ]

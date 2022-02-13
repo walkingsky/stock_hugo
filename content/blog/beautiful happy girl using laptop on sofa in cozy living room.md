@@ -2,7 +2,7 @@
 title: 'beautiful happy girl using laptop on sofa in cozy living room'
 date: 2019-10-28T17:01:22+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13193658/image/31230/312309136/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['computer' ,'beautiful' ,'happy' ,'girl' ,'young' ,'smiling' ,'happiness' ,'cheerful' ,'caucasian' ,'smile' ,'warm' ,'brunette' ,'connection' ,'pretty' ,'cozy' ,'home' ,'woman' ,'communication' ,'wireless' ,'laptop' ,'room' ,'indoors' ,'inside' ,'using' ,'attractive' ,'casual' ,'gadget' ,'sofa' ,'copy space' ,'one person' ,'Living Room' ,'blank screen' ,'digital device' ,'autumn outfit' ]

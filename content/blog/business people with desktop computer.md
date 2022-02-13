@@ -2,7 +2,7 @@
 title: 'business people with desktop computer '
 date: 2017-08-28T14:17:37+00:00
 author: DimaBaranow
-author_url: https://depositphotos.com/portfolio-12039412.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12039412.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12039412/image/16416/164166808/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'business' ,'smiling' ,'people' ,'european' ,'drink' ,'Men' ,'office' ,'electronic' ,'work' ,'pointing' ,'together' ,'indoors' ,'using' ,'attractive' ,'handsome' ,'gadget' ,'teamwork' ,'workspace' ,'businessmen' ,'backlit' ,'colleagues' ,'coworkers' ,'businesswomen' ,'professional occupation' ,'caucasian women' ,'Young Adults' ,'african american' ,'desktop computer' ,'Multiethnic Group' ,'black man' ,'coffee to go' ,'digital device' ,'Caucasian Man' ,'paper cups' ]

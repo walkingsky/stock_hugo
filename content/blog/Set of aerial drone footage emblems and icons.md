@@ -2,7 +2,7 @@
 title: 'Set of aerial drone footage emblems and icons'
 date: 2015-03-23T14:33:54+00:00
 author: ivan.baranov
-author_url: https://depositphotos.com/portfolio-1814083.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1814083.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1814083/vector/6814/68142457/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'photography' ,'equipment' ,'label' ,'air' ,'transport' ,'vehicle' ,'black' ,'electric' ,'technology' ,'silhouette' ,'photo' ,'speed' ,'symbol' ,'concept' ,'icon' ,'school' ,'wireless' ,'camera' ,'lens' ,'tools' ,'remote' ,'delivery' ,'fly' ,'robot' ,'flight' ,'innovation' ,'control' ,'propeller' ,'footage' ,'aircraft' ,'helicopter' ,'spy' ,'surveillance' ,'shutter' ,'emblem' ,'aviation' ,'aerial' ,'do' ,'Pilot' ,'foto' ,'copter' ,'rotorcraft' ,'quad' ,'rc' ,'drone' ,'drones' ,'ua' ,'quadro' ,'unmanned' ]

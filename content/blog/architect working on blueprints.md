@@ -2,7 +2,7 @@
 title: 'architect working on blueprints'
 date: 2017-10-11T14:28:02+00:00
 author: VadimVasenin
-author_url: https://depositphotos.com/portfolio-13324256.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13324256.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/13324256/image/16927/169279904/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['objects' ,'design' ,'person' ,'female' ,'people' ,'hands' ,'idea' ,'work' ,'job' ,'helmet' ,'pencil' ,'project' ,'profession' ,'alone' ,'plan' ,'architect' ,'workplace' ,'workspace' ,'calculator' ,'divider' ,'calculations' ,'blueprints' ,'Cropped' ,'sketches' ,'schemes' ,'professional occupation' ,'body part' ,'top view' ,'from above' ,'partial view' ]

@@ -2,7 +2,7 @@
 title: 'three smiling friends sitting at table and using laptops in office with startup illustration'
 date: 2019-12-12T17:09:14+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12982378/image/32351/323514954/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'illustration' ,'happy' ,'business' ,'girl' ,'smiling' ,'cheerful' ,'caucasian' ,'smile' ,'brown' ,'friendship' ,'european' ,'connection' ,'drink' ,'sit' ,'Men' ,'pink' ,'emotion' ,'office' ,'beverage' ,'woman' ,'communication' ,'wireless' ,'emotional' ,'together' ,'togetherness' ,'friends' ,'indoors' ,'using' ,'casual' ,'letters' ,'positive' ,'symbols' ,'signs' ,'businesswoman' ,'businessmen' ,'businesspeople' ,'computers' ,'laptops' ,'gadgets' ,'lettering' ,'startup' ,'young adult' ,'three people' ,'Casual Business' ,'coffee to go' ,'disposable cups' ,'digital devices' ,'paper cups' ]

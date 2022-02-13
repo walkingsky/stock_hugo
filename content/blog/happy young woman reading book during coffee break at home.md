@@ -2,7 +2,7 @@
 title: 'happy young woman reading book during coffee break at home'
 date: 2018-06-07T13:37:28+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12982378/image/19871/198714474/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'happy' ,'person' ,'girl' ,'female' ,'people' ,'morning' ,'smile' ,'energy' ,'kitchen' ,'tea' ,'cup' ,'delicious' ,'breakfast' ,'youth' ,'coffee' ,'drink' ,'home' ,'beverage' ,'mug' ,'lifestyle' ,'emotional' ,'read' ,'information' ,'reading' ,'book' ,'learning' ,'education' ,'indoors' ,'alone' ,'attractive' ,'refreshing' ,'knowledge' ,'story' ,'afro' ,'young adult' ,'black woman' ,'african american' ,'natural light' ]

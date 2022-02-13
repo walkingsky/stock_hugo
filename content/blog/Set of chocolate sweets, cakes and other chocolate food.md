@@ -2,7 +2,7 @@
 title: 'Set of chocolate sweets, cakes and other chocolate food'
 date: 2013-08-08T10:05:39+00:00
 author: moonkin
-author_url: https://depositphotos.com/portfolio-1352665.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1352665.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1352665/vector/2934/29345565/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['color' ,'vector' ,'element' ,'illustration' ,'design' ,'set' ,'party' ,'food' ,'cooking' ,'pie' ,'pastry' ,'cake' ,'cream' ,'sweet' ,'dessert' ,'snack' ,'family' ,'Menu' ,'coffee' ,'drink' ,'retro' ,'vintage' ,'lunch' ,'cartoon' ,'children' ,'kid' ,'classic' ,'candy' ,'icon' ,'cafe' ,'stand' ,'collection' ,'syrup' ,'chocolate' ,'mint' ,'jelly' ,'pudding' ,'sweets' ,'sundae' ,'cakes' ,'peanuts' ,'waffle' ,'topping' ,'cupcake' ,'muffin' ,'cheesecake' ,'mousse' ,'waffel' ,'jeu' ,'nourriture' ]

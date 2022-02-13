@@ -2,7 +2,7 @@
 title: 'Overhead shot of hand stirring coffee '
 date: 2017-04-13T11:19:54+00:00
 author: konstantynov
-author_url: https://depositphotos.com/portfolio-1049184.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1049184.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/1049184/image/14950/149506958/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'yellow' ,'objects' ,'view' ,'high' ,'flower' ,'healthy' ,'food' ,'slice' ,'plate' ,'cup' ,'meal' ,'breakfast' ,'black' ,'coffee' ,'drink' ,'bed' ,'blanket' ,'service' ,'lay' ,'hot' ,'bowl' ,'romantic' ,'hold' ,'phone' ,'screen' ,'flat' ,'Dieting' ,'tray' ,'top' ,'angle' ,'bread' ,'nutritious' ,'toast' ,'smartphone' ,'stir' ,'flatlay' ]

@@ -2,7 +2,7 @@
 title: 'panoramic shot of greeting card with happy birthday lettering near yellow tulips on blue textured surface '
 date: 2020-04-17T11:30:43+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12982378/image/36296/362966020/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['yellow' ,'blue' ,'background' ,'nobody' ,'birthday' ,'celebration' ,'event' ,'festive' ,'greeting' ,'holiday' ,'spring' ,'texture' ,'plants' ,'bloom' ,'blooming' ,'blossom' ,'flora' ,'floral' ,'flowers' ,'wooden' ,'card' ,'presents' ,'gifts' ,'wood' ,'textured' ,'surface' ,'panorama' ,'panoramic' ,'letters' ,'symbols' ,'signs' ,'words' ,'springtime' ,'tulips' ,'blossoming' ,'lettering' ,'copy space' ,'Studio Shot' ,'top view' ,'no people' ,'Happy birthday' ]

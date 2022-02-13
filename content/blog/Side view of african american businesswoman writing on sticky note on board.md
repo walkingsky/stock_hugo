@@ -2,7 +2,7 @@
 title: 'Side view of african american businesswoman writing on sticky note on board'
 date: 2021-05-13T15:29:27+00:00
 author: Ischukigor
-author_url: https://depositphotos.com/portfolio-46171552.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-46171552.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/46171552/image/46990/469900630/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['colors' ,'colorful' ,'business' ,'board' ,'blur' ,'corporate' ,'office' ,'suit' ,'woman' ,'manager' ,'work' ,'job' ,'indoors' ,'project' ,'strategy' ,'profile' ,'profession' ,'plan' ,'eyeglasses' ,'executive' ,'organization' ,'write' ,'management' ,'stationery' ,'adhesive' ,'businesswoman' ,'marker' ,'task' ,'lettering' ,'reminders' ,'side view' ,'copy space' ,'one person' ,'young adult' ,'black woman' ,'african american' ,'formal wear' ,'Sticky Notes' ]

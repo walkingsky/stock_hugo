@@ -2,7 +2,7 @@
 title: 'focused businesswoman in eyeglasses with coffee to go using smartphone on street'
 date: 2018-08-17T13:01:24+00:00
 author: VitalikRadko
-author_url: https://depositphotos.com/portfolio-13194036.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13194036.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13194036/image/20887/208875708/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'business' ,'person' ,'girl' ,'people' ,'outdoors' ,'technology' ,'drink' ,'style' ,'city' ,'corporate' ,'urban' ,'stylish' ,'beverage' ,'electronic' ,'mobility' ,'wireless' ,'working' ,'manager' ,'network' ,'work' ,'aroma' ,'profession' ,'alone' ,'attractive' ,'eyeglasses' ,'executive' ,'gadget' ,'focused' ,'appliance' ,'businesswoman' ,'daytime' ,'use' ,'smartphone' ,'professional occupation' ,'young adult' ,'formal wear' ,'caucasian woman' ,'Disposable Cup' ,'coffee to go' ,'digital device' ]

@@ -2,7 +2,7 @@
 title: 'dreamy asian fashion designer looking away while holding clipboard with drawing '
 date: 2021-08-06T12:42:06+00:00
 author: HayDmitriy
-author_url: https://depositphotos.com/portfolio-20363444.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-20363444.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/20363444/image/48914/489143062/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['business' ,'art' ,'people' ,'women' ,'style' ,'wristwatch' ,'fashion' ,'emotion' ,'creative' ,'office' ,'stylish' ,'work' ,'drawing' ,'together' ,'indoors' ,'pensive' ,'pencil' ,'trendy' ,'asian' ,'profession' ,'casual' ,'dreamy' ,'thoughtful' ,'colleagues' ,'clipboard' ,'coworkers' ,'designers' ,'businesswomen' ,'copy space' ,'young adult' ,'look away' ,'stylists' ,'blupeopler' ]

@@ -2,7 +2,7 @@
 title: 'portrait of pin up woman talking on old telephone with comic style wow sign isolated on white'
 date: 2018-02-16T08:58:21+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12982378/image/18424/184244780/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'person' ,'girl' ,'clothing' ,'people' ,'beauty' ,'connection' ,'style' ,'old' ,'retro' ,'vintage' ,'fashion' ,'pretty' ,'stylish' ,'communication' ,'telephone' ,'emotional' ,'hairstyle' ,'clothes' ,'alone' ,'attractive' ,'shocked' ,'symbols' ,'signs' ,'fashionable' ,'modeling' ,'wow' ,'styling' ,'fashionista' ,'Isolated On White' ,'copy space' ,'young adult' ,'cut out' ,'pop art' ,'pin up' ,'red lipstick' ,'caucasian woman' ,'comic style' ]

@@ -2,7 +2,7 @@
 title: 'high angle view of young brunette woman talking on smartphone'
 date: 2021-06-29T11:54:23+00:00
 author: HayDmitriy
-author_url: https://depositphotos.com/portfolio-20363444.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-20363444.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/20363444/image/47995/479950828/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'caucasian' ,'brunette' ,'technology' ,'blur' ,'home' ,'hold' ,'woman' ,'call' ,'cellphone' ,'communication' ,'conversation' ,'device' ,'mobile' ,'phone' ,'talk' ,'indoors' ,'attractive' ,'use' ,'smartphone' ,'High Angle View' ,'copy space' ,'one person' ,'young adult' ]

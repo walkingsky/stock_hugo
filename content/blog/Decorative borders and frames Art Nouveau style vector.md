@@ -2,7 +2,7 @@
 title: 'Decorative borders and frames Art Nouveau style vector'
 date: 2014-04-30T11:22:19+00:00
 author: digiselector
-author_url: https://depositphotos.com/portfolio-1441393.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1441393.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1441393/vector/4550/45504507/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'background' ,'graphic' ,'element' ,'illustration' ,'design' ,'set' ,'decoration' ,'decorative' ,'festive' ,'greeting' ,'label' ,'art' ,'Decor' ,'elegance' ,'floral' ,'Menu' ,'corner' ,'ornate' ,'style' ,'border' ,'card' ,'frame' ,'retro' ,'vintage' ,'banner' ,'ornament' ,'modern' ,'swirl' ,'elegant' ,'calligraphic' ,'invitation' ,'certificate' ,'ornamental' ,'arch' ,'filigree' ,'borders' ,'frames' ,'divider' ,'and' ,'flourish' ,'foliate' ,'swash' ,'nouveau' ,'et' ,'arte' ,'jugendstil' ,'dashes' ,'Marcos' ,'cadres' ]

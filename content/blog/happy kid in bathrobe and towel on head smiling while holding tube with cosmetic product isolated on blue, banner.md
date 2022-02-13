@@ -2,7 +2,7 @@
 title: 'happy kid in bathrobe and towel on head smiling while holding tube with cosmetic product isolated on blue, banner'
 date: 2021-02-04T14:44:58+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/12982378/image/44551/445518322/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'blue' ,'background' ,'horizontal' ,'isolated' ,'happy' ,'girl' ,'smiling' ,'beauty' ,'cheerful' ,'cute' ,'caucasian' ,'head' ,'cream' ,'child' ,'wellbeing' ,'care' ,'towel' ,'crop' ,'childhood' ,'kid' ,'banner' ,'skin' ,'emotion' ,'adorable' ,'product' ,'hold' ,'cosmetic' ,'tube' ,'body' ,'hygiene' ,'purity' ,'treatment' ,'joyful' ,'positive' ,'pleased' ,'wellness' ,'bathrobe' ,'copy space' ,'one person' ,'Studio Shot' ,'Elementary Age' ,'website header' ]

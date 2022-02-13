@@ -2,7 +2,7 @@
 title: 'Medicine doctor hand working with modern computer interface as f'
 date: 2014-06-06T10:25:03+00:00
 author: everythingposs
-author_url: https://depositphotos.com/portfolio-1907633.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1907633.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1907633/image/4756/47568059/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'computer' ,'background' ,'graphic' ,'person' ,'push' ,'human' ,'people' ,'caucasian' ,'health' ,'family' ,'medicine' ,'male' ,'medical' ,'care' ,'tech' ,'technology' ,'hand' ,'modern' ,'symbol' ,'concept' ,'eye' ,'Cardiology' ,'doctor' ,'heart' ,'button' ,'display' ,'screen' ,'digital' ,'press' ,'touch' ,'working' ,'with' ,'network' ,'data' ,'stethoscope' ,'exam' ,'professional' ,'test' ,'work' ,'future' ,'navigation' ,'report' ,'virtual' ,'graph' ,'chart' ,'interface' ,'diagram' ,'molecule' ,'medic' ]

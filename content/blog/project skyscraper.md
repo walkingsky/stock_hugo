@@ -2,7 +2,7 @@
 title: 'project skyscraper'
 date: 2015-02-12T04:40:11+00:00
 author: denisismagilov
-author_url: https://depositphotos.com/portfolio-2673929.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2673929.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/2673929/image/6455/64555615/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['view' ,'business' ,'person' ,'people' ,'success' ,'caucasian' ,'protection' ,'man' ,'industrial' ,'architecture' ,'building' ,'city' ,'construction' ,'corporate' ,'downtown' ,'exterior' ,'skyscraper' ,'tall' ,'tower' ,'urban' ,'suit' ,'manager' ,'development' ,'occupation' ,'professional' ,'work' ,'job' ,'businessman' ,'shirt' ,'helmet' ,'project' ,'safety' ,'cityscape' ,'skyline' ,'engineering' ,'executive' ,'handsome' ,'architect' ,'worker' ,'builder' ,'engineer' ,'management' ,'contractor' ,'foreman' ,'confident' ,'hardhat' ,'constructor' ,'project skyscraper' ]

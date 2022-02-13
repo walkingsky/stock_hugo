@@ -2,7 +2,7 @@
 title: 'Set of musical instruments during concert'
 date: 2013-05-07T10:38:03+00:00
 author: Elnur_
-author_url: https://depositphotos.com/portfolio-1000975.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1000975.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1000975/image/2491/24919645/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['bar' ,'white' ,'entertainment' ,'background' ,'on' ,'set' ,'equipment' ,'metal' ,'art' ,'party' ,'plate' ,'black' ,'silhouette' ,'instrument' ,'pop' ,'band' ,'fingers' ,'sound' ,'audio' ,'live' ,'music' ,'musical' ,'performance' ,'stage' ,'show' ,'roll' ,'artistic' ,'rock' ,'concert' ,'bass' ,'stick' ,'instruments' ,'jazz' ,'beat' ,'rhythm' ,'kit' ,'of' ,'popular' ,'ladies' ,'drums' ,'concerto' ,'tom' ,'drum' ,'snare' ,'percussion' ,'drumstick' ,'drummer' ,'drumsticks' ,'cymbal' ,'during' ]

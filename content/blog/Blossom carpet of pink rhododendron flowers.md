@@ -2,7 +2,7 @@
 title: 'Blossom carpet of pink rhododendron flowers'
 date: 2015-06-01T17:44:16+00:00
 author: AndrewMayovskyy
-author_url: https://depositphotos.com/portfolio-3651191.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3651191.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/3651191/image/7410/74106203/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['color' ,'background' ,'sky' ,'beautiful' ,'season' ,'summer' ,'grass' ,'meadow' ,'sun' ,'nature' ,'spring' ,'fresh' ,'outdoor' ,'environment' ,'morning' ,'plant' ,'bloom' ,'blossom' ,'flora' ,'floral' ,'flower' ,'flowers' ,'light' ,'tree' ,'botany' ,'cloud' ,'mountain' ,'retro' ,'square' ,'vintage' ,'carpet' ,'weather' ,'wildlife' ,'sunrise' ,'landscape' ,'sunset' ,'idyllic' ,'pink' ,'ecology' ,'forest' ,'with' ,'mountains' ,'fantastic' ,'in' ,'land' ,'climate' ,'dramatic' ,'summit' ,'rhododendron' ,'wonderland' ]

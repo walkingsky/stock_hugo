@@ -2,7 +2,7 @@
 title: 'Cropped view of engineer holding blueprint on construction site'
 date: 2021-03-10T12:45:17+00:00
 author: AntonLozovoy
-author_url: https://depositphotos.com/portfolio-13185108.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13185108.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/13185108/image/45496/454968346/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['paper' ,'equipment' ,'outdoors' ,'man' ,'industrial' ,'architecture' ,'building' ,'structure' ,'urban' ,'hold' ,'development' ,'work' ,'job' ,'street' ,'project' ,'dirt' ,'profession' ,'engineering' ,'outside' ,'mature' ,'engineer' ,'workplace' ,'daylight' ,'blueprint' ,'partial' ,'Cropped' ,'one person' ,'middle aged' ,'construction site' ]

@@ -2,7 +2,7 @@
 title: 'Vector Antique greek amphoras and columns element. Black and white engraved ink art. Wedding background card.'
 date: 2019-10-17T13:22:07+00:00
 author: AndreYanush
-author_url: https://depositphotos.com/portfolio-21087722.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-21087722.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/21087722/vector/31284/312843118/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['red' ,'vector' ,'background' ,'element' ,'design' ,'anniversary' ,'celebration' ,'decoration' ,'decorative' ,'greeting' ,'art' ,'decor' ,'brown' ,'pattern' ,'ceramic' ,'line' ,'antique' ,'border' ,'frame' ,'old' ,'architecture' ,'construction' ,'culture' ,'template' ,'antiquity' ,'wreath' ,'collection' ,'vase' ,'outline' ,'egypt' ,'greek' ,'column' ,'jug' ,'greece' ,'historical' ,'cards' ,'pottery' ,'roman' ,'rome' ,'marriage' ,'ceremony' ,'pillar' ,'amphora' ,'engrave' ,'invite' ,'amphoras' ,'story templates' ]

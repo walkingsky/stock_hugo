@@ -2,7 +2,7 @@
 title: 'partial view of african american businessman pointing with pencil at blueprint near multiethnic business partners,  blurred foreground'
 date: 2021-01-16T12:51:10+00:00
 author: HayDmitriy
-author_url: https://depositphotos.com/portfolio-20363444.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-20363444.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/20363444/image/43781/437810286/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['business' ,'people' ,'Men' ,'blur' ,'office' ,'woman' ,'together' ,'indoors' ,'project' ,'discussion' ,'profession' ,'plan' ,'architectural' ,'successful' ,'gesture' ,'meeting' ,'businesswoman' ,'businessmen' ,'cooperation' ,'partnership' ,'blueprint' ,'collaboration' ,'negotiation' ,'translator' ,'partial' ,'Cropped' ,'multicultural' ,'multiethnic' ,'interracial' ,'interpreter' ,'african american' ,'business partners' ,'black man' ,'point with pencil' ]

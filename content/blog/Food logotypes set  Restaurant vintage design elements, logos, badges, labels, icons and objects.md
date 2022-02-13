@@ -2,7 +2,7 @@
 title: 'Food logotypes set. Restaurant vintage design elements, logos, badges, labels, icons and objects'
 date: 2015-08-03T07:59:44+00:00
 author: catherinechin
-author_url: https://depositphotos.com/portfolio-1532692.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1532692.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1532692/vector/7906/79068658/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

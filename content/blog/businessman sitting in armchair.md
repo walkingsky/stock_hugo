@@ -2,7 +2,7 @@
 title: 'businessman sitting in armchair'
 date: 2017-02-27T12:46:17+00:00
 author: IgorTishenko
-author_url: https://depositphotos.com/portfolio-10654668.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-10654668.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/10654668/image/14328/143284683/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['money' ,'business' ,'young' ,'people' ,'model' ,'caucasian' ,'man' ,'european' ,'style' ,'fashion' ,'office' ,'newspaper' ,'news' ,'elegant' ,'stylish' ,'businessman' ,'pensive' ,'cash' ,'trendy' ,'vogue' ,'alone' ,'attractive' ,'handsome' ,'workplace' ,'formal' ,'formalwear' ,'banknotes' ,'bearded' ,'copy space' ,'one person' ]

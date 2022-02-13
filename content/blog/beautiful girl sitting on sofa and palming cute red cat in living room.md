@@ -2,7 +2,7 @@
 title: 'beautiful girl sitting on sofa and palming cute red cat in living room'
 date: 2018-08-31T14:28:57+00:00
 author: VadimVasenin
-author_url: https://depositphotos.com/portfolio-13324256.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13324256.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13324256/image/21108/211084498/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'person' ,'one' ,'girl' ,'female' ,'sitting' ,'people' ,'cute' ,'caucasian' ,'orange' ,'animal' ,'funny' ,'pet' ,'mammal' ,'cat' ,'adorable' ,'domestic' ,'fur' ,'pedigree' ,'pedigreed' ,'home' ,'woman' ,'indoors' ,'alone' ,'friendly' ,'attractive' ,'furry' ,'apartment' ,'feline' ,'sofa' ,'stripes' ,'palming' ,'copy space' ,'young adult' ,'Living Room' ,'red cat' ,'ginger cat' ,'tabby cat' ]

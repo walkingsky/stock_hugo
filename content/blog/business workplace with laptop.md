@@ -2,7 +2,7 @@
 title: 'business workplace with laptop'
 date: 2017-08-10T11:35:30+00:00
 author: AlexNazaruk
-author_url: https://depositphotos.com/portfolio-12548352.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12548352.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12548352/image/16212/162123162/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['computer' ,'business' ,'financial' ,'people' ,'success' ,'male' ,'corporate' ,'corporation' ,'office' ,'electronics' ,'laptop' ,'work' ,'profession' ,'company' ,'executive' ,'leadership' ,'gadget' ,'teamwork' ,'workplace' ,'workspace' ,'successful' ,'management' ,'businessmen' ,'partnership' ,'career' ,'colleagues' ,'coworkers' ,'suits' ,'multiethnic' ,'managers' ,'professional occupation' ,'formal wear' ,'digital device' ,'black businessman' ,'caucasian businessman' ]

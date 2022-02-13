@@ -2,7 +2,7 @@
 title: 'Concept of health life'
 date: 2009-11-18T18:27:55+00:00
 author: Elisanth
-author_url: https://depositphotos.com/portfolio-1000142.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1000142.html?ref=64678756
 image: https://static3.depositphotos.com/thumbs/1000142/image/114/1140096/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'color' ,'red' ,'background' ,'object' ,'horizontal' ,'isolated' ,'person' ,'young' ,'health' ,'healthy' ,'life' ,'wooden' ,'black' ,'old' ,'position' ,'character' ,'concept' ,'idea' ,'figure' ,'two' ,'age' ,'wood' ,'aging' ,'ill' ,'conceptual' ,'pain' ,'sick' ,'puppet' ,'joint' ,'doll' ,'of' ,'mannequin' ,'suffer' ,'dor' ,'arthritis' ,'Artrite' ]

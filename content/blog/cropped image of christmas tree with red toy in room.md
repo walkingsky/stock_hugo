@@ -2,7 +2,7 @@
 title: 'cropped image of christmas tree with red toy in room'
 date: 2018-10-17T11:34:47+00:00
 author: AllaSerebrina
-author_url: https://depositphotos.com/portfolio-12985790.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985790.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12985790/image/22028/220286792/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'lights' ,'red' ,'background' ,'ball' ,'nobody' ,'celebration' ,'festive' ,'greeting' ,'happy' ,'holiday' ,'xmas' ,'bright' ,'texture' ,'winter' ,'merry' ,'fir' ,'home' ,'room' ,'indoors' ,'apartment' ,'casual' ,'bauble' ,'christmastime' ,'wintertime' ,'bokeh' ,'copy space' ,'christmas tree' ,'selective focus' ,'New Year' ,'merry christmas' ,'christmas eve' ,'christmas toy' ,'cropped image' ]

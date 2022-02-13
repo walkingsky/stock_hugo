@@ -2,7 +2,7 @@
 title: 'Air Ambulance Green and yellow modern 3d vector icon logo'
 date: 2021-06-01T09:33:25+00:00
 author: Infolight
-author_url: https://depositphotos.com/portfolio-50337402.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-50337402.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/50337402/vector/47102/471021098/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'yellow' ,'vector' ,'transport' ,'3d' ,'icon' ,'emergency' ,'hospital' ,'aircraft' ,'helicopter' ,'logo' ,'rescue' ,'eps' ,'premium' ,'healthcare and medical' ,'air ambulance' ]

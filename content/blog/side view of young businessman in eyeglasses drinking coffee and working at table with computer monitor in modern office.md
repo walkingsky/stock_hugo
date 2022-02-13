@@ -2,7 +2,7 @@
 title: 'side view of young businessman in eyeglasses drinking coffee and working at table with computer monitor in modern office'
 date: 2018-11-06T10:03:06+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13193658/image/22302/223028934/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['computer' ,'business' ,'person' ,'people' ,'caucasian' ,'male' ,'man' ,'connection' ,'coffee' ,'drink' ,'modern' ,'corporate' ,'office' ,'suit' ,'beverage' ,'communication' ,'electronic' ,'wireless' ,'working' ,'manager' ,'work' ,'businessman' ,'indoors' ,'leader' ,'profession' ,'eyeglasses' ,'executive' ,'handsome' ,'workplace' ,'workspace' ,'formalwear' ,'side view' ,'professional occupation' ,'copy space' ,'computer monitor' ,'coffee break' ,'young adult' ,'Computer Mouse' ,'Computer Keyboard' ,'blank screen' ,'paper cup' ,'Disposable Cup' ,'coffee to go' ,'digital devices' ]

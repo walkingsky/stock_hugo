@@ -2,7 +2,7 @@
 title: 'Food type Icons'
 date: 2013-04-19T10:45:43+00:00
 author: Tantoon
-author_url: https://depositphotos.com/portfolio-1531425.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1531425.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1531425/vector/2415/24157593/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'illustration' ,'set' ,'isolated' ,'meat' ,'food' ,'steak' ,'barbecue' ,'pie' ,'delicious' ,'dish' ,'sea' ,'vegetable' ,'chicken' ,'potato' ,'carrot' ,'icon' ,'salad' ,'fish' ,'fingers' ,'fast' ,'chinese' ,'japanese' ,'collection' ,'junk' ,'icons' ,'bread' ,'grilled' ,'pasta' ,'silhouettes' ,'sandwich' ,'type' ,'soup' ,'pane' ,'rice' ,'pizza' ,'ladies' ,'ikon' ,'noodles' ,'chips' ,'burger' ,'sushi' ,'spaghetti' ,'shrimp' ,'chopstick' ,'tempo' ,'comida' ,'fajitas' ,'gob' ,'icone' ]

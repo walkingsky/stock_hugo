@@ -2,7 +2,7 @@
 title: 'Action Camera four color glass button icon'
 date: 2021-06-01T06:45:35+00:00
 author: Infolight
-author_url: https://depositphotos.com/portfolio-50337402.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-50337402.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/50337402/vector/47083/470835000/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'red' ,'blue' ,'vector' ,'glass' ,'purple' ,'icon' ,'button' ,'electronics' ,'gradient' ,'logo' ,'eps' ,'premium' ,'video camera' ,'digital camera' ,'photo camera' ,'action camera' ]

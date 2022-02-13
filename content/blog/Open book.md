@@ -2,7 +2,7 @@
 title: 'Open book'
 date: 2012-05-03T06:44:27+00:00
 author: violetkaipa
-author_url: https://depositphotos.com/portfolio-1559686.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1559686.html?ref=64678756
 image: https://static8.depositphotos.com/thumbs/1559686/image/1027/10271860/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'background' ,'object' ,'on' ,'paper' ,'shiny' ,'bright' ,'light' ,'open' ,'star' ,'imagination' ,'fantasy' ,'dream' ,'writing' ,'glowing' ,'religion' ,'Wisdom' ,'read' ,'wallpaper' ,'drawing' ,'information' ,'dreaming' ,'reading' ,'book' ,'learning' ,'education' ,'studying' ,'magic' ,'mystery' ,'literature' ,'textbook' ,'study' ,'books' ,'turning' ,'dreams' ,'research' ,'write' ,'story' ,'spark' ,'magician' ,'magical' ,'booking' ,'of' ,'educational' ,'educate' ,'a' ,'studies' ,'wizard' ,'matches' ,'stories' ]

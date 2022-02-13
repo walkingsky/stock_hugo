@@ -2,7 +2,7 @@
 title: 'elegant woman in pastel grey vintage dress holding tasty hot dog isolated on black'
 date: 2021-06-09T13:11:25+00:00
 author: HayDmitriy
-author_url: https://depositphotos.com/portfolio-20363444.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-20363444.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/20363444/image/47556/475565358/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['isolated' ,'beautiful' ,'elegance' ,'young' ,'clothing' ,'model' ,'caucasian' ,'food' ,'tasty' ,'delicious' ,'black' ,'style' ,'retro' ,'vintage' ,'nutrition' ,'fashion' ,'modern' ,'gray' ,'pastel' ,'pretty' ,'concept' ,'elegant' ,'stylish' ,'hold' ,'grey' ,'hairstyle' ,'unhealthy' ,'dress' ,'attractive' ,'outfit' ,'posing' ,'historical' ,'feather' ,'renaissance' ,'fast food' ,'one person' ,'Studio Shot' ,'junk food' ,'hot dog' ,'look at camera' ]

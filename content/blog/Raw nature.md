@@ -2,7 +2,7 @@
 title: 'Raw nature'
 date: 2013-09-24T14:45:34+00:00
 author: loriklaszlo
-author_url: https://depositphotos.com/portfolio-1006137.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1006137.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1006137/image/3198/31981505/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'blue' ,'background' ,'view' ,'sky' ,'beautiful' ,'travel' ,'summer' ,'beauty' ,'sunlight' ,'park' ,'sun' ,'nature' ,'spring' ,'fresh' ,'outdoor' ,'environment' ,'morning' ,'water' ,'autumn' ,'natural' ,'tree' ,'cloud' ,'mountain' ,'weather' ,'sunrise' ,'landscape' ,'idyllic' ,'tranquil' ,'mist' ,'forest' ,'mountains' ,'scenery' ,'scenic' ,'tourism' ,'panorama' ,'landscapes' ,'powerful' ,'lake' ,'valley' ,'norway' ,'naturaleza' ,'natureza' ,'природа' ]

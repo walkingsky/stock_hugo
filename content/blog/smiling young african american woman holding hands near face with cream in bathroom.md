@@ -2,7 +2,7 @@
 title: 'smiling young african american woman holding hands near face with cream in bathroom'
 date: 2021-06-07T16:26:22+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/12982378/image/47554/475547468/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'beautiful' ,'happy' ,'bright' ,'holding' ,'smiling' ,'beauty' ,'cheerful' ,'cream' ,'wellbeing' ,'face' ,'care' ,'brunette' ,'hand' ,'skin' ,'emotion' ,'pretty' ,'blur' ,'home' ,'woman' ,'apply' ,'cosmetic' ,'skincare' ,'bathroom' ,'body' ,'clean' ,'hygiene' ,'purity' ,'treatment' ,'indoors' ,'perfect' ,'attractive' ,'positive' ,'routine' ,'wellness' ,'bodycare' ,'towels' ,'moisturizing' ,'pampering' ,'looking at camera' ,'one person' ,'young adult' ,'black woman' ,'african american' ]

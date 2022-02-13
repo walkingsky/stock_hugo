@@ -2,7 +2,7 @@
 title: 'Plitvicka jezera national park'
 date: 2011-03-23T20:56:44+00:00
 author: furzyk73
-author_url: https://depositphotos.com/portfolio-1005594.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1005594.html?ref=64678756
 image: https://static3.depositphotos.com/thumbs/1005594/image/202/2021718/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'background' ,'reflection' ,'travel' ,'summer' ,'beauty' ,'nature' ,'spring' ,'fresh' ,'wet' ,'outdoor' ,'environment' ,'leaf' ,'plant' ,'texture' ,'water' ,'life' ,'natural' ,'tree' ,'tropical' ,'river' ,'bridge' ,'landscape' ,'cool' ,'stream' ,'flow' ,'clear' ,'forest' ,'jungle' ,'shadow' ,'wild' ,'adventure' ,'dense' ,'lake' ,'root' ,'footbridge' ,'mangrove' ]

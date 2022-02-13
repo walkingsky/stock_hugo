@@ -2,7 +2,7 @@
 title: 'Health insurance concept'
 date: 2013-06-18T07:40:43+00:00
 author: sqback
-author_url: https://depositphotos.com/portfolio-1006593.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1006593.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1006593/image/2674/26745043/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['red' ,'white' ,'isolated' ,'bright' ,'closeup' ,'love' ,'health' ,'life' ,'medicine' ,'healthcare' ,'male' ,'medical' ,'care' ,'hands' ,'hand' ,'concept' ,'Cardiology' ,'doctor' ,'heart' ,'hospital' ,'fingers' ,'finger' ,'cover' ,'help' ,'safety' ,'security' ,'protect' ,'covered' ,'trust' ,'conceptual' ,'covering' ,'loving' ,'insurance' ,'defend' ,'defense' ,'diagnose' ,'palms' ,'shelter' ,'save' ,'clinic' ,'casserole' ,'a' ,'protecting' ,'safeguard' ,'assurance' ,'and' ,'coverage' ,'de' ,'cardiologist' ,'specialist' ]

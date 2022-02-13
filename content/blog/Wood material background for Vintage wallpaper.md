@@ -2,7 +2,7 @@
 title: 'Wood material background for Vintage wallpaper'
 date: 2012-08-16T04:21:52+00:00
 author: kritiya
-author_url: https://depositphotos.com/portfolio-1160465.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1160465.html?ref=64678756
 image: https://static9.depositphotos.com/thumbs/1160465/image/1218/12184433/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['colours' ,'color' ,'image' ,'colors' ,'background' ,'colorful' ,'backgrounds' ,'colored' ,'illustration' ,'design' ,'decorative' ,'nature' ,'detail' ,'abstract' ,'texture' ,'colour' ,'colourful' ,'natural' ,'brown' ,'wooden' ,'board' ,'pattern' ,'grunge' ,'old' ,'retro' ,'vintage' ,'backdrop' ,'candy' ,'building' ,'construction' ,'exterior' ,'structure' ,'wall' ,'real' ,'indoor' ,'home' ,'lines' ,'age' ,'fingers' ,'panel' ,'aged' ,'wallpaper' ,'wood' ,'multicolored' ,'inside' ,'material' ,'textured' ,'weathered' ,'surface' ,'timber' ]

@@ -2,7 +2,7 @@
 title: 'Modern drone 3D rendering'
 date: 2018-02-16T14:10:26+00:00
 author: sdecoret
-author_url: https://depositphotos.com/portfolio-1008648.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1008648.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/1008648/image/18361/183618384/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'background' ,'render' ,'isolated' ,'black' ,'tech' ,'technology' ,'toy' ,'3d' ,'futuristic' ,'professional' ,'camera' ,'photographer' ,'remote' ,'future' ,'delivery' ,'fly' ,'military' ,'watching' ,'control' ,'propeller' ,'aircraft' ,'helicopter' ,'spy' ,'surveillance' ,'aviation' ,'aerial' ,'Pilot' ,'less' ,'Filming' ,'controller' ,'civil' ,'missile' ,'rotor' ,'rotorcraft' ,'Civilian' ,'controlled' ,'drone' ,'pilotless' ,'3d rendering' ,'flying machine' ,'model aircraft making' ]

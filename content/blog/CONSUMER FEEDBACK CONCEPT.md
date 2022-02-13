@@ -2,7 +2,7 @@
 title: ' CONSUMER FEEDBACK CONCEPT'
 date: 2016-10-26T09:01:13+00:00
 author: garagestock
-author_url: https://depositphotos.com/portfolio-7865540.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-7865540.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/7865540/image/12757/127571420/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

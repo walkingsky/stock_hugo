@@ -2,7 +2,7 @@
 title: 'modern office workplace '
 date: 2017-02-13T11:41:09+00:00
 author: ArturVerkhovetskiy
-author_url: https://depositphotos.com/portfolio-9880800.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-9880800.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/9880800/image/14141/141416710/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'objects' ,'chairs' ,'business' ,'empty' ,'modern' ,'corporate' ,'house' ,'office' ,'interior' ,'working' ,'notebook' ,'desktop' ,'professional' ,'work' ,'desk' ,'room' ,'indoors' ,'using' ,'notes' ,'workplace' ,'documents' ,'papers' ,'blueprint' ,'Tablet Computer' ,'Tablet Pc' ,'Digital Tablet' ,'modern office' ]

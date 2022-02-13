@@ -2,7 +2,7 @@
 title: 'Many thumbs down. Social network dislikes, disapproval, customers feedback'
 date: 2015-09-08T13:29:34+00:00
 author: magurok5
-author_url: https://depositphotos.com/portfolio-1734074.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1734074.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1734074/vector/8285/82857076/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['red' ,'vector' ,'background' ,'graphic' ,'illustration' ,'design' ,'business' ,'customer' ,'rate' ,'sign' ,'people' ,'success' ,'banner' ,'hand' ,'big' ,'symbol' ,'concept' ,'office' ,'suit' ,'finger' ,'thumb' ,'flat' ,'network' ,'internet' ,'down' ,'web' ,'negative' ,'bad' ,'many' ,'public' ,'team' ,'social' ,'poor' ,'gesture' ,'no' ,'review' ,'evaluation' ,'vote' ,'disappointed' ,'app' ,'unhappy' ,'complaint' ,'rejection' ,'comment' ,'estimate' ,'reject' ,'opinion' ,'feedback' ,'clients' ,'dislike' ]

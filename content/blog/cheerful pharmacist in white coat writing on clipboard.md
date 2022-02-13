@@ -2,7 +2,7 @@
 title: 'cheerful pharmacist in white coat writing on clipboard '
 date: 2021-10-01T15:12:08+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/12982378/image/51143/511436310/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'happy' ,'retail' ,'business' ,'shop' ,'smiling' ,'cheerful' ,'caucasian' ,'health' ,'medicine' ,'healthcare' ,'medical' ,'care' ,'pharmacy' ,'brunette' ,'emotion' ,'blur' ,'doctor' ,'woman' ,'work' ,'pen' ,'joyful' ,'indoors' ,'profession' ,'attractive' ,'positive' ,'pleased' ,'write' ,'pharmacist' ,'drugstore' ,'clipboard' ,'apothecary' ,'specialist' ,'one person' ,'young adult' ,'white coat' ]

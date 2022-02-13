@@ -2,7 +2,7 @@
 title: 'multiethnic business partners working together at moden office'
 date: 2017-11-30T09:32:06+00:00
 author: IgorTishenko
-author_url: https://depositphotos.com/portfolio-10654668.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-10654668.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/10654668/image/17465/174654790/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'business' ,'female' ,'young' ,'beauty' ,'success' ,'male' ,'youth' ,'modern' ,'corporate' ,'office' ,'phone' ,'electronics' ,'working' ,'work' ,'chinese' ,'japanese' ,'profession' ,'attractive' ,'handsome' ,'teamwork' ,'successful' ,'place' ,'businessmen' ,'businesspeople' ,'computers' ,'smartphone' ,'colleagues' ,'coworkers' ,'korean' ,'businesswomen' ,'gadgets' ,'multicultural' ,'monitors' ,'multiethnic' ,'managers' ,'professional occupation' ,'black woman' ,'african american' ,'black man' ,'asian woman' ,'digital devices' ,'Caucasian Man' ]

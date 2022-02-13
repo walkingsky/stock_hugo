@@ -2,7 +2,7 @@
 title: 'cropped view of sportswoman doing lunge exercise with dumbbells at sports center'
 date: 2018-11-23T10:59:45+00:00
 author: AllaSerebrina
-author_url: https://depositphotos.com/portfolio-12985790.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985790.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12985790/image/22701/227010988/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['sport' ,'activity' ,'person' ,'girl' ,'female' ,'people' ,'strong' ,'active' ,'woman' ,'sportive' ,'fit' ,'fitness' ,'indoors' ,'gym' ,'exercise' ,'Exercising' ,'inside' ,'recreation' ,'motivation' ,'athlete' ,'wellness' ,'dumbbells' ,'sporting' ,'athletic' ,'persistence' ,'workout' ,'well being' ,'partial' ,'sporty' ,'sportswear' ,'Cropped' ,'sportswoman' ,'lunge' ,'copy space' ,'young adult' ,'Healthy Lifestyle' ,'working out' ,'Physical Activity' ,'sport equipment' ,'sports center' ]

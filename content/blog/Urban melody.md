@@ -2,7 +2,7 @@
 title: 'Urban melody.'
 date: 2015-05-25T12:23:25+00:00
 author: fisher.photostudio
-author_url: https://depositphotos.com/portfolio-3280027.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3280027.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/3280027/image/7120/71206601/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['background' ,'graphic' ,'illustration' ,'sky' ,'day' ,'greeting' ,'happy' ,'holiday' ,'valentine' ,'art' ,'decor' ,'love' ,'romance' ,'young' ,'board' ,'card' ,'funny' ,'weather' ,'date' ,'creative' ,'concept' ,'idea' ,'city' ,'couple' ,'romantic' ,'two' ,'music' ,'together' ,'headphones' ,'song' ,'melody' ,'listen' ,'february' ,'share' ,'sharing' ,'story' ,'dating' ,'flirt' ,'lovers' ,'relationship' ,'blackboard' ,'drawings' ,'chalk' ,'pigeon' ,'earphones' ,'hearts' ,'boyfriend' ,'girlfriend' ,'amour' ]

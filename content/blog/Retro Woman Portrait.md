@@ -2,7 +2,7 @@
 title: 'Retro Woman Portrait'
 date: 2012-09-14T08:59:23+00:00
 author: Subbotina
-author_url: https://depositphotos.com/portfolio-1491329.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1491329.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1491329/image/1280/12801786/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['color' ,'red' ,'expensive' ,'jewelry' ,'luxury' ,'beautiful' ,'art' ,'girl' ,'young' ,'beauty' ,'model' ,'portrait' ,'colour' ,'brown' ,'face' ,'brunette' ,'black' ,'dark' ,'classical' ,'style' ,'retro' ,'vintage' ,'wave' ,'hand' ,'fashion' ,'classic' ,'gloves' ,'hat' ,'wavy' ,'pearl' ,'necklace' ,'romantic' ,'glamour' ,'woman' ,'fingers' ,'with' ,'net' ,'make' ,'make up' ,'makeup' ,'wallpaper' ,'hairstyle' ,'in' ,'cap' ,'styled' ,'sexy' ,'pearls' ,'earrings' ,'lips' ,'glove' ]

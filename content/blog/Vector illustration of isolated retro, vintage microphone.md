@@ -2,7 +2,7 @@
 title: 'Vector illustration of isolated retro, vintage microphone.'
 date: 2014-11-23T22:41:35+00:00
 author: Mogil
-author_url: https://depositphotos.com/portfolio-2535571.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2535571.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/2535571/vector/5852/58527983/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['entertainment' ,'vector' ,'object' ,'illustration' ,'isolated' ,'single' ,'equipment' ,'studio' ,'air' ,'old' ,'retro' ,'vintage' ,'classic' ,'pop' ,'symbol' ,'icon' ,'band' ,'communication' ,'sound' ,'talking' ,'monochrome' ,'audio' ,'broadcast' ,'conference' ,'karaoke' ,'mic' ,'microphone' ,'music' ,'musical' ,'performance' ,'record' ,'speech' ,'stage' ,'stand' ,'voice' ,'advertisement' ,'rock' ,'concert' ,'speaker' ,'recording' ,'singing' ,'volume' ,'vectors' ,'media' ,'old fashioned' ,'audience' ,'broadcasting' ,'performing' ,'interview' ,'reporter' ]

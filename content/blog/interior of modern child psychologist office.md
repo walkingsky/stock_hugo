@@ -2,7 +2,7 @@
 title: 'interior of modern child psychologist office'
 date: 2018-11-08T09:51:55+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13193658/image/22348/223485290/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'objects' ,'nobody' ,'plant' ,'leaves' ,'flora' ,'floral' ,'clock' ,'modern' ,'office' ,'window' ,'toys' ,'interior' ,'indoor' ,'home' ,'work' ,'shelves' ,'profession' ,'apartment' ,'curtain' ,'ficus' ,'armchair' ,'daytime' ,'copy space' ,'Living Room' ,'natural light' ]

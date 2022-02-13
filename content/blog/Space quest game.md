@@ -2,7 +2,7 @@
 title: 'Space quest game'
 date: 2014-09-30T10:35:52+00:00
 author: macrovector
-author_url: https://depositphotos.com/portfolio-2885805.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2885805.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/2885805/vector/5432/54320505/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['game' ,'play' ,'vector' ,'object' ,'illustration' ,'design' ,'set' ,'space' ,'isolated' ,'decorative' ,'sun' ,'solar' ,'silhouette' ,'scrapbook' ,'symbol' ,'elements' ,'star' ,'concept' ,'saucer' ,'fingers' ,'flat' ,'earth' ,'planet' ,'moon' ,'collection' ,'icons' ,'astronomy' ,'universe' ,'telescope' ,'start' ,'alien' ,'orbit' ,'comet' ,'emblem' ,'ufo' ,'planets' ,'satellite' ,'radar' ,'finish' ,'astronaut' ,'ladies' ,'lunar' ,'rocket' ,'quest' ,'shuttle' ,'spaceship' ,'spacecraft' ,'saturn' ,'spaceman' ]

@@ -2,7 +2,7 @@
 title: 'Girl swinging'
 date: 2013-06-06T09:28:15+00:00
 author: kotin
-author_url: https://depositphotos.com/portfolio-1079647.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1079647.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1079647/image/2639/26398967/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['play' ,'fun' ,'white' ,'on' ,'sky' ,'beautiful' ,'happy' ,'holiday' ,'person' ,'girl' ,'female' ,'young' ,'smiling' ,'people' ,'women' ,'beauty' ,'sun' ,'outdoors' ,'happiness' ,'joy' ,'nature' ,'caucasian' ,'hair' ,'wind' ,'healthy' ,'cloud' ,'sea' ,'card' ,'cartoon' ,'fashion' ,'pretty' ,'fantasy' ,'motion' ,'relax' ,'glamour' ,'dream' ,'woman' ,'fingers' ,'lifestyle' ,'ocean' ,'lady' ,'asian' ,'in' ,'sand' ,'vacation' ,'fly' ,'sexy' ,'dress' ,'rope' ,'true' ]

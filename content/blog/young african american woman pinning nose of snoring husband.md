@@ -2,7 +2,7 @@
 title: 'young african american woman pinning nose of snoring husband '
 date: 2019-06-13T15:12:36+00:00
 author: HayDmitriy
-author_url: https://depositphotos.com/portfolio-20363444.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-20363444.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/20363444/image/27205/272059968/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'health' ,'family' ,'man' ,'emotion' ,'sleeping' ,'lying' ,'sleep' ,'home' ,'woman' ,'emotional' ,'pin' ,'together' ,'togetherness' ,'indoors' ,'noise' ,'attractive' ,'handsome' ,'pain' ,'wife' ,'husband' ,'displeased' ,'suffering' ,'hurt' ,'bedding' ,'unhappy' ,'painful' ,'dissatisfied' ,'suffer' ,'snore' ,'snoring' ,'Two People' ,'black woman' ,'african american' ,'overhead view' ,'black man' ]

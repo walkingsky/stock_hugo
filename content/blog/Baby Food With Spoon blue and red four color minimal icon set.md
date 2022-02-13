@@ -2,7 +2,7 @@
 title: 'Baby Food With Spoon blue and red four color minimal icon set'
 date: 2021-06-01T06:11:54+00:00
 author: Infolight
-author_url: https://depositphotos.com/portfolio-50337402.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-50337402.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/50337402/vector/47080/470802122/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['red' ,'blue' ,'vector' ,'set' ,'food' ,'spoon' ,'icon' ,'flat' ,'logo' ,'minimal' ,'mashed' ,'eps' ,'premium' ,'baby food' ,'baby spoon' ,'mashed food' ,'babies food' ]

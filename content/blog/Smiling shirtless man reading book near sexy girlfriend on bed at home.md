@@ -2,7 +2,7 @@
 title: 'Smiling shirtless man reading book near sexy girlfriend on bed at home '
 date: 2021-12-07T11:37:10+00:00
 author: HayDmitriy
-author_url: https://depositphotos.com/portfolio-20363444.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-20363444.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/20363444/image/53250/532503922/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['leisure' ,'beautiful' ,'happy' ,'smiling' ,'people' ,'cheerful' ,'morning' ,'caucasian' ,'brunette' ,'man' ,'bed' ,'emotion' ,'blur' ,'home' ,'couple' ,'woman' ,'lifestyle' ,'read' ,'together' ,'shirtless' ,'book' ,'indoors' ,'literature' ,'top' ,'sexy' ,'attractive' ,'eyeglasses' ,'handsome' ,'positive' ,'bedroom' ,'torso' ,'relationship' ,'muscular' ,'bedding' ,'underwear' ,'boyfriend' ,'girlfriend' ,'novel' ,'young adult' ]

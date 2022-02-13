@@ -2,7 +2,7 @@
 title: 'Battery golden line premium logo or icon'
 date: 2021-06-01T07:05:10+00:00
 author: Infolight
-author_url: https://depositphotos.com/portfolio-50337402.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-50337402.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/50337402/vector/47085/470854198/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'transportation' ,'golden' ,'cable' ,'electric' ,'electricity' ,'power' ,'line' ,'car' ,'icon' ,'electronics' ,'poles' ,'royal' ,'negative' ,'positive' ,'battery' ,'logo' ,'source' ,'miscellaneous' ,'eps' ,'premium' ,'tools and utensils' ]

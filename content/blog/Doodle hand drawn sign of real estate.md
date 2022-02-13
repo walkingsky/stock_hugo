@@ -2,7 +2,7 @@
 title: 'Doodle hand drawn sign of real estate'
 date: 2014-12-08T21:55:08+00:00
 author: anfisa_focusova
-author_url: https://depositphotos.com/portfolio-4040545.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-4040545.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/4040545/vector/5953/59539813/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['color' ,'white' ,'vector' ,'curve' ,'graphic' ,'element' ,'illustration' ,'design' ,'sign' ,'cute' ,'black' ,'line' ,'kids' ,'hand' ,'symbol' ,'creative' ,'concept' ,'icon' ,'architecture' ,'building' ,'construction' ,'estate' ,'house' ,'real' ,'domestic' ,'dwelling' ,'home' ,'simple' ,'drawing' ,'cottage' ,'mortgage' ,'project' ,'property' ,'template' ,'sketch' ,'company' ,'engineering' ,'apartment' ,'residence' ,'rent' ,'drawn' ,'childish' ,'logo' ,'emblem' ,'realtor' ,'scribble' ,'doodle' ,'chalk' ,'settlement' ,'tenancy' ]

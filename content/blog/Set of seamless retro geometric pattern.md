@@ -2,7 +2,7 @@
 title: 'Set of seamless retro geometric pattern'
 date: 2015-04-10T09:11:17+00:00
 author: kidstudio852
-author_url: https://depositphotos.com/portfolio-4044301.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-4044301.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/4044301/vector/6988/69889771/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['color' ,'vector' ,'background' ,'colorful' ,'curve' ,'circle' ,'graphic' ,'element' ,'illustration' ,'design' ,'paper' ,'shape' ,'decoration' ,'decorative' ,'art' ,'decor' ,'abstract' ,'pattern' ,'retro' ,'square' ,'vintage' ,'wave' ,'seamless' ,'ornament' ,'fashion' ,'backdrop' ,'creative' ,'lines' ,'wallpaper' ,'textile' ,'grid' ,'lattice' ,'geometric' ,'print' ,'fabric' ,'symmetry' ,'mesh' ,'dots' ,'diagonal' ,'tiles' ,'stripes' ,'pixel' ,'geometrical' ,'rhombus' ,'repeated' ,'pixelated' ,'zigzag' ,'chevron' ,'argyle' ,'zig zag' ]

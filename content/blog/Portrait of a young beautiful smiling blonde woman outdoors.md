@@ -2,7 +2,7 @@
 title: 'Portrait of a young beautiful smiling blonde woman outdoors'
 date: 2013-12-16T14:10:00+00:00
 author: golyak
-author_url: https://depositphotos.com/portfolio-1000686.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1000686.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1000686/image/3738/37383675/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'happy' ,'years' ,'person' ,'one' ,'love' ,'girl' ,'female' ,'young' ,'smiling' ,'summer' ,'beauty' ,'park' ,'model' ,'happiness' ,'joy' ,'cheerful' ,'nature' ,'spring' ,'outdoor' ,'portrait' ,'20 25' ,'caucasian' ,'smile' ,'20s' ,'hair' ,'sensuality' ,'health' ,'natural' ,'brown' ,'tree' ,'face' ,'brunette' ,'fashion' ,'skin' ,'pretty' ,'glamour' ,'woman' ,'lifestyle' ,'clean' ,'joyful' ,'blonde' ,'long' ,'sexy' ,'attractive' ,'toothy' ,'standing' ,'wellness' ]

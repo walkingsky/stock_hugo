@@ -2,7 +2,7 @@
 title: 'Retro Vintage sun'
 date: 2015-04-08T08:37:39+00:00
 author: 4zeva
-author_url: https://depositphotos.com/portfolio-4202565.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-4202565.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/4202565/vector/6962/69623627/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['yellow' ,'white' ,'vector' ,'background' ,'graphic' ,'illustration' ,'design' ,'paper' ,'shiny' ,'art' ,'summer' ,'sun' ,'abstract' ,'texture' ,'shine' ,'sunny' ,'light' ,'warm' ,'solar' ,'pattern' ,'black' ,'style' ,'antique' ,'grunge' ,'old' ,'retro' ,'vintage' ,'sunrise' ,'star' ,'backdrop' ,'hot' ,'lines' ,'burn' ,'rays' ,'sunburst' ,'wallpaper' ,'template' ,'trendy' ,'film' ,'beam' ,'flare' ,'sunrays' ,'radiate' ,'distressed' ,'starburst' ,'burst' ,'and' ,'de' ,'pano' ,'sol' ]

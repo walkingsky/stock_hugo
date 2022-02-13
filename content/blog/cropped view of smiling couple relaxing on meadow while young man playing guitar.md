@@ -2,7 +2,7 @@
 title: 'cropped view of smiling couple relaxing on meadow while young man playing guitar'
 date: 2018-09-25T12:41:44+00:00
 author: VitalikRadko
-author_url: https://depositphotos.com/portfolio-13194036.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13194036.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13194036/image/21517/215176408/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['leisure' ,'play' ,'beautiful' ,'love' ,'female' ,'grass' ,'people' ,'meadow' ,'outdoors' ,'field' ,'nature' ,'rural' ,'flora' ,'friendship' ,'male' ,'man' ,'rest' ,'relax' ,'couple' ,'stylish' ,'playing' ,'woman' ,'music' ,'together' ,'togetherness' ,'attractive' ,'guitar' ,'handsome' ,'musician' ,'picnic' ,'closeness' ,'candid' ,'tenderness' ,'guitarist' ,'acoustic' ,'lovers' ,'relationship' ,'boyfriend' ,'girlfriend' ,'young adult' ,'love story' ,'cropped view' ]

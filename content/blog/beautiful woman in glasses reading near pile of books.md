@@ -2,7 +2,7 @@
 title: 'beautiful woman in glasses reading near pile of books'
 date: 2018-11-09T15:27:06+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13193658/image/22460/224600602/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['group' ,'objects' ,'background' ,'beautiful' ,'person' ,'row' ,'elegance' ,'female' ,'people' ,'beauty' ,'caucasian' ,'cup' ,'coffee' ,'drink' ,'antique' ,'retro' ,'vintage' ,'elegant' ,'mug' ,'woman' ,'Wisdom' ,'aged' ,'information' ,'reading' ,'learning' ,'education' ,'studying' ,'culture' ,'literature' ,'blonde' ,'collection' ,'study' ,'attractive' ,'glasses' ,'pile' ,'books' ,'reader' ,'knowledge' ,'educational' ,'covers' ,'copy space' ,'Studio Shot' ,'on grey' ]

@@ -2,7 +2,7 @@
 title: 'Multiethnic businessmen sitting and drinking coffee in office '
 date: 2018-12-03T14:47:56+00:00
 author: EdZbarzhyvetsky
-author_url: https://depositphotos.com/portfolio-12985848.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985848.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12985848/image/22758/227589572/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['computer' ,'business' ,'sitting' ,'smiling' ,'people' ,'male' ,'connection' ,'coffee' ,'modern' ,'Men' ,'office' ,'traditional' ,'communication' ,'wireless' ,'laptop' ,'furniture' ,'culture' ,'indoors' ,'profession' ,'drinks' ,'drinking' ,'workplace' ,'workspace' ,'successful' ,'meeting' ,'arab' ,'businessmen' ,'businesspeople' ,'partners' ,'formalwear' ,'partnership' ,'Islamic' ,'arabian' ,'cups' ,'collaboration' ,'colleagues' ,'coworkers' ,'gadgets' ,'multicultural' ,'multiethnic' ,'professional occupation' ,'african american' ,'middle east' ,'Digital Tablet' ,'black man' ,'digital devices' ,'muslim man' ,'collaborative business' ]

@@ -2,7 +2,7 @@
 title: 'retro scooter parked on street'
 date: 2017-06-29T13:53:38+00:00
 author: SashaKhalabuzar
-author_url: https://depositphotos.com/portfolio-12039320.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12039320.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12039320/image/15854/158547218/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['object' ,'nobody' ,'horizontal' ,'outdoors' ,'transport' ,'vehicle' ,'transportation' ,'retro' ,'vintage' ,'speed' ,'city' ,'exterior' ,'urban' ,'street' ,'drive' ,'ride' ,'cycling' ,'motorcycle' ,'parking' ,'summertime' ,'moped' ,'scooter' ,'parked' ,'Motor vehicle' ,'street scene' ,'close up view' ]

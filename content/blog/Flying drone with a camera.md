@@ -2,7 +2,7 @@
 title: 'Flying drone with a camera'
 date: 2014-11-21T11:23:14+00:00
 author: windjunkie
-author_url: https://depositphotos.com/portfolio-1027670.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1027670.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1027670/image/5801/58018241/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

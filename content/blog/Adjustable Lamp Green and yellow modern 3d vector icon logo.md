@@ -2,7 +2,7 @@
 title: 'Adjustable Lamp Green and yellow modern 3d vector icon logo'
 date: 2021-06-01T13:03:35+00:00
 author: Infolight
-author_url: https://depositphotos.com/portfolio-50337402.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-50337402.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/50337402/vector/47121/471211170/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'yellow' ,'vector' ,'light' ,'technology' ,'3d' ,'icon' ,'illumination' ,'lamp' ,'electronics' ,'bulb' ,'logo' ,'eps' ,'premium' ,'ui' ,'tools and utensils' ,'adjustable lamp' ,'professions and jobs' ]

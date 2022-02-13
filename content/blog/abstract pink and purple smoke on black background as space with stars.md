@@ -2,7 +2,7 @@
 title: 'abstract pink and purple smoke on black background as space with stars '
 date: 2018-06-07T07:28:22+00:00
 author: EdZbarzhyvetsky
-author_url: https://depositphotos.com/portfolio-12985848.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985848.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12985848/image/19849/198498284/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['background' ,'nobody' ,'design' ,'space' ,'art' ,'abstract' ,'texture' ,'dark' ,'creativity' ,'violet' ,'pink' ,'creative' ,'fantasy' ,'motion' ,'purple' ,'smoke' ,'swirl' ,'stars' ,'universe' ,'steam' ,'curves' ,'mystical' ,'spiritual' ,'smoky' ,'mystic' ,'copy space' ,'Studio Shot' ,'on black' ]

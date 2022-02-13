@@ -2,7 +2,7 @@
 title: 'Colored splashes in abstract shape'
 date: 2015-03-11T12:23:42+00:00
 author: Kesu01
-author_url: https://depositphotos.com/portfolio-1020618.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1020618.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1020618/image/6700/67000061/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'color' ,'red' ,'yellow' ,'white' ,'blue' ,'background' ,'colorful' ,'isolated' ,'closeup' ,'studio' ,'art' ,'nature' ,'drop' ,'fresh' ,'wet' ,'drip' ,'liquid' ,'abstract' ,'light' ,'drink' ,'wave' ,'3d' ,'bouquet' ,'ink' ,'paint' ,'splash' ,'flowing' ,'motion' ,'smooth' ,'flow' ,'stain' ,'brush' ,'artistic' ,'fluid' ,'splashing' ,'Variety' ,'paintbrush' ,'various' ,'consistent' ]

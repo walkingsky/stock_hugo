@@ -2,7 +2,7 @@
 title: 'Part of architectural project'
 date: 2011-03-09T11:59:26+00:00
 author: io_nia
-author_url: https://depositphotos.com/portfolio-1000892.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1000892.html?ref=64678756
 image: https://static5.depositphotos.com/thumbs/1000892/image/512/5123430/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['background' ,'graphic' ,'design' ,'paper' ,'business' ,'new' ,'extension' ,'line' ,'elements' ,'idea' ,'architecture' ,'building' ,'construction' ,'estate' ,'house' ,'industry' ,'office' ,'structure' ,'real' ,'interior' ,'home' ,'with' ,'flat' ,'document' ,'part' ,'room' ,'drawing' ,'pencil' ,'project' ,'roll' ,'build' ,'floor' ,'print' ,'draft' ,'sketch' ,'repair' ,'engineering' ,'plan' ,'architectural' ,'residential' ,'builder' ,'technical' ,'renovation' ,'designer' ,'engineer' ,'General' ,'contractor' ,'symbols' ,'for' ,'of' ]

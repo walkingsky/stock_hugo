@@ -2,7 +2,7 @@
 title: 'Beautiful nature landscape'
 date: 2014-09-26T13:51:38+00:00
 author: jeneva86
-author_url: https://depositphotos.com/portfolio-2001755.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2001755.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/2001755/image/5408/54081723/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

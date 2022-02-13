@@ -2,7 +2,7 @@
 title: 'Book Flat four color minimal icon set'
 date: 2021-06-01T12:25:50+00:00
 author: Infolight
-author_url: https://depositphotos.com/portfolio-50337402.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-50337402.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/50337402/vector/47117/471179232/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'blue' ,'vector' ,'set' ,'love' ,'icon' ,'heart' ,'notebook' ,'flat' ,'book' ,'education' ,'knowledge' ,'story' ,'logo' ,'donation' ,'charity' ,'minimal' ,'novel' ,'eps' ,'premium' ,'love and romance' ]

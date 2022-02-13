@@ -2,7 +2,7 @@
 title: 'Drone for industrial works '
 date: 2017-04-26T11:05:40+00:00
 author: zoomteam
-author_url: https://depositphotos.com/portfolio-1003368.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1003368.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/1003368/image/15107/151079760/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'blue' ,'photography' ,'sky' ,'equipment' ,'model' ,'vehicle' ,'sea' ,'electric' ,'technology' ,'landscape' ,'float' ,'electronic' ,'wireless' ,'digital' ,'horizon' ,'radio' ,'camera' ,'remote' ,'ocean' ,'fly' ,'robot' ,'innovation' ,'control' ,'spin' ,'propeller' ,'gadget' ,'aircraft' ,'helicopter' ,'spying' ,'spy' ,'motor' ,'surveillance' ,'rocks' ,'aerial' ,'copter' ,'rotor' ,'phantom' ,'quad' ,'hover' ,'rc' ,'drone' ,'gumball' ,'uav' ,'hexacopter' ,'quadrocopter' ,'quadcopter' ,'multirotor' ]

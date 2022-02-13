@@ -2,7 +2,7 @@
 title: 'Whats your story'
 date: 2014-05-20T12:40:48+00:00
 author: tomert
-author_url: https://depositphotos.com/portfolio-1741969.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1741969.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1741969/image/4652/46523621/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

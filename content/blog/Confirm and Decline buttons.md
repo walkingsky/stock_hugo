@@ -2,7 +2,7 @@
 title: 'Confirm and Decline buttons'
 date: 2010-06-23T15:58:17+00:00
 author: okeen_
-author_url: https://depositphotos.com/portfolio-1002188.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1002188.html?ref=64678756
 image: https://static4.depositphotos.com/thumbs/1002188/image/335/3351294/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'red' ,'white' ,'round' ,'background' ,'illustration' ,'design' ,'isolated' ,'sign' ,'close' ,'over' ,'symbol' ,'icon' ,'cross' ,'button' ,'press' ,'fit' ,'buttons' ,'negative' ,'choose' ,'icons' ,'choice' ,'positive' ,'approve' ,'ok' ,'agree' ,'okay' ,'answer' ,'yes' ,'no' ,'check' ,'decide' ,'select' ,'pictogram' ,'cancel' ,'voting' ,'vote' ,'decline' ,'and' ,'quit' ,'confirm' ,'confirmation' ,'dialog' ,'accept' ,'disagree' ,'disapprove' ,'reject' ,'affirmative' ,'assent' ,'accordance' ]

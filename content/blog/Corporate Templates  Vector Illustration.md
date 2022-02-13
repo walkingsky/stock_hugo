@@ -2,7 +2,7 @@
 title: 'Corporate Templates. Vector Illustration.'
 date: 2018-10-19T08:12:55+00:00
 author: ClassyCatStudio
-author_url: https://depositphotos.com/portfolio-2208320.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2208320.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/2208320/vector/2524/25241629/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'vector' ,'background' ,'object' ,'graphic' ,'element' ,'illustration' ,'design' ,'set' ,'paper' ,'gift' ,'isolated' ,'business' ,'empty' ,'label' ,'new' ,'tag' ,'cardboard' ,'style' ,'card' ,'retro' ,'calendar' ,'concept' ,'corporate' ,'office' ,'announcement' ,'price' ,'notebook' ,'letter' ,'document' ,'note' ,'clean' ,'notepaper' ,'template' ,'invitation' ,'page' ,'collection' ,'print' ,'company' ,'advertising' ,'corporative' ,'stationery' ,'brand' ,'cd' ,'post' ,'envelope' ,'folder' ,'notice' ,'letterhead' ,'branding' ]

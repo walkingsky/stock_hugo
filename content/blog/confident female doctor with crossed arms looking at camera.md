@@ -2,7 +2,7 @@
 title: 'confident female doctor with crossed arms looking at camera'
 date: 2018-03-23T14:32:16+00:00
 author: AllaSerebrina
-author_url: https://depositphotos.com/portfolio-12985790.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985790.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12985790/image/18888/188887178/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'beautiful' ,'female' ,'people' ,'medicine' ,'healthcare' ,'medical' ,'coat' ,'doctor' ,'working' ,'stethoscope' ,'professional' ,'grey' ,'profession' ,'uniform' ,'mature' ,'gesture' ,'Gesturing' ,'confident' ,'Medicare' ,'professional occupation' ,'copy space' ,'health care' ,'crossed arms' ,'general practitioner' ,'Folded Arms' ,'caucasian woman' ]

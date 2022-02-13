@@ -2,7 +2,7 @@
 title: 'stylish african american girl'
 date: 2017-10-05T15:14:21+00:00
 author: VitalikRadko
-author_url: https://depositphotos.com/portfolio-13194036.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13194036.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/13194036/image/16822/168220534/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'person' ,'elegance' ,'girl' ,'female' ,'young' ,'people' ,'beauty' ,'model' ,'sensuality' ,'youth' ,'style' ,'fashion' ,'hat' ,'pretty' ,'elegant' ,'stylish' ,'trendy' ,'clothes' ,'vogue' ,'alone' ,'attractive' ,'sweater' ,'outfit' ,'skirt' ,'posing' ,'Belt' ,'fashionable' ,'cardigan' ,'looking at camera' ,'copy space' ,'Studio Shot' ,'black woman' ,'african american' ,'isolated on grey' ,'Fashion Shoot' ]

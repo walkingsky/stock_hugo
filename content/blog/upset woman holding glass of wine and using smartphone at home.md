@@ -2,7 +2,7 @@
 title: 'upset woman holding glass of wine and using smartphone at home'
 date: 2019-02-01T13:13:38+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13193658/image/24079/240797540/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['glass' ,'beautiful' ,'person' ,'female' ,'people' ,'caucasian' ,'connection' ,'drink' ,'home' ,'emotions' ,'woman' ,'communication' ,'wireless' ,'stress' ,'bottle' ,'unhealthy' ,'indoors' ,'using' ,'loneliness' ,'negative' ,'alcohol' ,'alone' ,'attractive' ,'sadness' ,'gadget' ,'sad' ,'upset' ,'lonely' ,'Worried' ,'Anxiety' ,'depressed' ,'smartphone' ,'copy space' ,'Living Room' ,'red wine' ,'bad mood' ,'digital device' ,'tissue box' ]

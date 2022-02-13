@@ -2,7 +2,7 @@
 title: 'Office White Table with Computer Keyboard Mouse Color Pencils Booklets and other Supplies'
 date: 2015-11-05T13:53:58+00:00
 author: AlexBrylov
-author_url: https://depositphotos.com/portfolio-4107269.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-4107269.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/4107269/image/8878/88783072/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'white' ,'computer' ,'background' ,'nobody' ,'view' ,'design' ,'space' ,'luxury' ,'bright' ,'business' ,'empty' ,'morning' ,'air' ,'light' ,'supply' ,'open' ,'office' ,'blank' ,'keyboard' ,'smart' ,'digital' ,'notebook' ,'desktop' ,'work' ,'mouse' ,'document' ,'desk' ,'copyspace' ,'information' ,'notepad' ,'web' ,'pencil' ,'top' ,'glasses' ,'unusual' ,'workplace' ,'workspace' ,'above' ,'meeting' ,'paperwork' ,'organize' ,'businesscard' ,'Mock Up' ]

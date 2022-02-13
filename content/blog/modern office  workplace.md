@@ -2,7 +2,7 @@
 title: 'modern office. workplace'
 date: 2015-09-22T05:08:10+00:00
 author: trokerrr
-author_url: https://depositphotos.com/portfolio-5779744.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-5779744.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/5779744/vector/8396/83964828/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'white' ,'vector' ,'computer' ,'background' ,'illustration' ,'design' ,'paper' ,'space' ,'business' ,'empty' ,'equipment' ,'morning' ,'plant' ,'light' ,'chair' ,'black' ,'style' ,'clock' ,'modern' ,'building' ,'corporate' ,'office' ,'window' ,'lamp' ,'interior' ,'beige' ,'phone' ,'monitor' ,'desktop' ,'work' ,'pen' ,'desk' ,'furniture' ,'room' ,'inside' ,'place' ,'armchair' ,'Director' ]

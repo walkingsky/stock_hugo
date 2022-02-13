@@ -2,7 +2,7 @@
 title: 'Classical wall-paper with a flower pattern.'
 date: 2011-05-19T03:16:00+00:00
 author: marinamik
-author_url: https://depositphotos.com/portfolio-1035423.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1035423.html?ref=64678756
 image: https://static6.depositphotos.com/thumbs/1035423/vector/561/5614846/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['blue' ,'vector' ,'background' ,'illustration' ,'design' ,'paper' ,'beautiful' ,'decorative' ,'holiday' ,'package' ,'label' ,'Decor' ,'nature' ,'texture' ,'floral' ,'flower' ,'flowers' ,'head' ,'packing' ,'pattern' ,'tea' ,'french' ,'classical' ,'creativity' ,'ornate' ,'style' ,'antique' ,'border' ,'card' ,'old' ,'retro' ,'vintage' ,'flores' ,'ornament' ,'cat' ,'easter' ,'wrapping' ,'wall' ,'nostalgia' ,'insect' ,'napkin' ,'fish' ,'home' ,'elegant' ,'traditional' ,'stylized' ,'fingers' ,'tile' ,'with' ,'salon' ]

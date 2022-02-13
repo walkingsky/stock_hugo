@@ -2,7 +2,7 @@
 title: 'modern recreation center'
 date: 2017-11-10T09:45:35+00:00
 author: AllaSerebrina
-author_url: https://depositphotos.com/portfolio-12985790.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985790.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12985790/image/17261/172619070/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['nobody' ,'design' ,'decoration' ,'holiday' ,'Decor' ,'grass' ,'lawn' ,'outdoors' ,'comfortable' ,'nature' ,'plants' ,'wooden' ,'modern' ,'trees' ,'architecture' ,'exterior' ,'facade' ,'countryside' ,'vacation' ,'resort' ,'houses' ,'residence' ,'buildings' ,'hotel' ,'daytime' ,'yard' ,'territory' ,'cottages' ,'hostel' ,'recreation center' ]

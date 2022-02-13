@@ -2,7 +2,7 @@
 title: 'Sun tan'
 date: 2014-12-02T08:34:45+00:00
 author: v-strelok
-author_url: https://depositphotos.com/portfolio-2980211.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2980211.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/2980211/image/5932/59326031/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['leisure' ,'yellow' ,'white' ,'space' ,'isolated' ,'shape' ,'beautiful' ,'holiday' ,'human' ,'vacations' ,'female' ,'young' ,'summer' ,'women' ,'beauty' ,'relaxation' ,'femininity' ,'caucasian' ,'hair' ,'sensuality' ,'health' ,'healthy' ,'brown' ,'protection' ,'care' ,'sea' ,'tropical' ,'skin' ,'lifestyle' ,'body' ,'treatment' ,'belly' ,'fit' ,'stomach' ,'beach' ,'sunglasses' ,'perfect' ,'glasses' ,'standing' ,'straight' ,'sunbathing' ,'slim' ,'tan' ,'arms' ,'solarium' ,'suntan' ,'piercing' ,'bikini' ,'swimwear' ,'buttock' ]

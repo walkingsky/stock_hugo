@@ -2,7 +2,7 @@
 title: 'senior friends sharing stories'
 date: 2017-11-13T15:31:46+00:00
 author: IgorTishenko
-author_url: https://depositphotos.com/portfolio-10654668.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-10654668.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/10654668/image/17287/172872706/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['bar' ,'group' ,'people' ,'friendship' ,'male' ,'old' ,'indoor' ,'cafe' ,'talk' ,'talking' ,'aged' ,'together' ,'togetherness' ,'friends' ,'chinese' ,'japanese' ,'handsome' ,'mature' ,'senior' ,'story' ,'past' ,'place' ,'storytelling' ,'korean' ,'stories' ,'multicultural' ,'african american' ,'Grey Hair' ,'black man' ,'asian man' ,'spending time together' ,'Caucasian Man' ,'multiethnic men' ]

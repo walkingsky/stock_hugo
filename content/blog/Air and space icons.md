@@ -2,7 +2,7 @@
 title: 'Air and space icons'
 date: 2010-09-06T09:54:20+00:00
 author: print2d
-author_url: https://depositphotos.com/portfolio-1000840.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1000840.html?ref=64678756
 image: https://static4.depositphotos.com/thumbs/1000840/vector/376/3760153/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['objects' ,'vector' ,'set' ,'space' ,'art' ,'travel' ,'sun' ,'air' ,'flying' ,'transport' ,'vehicle' ,'transportation' ,'danger' ,'black' ,'technology' ,'silhouette' ,'symbol' ,'star' ,'icon' ,'balloon' ,'communications' ,'clip' ,'planet' ,'surface' ,'wing' ,'science' ,'moon' ,'collection' ,'fly' ,'icons' ,'astronomy' ,'station' ,'propeller' ,'helicopter' ,'kite' ,'silhouettes' ,'alien' ,'exploration' ,'cosmos' ,'plane' ,'airplane' ,'arts' ,'ufo' ,'of' ,'module' ,'aerospace' ,'and' ,'lunar' ,'rocket' ,'ballon' ]

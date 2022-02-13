@@ -2,7 +2,7 @@
 title: 'african american family sitting on sofa and smiling while father playing with daughter'
 date: 2019-08-07T09:15:47+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13193658/image/28853/288537502/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'girl' ,'smiling' ,'smile' ,'child' ,'family' ,'man' ,'toy' ,'kid' ,'modern' ,'emotion' ,'home' ,'moving' ,'wireless' ,'emotional' ,'together' ,'togetherness' ,'preschooler' ,'indoors' ,'casual' ,'denim' ,'mother' ,'closeness' ,'gadget' ,'sofa' ,'mom' ,'hug' ,'parents' ,'wife' ,'husband' ,'dad' ,'father' ,'daylight' ,'daytime' ,'smartphone' ,'parenthood' ,'relocation' ,'attracive' ,'teddy bear' ,'copy space' ,'young adult' ,'black woman' ,'african american' ,'New Life' ,'three people' ,'blank screen' ,'black man' ,'digital device' ,'black girl' ]

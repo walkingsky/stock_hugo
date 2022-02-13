@@ -2,7 +2,7 @@
 title: 'Live message'
 date: 2013-01-09T18:08:09+00:00
 author: stevanovicigor
-author_url: https://depositphotos.com/portfolio-1006472.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1006472.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1006472/image/1847/18478155/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

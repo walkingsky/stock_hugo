@@ -2,7 +2,7 @@
 title: 'Fitness Food, diet, Vegetable'
 date: 2013-11-07T19:11:31+00:00
 author: JanPietruszka
-author_url: https://depositphotos.com/portfolio-1005563.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1005563.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1005563/image/3418/34182773/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['sport' ,'green' ,'object' ,'shape' ,'closeup' ,'reflection' ,'equipment' ,'sun' ,'fresh' ,'sunshine' ,'health' ,'healthy' ,'food' ,'diet' ,'fruit' ,'juicy' ,'healthcare' ,'power' ,'vegetable' ,'eating' ,'nutrition' ,'sunset' ,'easter' ,'concept' ,'vitamin' ,'measure' ,'lifestyle' ,'weight' ,'Dieting' ,'fat' ,'fit' ,'fitness' ,'exercise' ,'Exercising' ,'strength' ,'foods' ,'train' ,'loose' ,'calorie' ,'bodybuilding' ,'muscle' ,'losing' ,'loss' ,'toning' ,'slim' ,'workout' ,'and' ,'lose' ,'comida' ,'saude' ]

@@ -2,7 +2,7 @@
 title: 'mother and daughter in colorful red and yellow outfits playing on grey background, panoramic shot'
 date: 2020-09-18T08:17:50+00:00
 author: HayDmitriy
-author_url: https://depositphotos.com/portfolio-20363444.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-20363444.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/20363444/image/40886/408860392/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['leisure' ,'activity' ,'play' ,'fun' ,'red' ,'colors' ,'yellow' ,'entertainment' ,'colorful' ,'beautiful' ,'happy' ,'bright' ,'girl' ,'smiling' ,'cheerful' ,'autumn' ,'cute' ,'caucasian' ,'child' ,'family' ,'style' ,'kid' ,'fashion' ,'emotion' ,'adorable' ,'stylish' ,'woman' ,'grey' ,'together' ,'preschooler' ,'panorama' ,'panoramic' ,'daughter' ,'outfit' ,'positive' ,'mother' ,'parenting' ,'parent' ,'mom' ,'autumnal' ,'relationship' ,'fashionable' ,'motherhood' ,'Two People' ,'copy space' ,'Studio Shot' ,'spending time' ]

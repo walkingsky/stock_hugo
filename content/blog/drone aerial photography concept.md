@@ -2,7 +2,7 @@
 title: 'drone aerial photography concept'
 date: 2014-12-17T14:19:54+00:00
 author: PixelsAway
-author_url: https://depositphotos.com/portfolio-1006009.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1006009.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1006009/image/6045/60450665/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['on' ,'photography' ,'path' ,'meadow' ,'outdoors' ,'field' ,'male' ,'technology' ,'picture' ,'concept' ,'display' ,'digital' ,'operator' ,'with' ,'radio' ,'wood' ,'in' ,'tablet' ,'trail' ,'control' ,'propeller' ,'review' ,'aerial' ,'Pilot' ,'transmitter' ,'and' ,'rotor' ,'drone' ,'reviewing' ]

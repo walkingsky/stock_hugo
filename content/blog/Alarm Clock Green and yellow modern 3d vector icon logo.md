@@ -2,7 +2,7 @@
 title: 'Alarm Clock Green and yellow modern 3d vector icon logo'
 date: 2021-06-01T11:40:19+00:00
 author: Infolight
-author_url: https://depositphotos.com/portfolio-50337402.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-50337402.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/50337402/vector/47114/471142214/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'yellow' ,'vector' ,'3d' ,'time' ,'timer' ,'clock' ,'icon' ,'logo' ,'eps' ,'premium' ,'Alarm clock' ,'time and date' ,'tools and utensils' ]

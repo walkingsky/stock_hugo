@@ -2,7 +2,7 @@
 title: 'Health in the palm of your hand'
 date: 2015-01-23T17:15:14+00:00
 author: Healing63
-author_url: https://depositphotos.com/portfolio-3442145.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3442145.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/3442145/image/6288/62889277/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'image' ,'blue' ,'background' ,'health' ,'healthy' ,'natural' ,'board' ,'male' ,'grunge' ,'nutrition' ,'hand' ,'modern' ,'easter' ,'concept' ,'idea' ,'message' ,'fingers' ,'with' ,'writing' ,'glow' ,'balance' ,'information' ,'Presentation' ,'education' ,'exercise' ,'artistic' ,'alternative' ,'complementary' ,'public' ,'warning' ,'wellness' ,'share' ,'Graffiti' ,'gesture' ,'story' ,'tell' ,'words' ,'for' ,'important' ,'educate' ,'eggs' ,'prevention' ,'preventative' ,'notice' ,'and' ,'ladies' ,'your' ,'awareness' ,'offering' ]

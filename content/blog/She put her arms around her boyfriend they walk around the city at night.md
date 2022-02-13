@@ -2,7 +2,7 @@
 title: 'She put her arms around her boyfriend they walk around the city at night'
 date: 2015-07-14T16:50:32+00:00
 author: GaudiLab
-author_url: https://depositphotos.com/portfolio-3396639.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3396639.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/3396639/image/6919/69199611/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['lights' ,'anniversary' ,'beautiful' ,'celebration' ,'christmas' ,'happy' ,'holiday' ,'celebrate' ,'elegance' ,'love' ,'romance' ,'female' ,'young' ,'smiling' ,'outdoors' ,'happiness' ,'portrait' ,'smile' ,'male' ,'brunette' ,'man' ,'date' ,'winter' ,'night' ,'couple' ,'elegant' ,'romantic' ,'two' ,'woman' ,'together' ,'walk' ,'hugging' ,'hug' ,'passion' ,'dating' ,'lovers' ,'relationship' ,'affection' ,'boyfriend' ,'girlfriend' ,'fair' ,'copy space' ,'tender sentiment' ,'14th february' ,'couple in love' ,'love story' ,'happy couple' ]

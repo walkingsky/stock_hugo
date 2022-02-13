@@ -2,7 +2,7 @@
 title: 'stethoscope, organic food and sport equipment'
 date: 2017-07-19T08:43:15+00:00
 author: AntonMatyukha
-author_url: https://depositphotos.com/portfolio-13349494.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13349494.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/13349494/image/16046/160465162/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['nobody' ,'wooden' ,'plate' ,'delicious' ,'yummy' ,'healthcare' ,'vegetarian' ,'vegetables' ,'stethoscope' ,'lifestyle' ,'organic' ,'wood' ,'eco' ,'surface' ,'nuts' ,'fruits' ,'antioxidant' ,'vegan' ,'still life' ,'Healthy Eating' ,'Medical Equipment' ,'top view' ,'heart shaped' ,'raw food' ,'from above' ,'raw food diet' ,'sport equipment' ,'clean eating' ]

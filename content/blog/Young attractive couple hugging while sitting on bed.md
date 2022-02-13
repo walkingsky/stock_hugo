@@ -2,7 +2,7 @@
 title: 'Young attractive couple hugging while sitting on bed'
 date: 2018-03-23T16:04:55+00:00
 author: AllaSerebrina
-author_url: https://depositphotos.com/portfolio-12985790.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985790.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12985790/image/18891/188910766/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'happy' ,'girl' ,'female' ,'people' ,'happiness' ,'caucasian' ,'smile' ,'family' ,'friendship' ,'male' ,'brunette' ,'man' ,'bed' ,'pretty' ,'couple' ,'woman' ,'together' ,'togetherness' ,'indoors' ,'attractive' ,'handsome' ,'bedroom' ,'closeness' ,'hug' ,'tenderness' ,'wife' ,'husband' ,'embracing' ,'relationship' ,'boyfriend' ,'girlfriend' ,'bearded' ,'Home Interior' ,'young adult' ,'love story' ,'loungewear' ]

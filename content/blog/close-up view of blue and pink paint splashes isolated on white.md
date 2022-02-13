@@ -2,7 +2,7 @@
 title: 'close-up view of blue and pink paint splashes isolated on white '
 date: 2017-12-18T09:18:24+00:00
 author: VadimVasenin
-author_url: https://depositphotos.com/portfolio-13324256.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13324256.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/13324256/image/17731/177315858/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['color' ,'blue' ,'background' ,'nobody' ,'close up' ,'design' ,'shape' ,'decorative' ,'bright' ,'art' ,'liquid' ,'abstract' ,'texture' ,'creativity' ,'watercolor' ,'ink' ,'paint' ,'pink' ,'backdrop' ,'creative' ,'flowing' ,'motion' ,'swirl' ,'flow' ,'wallpaper' ,'artistic' ,'template' ,'splashes' ,'acrylic' ,'gouache' ,'Isolated On White' ,'Studio Shot' ]

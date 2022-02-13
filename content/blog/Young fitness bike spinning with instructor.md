@@ -2,7 +2,7 @@
 title: 'Young fitness bike spinning with instructor'
 date: 2011-06-28T06:17:02+00:00
 author: CandyBoxImages
-author_url: https://depositphotos.com/portfolio-1037778.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1037778.html?ref=64678756
 image: https://static6.depositphotos.com/thumbs/1037778/image/593/5939326/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['sport' ,'activity' ,'competition' ,'fun' ,'group' ,'design' ,'shape' ,'happy' ,'equipment' ,'female' ,'young' ,'people' ,'vitality' ,'caucasian' ,'smile' ,'health' ,'healthy' ,'wellbeing' ,'man' ,'machine' ,'elements' ,'pretty' ,'active' ,'woman' ,'fingers' ,'with' ,'lifestyle' ,'body' ,'spa' ,'sportive' ,'fit' ,'fitness' ,'friends' ,'indoors' ,'gym' ,'exercise' ,'bicycle' ,'bike' ,'cycle' ,'cycling' ,'club' ,'train' ,'attractive' ,'plan' ,'team' ,'doing' ,'training' ,'At' ,'spin' ,'spinning' ]

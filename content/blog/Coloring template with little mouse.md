@@ -2,7 +2,7 @@
 title: 'Coloring template with little mouse'
 date: 2017-02-01T09:15:27+00:00
 author: interactimages
-author_url: https://depositphotos.com/portfolio-1526816.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1526816.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/1526816/vector/13867/138676466/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['color' ,'image' ,'red' ,'yellow' ,'white' ,'blue' ,'vector' ,'background' ,'object' ,'graphic' ,'illustration' ,'paper' ,'isolated' ,'clipping' ,'path' ,'art' ,'animal' ,'picture' ,'mouse' ,'drawing' ,'education' ,'homework' ,'clip' ,'exercise' ,'cheese' ,'template' ,'coloring' ,'clipart' ,'clip art' ,'doodle' ,'rat' ,'worksheet' ,'color pencils' ]

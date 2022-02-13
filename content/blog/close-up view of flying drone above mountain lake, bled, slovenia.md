@@ -2,7 +2,7 @@
 title: 'close-up view of flying drone above mountain lake, bled, slovenia'
 date: 2018-06-06T08:46:54+00:00
 author: IraGirichBO
-author_url: https://depositphotos.com/portfolio-15914886.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-15914886.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/15914886/image/19776/197768608/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['nobody' ,'view' ,'close up' ,'beautiful' ,'travel' ,'scene' ,'nature' ,'water' ,'majestic' ,'flying' ,'natural' ,'technology' ,'modern' ,'landscape' ,'tranquil' ,'wireless' ,'digital' ,'mountains' ,'scenery' ,'scenic' ,'tourism' ,'europe' ,'vacation' ,'adventure' ,'lake' ,'gadget' ,'amazing' ,'explore' ,'alps' ,'alpine' ,'slovenia' ,'Bled' ,'copy space' ,'selective focus' ,'multicopter' ,'quadrocopter' ,'quadcopter' ]

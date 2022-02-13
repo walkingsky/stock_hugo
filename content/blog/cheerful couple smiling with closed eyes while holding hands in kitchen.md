@@ -2,7 +2,7 @@
 title: 'cheerful couple smiling with closed eyes while holding hands in kitchen '
 date: 2019-01-14T10:18:09+00:00
 author: AllaSerebrina
-author_url: https://depositphotos.com/portfolio-12985790.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985790.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12985790/image/23618/236188108/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'chairs' ,'beautiful' ,'happy' ,'love' ,'romance' ,'female' ,'sitting' ,'smiling' ,'people' ,'happiness' ,'cheerful' ,'morning' ,'caucasian' ,'kitchen' ,'male' ,'man' ,'modern' ,'interior' ,'home' ,'couple' ,'romantic' ,'woman' ,'furniture' ,'together' ,'togetherness' ,'looking' ,'indoors' ,'attractive' ,'apartment' ,'handsome' ,'closeness' ,'relationship' ,'boyfriend' ,'girlfriend' ,'closed eyes' ,'holding hands' ]

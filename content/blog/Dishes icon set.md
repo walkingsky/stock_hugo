@@ -2,7 +2,7 @@
 title: 'Dishes icon set'
 date: 2013-08-12T15:20:24+00:00
 author: Kolopach
-author_url: https://depositphotos.com/portfolio-1557418.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1557418.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1557418/vector/2870/28701085/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'background' ,'colorful' ,'object' ,'illustration' ,'design' ,'set' ,'isolated' ,'meat' ,'food' ,'kitchen' ,'cooking' ,'cuisine' ,'steak' ,'plate' ,'tasty' ,'delicious' ,'meal' ,'snack' ,'dish' ,'Menu' ,'restaurant' ,'chicken' ,'nutrition' ,'dinner' ,'lunch' ,'cook' ,'elements' ,'icon' ,'eat' ,'salad' ,'fish' ,'fingers' ,'culinary' ,'web' ,'roll' ,'foods' ,'taste' ,'fast' ,'website' ,'icons' ,'fastfood' ,'grilled' ,'kebab' ,'no' ,'soup' ,'of' ,'dishes' ,'plates' ,'hamburger' ]

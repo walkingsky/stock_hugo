@@ -2,7 +2,7 @@
 title: 'Pink rose flower buds on white background. Flat lay, top view.'
 date: 2018-03-20T14:18:58+00:00
 author: maximleshkovich
-author_url: https://depositphotos.com/portfolio-7595566.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-7595566.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/7595566/image/18844/188443401/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'background' ,'view' ,'bridal' ,'festive' ,'holiday' ,'bright' ,'summer' ,'beauty' ,'spring' ,'fresh' ,'up' ,'petals' ,'floral' ,'flowers' ,'life' ,'pattern' ,'style' ,'card' ,'frame' ,'fashion' ,'pink' ,'lay' ,'wedding' ,'pale' ,'flat' ,'still' ,'mood' ,'top' ,'postcard' ,'magazine' ,'valentines' ,'blog' ,'roses' ,'boutique' ,'buds' ,'minimal' ,'eucalyptus' ,'mock' ,'flatlay' ]

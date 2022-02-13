@@ -2,7 +2,7 @@
 title: 'interior view of modern bright bathroom with washbasin, mirror, toiletries and towels '
 date: 2021-06-07T16:26:53+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/12982378/image/47554/475548390/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'white' ,'nobody' ,'shiny' ,'decorative' ,'bright' ,'equipment' ,'metal' ,'Decor' ,'beauty' ,'plants' ,'modern' ,'interior' ,'home' ,'mirror' ,'skincare' ,'bathroom' ,'clean' ,'hygiene' ,'shampoo' ,'soap' ,'toiletries' ,'indoors' ,'bottles' ,'perfect' ,'faucet' ,'dispenser' ,'bodycare' ,'towels' ,'washbasin' ,'copy space' ,'shower gel' ,'no people' ,'Laundry Basket' ,'liquid soap' ,'tile walls' ]

@@ -2,7 +2,7 @@
 title: 'modern open space office interior with blurred business colleagues'
 date: 2019-01-14T12:18:21+00:00
 author: AllaSerebrina
-author_url: https://depositphotos.com/portfolio-12985790.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985790.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12985790/image/23602/236024322/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['group' ,'business' ,'young' ,'people' ,'modern' ,'motion' ,'blur' ,'corporate' ,'office' ,'interior' ,'electronics' ,'working' ,'work' ,'furniture' ,'together' ,'indoors' ,'inside' ,'profession' ,'company' ,'blurred' ,'attractive' ,'team' ,'loft' ,'teamwork' ,'workers' ,'workplace' ,'workspace' ,'contemporary' ,'businesspeople' ,'tables' ,'computers' ,'colleagues' ,'coworkers' ,'desks' ,'professional occupation' ,'desktop computers' ,'open space' ,'digital devices' ]

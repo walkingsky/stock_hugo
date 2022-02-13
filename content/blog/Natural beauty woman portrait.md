@@ -2,7 +2,7 @@
 title: 'Natural beauty woman portrait'
 date: 2012-05-31T07:43:40+00:00
 author: cokacoka
-author_url: https://depositphotos.com/portfolio-1016026.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1016026.html?ref=64678756
 image: https://static9.depositphotos.com/thumbs/1016026/image/1085/10854100/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'white' ,'blue' ,'beautiful' ,'bright' ,'shot' ,'studio' ,'one' ,'girl' ,'female' ,'young' ,'women' ,'beauty' ,'model' ,'fresh' ,'portrait' ,'caucasian' ,'hair' ,'sensuality' ,'health' ,'healthy' ,'head' ,'natural' ,'face' ,'care' ,'brunette' ,'freshness' ,'eyes' ,'fashion' ,'skin' ,'pretty' ,'eye' ,'tender' ,'glamour' ,'clear' ,'woman' ,'skincare' ,'clean' ,'purity' ,'hairstyle' ,'looking' ,'long' ,'shoulder' ,'perfect' ,'attractive' ,'lips' ,'posing' ,'wellness' ,'complexion' ,'de' ]

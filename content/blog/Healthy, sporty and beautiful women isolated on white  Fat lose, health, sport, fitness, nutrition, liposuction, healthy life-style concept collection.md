@@ -2,7 +2,7 @@
 title: 'Healthy, sporty and beautiful women isolated on white. Fat lose, health, sport, fitness, nutrition, liposuction, healthy life-style concept collection'
 date: 2019-04-23T06:41:53+00:00
 author: shmeljov
-author_url: https://depositphotos.com/portfolio-1814366.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1814366.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/1814366/image/26239/262394962/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['sport' ,'white' ,'background' ,'shape' ,'girl' ,'female' ,'summer' ,'women' ,'beauty' ,'health' ,'healthy' ,'natural' ,'food' ,'diet' ,'medicine' ,'healthcare' ,'care' ,'plastic' ,'eating' ,'nutrition' ,'skin' ,'concept' ,'weight' ,'skincare' ,'body' ,'abdomen' ,'belly' ,'fat' ,'fit' ,'fitness' ,'stomach' ,'collection' ,'perfect' ,'arrows' ,'training' ,'loss' ,'collage' ,'slim' ,'athletic' ,'removal' ,'workout' ,'surgery' ,'underwear' ,'cellulite' ,'lose' ,'bikini' ,'life style' ,'swimsuit' ,'liposuction' ]

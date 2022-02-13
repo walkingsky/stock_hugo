@@ -2,7 +2,7 @@
 title: 'Vector shield image vector illustration  '
 date: 2018-10-19T09:46:48+00:00
 author: ClassyCatStudio
-author_url: https://depositphotos.com/portfolio-2208320.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2208320.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/2208320/vector/2596/25969557/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'vector' ,'graphic' ,'element' ,'illustration' ,'design' ,'space' ,'shiny' ,'decoration' ,'empty' ,'metal' ,'side' ,'sign' ,'silver' ,'protection' ,'power' ,'retro' ,'friend' ,'chrome' ,'classic' ,'symbol' ,'icon' ,'strong' ,'support' ,'metallic' ,'badge' ,'safety' ,'security' ,'protect' ,'screw' ,'glossy' ,'shield' ,'powerful' ,'virus' ,'tough' ,'anti' ,'safe' ,'guard' ,'emblem' ,'defend' ,'secure' ,'dimension' ,'save' ,'supporter' ,'antivirus' ,'copy space' ]

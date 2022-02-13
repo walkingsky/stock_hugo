@@ -2,7 +2,7 @@
 title: 'healthy lifestyle info graphics'
 date: 2016-03-01T17:37:38+00:00
 author: Gapchuk_Olesia
-author_url: https://depositphotos.com/portfolio-4320929.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-4320929.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/4320929/vector/10112/101121260/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['sport' ,'vector' ,'background' ,'illustration' ,'isolated' ,'shape' ,'human' ,'girl' ,'female' ,'young' ,'people' ,'fresh' ,'health' ,'healthy' ,'life' ,'meat' ,'food' ,'diet' ,'fruit' ,'medicine' ,'man' ,'drink' ,'eating' ,'timer' ,'clock' ,'concept' ,'icon' ,'sleep' ,'Cardiology' ,'heart' ,'vegetables' ,'seafood' ,'active' ,'flat' ,'lifestyle' ,'weight' ,'organic' ,'body' ,'fitness' ,'eco' ,'exercise' ,'juice' ,'cereal' ,'rugby' ,'poster' ,'tennis' ,'workout' ,'infographic' ]

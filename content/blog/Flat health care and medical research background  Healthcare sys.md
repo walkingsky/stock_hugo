@@ -2,7 +2,7 @@
 title: 'Flat health care and medical research background. Healthcare sys'
 date: 2015-09-17T15:13:01+00:00
 author: royalty
-author_url: https://depositphotos.com/portfolio-1071184.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1071184.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1071184/vector/8336/83364950/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'illustration' ,'set' ,'reflection' ,'sign' ,'health' ,'blood' ,'medicine' ,'medical' ,'care' ,'pharmacy' ,'first' ,'instrument' ,'symbol' ,'icon' ,'ambulance' ,'cross' ,'dentist' ,'emergency' ,'heart' ,'hospital' ,'nurse' ,'pill' ,'stethoscope' ,'pulse' ,'web' ,'chemical' ,'laboratory' ,'science' ,'scissors' ,'system' ,'vitamins' ,'organ' ,'syringe' ,'medication' ,'drug' ,'thermometer' ,'research' ,'capsule' ,'aid' ,'diagnosis' ,'anatomy' ,'brain' ,'clinic' ,'microscope' ,'dna' ,'lungs' ,'de' ,'commission' ,'cardiogram' ]

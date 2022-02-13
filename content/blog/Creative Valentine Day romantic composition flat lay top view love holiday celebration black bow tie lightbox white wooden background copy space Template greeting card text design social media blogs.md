@@ -2,7 +2,7 @@
 title: 'Creative Valentine Day romantic composition flat lay top view love holiday celebration black bow tie lightbox white wooden background copy space Template greeting card text design social media blogs'
 date: 2018-12-26T09:57:52+00:00
 author: dvoevnore
-author_url: https://depositphotos.com/portfolio-1007600.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1007600.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/1007600/image/23299/232990048/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'red' ,'white' ,'background' ,'view' ,'copy' ,'space' ,'bow' ,'box' ,'day' ,'decoration' ,'holiday' ,'valentine' ,'decor' ,'love' ,'romance' ,'light' ,'wooden' ,'male' ,'man' ,'black' ,'vintage' ,'date' ,'symbol' ,'creative' ,'concept' ,'lay' ,'text' ,'heart' ,'romantic' ,'flat' ,'desk' ,'composition' ,'top' ,'layout' ,'february' ,'tie' ,'above' ,'14' ,'minimalism' ,'dating' ,'valentines' ,'quote' ,'minimal' ,'scandinavian' ,'confetti' ,'overhead' ,'mockup' ,'lightbox' ,'flatlay' ]

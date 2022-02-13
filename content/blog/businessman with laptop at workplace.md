@@ -2,7 +2,7 @@
 title: 'businessman with laptop at workplace'
 date: 2017-07-11T14:54:45+00:00
 author: EdZbarzhyvetsky
-author_url: https://depositphotos.com/portfolio-12985848.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985848.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12985848/image/15965/159652326/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['business' ,'person' ,'people' ,'transport' ,'transportation' ,'technology' ,'drink' ,'corporate' ,'office' ,'electronic' ,'working' ,'manager' ,'laptop' ,'network' ,'work' ,'businessman' ,'indoors' ,'leader' ,'profession' ,'bicycle' ,'bike' ,'alone' ,'attractive' ,'executive' ,'handsome' ,'workplace' ,'concentrated' ,'focused' ,'appliance' ,'type' ,'smartphone' ,'gadgets' ,'professional occupation' ,'cup of coffee' ,'young adult' ,'formal wear' ,'digital devices' ,'Caucasian Man' ]

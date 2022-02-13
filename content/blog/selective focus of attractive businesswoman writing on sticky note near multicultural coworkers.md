@@ -2,7 +2,7 @@
 title: 'selective focus of attractive businesswoman writing on sticky note near multicultural coworkers '
 date: 2020-01-11T12:35:24+00:00
 author: HayDmitriy
-author_url: https://depositphotos.com/portfolio-20363444.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-20363444.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/20363444/image/32775/327756956/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'computer' ,'business' ,'women' ,'water' ,'caucasian' ,'girls' ,'european' ,'connection' ,'technology' ,'Men' ,'office' ,'communication' ,'wireless' ,'laptop' ,'pen' ,'together' ,'togetherness' ,'indoors' ,'project' ,'asian' ,'profession' ,'drinks' ,'attractive' ,'gadget' ,'workplace' ,'workspace' ,'write' ,'businessmen' ,'businesspeople' ,'colleagues' ,'coworkers' ,'beverages' ,'businesswomen' ,'multicultural' ,'multiethnic' ,'scrum' ,'professional occupation' ,'selective focus' ,'young adult' ,'mixed race' ,'Sticky Notes' ,'four people' ,'Casual Business' ,'bi racial' ,'coffee to go' ,'digital device' ,'Scrum master' ]

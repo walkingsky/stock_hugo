@@ -2,7 +2,7 @@
 title: 'top view of earth globe in waffle cone with clouds made of cotton on yellow'
 date: 2018-08-01T10:45:28+00:00
 author: EdZbarzhyvetsky
-author_url: https://depositphotos.com/portfolio-12985848.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985848.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12985848/image/20641/206412464/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['yellow' ,'objects' ,'round' ,'nobody' ,'bright' ,'model' ,'environment' ,'rain' ,'ecology' ,'global' ,'education' ,'studying' ,'earth' ,'clouds' ,'miniature' ,'surface' ,'globe' ,'cloudy' ,'study' ,'cotton' ,'geography' ,'tabletop' ,'arranged' ,'assembled' ,'copy space' ,'back to school' ,'top view' ,'ice cream' ,'waffle cone' ,'paper clips' ,'flat lay' ]

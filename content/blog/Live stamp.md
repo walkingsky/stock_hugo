@@ -2,7 +2,7 @@
 title: 'Live stamp'
 date: 2013-09-16T06:47:30+00:00
 author: roxanabalint
-author_url: https://depositphotos.com/portfolio-1031343.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1031343.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1031343/vector/3134/31347025/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'vector' ,'on' ,'illustration' ,'shape' ,'label' ,'tag' ,'rubber' ,'grunge' ,'symbol' ,'mark' ,'sound' ,'audio' ,'broadcast' ,'live' ,'music' ,'musical' ,'radio' ,'listening' ,'damaged' ,'song' ,'melody' ,'scratched' ,'television' ,'stamp' ,'transmission' ,'notice' ,'sticker' ,'notification' ,'tempo' ,'gob' ]

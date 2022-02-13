@@ -2,7 +2,7 @@
 title: 'Retro food posters'
 date: 2014-10-26T20:46:19+00:00
 author: lukeruk
-author_url: https://depositphotos.com/portfolio-1351697.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1351697.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1351697/vector/5235/52359117/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['image' ,'vector' ,'background' ,'illustration' ,'set' ,'sign' ,'label' ,'abstract' ,'texture' ,'food' ,'Menu' ,'restaurant' ,'old' ,'retro' ,'vintage' ,'dinner' ,'lunch' ,'banner' ,'promotion' ,'fish' ,'seafood' ,'artistic' ,'template' ,'damaged' ,'scratch' ,'olive' ,'collection' ,'layout' ,'advertising' ,'flyer' ,'60s' ,'restaurants' ,'dining' ,'sandwich' ,'poster' ,'hamburger' ,'ad' ,'pizza' ,'1950s' ,'burger' ,'sushi' ,'pizzeria' ,'1970s' ,'70s' ,'50s' ,'1960s' ,'40s' ,'1940s' ,'posters' ,'reklama' ]

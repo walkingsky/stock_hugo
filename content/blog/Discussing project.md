@@ -2,7 +2,7 @@
 title: 'Discussing project'
 date: 2013-11-19T18:57:47+00:00
 author: pressmaster
-author_url: https://depositphotos.com/portfolio-1594308.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1594308.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1594308/image/3526/35269821/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

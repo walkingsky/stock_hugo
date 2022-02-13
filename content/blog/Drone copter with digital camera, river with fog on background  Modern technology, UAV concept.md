@@ -2,7 +2,7 @@
 title: 'Drone copter with digital camera, river with fog on background. Modern technology, UAV concept.'
 date: 2018-10-10T10:35:05+00:00
 author: Kesu01
-author_url: https://depositphotos.com/portfolio-1020618.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1020618.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/1020618/image/21844/218449202/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['sport' ,'background' ,'horizontal' ,'photography' ,'sky' ,'equipment' ,'summer' ,'outdoors' ,'field' ,'nature' ,'water' ,'air' ,'hobby' ,'technology' ,'photo' ,'modern' ,'river' ,'sunrise' ,'landscape' ,'sunset' ,'motion' ,'fish' ,'wireless' ,'digital' ,'copyspace' ,'camera' ,'remote' ,'delivery' ,'fly' ,'journey' ,'discovery' ,'flight' ,'innovation' ,'control' ,'propeller' ,'gadget' ,'video' ,'aircraft' ,'helicopter' ,'spy' ,'surveillance' ,'aerial' ,'Filming' ,'monitoring' ,'aero' ,'hover' ,'drone' ,'uav' ,'aerial survey' ,'filmmaking drone' ]

@@ -2,7 +2,7 @@
 title: 'Customer service evaluation form'
 date: 2013-06-12T12:03:05+00:00
 author: Gajus-Images
-author_url: https://depositphotos.com/portfolio-1760420.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1760420.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1760420/image/2610/26106625/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['on' ,'box' ,'customer' ,'form' ,'male' ,'hand' ,'pink' ,'concept' ,'service' ,'mark' ,'with' ,'performance' ,'drawing' ,'negative' ,'choose' ,'bad' ,'marketing' ,'quality' ,'choice' ,'good' ,'poor' ,'virtual' ,'check' ,'select' ,'satisfaction' ,'evaluation' ,'Questionnaire' ,'Tick' ,'survey' ,'judge' ,'whiteboard' ,'average' ,'excellent' ,'rating' ,'mau' ,'grade' ,'opinion' ,'checkbox' ,'feedback' ,'excellence' ,'dissatisfaction' ,'mal' ,'unsatisfied' ,'dislike' ,'evaluate' ,'cliente' ,'check mark' ,'atendimento' ]

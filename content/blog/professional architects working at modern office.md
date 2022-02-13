@@ -2,7 +2,7 @@
 title: 'professional architects working at modern office'
 date: 2017-05-15T07:17:02+00:00
 author: TarasMalyarevich
-author_url: https://depositphotos.com/portfolio-10638998.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-10638998.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/10638998/image/15289/152898698/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['computer' ,'business' ,'person' ,'people' ,'man' ,'connection' ,'hands' ,'corporate' ,'communication' ,'manager' ,'laptop' ,'pc' ,'work' ,'businessman' ,'indoors' ,'project' ,'using' ,'profession' ,'engineering' ,'engineer' ,'blueprint' ,'typing' ,'backlit' ,'devices' ,'smartphone' ,'partial' ,'Cropped' ,'Architects' ,'professional occupation' ,'selective focus' ,'close up' ,'back light' ,'african american' ,'measuring tape' ,'modern office' ,'hand watches' ]

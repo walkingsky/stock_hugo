@@ -2,7 +2,7 @@
 title: 'Greeting card cute Cartoon Girl with placard'
 date: 2016-10-12T17:59:12+00:00
 author: Reginast777
-author_url: https://depositphotos.com/portfolio-4207741.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-4207741.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/4207741/vector/12652/126523326/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['fun' ,'image' ,'vector' ,'computer' ,'backgrounds' ,'design' ,'painting' ,'small' ,'beautiful' ,'birthday' ,'bow' ,'day' ,'greeting' ,'valentine' ,'art' ,'girl' ,'smiling' ,'people' ,'happiness' ,'cheerful' ,'cute' ,'child' ,'card' ,'childhood' ,'toy' ,'banner' ,'pink' ,'letter' ,'drawing' ,'placard' ,'luck' ,'stars' ,'baby' ,'postcard' ,'illustrations' ,'valentines' ,'Holidays' ,'mammals' ,'hearts' ,'celebrations' ,'cartoons' ,'mothers' ]

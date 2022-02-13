@@ -2,7 +2,7 @@
 title: 'Wedding to do list with flowers. Mockup planner flat lay.'
 date: 2018-03-03T08:51:17+00:00
 author: makidotvn
-author_url: https://depositphotos.com/portfolio-6462898.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-6462898.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/6462898/image/18623/186232374/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'background' ,'view' ,'paper' ,'space' ,'up' ,'frame' ,'modern' ,'pink' ,'concept' ,'lay' ,'blank' ,'stylish' ,'school' ,'notebook' ,'flat' ,'desk' ,'accessories' ,'tape' ,'stationary' ,'trendy' ,'top' ,'college' ,'workspace' ,'planner' ,'overhead' ,'mockup' ,'mock' ,'washi' ,'flatlay' ]

@@ -2,7 +2,7 @@
 title: 'Drone flying in the clouds'
 date: 2015-01-07T11:47:27+00:00
 author: marchello74
-author_url: https://depositphotos.com/portfolio-1172243.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1172243.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1172243/image/6162/61623489/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['blue' ,'sky' ,'commercial' ,'flying' ,'danger' ,'technology' ,'industry' ,'camera' ,'photographing' ,'stability' ,'remote' ,'safety' ,'watching' ,'robot' ,'innovation' ,'turning' ,'control' ,'propeller' ,'movie' ,'video' ,'helicopter' ,'surveillance' ,'restricted' ,'technique' ,'brazil' ,'carbon' ,'landing' ,'gps' ,'rules' ,'ban' ,'rotor' ,'rio' ,'drone' ,'hexacopter' ,'octocopter' ,'aeromodelism' ]

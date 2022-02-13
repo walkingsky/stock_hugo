@@ -2,7 +2,7 @@
 title: 'Blurred Living Room'
 date: 2015-04-06T17:47:06+00:00
 author: slickspics
-author_url: https://depositphotos.com/portfolio-1533202.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1533202.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1533202/image/6935/69357599/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'color' ,'white' ,'background' ,'nobody' ,'design' ,'space' ,'luxury' ,'decoration' ,'empty' ,'Decor' ,'elegance' ,'orange' ,'light' ,'brown' ,'coffee' ,'style' ,'retro' ,'vintage' ,'modern' ,'blur' ,'architecture' ,'house' ,'wall' ,'window' ,'lamp' ,'interior' ,'home' ,'lifestyle' ,'furniture' ,'room' ,'floor' ,'in' ,'blurred' ,'top' ,'living' ,'apartment' ,'advertise' ,'sofa' ,'contemporary' ,'filter' ,'tv' ,'television' ,'couch' ,'place' ,'fireplace' ,'appartement' ,'arredo' ,'instagram' ]

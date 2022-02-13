@@ -2,7 +2,7 @@
 title: 'Tree oak cut'
 date: 2010-06-04T02:43:47+00:00
 author: Olegusk
-author_url: https://depositphotos.com/portfolio-1001123.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1001123.html?ref=64678756
 image: https://static4.depositphotos.com/thumbs/1001123/image/323/3232290/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['background' ,'nature' ,'abstract' ,'plant' ,'flora' ,'tree' ,'cut' ,'trunk' ,'year' ,'breed' ,'age' ,'wood' ,'ring' ,'rough' ,'dry' ,'oak' ,'log' ,'destruction' ,'textures' ,'firm' ,'deciduous' ,'cracks' ,'grade' ,'deformation' ,'naturaleza' ,'Oak Tree' ,'tabiat' ]

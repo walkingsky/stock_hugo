@@ -2,7 +2,7 @@
 title: 'Professional drone'
 date: 2015-04-27T13:11:23+00:00
 author: conceptw
-author_url: https://depositphotos.com/portfolio-1213337.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1213337.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1213337/image/7117/71173889/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['shoot' ,'sky' ,'sun' ,'air' ,'flying' ,'black' ,'technology' ,'dark' ,'sunset' ,'night' ,'professional' ,'photographing' ,'clouds' ,'propeller' ,'helicopter' ,'spy' ,'fear' ,'strange' ,'aerial' ,'drone' ,'Dark clouds' ,'hexacopter' ,'multicopter' ,'multirotor' ,'alien spaceship' ,'ddrone' ]

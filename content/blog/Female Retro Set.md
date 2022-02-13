@@ -2,7 +2,7 @@
 title: 'Female Retro Set'
 date: 2016-09-02T11:25:08+00:00
 author: KronaLux
-author_url: https://depositphotos.com/portfolio-3423429.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3423429.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/3423429/image/11948/119480966/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'background' ,'nobody' ,'view' ,'design' ,'set' ,'shopping' ,'bag' ,'beautiful' ,'discount' ,'sale' ,'buy' ,'shop' ,'store' ,'girl' ,'female' ,'summer' ,'beauty' ,'up' ,'flower' ,'black' ,'card' ,'retro' ,'vintage' ,'fashion' ,'accessory' ,'concept' ,'lay' ,'stylish' ,'romantic' ,'woman' ,'flat' ,'cosmetics' ,'camera' ,'template' ,'trendy' ,'collection' ,'online' ,'top' ,'casual' ,'shoes' ,'perfume' ,'collage' ,'lipstick' ,'purse' ,'boutique' ,'trend' ,'mockup' ,'mock' ,'flatlay' ]

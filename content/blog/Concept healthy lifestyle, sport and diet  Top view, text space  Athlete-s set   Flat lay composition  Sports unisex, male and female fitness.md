@@ -2,7 +2,7 @@
 title: 'Concept healthy lifestyle, sport and diet. Top view, text space. Athlete"s set.  Flat lay composition. Sports unisex, male and female fitness.'
 date: 2019-02-15T14:10:23+00:00
 author: Evgeniy_Bobkov
-author_url: https://depositphotos.com/portfolio-11599032.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-11599032.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/11599032/image/24478/244780332/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['sport' ,'activity' ,'white' ,'background' ,'object' ,'view' ,'design' ,'copy' ,'space' ,'isolated' ,'equipment' ,'female' ,'water' ,'sports' ,'health' ,'healthy' ,'diet' ,'care' ,'man' ,'style' ,'pink' ,'concept' ,'lay' ,'blank' ,'woman' ,'mobile' ,'phone' ,'flat' ,'lifestyle' ,'weight' ,'accessories' ,'bottle' ,'fit' ,'fitness' ,'gym' ,'exercise' ,'floor' ,'top' ,'wear' ,'plan' ,'outfit' ,'shoes' ,'running' ,'training' ,'sneakers' ,'dumbbell' ,'workout' ,'stuff' ,'sportswear' ,'flatlay' ]

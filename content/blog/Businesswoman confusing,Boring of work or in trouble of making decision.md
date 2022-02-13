@@ -2,7 +2,7 @@
 title: 'Businesswoman confusing,Boring of work or in trouble of making decision'
 date: 2016-03-28T09:11:53+00:00
 author: lighthouse
-author_url: https://depositphotos.com/portfolio-1268628.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1268628.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1268628/image/10355/103555830/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'background' ,'isolated' ,'business' ,'person' ,'girl' ,'female' ,'young' ,'people' ,'portrait' ,'up' ,'head' ,'hand' ,'inspiration' ,'idea' ,'suit' ,'blank' ,'think' ,'woman' ,'professional' ,'work' ,'job' ,'looking' ,'lady' ,'asian' ,'trouble' ,'headache' ,'thoughtful' ,'decision' ,'secretary' ,'businesswoman' ,'businesspeople' ,'formal' ,'confused' ,'employment' ,'assistant' ,'unsure' ,'worrying' ,'thoughts' ,'attendant' ,'back side' ]

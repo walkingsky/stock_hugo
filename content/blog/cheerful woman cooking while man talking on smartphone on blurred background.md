@@ -2,7 +2,7 @@
 title: 'cheerful woman cooking while man talking on smartphone on blurred background'
 date: 2021-01-19T17:37:38+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/13193658/image/44240/442407942/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'happy' ,'smiling' ,'people' ,'cheerful' ,'fresh' ,'caucasian' ,'knife' ,'food' ,'kitchen' ,'preparation' ,'cup' ,'tasty' ,'delicious' ,'recipe' ,'man' ,'technology' ,'coffee' ,'drink' ,'cook' ,'prepare' ,'emotion' ,'blur' ,'vegetables' ,'home' ,'couple' ,'beverage' ,'woman' ,'cellphone' ,'device' ,'mobile' ,'phone' ,'talk' ,'lettuce' ,'together' ,'indoors' ,'ingredients' ,'attractive' ,'handsome' ,'relationship' ,'smartphone' ,'boyfriend' ,'girlfriend' ,'cutting board' ,'chopping board' ,'cherry tomatoes' ]

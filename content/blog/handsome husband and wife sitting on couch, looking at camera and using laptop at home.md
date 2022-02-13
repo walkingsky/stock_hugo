@@ -2,7 +2,7 @@
 title: 'handsome husband and wife sitting on couch, looking at camera and using laptop at home'
 date: 2018-11-22T12:05:12+00:00
 author: AllaSerebrina
-author_url: https://depositphotos.com/portfolio-12985790.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985790.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12985790/image/22675/226758846/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['computer' ,'beautiful' ,'female' ,'sitting' ,'smiling' ,'people' ,'caucasian' ,'family' ,'male' ,'man' ,'connection' ,'interior' ,'home' ,'couple' ,'woman' ,'communication' ,'wireless' ,'laptop' ,'furniture' ,'together' ,'togetherness' ,'indoors' ,'inside' ,'using' ,'attractive' ,'handsome' ,'gadget' ,'Adults' ,'wife' ,'husband' ,'couch' ,'relationship' ,'boyfriend' ,'girlfriend' ,'looking at camera' ,'copy space' ,'Living Room' ,'digital device' ]

@@ -2,7 +2,7 @@
 title: 'Infogrpahic Business Concept Steps Options'
 date: 2013-09-03T05:56:08+00:00
 author: serkorkin
-author_url: https://depositphotos.com/portfolio-2100659.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2100659.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/2100659/vector/3073/30734455/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['bar' ,'vector' ,'background' ,'graphic' ,'element' ,'illustration' ,'design' ,'business' ,'sign' ,'people' ,'abstract' ,'connection' ,'industrial' ,'technology' ,'banner' ,'graphics' ,'symbol' ,'creative' ,'concept' ,'icon' ,'corporate' ,'promotion' ,'communication' ,'internet' ,'businessman' ,'information' ,'step' ,'Presentation' ,'web' ,'clouds' ,'finance' ,'project' ,'template' ,'marketing' ,'layout' ,'steps' ,'media' ,'social' ,'management' ,'economic' ,'for' ,'community' ,'info' ,'content' ,'origami' ,'solutions' ,'leaflet' ,'projects' ,'options' ,'optimization' ]

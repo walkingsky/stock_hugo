@@ -2,7 +2,7 @@
 title: 'Playing with the drone, copter.  Remote Control with Mobile Phon'
 date: 2016-03-10T14:04:16+00:00
 author: serdiuk.igor.gmail.com
-author_url: https://depositphotos.com/portfolio-6203808.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-6203808.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/6203808/vector/10125/101251646/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'illustration' ,'design' ,'isolated' ,'sky' ,'equipment' ,'art' ,'air' ,'transport' ,'technology' ,'line' ,'photo' ,'modern' ,'elements' ,'icon' ,'industry' ,'mobile' ,'wireless' ,'digital' ,'radio' ,'grey' ,'camera' ,'remote' ,'security' ,'fly' ,'tablet' ,'icons' ,'robot' ,'innovation' ,'control' ,'propeller' ,'gadget' ,'aircraft' ,'helicopter' ,'spy' ,'surveillance' ,'logo' ,'aviation' ,'aerial' ,'aerospace' ,'monitoring' ,'gps' ,'copter' ,'rotorcraft' ,'drone' ,'unmanned' ,'remote control' ,'multicopter' ,'quadrocopter' ,'quadcopter' ]

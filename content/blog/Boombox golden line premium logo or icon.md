@@ -2,7 +2,7 @@
 title: 'Boombox golden line premium logo or icon'
 date: 2021-06-01T07:48:55+00:00
 author: Infolight
-author_url: https://depositphotos.com/portfolio-50337402.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-50337402.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/50337402/vector/47090/470901526/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'golden' ,'line' ,'retro' ,'icon' ,'electronics' ,'audio' ,'radio' ,'player' ,'royal' ,'cassette' ,'logo' ,'eps' ,'premium' ,'boombox' ,'music player' ,'cassette player' ,'music and multimedia' ]

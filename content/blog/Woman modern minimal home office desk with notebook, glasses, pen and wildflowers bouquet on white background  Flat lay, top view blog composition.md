@@ -2,7 +2,7 @@
 title: 'Woman modern minimal home office desk with notebook, glasses, pen and wildflowers bouquet on white background. Flat lay, top view blog composition.'
 date: 2018-02-14T07:17:15+00:00
 author: maximleshkovich
-author_url: https://depositphotos.com/portfolio-7595566.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-7595566.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/7595566/image/18375/183758458/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'white' ,'background' ,'view' ,'bright' ,'business' ,'female' ,'floral' ,'flowers' ,'life' ,'style' ,'modern' ,'bouquet' ,'pink' ,'pastel' ,'office' ,'lay' ,'home' ,'pale' ,'notebook' ,'flat' ,'lifestyle' ,'work' ,'pen' ,'desk' ,'still' ,'accessories' ,'feminine' ,'mood' ,'trendy' ,'notes' ,'top' ,'glasses' ,'workspace' ,'stationery' ,'magazine' ,'diary' ,'blog' ,'minimal' ,'wildflowers' ,'freelance' ,'home office' ,'flatlay' ,'female workspace' ]

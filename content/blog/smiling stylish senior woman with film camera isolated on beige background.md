@@ -2,7 +2,7 @@
 title: 'smiling stylish senior woman with film camera isolated on beige background'
 date: 2018-05-07T14:57:53+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12982378/image/19460/194601570/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'happy' ,'person' ,'female' ,'people' ,'beauty' ,'happiness' ,'caucasian' ,'smile' ,'style' ,'old' ,'photo' ,'Photograph' ,'retro' ,'vintage' ,'fashion' ,'stylish' ,'woman' ,'age' ,'emotional' ,'camera' ,'photographer' ,'film' ,'alone' ,'attractive' ,'senior' ,'Retired' ,'elderly' ,'vinyl' ,'fashionable' ,'typewriter' ,'Studio Shot' ,'Grey Hair' ,'Record Player' ,'vinyl disc' ]

@@ -2,7 +2,7 @@
 title: 'Flat lay. Flower on the table.  Gold pineapple, brush pattern and gold polka dots pattern. Table view. Business accessories. Mock-up background. Peonies, glamour style.'
 date: 2016-05-31T09:37:41+00:00
 author: shatenka07
-author_url: https://depositphotos.com/portfolio-3235547.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3235547.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/3235547/image/11134/111341152/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

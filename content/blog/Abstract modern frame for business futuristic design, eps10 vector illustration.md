@@ -2,7 +2,7 @@
 title: 'Abstract modern frame for business futuristic design, eps10 vector illustration'
 date: 2013-03-15T17:19:06+00:00
 author: Ozerina
-author_url: https://depositphotos.com/portfolio-1813786.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1813786.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1813786/vector/2236/22364303/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'background' ,'curve' ,'graphic' ,'element' ,'illustration' ,'design' ,'set' ,'space' ,'transparent' ,'shape' ,'decoration' ,'sale' ,'business' ,'label' ,'new' ,'art' ,'drop' ,'abstract' ,'cloud' ,'black' ,'style' ,'frame' ,'grunge' ,'banner' ,'modern' ,'big' ,'elements' ,'creative' ,'concept' ,'blank' ,'percent' ,'text' ,'think' ,'talk' ,'speech' ,'grey' ,'wallpaper' ,'Presentation' ,'web' ,'clouds' ,'discussion' ,'template' ,'trendy' ,'geometric' ,'collection' ,'composition' ,'layout' ,'bubble' ,'vectors' ]

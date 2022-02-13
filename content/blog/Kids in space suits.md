@@ -2,7 +2,7 @@
 title: 'Kids in space suits'
 date: 2017-02-01T08:37:57+00:00
 author: NatashaFedorova
-author_url: https://depositphotos.com/portfolio-11233746.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-11233746.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/11233746/image/14001/140012950/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['space' ,'people' ,'caucasian' ,'boys' ,'childhood' ,'children' ,'kids' ,'adorable' ,'dream' ,'playing' ,'together' ,'science' ,'adventure' ,'astronomy' ,'uniform' ,'team' ,'costume' ,'excited' ,'discover' ,'Gesturing' ,'spaceship' ,'preteen' ,'preschoolers' ,'astronauts' ,'pretending' ,'explorers' ,'spaceman' ,'cosmonauts' ,'side view' ,'Elementary Age' ,'Full Length' ,'jetpacks' ]

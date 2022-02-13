@@ -2,7 +2,7 @@
 title: 'Health symbols'
 date: 2013-08-14T10:31:47+00:00
 author: megija
-author_url: https://depositphotos.com/portfolio-1067125.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1067125.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1067125/vector/2978/29788787/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['round' ,'background' ,'graphic' ,'element' ,'illustration' ,'design' ,'business' ,'person' ,'sign' ,'human' ,'people' ,'nature' ,'health' ,'healthy' ,'food' ,'medicine' ,'medical' ,'care' ,'eating' ,'sunset' ,'symbol' ,'elements' ,'pose' ,'meditation' ,'creative' ,'concept' ,'icon' ,'relax' ,'doctor' ,'heart' ,'emotions' ,'support' ,'lifestyle' ,'stress' ,'emotional' ,'body' ,'spa' ,'therapy' ,'music' ,'wallpaper' ,'fitness' ,'web' ,'exercise' ,'palette' ,'website' ,'advertising' ,'training' ,'wellness' ,'good' ,'stressed' ]

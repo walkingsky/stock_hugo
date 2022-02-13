@@ -2,7 +2,7 @@
 title: 'top view of crumpled paper balls with row of colorful ones on black background, think different concept'
 date: 2018-12-05T14:10:39+00:00
 author: KostyaKlimenko
-author_url: https://depositphotos.com/portfolio-12985656.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985656.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12985656/image/22888/228884036/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['colors' ,'blue' ,'background' ,'colorful' ,'nobody' ,'paper' ,'business' ,'ideas' ,'success' ,'texture' ,'black' ,'creativity' ,'imagination' ,'backdrop' ,'creative' ,'concept' ,'planning' ,'project' ,'textured' ,'achievement' ,'solution' ,'strategy' ,'plan' ,'conceptual' ,'choice' ,'arrangement' ,'arranged' ,'top view' ,'think different' ,'crumpled paper balls' ]

@@ -2,7 +2,7 @@
 title: 'Not impressed'
 date: 2013-02-08T16:43:17+00:00
 author: big_like
-author_url: https://depositphotos.com/portfolio-1759606.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1759606.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1759606/image/1984/19844853/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['red' ,'white' ,'background' ,'beautiful' ,'closeup' ,'business' ,'person' ,'sign' ,'young' ,'people' ,'women' ,'caucasian' ,'natural' ,'face' ,'brunette' ,'square' ,'hand' ,'gray' ,'symbol' ,'emotion' ,'expression' ,'concept' ,'impressive' ,'woman' ,'finger' ,'thumb' ,'work' ,'job' ,'down' ,'negative' ,'angry' ,'bad' ,'lips' ,'sad' ,'upset' ,'failure' ,'gesture' ,'signal' ,'businesswoman' ,'not' ,'wrong' ,'fail' ,'unhappy' ,'rejection' ,'Impression' ,'disapproval' ,'dislike' ,'impressed' ,'mulher' ,'Triste' ]

@@ -2,7 +2,7 @@
 title: 'Woman with allergy on pollen holding napkin and tulips '
 date: 2021-02-18T11:50:32+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/12982378/image/45082/450822508/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['box' ,'nature' ,'caucasian' ,'plants' ,'pollen' ,'flora' ,'flowers' ,'health' ,'medicine' ,'healthcare' ,'illness' ,'medical' ,'care' ,'home' ,'woman' ,'disease' ,'indoors' ,'problem' ,'sensitive' ,'reaction' ,'tulips' ,'symptom' ,'sickness' ,'allergic' ,'allergy' ,'napkins' ,'snuffle' ,'one person' ,'young adult' ,'Living Room' ]

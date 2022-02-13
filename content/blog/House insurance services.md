@@ -2,7 +2,7 @@
 title: 'House insurance services'
 date: 2012-06-28T09:39:48+00:00
 author: Jocky
-author_url: https://depositphotos.com/portfolio-1621958.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1621958.html?ref=64678756
 image: https://static9.depositphotos.com/thumbs/1621958/image/1137/11371343/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['red' ,'white' ,'render' ,'generated' ,'illustration' ,'isolated' ,'business' ,'risk' ,'life' ,'danger' ,'blond' ,'protection' ,'3d' ,'concept' ,'icon' ,'architecture' ,'construction' ,'estate' ,'house' ,'service' ,'real' ,'emergency' ,'home' ,'woman' ,'support' ,'services' ,'with' ,'help' ,'ring' ,'mansion' ,'safety' ,'security' ,'lady' ,'rope' ,'conceptual' ,'residential' ,'symbolic' ,'safe' ,'disaster' ,'insurance' ,'rendered' ,'rescue' ,'a' ,'lifebuoy' ,'and' ,'home insurance' ,'Life insurance' ,'дом' ]

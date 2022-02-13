@@ -2,7 +2,7 @@
 title: 'Man guiding a drone'
 date: 2016-02-03T15:19:58+00:00
 author: franckito
-author_url: https://depositphotos.com/portfolio-1007034.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1007034.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1007034/image/9755/97555006/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['leisure' ,'photography' ,'sky' ,'equipment' ,'holding' ,'meadow' ,'outdoors' ,'nature' ,'rural' ,'flying' ,'vehicle' ,'hobby' ,'man' ,'technology' ,'driving' ,'landscape' ,'concept' ,'idea' ,'industry' ,'moving' ,'device' ,'electronics' ,'camera' ,'remote' ,'future' ,'robot' ,'flight' ,'casual' ,'control' ,'lake' ,'aircraft' ,'horse' ,'fields' ,'robotic' ,'Filming' ,'handling' ,'rotor' ,'drone' ,'guiding' ,'driverless' ,'unmanned' ,'uav' ,'quadricopter' ,'quadcopter' ,'FPV' ,'multirotor' ,'aeromodelism' ]

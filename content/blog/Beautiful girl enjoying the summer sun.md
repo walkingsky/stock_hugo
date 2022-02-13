@@ -2,7 +2,7 @@
 title: 'Beautiful girl enjoying the summer sun'
 date: 2012-06-08T12:38:15+00:00
 author: evgenyataman
-author_url: https://depositphotos.com/portfolio-1189140.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1189140.html?ref=64678756
 image: https://static9.depositphotos.com/thumbs/1189140/image/1100/11003434/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['yellow' ,'white' ,'colorful' ,'beautiful' ,'happy' ,'person' ,'girl' ,'female' ,'young' ,'summer' ,'people' ,'beauty' ,'sunlight' ,'park' ,'freedom' ,'sun' ,'happiness' ,'vitality' ,'nature' ,'orange' ,'sunshine' ,'sunny' ,'health' ,'healthy' ,'natural' ,'wellbeing' ,'sunset' ,'peace' ,'meditation' ,'pure' ,'lifestyle' ,'glow' ,'sunbeam' ,'spa' ,'tranquility' ,'profile' ,'in' ,'vacation' ,'dress' ,'harmony' ,'free' ,'relaxing' ,'enjoying' ,'wellness' ,'carefree' ,'embracing' ,'arms' ,'Holidays' ,'zen' ,'the' ]

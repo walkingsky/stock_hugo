@@ -2,7 +2,7 @@
 title: 'multicultural teen boys telling friend how to use gamepad at home'
 date: 2018-04-25T13:36:12+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12982378/image/19320/193209458/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['yellow' ,'girl' ,'female' ,'sitting' ,'people' ,'caucasian' ,'boys' ,'friendship' ,'male' ,'children' ,'kids' ,'home' ,'playing' ,'electronics' ,'together' ,'togetherness' ,'friends' ,'indoors' ,'apartment' ,'casual' ,'joystick' ,'sofa' ,'teens' ,'use' ,'telling' ,'teenagers' ,'Gamepad' ,'multicultural' ,'multiethnic' ,'interracial' ,'copy space' ,'african american' ,'Living Room' ,'black boy' ,'having fun' ,'Video Game' ,'spending time' ]

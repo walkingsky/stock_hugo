@@ -2,7 +2,7 @@
 title: 'Calligraphic Design Elements and Page Decoration'
 date: 2012-05-15T14:07:01+00:00
 author: digiselector
-author_url: https://depositphotos.com/portfolio-1441393.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1441393.html?ref=64678756
 image: https://static8.depositphotos.com/thumbs/1441393/vector/1056/10560942/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'background' ,'graphic' ,'element' ,'illustration' ,'design' ,'set' ,'decoration' ,'decorative' ,'festive' ,'greeting' ,'ribbon' ,'label' ,'art' ,'elegance' ,'floral' ,'Menu' ,'classical' ,'ornate' ,'scroll' ,'style' ,'border' ,'card' ,'frame' ,'retro' ,'victorian' ,'vintage' ,'banner' ,'ornament' ,'classic' ,'elements' ,'swirl' ,'nostalgia' ,'elegant' ,'wedding' ,'fingers' ,'decorations' ,'book' ,'calligraphic' ,'invitation' ,'certificate' ,'page' ,'ornamental' ,'flourishes' ,'free' ,'ribbons' ,'vignette' ,'filigree' ,'type' ,'borders' ]

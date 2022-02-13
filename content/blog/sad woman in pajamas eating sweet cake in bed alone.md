@@ -2,7 +2,7 @@
 title: 'sad woman in pajamas eating sweet cake in bed alone '
 date: 2019-02-01T13:08:31+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13193658/image/24077/240779572/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'holding' ,'person' ,'female' ,'people' ,'caucasian' ,'food' ,'tasty' ,'delicious' ,'sweet' ,'eating' ,'bed' ,'pajamas' ,'eat' ,'home' ,'emotions' ,'woman' ,'stress' ,'indoors' ,'loneliness' ,'negative' ,'alone' ,'bedroom' ,'sadness' ,'sad' ,'upset' ,'lonely' ,'Anxiety' ,'stressed' ,'depressed' ,'cakes' ]

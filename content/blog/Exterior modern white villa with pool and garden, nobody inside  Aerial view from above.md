@@ -2,7 +2,7 @@
 title: 'Exterior modern white villa with pool and garden, nobody inside. Aerial view from above'
 date: 2018-08-08T07:17:41+00:00
 author: Zveiger
-author_url: https://depositphotos.com/portfolio-2018053.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2018053.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/2018053/image/20746/207468836/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['pool' ,'table' ,'blue' ,'nobody' ,'view' ,'design' ,'high' ,'luxury' ,'sky' ,'empty' ,'new' ,'summer' ,'grass' ,'outdoor' ,'garden' ,'light' ,'chair' ,'cloud' ,'modern' ,'trees' ,'architecture' ,'building' ,'construction' ,'exterior' ,'house' ,'window' ,'home' ,'forest' ,'lifestyle' ,'furniture' ,'wood' ,'clouds' ,'property' ,'outside' ,'swimming' ,'swim' ,'villa' ,'above' ,'contemporary' ,'fountain' ,'aerial' ,'led' ,'patio' ,'drone' ]

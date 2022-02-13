@@ -2,7 +2,7 @@
 title: 'night cityscape with blurred bright illumination'
 date: 2018-12-13T15:12:10+00:00
 author: MicEnin
-author_url: https://depositphotos.com/portfolio-15827116.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-15827116.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/15827116/image/23120/231205094/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['lights' ,'background' ,'colorful' ,'nobody' ,'shiny' ,'sky' ,'bright' ,'illuminated' ,'black' ,'dark' ,'blur' ,'architecture' ,'city' ,'urban' ,'windows' ,'illumination' ,'night' ,'multicolored' ,'cityscape' ,'blurred' ,'buildings' ,'Roads' ,'streets' ,'bokeh' ,'defocused' ,'copy space' ,'selective focus' ,'long exposure' ]

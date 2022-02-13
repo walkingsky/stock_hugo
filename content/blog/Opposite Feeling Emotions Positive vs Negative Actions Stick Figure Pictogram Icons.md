@@ -2,7 +2,7 @@
 title: 'Opposite Feeling Emotions Positive vs Negative Actions Stick Figure Pictogram Icons'
 date: 2015-09-01T12:57:06+00:00
 author: leremy
-author_url: https://depositphotos.com/portfolio-1029662.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1029662.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1029662/vector/8217/82177742/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'happy' ,'person' ,'human' ,'people' ,'joy' ,'man' ,'funny' ,'calm' ,'character' ,'cool' ,'expression' ,'concept' ,'icon' ,'emotions' ,'negative' ,'angry' ,'drunk' ,'serious' ,'positive' ,'laugh' ,'sad' ,'excited' ,'bored' ,'anger' ,'feeling' ,'delightful' ,'pictogram' ,'Joke' ,'opposite' ,'panic' ,'behaviour' ,'Actions' ,'nervous' ,'unhappy' ,'personality' ,'steady' ,'versus' ,'sober' ,'please' ,'annoy' ,'thrill' ,'vs' ,'delighted' ,'overjoyed' ,'poses' ,'encourage' ,'discouraged' ,'piktogramm' ,'traits' ]

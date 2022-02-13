@@ -2,7 +2,7 @@
 title: 'Set of outline hand drawn buildings.'
 date: 2014-03-13T19:01:25+00:00
 author: kite-kit
-author_url: https://depositphotos.com/portfolio-2439505.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2439505.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/2439505/vector/4231/42315707/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['image' ,'red' ,'white' ,'vector' ,'background' ,'illustration' ,'design' ,'set' ,'shop' ,'art' ,'travel' ,'life' ,'european' ,'industrial' ,'old' ,'retro' ,'vintage' ,'cartoon' ,'hand' ,'modern' ,'ink' ,'funky' ,'symbol' ,'village' ,'icon' ,'architecture' ,'building' ,'city' ,'house' ,'urban' ,'window' ,'cozy' ,'home' ,'roof' ,'development' ,'drawing' ,'street' ,'door' ,'template' ,'tourism' ,'cityscape' ,'town' ,'collection' ,'sketch' ,'outline' ,'housing' ,'drawn' ,'childish' ,'doodle' ,'townhouse' ]

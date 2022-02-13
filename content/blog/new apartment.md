@@ -2,7 +2,7 @@
 title: 'new apartment'
 date: 2013-11-20T20:48:30+00:00
 author: sergeypeterman
-author_url: https://depositphotos.com/portfolio-1000691.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1000691.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1000691/image/3577/35775179/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['fun' ,'beautiful' ,'happy' ,'buy' ,'empty' ,'person' ,'new' ,'love' ,'girl' ,'female' ,'sitting' ,'young' ,'people' ,'caucasian' ,'family' ,'affectionate' ,'man' ,'drink' ,'estate' ,'house' ,'window' ,'interior' ,'blank' ,'habitation' ,'home' ,'couple' ,'two' ,'moving' ,'woman' ,'fingers' ,'with' ,'flat' ,'lifestyle' ,'pointing' ,'planning' ,'boxes' ,'furniture' ,'room' ,'together' ,'indoors' ,'property' ,'floor' ,'in' ,'draft' ,'sketch' ,'plan' ,'comfort' ,'apartment' ,'casual' ,'enjoying' ]

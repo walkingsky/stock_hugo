@@ -2,7 +2,7 @@
 title: 'Vector color cloud. '
 date: 2015-06-22T15:06:12+00:00
 author: ikatod
-author_url: https://depositphotos.com/portfolio-1174966.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1174966.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1174966/vector/7583/75832857/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

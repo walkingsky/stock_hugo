@@ -2,7 +2,7 @@
 title: 'Sci-fi drone. Hangar'
 date: 2015-11-19T14:17:44+00:00
 author: iLexx
-author_url: https://depositphotos.com/portfolio-3228285.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3228285.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/3228285/image/9033/90339038/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'space' ,'air' ,'flying' ,'transportation' ,'technology' ,'machine' ,'futuristic' ,'wireless' ,'remote' ,'future' ,'security' ,'repair' ,'military' ,'warship' ,'weapon' ,'robot' ,'aircraft' ,'war' ,'battle' ,'warrior' ,'virtual' ,'alien' ,'sci fi' ,'fighter' ,'bot' ,'missile' ,'spaceship' ,'drone' ]

@@ -2,7 +2,7 @@
 title: 'Big Caravan blue and red four color minimal icon set'
 date: 2021-06-01T06:06:49+00:00
 author: Infolight
-author_url: https://depositphotos.com/portfolio-50337402.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-50337402.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/50337402/vector/47079/470797674/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['red' ,'blue' ,'vector' ,'set' ,'travel' ,'transport' ,'vehicle' ,'icon' ,'flat' ,'tourism' ,'trip' ,'logo' ,'vehicles' ,'minimal' ,'eps' ,'premium' ]

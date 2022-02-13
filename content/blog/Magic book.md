@@ -2,7 +2,7 @@
 title: 'Magic book'
 date: 2010-03-02T13:48:58+00:00
 author: Joingate
-author_url: https://depositphotos.com/portfolio-1005347.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1005347.html?ref=64678756
 image: https://static3.depositphotos.com/thumbs/1005347/image/239/2391153/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['red' ,'white' ,'blue' ,'illustration' ,'high' ,'shine' ,'up' ,'light' ,'dark' ,'open' ,'text' ,'fingers' ,'with' ,'highlight' ,'read' ,'book' ,'education' ,'magic' ,'learn' ,'stars' ,'beam' ,'story' ,'wallpapers' ,'resolution' ,'words' ,'twinkle' ,'spiritual' ,'bible' ,'the' ,'pages' ,'A' ,'from' ,'and' ,'ladies' ,'enchanting' ,'enlighten' ,'hardback' ,'emanating' ,'magic book' ,'open bible' ]

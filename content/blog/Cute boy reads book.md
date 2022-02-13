@@ -2,7 +2,7 @@
 title: 'Cute boy reads book'
 date: 2015-07-15T18:18:39+00:00
 author: serrnovik
-author_url: https://depositphotos.com/portfolio-1018611.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1018611.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1018611/image/7736/77367530/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['fun' ,'group' ,'white' ,'happy' ,'one' ,'young' ,'smiling' ,'people' ,'cheerful' ,'caucasian' ,'smile' ,'child' ,'teenager' ,'male' ,'youth' ,'boy' ,'sit' ,'kid' ,'lay' ,'home' ,'school' ,'smart' ,'exam' ,'lifestyle' ,'book' ,'learning' ,'education' ,'studying' ,'indoors' ,'homework' ,'laying' ,'floor' ,'learn' ,'guy' ,'alone' ,'study' ,'casual' ,'college' ,'student' ,'University' ,'positive' ,'books' ,'workbook' ,'educated' ,'pupil' ,'academic' ]

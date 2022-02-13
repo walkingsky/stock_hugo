@@ -2,7 +2,7 @@
 title: 'stylish man holding skateboard '
 date: 2017-02-10T09:08:05+00:00
 author: ArturVerkhovetskiy
-author_url: https://depositphotos.com/portfolio-9880800.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-9880800.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/9880800/image/14126/141262418/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['young' ,'people' ,'model' ,'caucasian' ,'man' ,'european' ,'style' ,'watch' ,'fashion' ,'suit' ,'elegant' ,'stylish' ,'lifestyle' ,'skate' ,'trendy' ,'vogue' ,'alone' ,'attractive' ,'handsome' ,'posing' ,'skateboarding' ,'skater' ,'shadows' ,'confident' ,'formal' ,'skateboard' ,'bearded' ,'skateboarder' ,'hipster' ,'longboard' ,'one person' ,'Front View' ,'20 25 years' ,'Full Length' ]

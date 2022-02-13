@@ -2,7 +2,7 @@
 title: 'happy mime holding ultra violet retro stationary telephone and showing call me sign isolated on white'
 date: 2018-02-22T13:15:50+00:00
 author: AllaSerebrina
-author_url: https://depositphotos.com/portfolio-12985790.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985790.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12985790/image/18488/184886094/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['fun' ,'red' ,'happy' ,'equipment' ,'holding' ,'person' ,'sign' ,'art' ,'people' ,'caucasian' ,'male' ,'face' ,'man' ,'black' ,'connection' ,'retro' ,'vintage' ,'symbol' ,'emotion' ,'expression' ,'hat' ,'pose' ,'communication' ,'device' ,'phone' ,'telephone' ,'electronics' ,'makeup' ,'stationary' ,'trendy' ,'clothes' ,'alone' ,'mimic' ,'artist' ,'handsome' ,'performer' ,'humour' ,'gesture' ,'showing' ,'handset' ,'trend' ,'mime' ,'clown' ,'pantomime' ,'parody' ,'Isolated On White' ,'copy space' ,'young adult' ,'ultra violet' ,'call me sign' ]

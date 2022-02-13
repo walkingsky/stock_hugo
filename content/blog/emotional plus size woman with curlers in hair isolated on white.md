@@ -2,7 +2,7 @@
 title: 'emotional plus size woman with curlers in hair isolated on white'
 date: 2018-05-17T08:26:23+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12982378/image/19591/195910368/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['red' ,'beautiful' ,'person' ,'girl' ,'female' ,'people' ,'beauty' ,'model' ,'style' ,'retro' ,'fashion' ,'pretty' ,'figure' ,'stylish' ,'woman' ,'curl' ,'curly' ,'dotted' ,'lady' ,'alone' ,'dress' ,'attractive' ,'posing' ,'rollers' ,'shocked' ,'curlers' ,'housewife' ,'xxl' ,'xl' ,'Isolated On White' ,'Studio Shot' ,'Polka Dot' ,'pin up' ,'red lips' ,'plus size' ,'caucasian woman' ]

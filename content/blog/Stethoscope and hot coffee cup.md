@@ -2,7 +2,7 @@
 title: 'Stethoscope and hot coffee cup'
 date: 2014-01-22T15:24:00+00:00
 author: jcsmilly
-author_url: https://depositphotos.com/portfolio-1167169.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1167169.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1167169/image/3768/37688999/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'equipment' ,'metal' ,'health' ,'healthy' ,'diet' ,'plate' ,'cup' ,'healthcare' ,'medical' ,'care' ,'black' ,'coffee' ,'caffeine' ,'drink' ,'concept' ,'doctor' ,'heart' ,'beverage' ,'stethoscope' ,'exam' ,'lifestyle' ,'aroma' ,'addiction' ,'china' ,'quality' ,'conceptual' ,'diagnose' ,'inspect' ,'diagnostic' ,'stethophone' ]

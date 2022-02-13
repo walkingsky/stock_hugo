@@ -2,7 +2,7 @@
 title: 'View of nice womans body on white background'
 date: 2013-08-15T14:41:34+00:00
 author: ersler
-author_url: https://depositphotos.com/portfolio-1005018.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1005018.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1005018/image/2875/28756535/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['sport' ,'white' ,'backgrounds' ,'isolated' ,'shape' ,'beautiful' ,'girl' ,'female' ,'people' ,'women' ,'beauty' ,'health' ,'healthy' ,'diet' ,'care' ,'eating' ,'line' ,'nutrition' ,'nice' ,'fashion' ,'skin' ,'figure' ,'woman' ,'with' ,'lifestyle' ,'weight' ,'skincare' ,'body' ,'belly' ,'fit' ,'fitness' ,'waist' ,'gym' ,'exercise' ,'leg' ,'sexy' ,'vitamins' ,'perfect' ,'training' ,'calories' ,'losing' ,'slim' ,'waistline' ,'thin' ,'hip' ,'workout' ,'underwear' ,'lingerie' ,'cellulite' ,'lose' ]

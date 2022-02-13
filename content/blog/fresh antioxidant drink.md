@@ -2,7 +2,7 @@
 title: 'fresh antioxidant drink'
 date: 2017-05-22T15:21:08+00:00
 author: alebloshka
-author_url: https://depositphotos.com/portfolio-12674628.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12674628.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12674628/image/15411/154111106/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['fresh' ,'leaves' ,'healthy' ,'piece' ,'food' ,'diet' ,'fruit' ,'tasty' ,'meal' ,'drink' ,'eating' ,'nutrition' ,'vegetarian' ,'napkin' ,'vegetables' ,'bowl' ,'lifestyle' ,'organic' ,'eco' ,'citrus' ,'lemon' ,'linen' ,'antioxidant' ,'vegan' ,'tabletop' ,'superfood' ,'spinach' ,'unprocessed' ,'detox' ,'Healthy Eating' ,'healthy food' ,'raw food' ,'raw food diet' ,'organic food' ,'clean eating' ]

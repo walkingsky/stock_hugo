@@ -2,7 +2,7 @@
 title: 'drone flying over the city'
 date: 2016-03-11T07:15:16+00:00
 author: leolintang
-author_url: https://depositphotos.com/portfolio-1277251.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1277251.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1277251/image/10188/101885138/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'photography' ,'small' ,'sky' ,'outdoors' ,'flying' ,'transport' ,'vehicle' ,'cloud' ,'technology' ,'modern' ,'motion' ,'float' ,'city' ,'wireless' ,'digital' ,'professional' ,'camera' ,'remote' ,'town' ,'fly' ,'watching' ,'robot' ,'flight' ,'innovation' ,'buildings' ,'control' ,'propeller' ,'gadget' ,'aircraft' ,'helicopter' ,'spy' ,'surveillance' ,'aviation' ,'aerial' ,'copter' ,'rotor' ,'hover' ,'drone' ,'unmanned' ,'gimbal' ,'uav' ,'quadrocopter' ,'quadcopter' ]

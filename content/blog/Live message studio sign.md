@@ -2,7 +2,7 @@
 title: 'Live message studio sign'
 date: 2014-02-11T12:30:00+00:00
 author: gladcov
-author_url: https://depositphotos.com/portfolio-1001160.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1001160.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1001160/vector/4058/40587553/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['red' ,'white' ,'isolated' ,'equipment' ,'sign' ,'studio' ,'light' ,'board' ,'luminous' ,'black' ,'news' ,'message' ,'communication' ,'broadcast' ,'live' ,'music' ,'radio' ,'record' ,'stage' ,'production' ,'media' ,'warning' ,'silence' ,'video' ,'tv' ,'television' ,'luminescent' ]

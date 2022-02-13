@@ -2,7 +2,7 @@
 title: 'office interior'
 date: 2017-08-10T11:33:15+00:00
 author: AlexNazaruk
-author_url: https://depositphotos.com/portfolio-12548352.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12548352.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12548352/image/16211/162117502/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'white' ,'objects' ,'chairs' ,'view' ,'design' ,'beautiful' ,'business' ,'modern' ,'windows' ,'clean' ,'room' ,'company' ,'comfort' ,'executive' ,'workspace' ,'seats' ,'location' ,'place' ,'walls' ,'office space' ,'office work' ,'Office Interior' ]

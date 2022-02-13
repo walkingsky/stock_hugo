@@ -2,7 +2,7 @@
 title: 'freelancer working with laptop '
 date: 2017-06-20T14:38:10+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12982378/image/15753/157536162/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['computer' ,'business' ,'person' ,'people' ,'man' ,'connection' ,'drink' ,'newspaper' ,'communication' ,'wireless' ,'laptop' ,'work' ,'businessman' ,'notepad' ,'using' ,'alone' ,'casual' ,'gadget' ,'workplace' ,'workspace' ,'agenda' ,'blogger' ,'bearded' ,'Cropped' ,'freelancer' ,'teleworking' ,'teleworker' ,'copy space' ,'coffee cup' ,'home office' ,'wooden table' ,'digital device' ,'remote work' ]

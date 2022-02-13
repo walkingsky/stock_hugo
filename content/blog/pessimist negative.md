@@ -2,7 +2,7 @@
 title: 'pessimist negative'
 date: 2012-10-11T10:17:00+00:00
 author: peus
-author_url: https://depositphotos.com/portfolio-1034986.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1034986.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1034986/image/1360/13603137/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

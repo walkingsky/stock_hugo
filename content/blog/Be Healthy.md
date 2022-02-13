@@ -2,7 +2,7 @@
 title: 'Be Healthy'
 date: 2015-10-13T05:16:45+00:00
 author: andrewgenn
-author_url: https://depositphotos.com/portfolio-1636517.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1636517.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1636517/image/8609/86097722/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['business' ,'people' ,'health' ,'healthy' ,'healthcare' ,'medical' ,'man' ,'eat' ,'smart' ,'professional' ,'lifestyle' ,'businessman' ,'live' ,'fitness' ,'exercise' ,'individual' ,'company' ,'right' ,'thinking' ,'humor' ,'positive' ,'comics' ,'insurance' ,'costs' ,'nurture' ,'personnel' ,'contribution' ,'policy' ,'cartoons' ,'copay' ,'pays' ,'reduce' ,'detox' ,'premiums' ,'hr' ,'Human Resources' ]

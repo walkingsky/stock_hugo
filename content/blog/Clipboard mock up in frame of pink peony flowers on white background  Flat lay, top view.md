@@ -2,7 +2,7 @@
 title: 'Clipboard mock up in frame of pink peony flowers on white background. Flat lay, top view.'
 date: 2018-07-19T13:35:00+00:00
 author: maximleshkovich
-author_url: https://depositphotos.com/portfolio-7595566.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-7595566.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/7595566/image/20344/203445858/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'red' ,'white' ,'background' ,'view' ,'paper' ,'space' ,'festive' ,'holiday' ,'business' ,'summer' ,'beauty' ,'up' ,'floral' ,'flowers' ,'frame' ,'bouquet' ,'pink' ,'office' ,'lay' ,'blank' ,'home' ,'romantic' ,'flat' ,'work' ,'desk' ,'mood' ,'template' ,'styled' ,'website' ,'top' ,'header' ,'workspace' ,'minimalism' ,'blog' ,'clipboard' ,'minimal' ,'mockup' ,'peonies' ,'mock' ,'freelance' ,'flatlay' ]

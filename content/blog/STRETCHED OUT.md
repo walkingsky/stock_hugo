@@ -2,7 +2,7 @@
 title: 'STRETCHED OUT'
 date: 2012-08-28T16:21:18+00:00
 author: everett225
-author_url: https://depositphotos.com/portfolio-1729220.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1729220.html?ref=64678756
 image: https://static9.depositphotos.com/thumbs/1729220/image/1228/12285701/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['fun' ,'white' ,'horizontal' ,'happy' ,'equipment' ,'person' ,'female' ,'people' ,'women' ,'happiness' ,'cheerful' ,'portrait' ,'smile' ,'20s' ,'health' ,'healthy' ,'friendship' ,'playful' ,'black' ,'retro' ,'vintage' ,'funny' ,'friend' ,'pose' ,'pretty' ,'interior' ,'indoor' ,'woman' ,'working' ,'fit' ,'fitness' ,'gym' ,'exercise' ,'Exercising' ,'out' ,'recreation' ,'friendly' ,'humor' ,'enjoy' ,'athlete' ,'30s' ,'posing' ,'fitting' ,'exercises' ,'routine' ,'silly' ,'humorous' ,'stretch' ,'Stretching' ,'workout' ]

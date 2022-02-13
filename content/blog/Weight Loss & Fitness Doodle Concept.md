@@ -2,7 +2,7 @@
 title: 'Weight Loss & Fitness Doodle Concept'
 date: 2015-12-10T08:58:42+00:00
 author: koctia
-author_url: https://depositphotos.com/portfolio-1768806.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1768806.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1768806/vector/9223/92236354/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'background' ,'illustration' ,'shape' ,'equipment' ,'water' ,'health' ,'diet' ,'man' ,'vegetable' ,'nutrition' ,'banner' ,'concept' ,'lifestyle' ,'weight' ,'body' ,'fat' ,'fit' ,'fitness' ,'overweight' ,'exercise' ,'meter' ,'loss' ,'thin' ,'doodle' ,'dumbbell' ,'obesity' ,'Healthy Eating' ,'weight loss' ,'fresh food' ,'salonu' ]

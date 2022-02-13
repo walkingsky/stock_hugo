@@ -2,7 +2,7 @@
 title: 'Rc drone quadcopter'
 date: 2015-05-05T14:29:06+00:00
 author: happyroman
-author_url: https://depositphotos.com/portfolio-1674252.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1674252.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1674252/vector/7206/72064113/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

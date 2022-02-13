@@ -2,7 +2,7 @@
 title: 'close up view of 3D printer creating plastic model on blurred background'
 date: 2021-06-22T14:04:46+00:00
 author: Ischukigor
-author_url: https://depositphotos.com/portfolio-46171552.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-46171552.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/46171552/image/47887/478874492/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['background' ,'nobody' ,'design' ,'black' ,'plastic' ,'technology' ,'machine' ,'create' ,'blur' ,'office' ,'figure' ,'beige' ,'electronic' ,'work' ,'indoors' ,'project' ,'print' ,'production' ,'prototype' ,'triangles' ,'close up' ,'no people' ,'3D printer' ,'printed model' ]

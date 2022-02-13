@@ -2,7 +2,7 @@
 title: 'Music poster'
 date: 2012-12-12T06:49:31+00:00
 author: paseven
-author_url: https://depositphotos.com/portfolio-1536490.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1536490.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1536490/vector/1696/16963257/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['entertainment' ,'vector' ,'background' ,'colorful' ,'object' ,'on' ,'graphic' ,'illustration' ,'design' ,'event' ,'equipment' ,'art' ,'party' ,'air' ,'technology' ,'style' ,'retro' ,'banner' ,'instrument' ,'modern' ,'easter' ,'creative' ,'concept' ,'festival' ,'announcement' ,'communication' ,'sound' ,'with' ,'audio' ,'broadcast' ,'karaoke' ,'live' ,'mic' ,'microphone' ,'music' ,'musical' ,'vocal' ,'voice' ,'dance' ,'rock' ,'concert' ,'speaker' ,'disco' ,'volume' ,'billboard' ,'media' ,'poster' ,'nightclub' ,'the' ,'editable' ]

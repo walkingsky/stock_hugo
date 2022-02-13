@@ -2,7 +2,7 @@
 title: 'Woman, giving thumb down, finger in mouth gesture '
 date: 2014-09-01T10:10:10+00:00
 author: SIphotography
-author_url: https://depositphotos.com/portfolio-3489481.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3489481.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/3489481/image/5241/52410013/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'isolated' ,'closeup' ,'business' ,'customer' ,'person' ,'sign' ,'human' ,'girl' ,'female' ,'people' ,'portrait' ,'attitude' ,'food' ,'mouth' ,'face' ,'symbol' ,'emotion' ,'expression' ,'woman' ,'finger' ,'thumb' ,'with' ,'stress' ,'off' ,'down' ,'looking' ,'taste' ,'lady' ,'in' ,'negative' ,'angry' ,'bad' ,'mad' ,'student' ,'choice' ,'giving' ,'sad' ,'upset' ,'irritated' ,'conflict' ,'wife' ,'displeased' ,'failure' ,'gesture' ,'thumbs' ,'reaction' ,'cancel' ,'wrong' ,'disappointment' ]

@@ -2,7 +2,7 @@
 title: 'Successful group of business people at work in modern office'
 date: 2019-10-22T08:56:06+00:00
 author: nd3000
-author_url: https://depositphotos.com/portfolio-5392356.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-5392356.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/5392356/image/31465/314655954/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['group' ,'computer' ,'happy' ,'business' ,'person' ,'young' ,'people' ,'women' ,'success' ,'man' ,'black' ,'technology' ,'old' ,'african' ,'concept' ,'corporate' ,'office' ,'diversity' ,'communication' ,'manager' ,'work' ,'seminar' ,'conference' ,'learning' ,'education' ,'project' ,'leader' ,'company' ,'team' ,'worker' ,'mature' ,'teamwork' ,'meeting' ,'meet' ,'software' ,'develop' ,'colleagues' ,'employee' ,'CEO' ,'collaborate' ,'startup' ,'marketer' ,'proffessional' ]

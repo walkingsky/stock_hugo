@@ -2,7 +2,7 @@
 title: 'Perfect Score'
 date: 2014-01-13T21:03:03+00:00
 author: herminutomo
-author_url: https://depositphotos.com/portfolio-1656786.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1656786.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1656786/vector/3868/38685159/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['competition' ,'vector' ,'number' ,'illustration' ,'design' ,'business' ,'holding' ,'sign' ,'people' ,'success' ,'best' ,'card' ,'hands' ,'hand' ,'inspiration' ,'concept' ,'several' ,'panel' ,'test' ,'performance' ,'achievement' ,'perfect' ,'score' ,'scoring' ,'conceptual' ,'win' ,'Perfection' ,'great' ,'result' ,'of' ,'evaluation' ,'voting' ,'scoreboard' ,'excellent' ,'10' ]

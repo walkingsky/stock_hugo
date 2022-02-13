@@ -2,7 +2,7 @@
 title: 'Girl with a smartphone taking photo of concert stage '
 date: 2016-11-24T08:54:21+00:00
 author: Allexxandar
-author_url: https://depositphotos.com/portfolio-5625700.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-5625700.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/5625700/image/13147/131477292/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['fun' ,'entertainment' ,'background' ,'celebration' ,'celebrity' ,'event' ,'happy' ,'party' ,'young' ,'summer' ,'people' ,'outdoor' ,'light' ,'youth' ,'silhouette' ,'funny' ,'hand' ,'modern' ,'festival' ,'night' ,'band' ,'cell' ,'phone' ,'live' ,'music' ,'performance' ,'record' ,'singer' ,'stage' ,'show' ,'camera' ,'dance' ,'rock' ,'concert' ,'film' ,'club' ,'outside' ,'moscow' ,'musician' ,'video' ,'crowd' ,'audience' ,'nightclub' ,'streaming' ,'smartphone' ,'cheer' ,'good time' ,'streaming video' ,'facebook live' ]

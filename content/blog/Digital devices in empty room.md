@@ -2,7 +2,7 @@
 title: 'Digital devices in empty room '
 date: 2017-06-28T12:36:12+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12982378/image/15835/158350294/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['objects' ,'nobody' ,'empty' ,'vertical' ,'cup' ,'connection' ,'coffee' ,'carpet' ,'pillow' ,'modern' ,'interior' ,'communication' ,'electronics' ,'laptop' ,'room' ,'bookshelves' ,'headphones' ,'eyeglasses' ,'networking' ,'armchair' ,'houseplant' ,'gadgets' ,'High Angle View' ,'copy space' ,'Wireless Technology' ,'Potted plant' ,'at home' ,'digital devices' ]

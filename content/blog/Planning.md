@@ -2,7 +2,7 @@
 title: 'Planning'
 date: 2012-07-20T15:35:07+00:00
 author: pressmaster
-author_url: https://depositphotos.com/portfolio-1594308.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1594308.html?ref=64678756
 image: https://static9.depositphotos.com/thumbs/1594308/image/1131/11310901/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'group' ,'close up' ,'paper' ,'glass' ,'business' ,'financial' ,'holding' ,'person' ,'people' ,'success' ,'caucasian' ,'black' ,'hand' ,'concept' ,'idea' ,'corporate' ,'suit' ,'communication' ,'fingers' ,'working' ,'with' ,'professional' ,'Expertise' ,'work' ,'arm' ,'businessman' ,'writing' ,'pen' ,'document' ,'desk' ,'planning' ,'seminar' ,'part' ,'conference' ,'together' ,'show' ,'finance' ,'project' ,'busy' ,'strategy' ,'company' ,'plan' ,'analyzing' ,'team' ,'improvement' ,'At' ,'teamwork' ,'army' ,'workplace' ]

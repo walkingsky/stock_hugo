@@ -2,7 +2,7 @@
 title: 'Traveling Modern illustration icons'
 date: 2015-03-02T18:32:00+00:00
 author: tandaV
-author_url: https://depositphotos.com/portfolio-2250467.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2250467.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/2250467/vector/6588/65888829/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['sport' ,'vector' ,'background' ,'object' ,'illustration' ,'set' ,'bag' ,'holiday' ,'label' ,'season' ,'travel' ,'summer' ,'nature' ,'health' ,'healthy' ,'natural' ,'food' ,'tree' ,'medical' ,'mountain' ,'electric' ,'retro' ,'graphics' ,'ecology' ,'fingers' ,'forest' ,'flat' ,'lifestyle' ,'internet' ,'fitness' ,'eco' ,'web' ,'world' ,'tools' ,'tourism' ,'globe' ,'ecological' ,'vacation' ,'cycling' ,'hiking' ,'map' ,'adventure' ,'icons' ,'unusual' ,'backpack' ,'trip' ,'hike' ,'tourist' ,'voyage' ,'tour' ]

@@ -2,7 +2,7 @@
 title: 'Stay Away From Negative People Quote'
 date: 2016-01-14T18:53:49+00:00
 author: wow.subtropica
-author_url: https://depositphotos.com/portfolio-6536962.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-6536962.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/6536962/vector/9375/93753142/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['color' ,'vector' ,'background' ,'design' ,'art' ,'texture' ,'grunge' ,'banner' ,'personal' ,'big' ,'inspiration' ,'wall' ,'message' ,'text' ,'lifestyle' ,'trendy' ,'problem' ,'solution' ,'motivation' ,'poster' ,'inspire' ,'typographic' ,'stay' ,'lettering' ]

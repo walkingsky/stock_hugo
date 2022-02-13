@@ -2,7 +2,7 @@
 title: 'Color Blue and Cat Cartoon'
 date: 2012-06-25T19:32:54+00:00
 author: izakowski
-author_url: https://depositphotos.com/portfolio-1024768.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1024768.html?ref=64678756
 image: https://static9.depositphotos.com/thumbs/1024768/vector/1133/11339678/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['game' ,'color' ,'blue' ,'graphic' ,'illustration' ,'design' ,'happy' ,'sign' ,'cheerful' ,'smile' ,'colour' ,'animal' ,'square' ,'cartoon' ,'children' ,'funny' ,'kids' ,'preschool' ,'pet' ,'cat' ,'character' ,'comic' ,'symbol' ,'figure' ,'school' ,'letter' ,'book' ,'learning' ,'education' ,'learn' ,'page' ,'application' ,'letters' ,'feline' ,'teaching' ,'tabby' ,'of' ,'class' ,'mascot' ,'and' ,'primer' ,'preliminary' ,'blue color' ,'color book' ]

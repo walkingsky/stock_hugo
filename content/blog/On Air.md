@@ -2,7 +2,7 @@
 title: 'On Air'
 date: 2010-05-31T08:34:41+00:00
 author: jordygraph
-author_url: https://depositphotos.com/portfolio-1005222.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1005222.html?ref=64678756
 image: https://static4.depositphotos.com/thumbs/1005222/image/319/3196580/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

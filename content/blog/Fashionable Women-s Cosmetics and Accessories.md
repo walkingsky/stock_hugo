@@ -2,7 +2,7 @@
 title: 'Fashionable Women"s Cosmetics and Accessories'
 date: 2017-11-23T11:36:55+00:00
 author: heckmannoleg
-author_url: https://depositphotos.com/portfolio-1005833.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1005833.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/1005833/image/17403/174039194/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['background' ,'colorful' ,'object' ,'view' ,'design' ,'set' ,'shopping' ,'space' ,'jewelry' ,'sale' ,'shop' ,'gold' ,'female' ,'beauty' ,'spring' ,'up' ,'mode' ,'fashion' ,'accessory' ,'concept' ,'lay' ,'text' ,'woman' ,'flat' ,'lifestyle' ,'desk' ,'tinsel' ,'accessories' ,'brush' ,'cosmetic' ,'makeup' ,'stars' ,'collection' ,'vogue' ,'magazine' ,'items' ,'visage' ,'boutique' ,'mockup' ,'sequins' ,'flatlay' ]

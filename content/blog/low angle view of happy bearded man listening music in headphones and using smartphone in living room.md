@@ -2,7 +2,7 @@
 title: 'low angle view of happy bearded man listening music in headphones and using smartphone in living room '
 date: 2019-05-07T10:49:35+00:00
 author: VitalikRadko
-author_url: https://depositphotos.com/portfolio-13194036.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13194036.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13194036/image/26356/263566494/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['happy' ,'sitting' ,'smiling' ,'happiness' ,'cheerful' ,'caucasian' ,'smile' ,'man' ,'connection' ,'emotion' ,'home' ,'communication' ,'wireless' ,'emotional' ,'indoors' ,'using' ,'headphones' ,'Jeans' ,'casual' ,'handsome' ,'denim' ,'positive' ,'gadget' ,'sofa' ,'smartphone' ,'bearded' ,'one person' ,'young adult' ,'Living Room' ,'low angle view' ,'listening music' ,'digital device' ]

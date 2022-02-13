@@ -2,7 +2,7 @@
 title: 'Idea light bulb on chalkboard'
 date: 2014-08-07T09:08:22+00:00
 author: Melpomene
-author_url: https://depositphotos.com/portfolio-1350793.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1350793.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1350793/image/5083/50834957/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'yellow' ,'white' ,'blue' ,'illustration' ,'business' ,'success' ,'plant' ,'light' ,'cup' ,'man' ,'coffee' ,'creativity' ,'hand' ,'arrow' ,'imagination' ,'inspiration' ,'creative' ,'concept' ,'idea' ,'office' ,'text' ,'working' ,'businessman' ,'writing' ,'desk' ,'bulb' ,'drawing' ,'lightbulb' ,'solution' ,'sketch' ,'innovation' ,'workspace' ,'successful' ,'story' ,'question' ,'blackboard' ,'Sketching' ,'chalk' ,'how' ,'brainstorming' ,'chalkboard' ,'what' ,'where' ,'who' ,'when' ,'why' ]

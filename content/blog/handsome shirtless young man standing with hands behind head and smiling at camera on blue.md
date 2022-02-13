@@ -2,7 +2,7 @@
 title: 'handsome shirtless young man standing with hands behind head and smiling at camera on blue'
 date: 2018-03-21T14:04:37+00:00
 author: EdZbarzhyvetsky
-author_url: https://depositphotos.com/portfolio-12985848.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985848.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12985848/image/18855/188559288/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['happy' ,'person' ,'young' ,'smiling' ,'summer' ,'people' ,'cheerful' ,'caucasian' ,'male' ,'man' ,'style' ,'fashion' ,'individuality' ,'stylish' ,'lifestyle' ,'shirtless' ,'charming' ,'attractive' ,'handsome' ,'shorts' ,'standing' ,'summertime' ,'swimwear' ,'bearded' ,'looking at camera' ,'copy space' ,'Studio Shot' ,'on blue' ,'bare chested' ,'hands behind head' ,'Caucasian Man' ]

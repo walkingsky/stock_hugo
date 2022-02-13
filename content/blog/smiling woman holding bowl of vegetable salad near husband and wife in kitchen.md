@@ -2,7 +2,7 @@
 title: 'smiling woman holding bowl of vegetable salad near husband and wife in kitchen'
 date: 2021-07-08T06:41:05+00:00
 author: HayDmitriy
-author_url: https://depositphotos.com/portfolio-20363444.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-20363444.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/20363444/image/48157/481571310/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['happy' ,'girl' ,'smiling' ,'people' ,'cheerful' ,'fresh' ,'morning' ,'caucasian' ,'food' ,'kitchen' ,'breakfast' ,'child' ,'family' ,'man' ,'kid' ,'emotion' ,'bowl' ,'home' ,'couple' ,'hold' ,'woman' ,'joyful' ,'together' ,'indoors' ,'daughter' ,'casual' ,'positive' ,'pleased' ,'embrace' ,'mother' ,'mom' ,'hug' ,'parents' ,'wife' ,'husband' ,'dad' ,'father' ,'relationship' ,'parenthood' ,'Healthy Eating' ,'Elementary Age' ,'vegetable salad' ]

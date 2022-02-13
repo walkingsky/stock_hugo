@@ -2,7 +2,7 @@
 title: 'Bread Flat four color minimal icon set'
 date: 2021-06-01T11:49:39+00:00
 author: Infolight
-author_url: https://depositphotos.com/portfolio-50337402.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-50337402.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/50337402/vector/47114/471149588/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'blue' ,'vector' ,'set' ,'food' ,'meal' ,'breakfast' ,'baking' ,'icon' ,'flat' ,'bakery' ,'bread' ,'handmade' ,'logo' ,'baguette' ,'minimal' ,'eps' ,'premium' ,'breads' ,'food and restaurant' ]

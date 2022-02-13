@@ -2,7 +2,7 @@
 title: 'Project of a modern house'
 date: 2016-01-15T16:43:14+00:00
 author: alphaspirit
-author_url: https://depositphotos.com/portfolio-1001201.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1001201.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1001201/image/9551/95511518/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['perspective' ,'graphic' ,'design' ,'luxury' ,'decoration' ,'model' ,'detail' ,'growth' ,'grow' ,'style' ,'3d' ,'arrow' ,'modern' ,'create' ,'architecture' ,'building' ,'construction' ,'estate' ,'exterior' ,'house' ,'structure' ,'draw' ,'home' ,'development' ,'planning' ,'drawing' ,'project' ,'property' ,'build' ,'floor' ,'print' ,'draft' ,'sketch' ,'engineering' ,'plan' ,'architectural' ,'architect' ,'construct' ,'housing' ,'builder' ,'technical' ,'villa' ,'designer' ,'engineer' ,'rendering' ,'develop' ,'phase' ,'facades' ]

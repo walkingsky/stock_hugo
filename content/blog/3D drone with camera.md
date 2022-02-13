@@ -2,7 +2,7 @@
 title: '3D drone with camera'
 date: 2015-01-23T14:33:13+00:00
 author: real_texelart
-author_url: https://depositphotos.com/portfolio-1064545.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1064545.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1064545/image/6243/62433801/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'photography' ,'isolated' ,'sky' ,'flying' ,'vehicle' ,'technology' ,'photo' ,'3d' ,'modern' ,'motion' ,'device' ,'wireless' ,'digital' ,'with' ,'professional' ,'camera' ,'lens' ,'photographing' ,'stability' ,'remote' ,'security' ,'fly' ,'military' ,'robot' ,'flight' ,'innovation' ,'control' ,'propeller' ,'gadget' ,'video' ,'aircraft' ,'helicopter' ,'spy' ,'surveillance' ,'aviation' ,'aerial' ,'Pilot' ,'gps' ,'copter' ,'rotor' ,'rotorcraft' ,'rc' ,'drone' ,'Reconnaissance' ,'unmanned' ,'uav' ,'background' ,'multicopter' ,'quadrocopter' ]

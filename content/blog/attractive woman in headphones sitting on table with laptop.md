@@ -2,7 +2,7 @@
 title: 'attractive woman in headphones sitting on table with laptop'
 date: 2019-02-05T11:44:16+00:00
 author: EdZbarzhyvetsky
-author_url: https://depositphotos.com/portfolio-12985848.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985848.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12985848/image/24137/241372374/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'computer' ,'beautiful' ,'business' ,'holding' ,'person' ,'female' ,'sitting' ,'people' ,'caucasian' ,'connection' ,'modern' ,'office' ,'woman' ,'communication' ,'working' ,'laptop' ,'work' ,'learning' ,'indoors' ,'using' ,'headphones' ,'profession' ,'attractive' ,'casual' ,'workplace' ,'workspace' ,'businesswoman' ,'professional occupation' ,'copy space' ,'listening music' ]

@@ -2,7 +2,7 @@
 title: 'Quadrocopter'
 date: 2014-02-21T14:19:29+00:00
 author: coddie
-author_url: https://depositphotos.com/portfolio-1559266.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1559266.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1559266/image/4117/41172409/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'on' ,'isolated' ,'flying' ,'vehicle' ,'black' ,'aircraft' ,'aviation' ,'aerial' ,'copter' ,'rotorcraft' ,'rc' ,'vtol' ,'drone' ,'unmanned' ,'uav' ,'multicopter' ,'quadrocopter' ,'quadrotor' ]

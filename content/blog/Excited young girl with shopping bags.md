@@ -2,7 +2,7 @@
 title: 'Excited young girl with shopping bags'
 date: 2015-11-11T07:45:13+00:00
 author: Mendelex
-author_url: https://depositphotos.com/portfolio-3990667.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3990667.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/3990667/image/8930/89307576/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'background' ,'shopping' ,'bag' ,'isolated' ,'beautiful' ,'birthday' ,'christmas' ,'happy' ,'present' ,'sale' ,'customer' ,'holding' ,'shop' ,'buying' ,'season' ,'girl' ,'female' ,'young' ,'smiling' ,'beauty' ,'model' ,'happiness' ,'joy' ,'cheerful' ,'cute' ,'smile' ,'fashion' ,'pretty' ,'woman' ,'lifestyle' ,'gifts' ,'joyful' ,'sunglasses' ,'dress' ,'attractive' ,'casual' ,'sales' ,'occasion' ,'standing' ,'blowing' ,'excited' ,'purchase' ,'bags' ,'buyer' ,'shopper' ,'Holidays' ,'shopaholic' ,'consumer' ,'spree' ]

@@ -2,7 +2,7 @@
 title: 'Man with thumb down'
 date: 2012-01-10T11:20:47+00:00
 author: Porechenskaya
-author_url: https://depositphotos.com/portfolio-1137241.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1137241.html?ref=64678756
 image: https://static8.depositphotos.com/thumbs/1137241/image/839/8395150/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['business' ,'person' ,'male' ,'man' ,'hand' ,'wrist' ,'corporate' ,'office' ,'fingers' ,'thumb' ,'manager' ,'with' ,'professional' ,'arm' ,'job' ,'businessman' ,'judgement' ,'down' ,'camera' ,'project' ,'negative' ,'guy' ,'company' ,'sales' ,'choice' ,'proposition' ,'conflict' ,'thumbs' ,'decision' ,'political' ,'politics' ,'downward' ,'career' ,'decline' ,'fail' ,'disagreement' ,'businessperson' ,'debate' ,'election' ,'campaign' ,'fired' ,'unhappy' ,'rejection' ,'firing' ,'reject' ,'disapproval' ,'disgusted' ,'accepted' ,'disgruntled' ,'dislike' ]

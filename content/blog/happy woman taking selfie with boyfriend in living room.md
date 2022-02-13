@@ -2,7 +2,7 @@
 title: 'happy woman taking selfie with boyfriend in living room '
 date: 2021-10-28T11:55:34+00:00
 author: Ischukigor
-author_url: https://depositphotos.com/portfolio-46171552.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-46171552.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/46171552/image/52090/520900102/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['leisure' ,'beautiful' ,'happy' ,'smiling' ,'people' ,'cheerful' ,'caucasian' ,'man' ,'technology' ,'photo' ,'picture' ,'emotion' ,'interior' ,'home' ,'couple' ,'woman' ,'cellphone' ,'device' ,'mobile' ,'phone' ,'joyful' ,'together' ,'indoors' ,'blonde' ,'attractive' ,'Jeans' ,'apartment' ,'casual' ,'handsome' ,'denim' ,'positive' ,'pleased' ,'sofa' ,'take' ,'couch' ,'pillows' ,'relationship' ,'smartphone' ,'boyfriend' ,'girlfriend' ,'young adult' ,'Living Room' ,'have fun' ,'spending time' ,'Selfie' ]

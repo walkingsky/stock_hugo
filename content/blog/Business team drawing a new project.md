@@ -2,7 +2,7 @@
 title: 'Business team drawing a new project'
 date: 2014-09-10T07:15:40+00:00
 author: alphaspirit
-author_url: https://depositphotos.com/portfolio-1001201.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1001201.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1001201/image/5301/53015743/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['business' ,'financial' ,'new' ,'success' ,'growth' ,'man' ,'technology' ,'creativity' ,'arrow' ,'creative' ,'concept' ,'idea' ,'draw' ,'complex' ,'manager' ,'work' ,'job' ,'businessman' ,'planning' ,'drawing' ,'investment' ,'finance' ,'project' ,'achievement' ,'solution' ,'strategy' ,'sketch' ,'company' ,'marketing' ,'partner' ,'vision' ,'team' ,'worker' ,'invention' ,'improvement' ,'innovation' ,'positive' ,'social' ,'engineer' ,'write' ,'graph' ,'chart' ,'earn' ,'opportunity' ,'statistics' ,'diagram' ,'career' ,'increase' ,'stats' ,'statistic' ]

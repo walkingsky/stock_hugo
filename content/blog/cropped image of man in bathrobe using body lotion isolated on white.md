@@ -2,7 +2,7 @@
 title: 'cropped image of man in bathrobe using body lotion isolated on white'
 date: 2018-11-13T15:58:25+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13193658/image/22545/225456174/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'background' ,'isolated' ,'person' ,'people' ,'beauty' ,'morning' ,'male' ,'man' ,'towel' ,'individuality' ,'cosmetic' ,'bottle' ,'hygiene' ,'lotion' ,'treatment' ,'individual' ,'charming' ,'handsome' ,'wellness' ,'moisturizing' ,'bathrobe' ,'body care' ,'Studio Shot' ,'skin care' ,'body lotion' ,'morning routine' ,'perfect skin' ,'partial view' ,'cropped image' ]

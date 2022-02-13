@@ -2,7 +2,7 @@
 title: 'Woman relaxing in the nature on sunset'
 date: 2015-08-31T09:36:09+00:00
 author: Gilitukha
-author_url: https://depositphotos.com/portfolio-4122877.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-4122877.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/4122877/image/8215/82157886/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['sport' ,'leisure' ,'view' ,'beautiful' ,'happy' ,'travel' ,'smiling' ,'relaxation' ,'freedom' ,'scene' ,'nature' ,'caucasian' ,'mountain' ,'position' ,'individuality' ,'sunset' ,'tranquil' ,'meditation' ,'active' ,'woman' ,'fitness' ,'concentration' ,'looking' ,'gymnastic' ,'gymnastics' ,'exercise' ,'in' ,'journey' ,'hiking' ,'harmony' ,'positive' ,'relaxing' ,'barefoot' ,'enjoying' ,'At' ,'zen like' ,'yoga' ,'asana' ,'la' ,'naturaleza' ,'qui' ,'personas' ,'personne' ,'regarde' ,'tranquil scene' ,'brown hair' ,'one person' ,'Healthy Lifestyle' ,'Curly Hair' ,'one woman only' ]

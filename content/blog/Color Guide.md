@@ -2,7 +2,7 @@
 title: 'Color Guide'
 date: 2009-11-18T11:58:32+00:00
 author: Laures
-author_url: https://depositphotos.com/portfolio-1000693.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1000693.html?ref=64678756
 image: https://static3.depositphotos.com/thumbs/1000693/image/112/1120684/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['color' ,'image' ,'descriptive' ,'view' ,'close up' ,'colored' ,'design' ,'painting' ,'paper' ,'multi' ,'colour' ,'pattern' ,'photo' ,'accuracy' ,'paint' ,'elements' ,'fingers' ,'book' ,'variation' ,'stock' ,'sample' ,'swatch' ,'pantone' ,'print' ,'palette' ,'fabric' ,'choose' ,'choice' ,'free' ,'used' ,'spectrum' ,'fan' ,'chart' ,'cards' ,'homes' ,'Paintings' ,'guide' ,'selection' ,'for' ,'of' ,'Guidance' ,'catalog' ,'a' ,'ladies' ,'de' ,'ral' ,'Colores' ,'swatches' ,'cores' ,'Carta' ]

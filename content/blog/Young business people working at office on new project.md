@@ -2,7 +2,7 @@
 title: 'Young business people working at office on new project'
 date: 2015-10-26T05:47:06+00:00
 author: Lenets_Tatsiana
-author_url: https://depositphotos.com/portfolio-3200101.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3200101.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/3200101/image/8774/87746992/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['group' ,'computer' ,'happy' ,'business' ,'financial' ,'young' ,'smiling' ,'people' ,'happiness' ,'cheerful' ,'caucasian' ,'Men' ,'corporate' ,'office' ,'woman' ,'talking' ,'laptop' ,'data' ,'work' ,'businessman' ,'desk' ,'indoors' ,'project' ,'discussion' ,'attractive' ,'analyzing' ,'team' ,'teamwork' ,'designer' ,'chart' ,'meeting' ,'partners' ,'of' ,'partnership' ,'employee' ,'brainstorm' ,'cooperating' ]

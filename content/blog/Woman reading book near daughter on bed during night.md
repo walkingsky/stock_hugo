@@ -2,7 +2,7 @@
 title: 'Woman reading book near daughter on bed during night '
 date: 2021-05-11T06:57:53+00:00
 author: AntonLozovoy
-author_url: https://depositphotos.com/portfolio-13185108.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13185108.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/13185108/image/46853/468530742/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['leisure' ,'girl' ,'people' ,'caucasian' ,'child' ,'family' ,'dark' ,'bed' ,'kid' ,'imagination' ,'night' ,'adorable' ,'home' ,'evening' ,'woman' ,'lifestyle' ,'read' ,'together' ,'book' ,'education' ,'indoors' ,'learn' ,'literature' ,'daughter' ,'bedroom' ,'mother' ,'parent' ,'knowledge' ,'mom' ,'story' ,'relationship' ,'bedding' ,'motherhood' ,'preteen' ,'preadolescent' ]

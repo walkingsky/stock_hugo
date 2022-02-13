@@ -2,7 +2,7 @@
 title: 'Romantic couple in autumn forest'
 date: 2016-10-31T15:13:12+00:00
 author: ArturVerkhovetskiy
-author_url: https://depositphotos.com/portfolio-9880800.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-9880800.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/9880800/image/12845/128453076/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'happy' ,'art' ,'love' ,'romance' ,'season' ,'seasonal' ,'female' ,'sitting' ,'young' ,'smiling' ,'autumn' ,'leaves' ,'caucasian' ,'male' ,'youth' ,'man' ,'european' ,'basket' ,'couple' ,'romantic' ,'emotions' ,'two' ,'woman' ,'forest' ,'lifestyle' ,'emotional' ,'music' ,'togetherness' ,'attractive' ,'guitar' ,'sensual' ,'handsome' ,'enjoying' ,'picnic' ,'checkered' ,'plaid' ,'alfresco' ,'relationships' ,'young adult' ,'couple love' ]

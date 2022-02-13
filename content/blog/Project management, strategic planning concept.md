@@ -2,7 +2,7 @@
 title: 'Project management, strategic planning concept'
 date: 2015-03-04T16:56:09+00:00
 author: ideyweb
-author_url: https://depositphotos.com/portfolio-3991093.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3991093.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/3991093/vector/6631/66313999/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'illustration' ,'business' ,'people' ,'health' ,'medicine' ,'healthcare' ,'care' ,'pharmacy' ,'first' ,'basket' ,'icon' ,'service' ,'ambulance' ,'hospital' ,'nurse' ,'school' ,'communication' ,'digital' ,'support' ,'manager' ,'services' ,'laptop' ,'flat' ,'network' ,'development' ,'planning' ,'book' ,'learning' ,'education' ,'project' ,'laboratory' ,'strategy' ,'online' ,'marketing' ,'tablet' ,'plan' ,'media' ,'teamwork' ,'social' ,'knowledge' ,'distance' ,'E commerce' ,'strategic' ,'analysis' ,'management' ,'meeting' ,'aid' ,'partnership' ,'tutorial' ]

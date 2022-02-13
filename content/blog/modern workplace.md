@@ -2,7 +2,7 @@
 title: 'modern workplace'
 date: 2017-10-11T15:20:34+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/13193658/image/16917/169174546/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'objects' ,'computer' ,'nobody' ,'design' ,'light' ,'cup' ,'style' ,'office' ,'interior' ,'indoor' ,'stylish' ,'mug' ,'keyboard' ,'wireless' ,'electronics' ,'mouse' ,'desk' ,'gadget' ,'place' ,'whiteboard' ,'minimal' ,'worktable' ,'digital device' ,'modern workplace' ]

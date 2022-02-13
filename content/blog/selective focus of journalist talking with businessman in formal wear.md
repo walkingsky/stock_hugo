@@ -2,7 +2,7 @@
 title: 'selective focus of journalist talking with businessman in formal wear '
 date: 2019-09-12T12:36:20+00:00
 author: HayDmitriy
-author_url: https://depositphotos.com/portfolio-20363444.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-20363444.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/20363444/image/30154/301540700/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'business' ,'girl' ,'sunlight' ,'caucasian' ,'sunshine' ,'sunny' ,'european' ,'connection' ,'corporate' ,'office' ,'suit' ,'woman' ,'communication' ,'talk' ,'wireless' ,'talking' ,'manager' ,'businessman' ,'indoors' ,'inside' ,'profession' ,'attractive' ,'executive' ,'gadget' ,'daylight' ,'journalist' ,'interview' ,'daytime' ,'folder' ,'smartphone' ,'partial' ,'Journalism' ,'Cropped' ,'interviewing' ,'professional occupation' ,'Two People' ,'selective focus' ,'young adult' ,'formal wear' ,'low angle view' ,'digital device' ]

@@ -2,7 +2,7 @@
 title: 'Confident mature man in elegant shirt and tie showing chart and sharing business experience while making social media video'
 date: 2019-12-04T15:05:51+00:00
 author: gstockstudio
-author_url: https://depositphotos.com/portfolio-2931363.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2931363.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/2931363/image/32151/321512138/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['business' ,'people' ,'lifestyles' ,'technology' ,'Men' ,'office' ,'laptop' ,'internet' ,'indoors' ,'Eyewear' ,'chart' ,'teaching' ,'showing' ,'broadcasting' ,'formalwear' ,'confidence' ,'Filming' ,'Males' ,'blogging' ,'coach' ,'White Collar Worker' ,'Gray Hair' ,'Male Beauty' ,'Mature Adult' ,'one man only' ,'Place of Work' ,'Full Suit' ,'shirt and tie' ,'Financial Advisor' ,'social media' ,'Home Video Camera' ,'influencer' ,'vlogging' ,'live streaming' ]

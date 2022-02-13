@@ -2,7 +2,7 @@
 title: 'Drone with digital camera flying over a modern city at sunset'
 date: 2017-06-15T06:53:31+00:00
 author: cla1978
-author_url: https://depositphotos.com/portfolio-1006839.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1006839.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/1006839/image/15683/156838714/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['photography' ,'sky' ,'sunlight' ,'sun' ,'outdoor' ,'air' ,'flying' ,'vehicle' ,'supply' ,'technology' ,'photo' ,'3d' ,'modern' ,'sunset' ,'motion' ,'city' ,'wireless' ,'digital' ,'professional' ,'camera' ,'remote' ,'security' ,'fly' ,'blurred' ,'robot' ,'flight' ,'innovation' ,'control' ,'propeller' ,'gadget' ,'video' ,'aircraft' ,'helicopter' ,'spy' ,'exploration' ,'surveillance' ,'skyscrapers' ,'rendering' ,'airplane' ,'aerial' ,'Roads' ,'survey' ,'rotor' ,'videography' ,'drone' ,'aerial view' ,'quadcopter' ]

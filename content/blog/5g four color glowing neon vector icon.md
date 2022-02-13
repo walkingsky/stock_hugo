@@ -2,7 +2,7 @@
 title: '5g four color glowing neon vector icon'
 date: 2021-06-01T09:56:25+00:00
 author: Infolight
-author_url: https://depositphotos.com/portfolio-50337402.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-50337402.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/50337402/vector/47104/471044744/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'red' ,'yellow' ,'vector' ,'connection' ,'icon' ,'night' ,'wireless' ,'communications' ,'internet' ,'glow' ,'signal' ,'logo' ,'neon' ,'eps' ,'premium' ,'ui' ,'5g' ]

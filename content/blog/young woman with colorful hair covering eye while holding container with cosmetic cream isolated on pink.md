@@ -2,7 +2,7 @@
 title: 'young woman with colorful hair covering eye while holding container with cosmetic cream isolated on pink'
 date: 2021-10-13T13:29:12+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/12982378/image/50808/508081966/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['colored' ,'isolated' ,'beautiful' ,'bright' ,'beauty' ,'caucasian' ,'container' ,'cream' ,'face' ,'care' ,'generation' ,'skin' ,'pink' ,'pretty' ,'product' ,'hold' ,'woman' ,'cosmetic' ,'skincare' ,'body' ,'clean' ,'purity' ,'treatment' ,'hairstyle' ,'perfect' ,'attractive' ,'hipster' ,'one person' ,'closed eyes' ,'Studio Shot' ,'young adult' ,'dyed hair' ,'lip balm' ,'cover eye' ,'colorful hair' ,'generation z' ,'Gen Z' ]

@@ -2,7 +2,7 @@
 title: 'Natural Coffee cosmetic on white background.'
 date: 2020-01-20T10:18:05+00:00
 author: Nadianb
-author_url: https://depositphotos.com/portfolio-1558912.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1558912.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/1558912/image/33308/333087990/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'white' ,'background' ,'object' ,'nobody' ,'view' ,'set' ,'female' ,'beauty' ,'oil' ,'health' ,'healthy' ,'natural' ,'cream' ,'homemade' ,'care' ,'towel' ,'coffee' ,'personal' ,'skin' ,'relax' ,'lay' ,'candle' ,'product' ,'woman' ,'flat' ,'professional' ,'apply' ,'brush' ,'cosmetic' ,'skincare' ,'body' ,'soap' ,'spa' ,'treatment' ,'facial' ,'top' ,'supplies' ,'jar' ,'dermatology' ,'massage' ,'scrub' ,'spa background' ,'flatlay' ,'coffee scrub' ]

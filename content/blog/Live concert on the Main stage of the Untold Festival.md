@@ -2,7 +2,7 @@
 title: 'Live concert on the Main stage of the Untold Festival'
 date: 2015-08-19T12:25:40+00:00
 author: salajean
-author_url: https://depositphotos.com/portfolio-1355276.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1355276.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1355276/image/8034/80347056/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['fun' ,'lights' ,'shape' ,'young' ,'people' ,'cheering' ,'joy' ,'air' ,'hands' ,'band' ,'traditional' ,'live' ,'microphone' ,'music' ,'performance' ,'singer' ,'stage' ,'shadow' ,'show' ,'out' ,'dance' ,'rock' ,'dj' ,'concert' ,'singing' ,'in' ,'many' ,'hip hop' ,'artist' ,'musician' ,'crowd' ,'audience' ,'sold' ,'editorial' ,'laser' ,'the' ,'loudspeakers' ,'folk' ,'fans' ,'Rap' ,'dancers' ,'gig' ,'romania' ,'folklore' ,'traditions' ,'cluj napoca' ,'Raising Hands' ,'main stage' ,'untold festival' ,'subcarpati' ]

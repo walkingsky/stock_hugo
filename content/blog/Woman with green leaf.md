@@ -2,7 +2,7 @@
 title: 'Woman with green leaf'
 date: 2017-07-11T14:02:48+00:00
 author: ZaraMuzafarova
-author_url: https://depositphotos.com/portfolio-11433272.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-11433272.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/11433272/image/15964/159645102/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['close up' ,'beautiful' ,'person' ,'elegance' ,'girl' ,'young' ,'people' ,'beauty' ,'model' ,'sensuality' ,'floral' ,'brunette' ,'european' ,'style' ,'pretty' ,'elegant' ,'stylish' ,'pure' ,'makeup' ,'purity' ,'vogue' ,'alone' ,'attractive' ,'gorgeous' ,'posing' ,'fashionable' ,'summertime' ,'modeling' ,'styling' ,'closed eyes' ,'Studio Shot' ,'skin care' ,'green leaf' ,'palm leaf' ,'isolated on grey' ,'perfect skin' ,'Fashion Shoot' ,'caucasian woman' ]

@@ -2,7 +2,7 @@
 title: 'Musical background with retro microphone'
 date: 2010-10-12T11:59:39+00:00
 author: gladcov
-author_url: https://depositphotos.com/portfolio-1001160.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1001160.html?ref=64678756
 image: https://static5.depositphotos.com/thumbs/1001160/vector/400/4007342/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'vector' ,'background' ,'object' ,'illustration' ,'design' ,'isolated' ,'metal' ,'silver' ,'studio' ,'black' ,'grunge' ,'old' ,'retro' ,'vintage' ,'instrument' ,'classic' ,'icon' ,'communication' ,'electronic' ,'fingers' ,'sound' ,'with' ,'professional' ,'audio' ,'broadcast' ,'karaoke' ,'live' ,'microphone' ,'music' ,'musical' ,'radio' ,'notes' ,'volume' ,'media' ,'and' ,'ladies' ,'vectores' ,'mikrofon' ,'microfone' ,'music notes' ,'musical notes' ,'musicales' ,'texturas' ,'musicais' ]

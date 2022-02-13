@@ -2,7 +2,7 @@
 title: 'Kitchen with white cabinetry'
 date: 2012-01-25T15:44:43+00:00
 author: lmphot
-author_url: https://depositphotos.com/portfolio-1392258.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1392258.html?ref=64678756
 image: https://static8.depositphotos.com/thumbs/1392258/image/865/8656403/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

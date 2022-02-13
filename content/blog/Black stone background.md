@@ -2,7 +2,7 @@
 title: 'Black stone background'
 date: 2013-03-07T15:10:19+00:00
 author: vadelma_stock
-author_url: https://depositphotos.com/portfolio-2120981.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2120981.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/2120981/vector/2168/21682103/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'background' ,'graphic' ,'element' ,'illustration' ,'design' ,'brilliant' ,'crystal' ,'diamond' ,'luxury' ,'shiny' ,'stone' ,'shape' ,'decoration' ,'decorative' ,'bright' ,'business' ,'abstract' ,'sparkle' ,'shine' ,'light' ,'pattern' ,'black' ,'dark' ,'style' ,'banner' ,'modern' ,'cool' ,'backdrop' ,'creative' ,'concept' ,'effect' ,'futuristic' ,'urban' ,'blank' ,'stylish' ,'digital' ,'glow' ,'glowing' ,'wallpaper' ,'web' ,'template' ,'geometric' ,'original' ,'website' ,'vectors' ,'techno' ,'aggressive' ,'neon' ,'fondos' ]

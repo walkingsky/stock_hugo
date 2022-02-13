@@ -2,7 +2,7 @@
 title: 'handsome businessman in formal wear using laptop at home  '
 date: 2018-10-23T12:13:04+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13193658/image/22131/221310394/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['computer' ,'business' ,'person' ,'people' ,'morning' ,'caucasian' ,'male' ,'man' ,'connection' ,'coffee' ,'drink' ,'suit' ,'communication' ,'electronic' ,'manager' ,'laptop' ,'businessman' ,'indoors' ,'using' ,'profession' ,'executive' ,'handsome' ,'gadget' ,'networking' ,'professional occupation' ,'copy space' ,'formal wear' ,'at home' ,'digital device' ]

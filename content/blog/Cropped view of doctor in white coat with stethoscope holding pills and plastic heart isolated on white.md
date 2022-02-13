@@ -2,7 +2,7 @@
 title: 'Cropped view of doctor in white coat with stethoscope holding pills and plastic heart isolated on white'
 date: 2019-03-27T15:34:27+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12982378/image/25242/252420370/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['red' ,'beautiful' ,'happy' ,'equipment' ,'sign' ,'smiling' ,'cheerful' ,'smile' ,'health' ,'medicine' ,'healthcare' ,'medical' ,'brunette' ,'plastic' ,'symbol' ,'clinical' ,'doctor' ,'heart' ,'woman' ,'stethoscope' ,'treatment' ,'bottles' ,'profession' ,'attractive' ,'pills' ,'Medicare' ,'partial' ,'Cropped' ,'professional occupation' ,'Isolated On White' ,'one person' ,'Studio Shot' ,'Part Of' ,'white coat' ]

@@ -2,7 +2,7 @@
 title: 'Drone Vector Logo Set'
 date: 2015-09-09T09:50:35+00:00
 author: urazovsky.oleg
-author_url: https://depositphotos.com/portfolio-1674016.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1674016.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1674016/vector/8302/83020282/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'design' ,'set' ,'photography' ,'equipment' ,'air' ,'transport' ,'vehicle' ,'technology' ,'silhouette' ,'wireless' ,'camera' ,'remote' ,'robot' ,'flight' ,'control' ,'propeller' ,'aircraft' ,'helicopter' ,'spy' ,'surveillance' ,'logo' ,'emblem' ,'aerial' ,'copter' ,'rotor' ,'drone' ,'quadrocopter' ,'quadcopter' ]

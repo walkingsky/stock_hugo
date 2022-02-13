@@ -2,7 +2,7 @@
 title: 'cropped view of young woman applying lip gloss isolated on pink'
 date: 2020-09-09T15:08:32+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12982378/image/40320/403203398/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beauty' ,'model' ,'woman' ,'apply' ,'feminine' ,'makeup' ,'purity' ,'Applying' ,'partial' ,'Cropped' ,'one person' ,'selective focus' ,'Studio Shot' ,'young adult' ,'Isolated On pink' ,'lip gloss' ,'perfect skin' ,'decorative cosmetics' ,'clean face' ]

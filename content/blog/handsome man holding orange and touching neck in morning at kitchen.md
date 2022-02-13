@@ -2,7 +2,7 @@
 title: 'handsome man holding orange and touching neck in morning at kitchen'
 date: 2018-12-03T09:41:31+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12982378/image/22860/228600998/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['holding' ,'person' ,'people' ,'morning' ,'caucasian' ,'uncooked' ,'kitchen' ,'fruit' ,'tasty' ,'delicious' ,'appetizing' ,'meal' ,'breakfast' ,'male' ,'man' ,'ripe' ,'nutrition' ,'vegetarian' ,'home' ,'neck' ,'indoors' ,'touching' ,'vitamins' ,'apartment' ,'handsome' ,'oranges' ,'vegan' ,'weekday' ,'unprocessed' ,'Healthy Eating' ,'young adult' ,'raw food' ,'raw food diet' ,'organic food' ]

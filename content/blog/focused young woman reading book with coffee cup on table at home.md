@@ -2,7 +2,7 @@
 title: 'focused young woman reading book with coffee cup on table at home'
 date: 2018-05-15T12:14:50+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/13193658/image/19573/195734664/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['leisure' ,'beautiful' ,'person' ,'female' ,'young' ,'people' ,'beauty' ,'morning' ,'tea' ,'cup' ,'youth' ,'coffee' ,'drink' ,'rest' ,'relax' ,'indoor' ,'home' ,'beverage' ,'mug' ,'read' ,'information' ,'reading' ,'book' ,'education' ,'alone' ,'study' ,'attractive' ,'apartment' ,'casual' ,'refreshing' ,'relaxing' ,'tale' ,'story' ,'focused' ,'caucasian woman' ]

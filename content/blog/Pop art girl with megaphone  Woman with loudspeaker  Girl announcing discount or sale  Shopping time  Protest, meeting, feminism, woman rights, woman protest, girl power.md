@@ -2,7 +2,7 @@
 title: 'Pop art girl with megaphone. Woman with loudspeaker. Girl announcing discount or sale. Shopping time. Protest, meeting, feminism, woman rights, woman protest, girl power.'
 date: 2015-08-19T10:54:46+00:00
 author: Lucky2084
-author_url: https://depositphotos.com/portfolio-3721729.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3721729.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/3721729/image/7859/78592170/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

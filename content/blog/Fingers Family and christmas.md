@@ -2,7 +2,7 @@
 title: 'Fingers Family and christmas'
 date: 2012-09-23T15:17:25+00:00
 author: buchachon_photo
-author_url: https://depositphotos.com/portfolio-1779390.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1779390.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1779390/image/1312/13124205/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['fun' ,'group' ,'white' ,'background' ,'gift' ,'christmas' ,'decoration' ,'happy' ,'holiday' ,'ribbon' ,'xmas' ,'sign' ,'new' ,'love' ,'palm' ,'girl' ,'female' ,'women' ,'happiness' ,'joy' ,'smile' ,'sweet' ,'child' ,'family' ,'santa' ,'male' ,'face' ,'old' ,'hand' ,'Men' ,'symbol' ,'snow' ,'winter' ,'year' ,'hat' ,'backdrop' ,'concept' ,'idea' ,'icon' ,'message' ,'home' ,'fingers' ,'finger' ,'together' ,'wood' ,'ice' ,'team' ,'embrace' ,'hug' ,'give' ]

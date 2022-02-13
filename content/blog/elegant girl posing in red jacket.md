@@ -2,7 +2,7 @@
 title: 'elegant girl posing in red jacket'
 date: 2017-11-16T15:55:16+00:00
 author: Y-Boychenko
-author_url: https://depositphotos.com/portfolio-12071432.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12071432.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12071432/image/17350/173509868/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'person' ,'elegance' ,'girl' ,'people' ,'beauty' ,'model' ,'portrait' ,'style' ,'fashion' ,'elegant' ,'stylish' ,'trendy' ,'blonde' ,'vogue' ,'alone' ,'attractive' ,'gorgeous' ,'jacket' ,'fashionable' ,'modeling' ,'styling' ,'copy space' ,'Studio Shot' ,'red clothes' ,'young adult' ,'isolated on red' ,'Fashion Shoot' ,'caucasian woman' ,'red suit' ]

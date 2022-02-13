@@ -2,7 +2,7 @@
 title: 'Set of apps color icons'
 date: 2013-03-18T11:34:08+00:00
 author: Huhli13
-author_url: https://depositphotos.com/portfolio-1005549.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1005549.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1005549/vector/2249/22492623/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'color' ,'objects' ,'blue' ,'vector' ,'computer' ,'round' ,'background' ,'object' ,'backgrounds' ,'graphic' ,'element' ,'illustration' ,'design' ,'set' ,'glass' ,'business' ,'empty' ,'label' ,'new' ,'detail' ,'texture' ,'style' ,'square' ,'modern' ,'skin' ,'symbol' ,'pink' ,'elements' ,'icon' ,'blank' ,'button' ,'internet' ,'web' ,'buttons' ,'template' ,'rounded' ,'collection' ,'website' ,'application' ,'glossy' ,'icons' ,'logo' ,'of' ,'interface' ,'folder' ,'like' ,'software' ,'10' ,'app' ]

@@ -2,7 +2,7 @@
 title: 'Cute Cartoon Girl'
 date: 2016-10-02T11:03:42+00:00
 author: Reginast777
-author_url: https://depositphotos.com/portfolio-4207741.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-4207741.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/4207741/vector/12509/125095988/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

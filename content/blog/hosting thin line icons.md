@@ -2,7 +2,7 @@
 title: 'hosting thin line icons'
 date: 2017-05-16T15:34:09+00:00
 author: art_co
-author_url: https://depositphotos.com/portfolio-2808409.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2808409.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/2808409/vector/15326/153265684/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['set' ,'business' ,'sign' ,'cloud' ,'connection' ,'hardware' ,'technology' ,'transfer' ,'line' ,'memory' ,'symbol' ,'icon' ,'center' ,'service' ,'communications' ,'support' ,'network' ,'data' ,'information' ,'web' ,'certificate' ,'website' ,'outline' ,'infrastructure' ,'server' ,'bandwidth' ,'LAN' ,'mail' ,'access' ,'computing' ,'programming' ,'secure' ,'domain' ,'update' ,'folder' ,'firewall' ,'backup' ,'cpu' ,'unlimited' ,'database' ,'integration' ,'hosting' ,'directories' ,'24h' ,'api' ,'DNS' ,'ssl' ,'ssd' ,'uptime' ,'vps' ]

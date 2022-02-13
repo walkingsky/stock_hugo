@@ -2,7 +2,7 @@
 title: 'Chat sign icon. Speech bubble symbol.'
 date: 2014-09-17T12:22:37+00:00
 author: Blankstock
-author_url: https://depositphotos.com/portfolio-1915171.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1915171.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1915171/vector/5351/53514547/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'vector' ,'round' ,'circle' ,'graphic' ,'illustration' ,'paper' ,'shape' ,'sign' ,'label' ,'art' ,'cutout' ,'black' ,'cut' ,'silhouette' ,'gray' ,'symbol' ,'creative' ,'concept' ,'icon' ,'mark' ,'button' ,'communication' ,'talk' ,'flat' ,'live' ,'speech' ,'shadow' ,'information' ,'help' ,'web' ,'geometric' ,'badge' ,'long' ,'online' ,'navigation' ,'website' ,'bubble' ,'quality' ,'chat' ,'speak' ,'seal' ,'stamp' ,'token' ,'app' ]

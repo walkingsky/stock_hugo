@@ -2,7 +2,7 @@
 title: 'used plastic bags and cups in water, ecology concept'
 date: 2021-03-23T16:39:04+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/12982378/image/45889/458898796/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['background' ,'nobody' ,'nature' ,'environment' ,'water' ,'sea' ,'plastic' ,'backdrop' ,'concept' ,'ecology' ,'global' ,'earth' ,'planet' ,'world' ,'ocean' ,'rubbish' ,'trash' ,'problem' ,'ecological' ,'Pollution' ,'garbage' ,'underwater' ,'used' ,'ecosystem' ,'cellophane' ,'bags' ,'contamination' ,'cups' ,'polyethylene' ,'packs' ,'copy space' ,'no people' ]

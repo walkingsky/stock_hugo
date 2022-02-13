@@ -2,7 +2,7 @@
 title: 'handsome and smiling businessman showing thumb up and holding laptop with health website '
 date: 2019-09-24T11:37:15+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13193658/image/30157/301573698/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['computer' ,'sign' ,'smiling' ,'success' ,'cheerful' ,'caucasian' ,'smile' ,'health' ,'man' ,'european' ,'symbol' ,'emotion' ,'corporate' ,'office' ,'communication' ,'wireless' ,'manager' ,'laptop' ,'emotional' ,'businessman' ,'shirt' ,'indoors' ,'inside' ,'using' ,'leader' ,'profession' ,'online' ,'website' ,'glasses' ,'executive' ,'casual' ,'handsome' ,'positive' ,'mature' ,'gadget' ,'successful' ,'gesture' ,'management' ,'approval' ,'Gesturing' ,'multimedia' ,'CEO' ,'good looking' ,'professional occupation' ,'copy space' ,'one person' ,'brick wall' ,'middle aged' ,'thumb up' ,'digital device' ]

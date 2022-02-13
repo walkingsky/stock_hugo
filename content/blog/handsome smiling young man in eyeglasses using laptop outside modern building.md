@@ -2,7 +2,7 @@
 title: 'handsome smiling young man in eyeglasses using laptop outside modern building'
 date: 2018-06-05T07:55:50+00:00
 author: EdZbarzhyvetsky
-author_url: https://depositphotos.com/portfolio-12985848.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985848.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12985848/image/19803/198032546/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['happy' ,'business' ,'person' ,'young' ,'smiling' ,'people' ,'caucasian' ,'male' ,'youth' ,'man' ,'european' ,'drink' ,'urban' ,'beverage' ,'electronic' ,'laptop' ,'professional' ,'lifestyle' ,'work' ,'businessman' ,'using' ,'profession' ,'alone' ,'outside' ,'eyeglasses' ,'handsome' ,'worker' ,'gadget' ,'daylight' ,'networking' ,'daytime' ,'blogger' ,'self employed' ,'freelance' ,'freelancer' ,'copy space' ,'formal wear' ,'paper cup' ,'coffee to go' ,'digital device' ,'Caucasian Man' ,'remote work' ]

@@ -2,7 +2,7 @@
 title: 'Book of life'
 date: 2014-08-27T11:12:59+00:00
 author: SIphotography
-author_url: https://depositphotos.com/portfolio-3489481.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3489481.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/3489481/image/5208/52086275/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

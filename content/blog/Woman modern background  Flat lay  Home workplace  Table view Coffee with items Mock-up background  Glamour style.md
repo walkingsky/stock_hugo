@@ -2,7 +2,7 @@
 title: 'Woman modern background. Flat lay. Home workplace. Table view.Coffee with items.Mock-up background. Glamour style'
 date: 2016-12-30T15:16:59+00:00
 author: shatenka07
-author_url: https://depositphotos.com/portfolio-3235547.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3235547.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/3235547/image/13591/135911846/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'colors' ,'white' ,'background' ,'ball' ,'object' ,'view' ,'space' ,'business' ,'gold' ,'up' ,'flower' ,'style' ,'frame' ,'modern' ,'pink' ,'pastel' ,'office' ,'lay' ,'glamour' ,'woman' ,'keyboard' ,'screen' ,'desktop' ,'flat' ,'work' ,'document' ,'desk' ,'accessories' ,'wallpaper' ,'ice' ,'template' ,'stripe' ,'dots' ,'top' ,'tablet' ,'supplies' ,'workplace' ,'above' ,'patterns' ,'stationery' ,'items' ,'purse' ,'handbag' ,'trend' ,'scotch' ,'mock' ,'mock up' ,'flatlay' ]

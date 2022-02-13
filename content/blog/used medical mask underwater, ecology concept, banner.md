@@ -2,7 +2,7 @@
 title: 'used medical mask underwater, ecology concept, banner'
 date: 2021-03-23T16:39:04+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/12982378/image/45889/458898548/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['background' ,'nobody' ,'nature' ,'environment' ,'water' ,'sea' ,'banner' ,'backdrop' ,'concept' ,'aqua' ,'ecology' ,'global' ,'planet' ,'world' ,'ocean' ,'rubbish' ,'trash' ,'problem' ,'ecological' ,'Pollution' ,'garbage' ,'aquarium' ,'underwater' ,'virus' ,'used' ,'ecosystem' ,'contamination' ,'corona' ,'epidemic' ,'pandemic' ,'copy space' ,'no people' ,'medical mask' ,'protective mask' ,'coronavirus' ,'2019 ncov' ,'covid 19' ]

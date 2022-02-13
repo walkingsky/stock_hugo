@@ -2,7 +2,7 @@
 title: 'confident smiling happy pretty young professional woman'
 date: 2015-02-24T04:44:28+00:00
 author: SIphotography
-author_url: https://depositphotos.com/portfolio-3489481.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3489481.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/3489481/image/6572/65720209/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['blue' ,'copy' ,'space' ,'beautiful' ,'happy' ,'business' ,'person' ,'girl' ,'female' ,'people' ,'outdoors' ,'success' ,'smile' ,'life' ,'modern' ,'building' ,'city' ,'corporate' ,'urban' ,'windows' ,'real' ,'woman' ,'professional' ,'lifestyle' ,'work' ,'shirt' ,'finance' ,'busy' ,'leader' ,'attractive' ,'outside' ,'executive' ,'college' ,'student' ,'worker' ,'standing' ,'good' ,'educated' ,'teacher' ,'documents' ,'folder' ,'latin' ,'content' ,'lawyer' ,'broker' ,'employee' ,'Hispanic' ,'attorney' ,'dynamism' ]

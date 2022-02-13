@@ -2,7 +2,7 @@
 title: 'Book minimal bright yellow material icon'
 date: 2021-06-01T10:43:49+00:00
 author: Infolight
-author_url: https://depositphotos.com/portfolio-50337402.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-50337402.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/50337402/vector/47109/471091126/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['yellow' ,'vector' ,'black' ,'icon' ,'writing' ,'pen' ,'note' ,'read' ,'reading' ,'book' ,'education' ,'homework' ,'library' ,'literature' ,'study' ,'books' ,'story' ,'logo' ,'minimal' ,'eps' ,'premium' ,'open book' ,'writing tool' ,'edit tools' ]

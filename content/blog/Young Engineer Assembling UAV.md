@@ -2,7 +2,7 @@
 title: 'Young Engineer Assembling UAV'
 date: 2013-10-29T21:15:00+00:00
 author: SimpleFoto
-author_url: https://depositphotos.com/portfolio-1003098.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1003098.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1003098/image/3436/34369289/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['photography' ,'day' ,'person' ,'one' ,'young' ,'people' ,'park' ,'model' ,'outdoor' ,'caucasian' ,'vehicle' ,'preparation' ,'male' ,'man' ,'technology' ,'Men' ,'futuristic' ,'professional' ,'Expertise' ,'intelligence' ,'camera' ,'photographer' ,'remote' ,'fly' ,'robot' ,'casual' ,'control' ,'propeller' ,'aircraft' ,'helicopter' ,'engineer' ,'surveillance' ,'technician' ,'aviation' ,'aerial' ,'Pilot' ,'Slr' ,'copter' ,'rotorcraft' ,'Assembling' ,'Crouching' ,'drone' ,'drones' ,'unmanned' ,'uav' ,'carbon fiber' ,'uas' ,'multicopter' ,'octocopter' ,'multirotor' ]

@@ -2,7 +2,7 @@
 title: 'business team discusses the notes on the glass.'
 date: 2018-10-23T10:08:40+00:00
 author: depositedhar
-author_url: https://depositphotos.com/portfolio-1000816.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1000816.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/1000816/image/21998/219987078/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['group' ,'glass' ,'business' ,'ideas' ,'people' ,'success' ,'modern' ,'corporate' ,'office' ,'stickers' ,'communication' ,'working' ,'talking' ,'manager' ,'professional' ,'job' ,'pointing' ,'businessman' ,'planning' ,'information' ,'studying' ,'indoors' ,'discussion' ,'strategy' ,'company' ,'motivation' ,'team' ,'positive' ,'standing' ,'teamwork' ,'workspace' ,'successful' ,'management' ,'meeting' ,'consultation' ,'sticky' ,'cooperation' ,'diverse' ,'collaboration' ,'colleagues' ,'employees' ,'employee' ,'coworkers' ,'discussing' ,'entrepreneur' ,'employer' ,'Interacting' ,'co workers' ,'briefing' ,'coworking' ]

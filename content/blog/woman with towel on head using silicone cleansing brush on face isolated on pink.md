@@ -2,7 +2,7 @@
 title: 'woman with towel on head using silicone cleansing brush on face isolated on pink'
 date: 2021-09-24T15:27:17+00:00
 author: RostyslavOleksin
-author_url: https://depositphotos.com/portfolio-19406380.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-19406380.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/19406380/image/50270/502702242/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['blue' ,'isolated' ,'beautiful' ,'young' ,'beauty' ,'caucasian' ,'head' ,'wellbeing' ,'face' ,'care' ,'towel' ,'electric' ,'skin' ,'pink' ,'pretty' ,'woman' ,'device' ,'brush' ,'cosmetic' ,'skincare' ,'clean' ,'purity' ,'perfect' ,'attractive' ,'routine' ,'wellness' ,'gadget' ,'silicone' ,'use' ,'cleanser' ,'pampering' ,'terry' ,'cleansing' ,'copy space' ,'one person' ,'Studio Shot' ,'lip balm' ]

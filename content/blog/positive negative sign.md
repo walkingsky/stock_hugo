@@ -2,7 +2,7 @@
 title: 'positive negative sign'
 date: 2013-03-25T15:52:37+00:00
 author: alexmillos
-author_url: https://depositphotos.com/portfolio-1014014.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1014014.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1014014/image/2259/22594111/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'white' ,'background' ,'graphic' ,'illustration' ,'design' ,'isolated' ,'business' ,'empty' ,'metal' ,'sign' ,'road' ,'traffic' ,'3d' ,'arrow' ,'over' ,'real' ,'blank' ,'pole' ,'street' ,'highway' ,'negative' ,'direction' ,'billboard' ,'positive' ,'positivity' ,'word' ,'and' ,'to' ,'truth' ,'opposites' ,'roadsign' ]

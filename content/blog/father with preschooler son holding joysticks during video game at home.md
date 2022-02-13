@@ -2,7 +2,7 @@
 title: 'father with preschooler son holding joysticks during video game at home'
 date: 2019-03-05T12:53:03+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12982378/image/24793/247933308/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['leisure' ,'play' ,'fun' ,'entertainment' ,'holding' ,'sitting' ,'people' ,'cute' ,'caucasian' ,'child' ,'family' ,'male' ,'man' ,'boy' ,'childhood' ,'kid' ,'adorable' ,'home' ,'playing' ,'together' ,'togetherness' ,'preschooler' ,'indoors' ,'son' ,'handsome' ,'parent' ,'dad' ,'father' ,'gaming' ,'parenthood' ,'fatherhood' ,'daddy' ,'gamepads' ,'joysticks' ,'Living Room' ,'Video Game' ]

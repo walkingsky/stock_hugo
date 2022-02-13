@@ -2,7 +2,7 @@
 title: 'wood terrace on the beach and sun light'
 date: 2013-07-12T05:12:45+00:00
 author: jannystockphoto
-author_url: https://depositphotos.com/portfolio-1164721.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1164721.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1164721/image/2778/27788739/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'color' ,'blue' ,'background' ,'on' ,'design' ,'sky' ,'day' ,'decorative' ,'holiday' ,'empty' ,'Decor' ,'travel' ,'summer' ,'beauty' ,'sun' ,'outdoors' ,'nature' ,'abstract' ,'texture' ,'water' ,'light' ,'brown' ,'wooden' ,'board' ,'sea' ,'terrace' ,'old' ,'landscape' ,'backdrop' ,'relax' ,'with' ,'lifestyle' ,'horizon' ,'wood' ,'clouds' ,'netherlands' ,'beach' ,'coast' ,'ocean' ,'tourism' ,'plank' ,'pier' ,'harbor' ,'vacation' ,'waves' ,'lake' ,'island' ,'fishing' ,'the' ]

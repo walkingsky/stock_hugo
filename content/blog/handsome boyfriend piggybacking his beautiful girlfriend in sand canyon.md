@@ -2,7 +2,7 @@
 title: 'handsome boyfriend piggybacking his beautiful girlfriend in sand canyon '
 date: 2018-08-03T12:31:47+00:00
 author: IuliiaVerstaBO
-author_url: https://depositphotos.com/portfolio-14883968.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-14883968.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/14883968/image/20677/206770134/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'love' ,'girl' ,'female' ,'people' ,'outdoors' ,'nature' ,'caucasian' ,'friendship' ,'male' ,'man' ,'style' ,'couple' ,'elegant' ,'stylish' ,'tender' ,'woman' ,'together' ,'togetherness' ,'sand' ,'attractive' ,'handsome' ,'embrace' ,'closeness' ,'candid' ,'hug' ,'tenderness' ,'lovers' ,'relationship' ,'boyfriend' ,'girlfriend' ,'canyon' ,'piggyback' ,'blue sky' ,'young adult' ,'love story' ,'floral bouquet' ]

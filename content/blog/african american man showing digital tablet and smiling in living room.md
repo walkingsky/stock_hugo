@@ -2,7 +2,7 @@
 title: 'african american man showing digital tablet and smiling in living room'
 date: 2018-12-12T09:01:28+00:00
 author: EdZbarzhyvetsky
-author_url: https://depositphotos.com/portfolio-12985848.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985848.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12985848/image/22997/229972704/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['person' ,'smiling' ,'people' ,'comfortable' ,'male' ,'man' ,'connection' ,'indoor' ,'home' ,'communication' ,'wireless' ,'electronics' ,'room' ,'using' ,'comfort' ,'apartment' ,'gadget' ,'african american' ,'looking away' ,'Living Room' ,'blank screen' ,'Digital Tablet' ,'black man' ,'digital device' ]

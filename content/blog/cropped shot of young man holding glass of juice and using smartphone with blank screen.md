@@ -2,7 +2,7 @@
 title: 'cropped shot of young man holding glass of juice and using smartphone with blank screen'
 date: 2018-10-02T11:24:23+00:00
 author: VitalikRadko
-author_url: https://depositphotos.com/portfolio-13194036.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13194036.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13194036/image/21771/217710078/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['leisure' ,'glass' ,'holding' ,'person' ,'one' ,'young' ,'people' ,'fresh' ,'morning' ,'male' ,'man' ,'drink' ,'rest' ,'beverage' ,'electronic' ,'lifestyle' ,'indoors' ,'using' ,'juice' ,'asian' ,'eyeglasses' ,'apartment' ,'casual' ,'handsome' ,'gadget' ,'smartphone' ,'spectacles' ,'Homey' ,'Cropped' ,'copy space' ,'Domestic Life' ,'at home' ,'blank screen' ,'asian man' ,'millennial' ,'digital device' ]

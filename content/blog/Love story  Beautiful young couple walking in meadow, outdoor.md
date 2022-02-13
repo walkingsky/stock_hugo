@@ -2,7 +2,7 @@
 title: 'Love story. Beautiful young couple walking in meadow, outdoor'
 date: 2015-10-01T07:51:07+00:00
 author: AVRORRA
-author_url: https://depositphotos.com/portfolio-1134425.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1134425.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1134425/image/8475/84758576/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['sky' ,'happy' ,'valentine' ,'human' ,'love' ,'romance' ,'travel' ,'girl' ,'female' ,'smiling' ,'people' ,'field' ,'nature' ,'spring' ,'autumn' ,'caucasian' ,'flower' ,'family' ,'male' ,'man' ,'walking' ,'bouquet' ,'rest' ,'relax' ,'couple' ,'romantic' ,'two' ,'woman' ,'lifestyle' ,'countryside' ,'together' ,'togetherness' ,'pair' ,'guy' ,'attractive' ,'casual' ,'enjoying' ,'camomile' ,'closeness' ,'hug' ,'tenderness' ,'feeling' ,'passion' ,'relationship' ,'chamomile' ,'affection' ,'boyfriend' ,'girlfriend' ,'in love' ,'love story' ]

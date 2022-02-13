@@ -2,7 +2,7 @@
 title: 'African flamingos'
 date: 2011-03-24T09:57:24+00:00
 author: Anna_Om
-author_url: https://depositphotos.com/portfolio-1053646.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1053646.html?ref=64678756
 image: https://static5.depositphotos.com/thumbs/1053646/image/525/5252735/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['color' ,'group' ,'blue' ,'colorful' ,'colored' ,'beautiful' ,'reflection' ,'seasonal' ,'travel' ,'summer' ,'beauty' ,'park' ,'nature' ,'outdoor' ,'environment' ,'water' ,'autumn' ,'life' ,'animal' ,'electric' ,'african' ,'animals' ,'wildlife' ,'safari' ,'reserve' ,'landscape' ,'sunset' ,'peace' ,'bird' ,'pink' ,'ecology' ,'fingers' ,'scenery' ,'tools' ,'bay' ,'tourism' ,'wild' ,'in' ,'vacation' ,'many' ,'landscapes' ,'national' ,'Africa' ,'lake' ,'birds' ,'flock' ,'wilderness' ,'of' ,'destination' ,'kenya' ]

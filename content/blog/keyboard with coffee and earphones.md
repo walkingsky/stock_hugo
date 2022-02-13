@@ -2,7 +2,7 @@
 title: 'keyboard with coffee and earphones'
 date: 2017-11-15T12:28:57+00:00
 author: tomeversley
-author_url: https://depositphotos.com/portfolio-13098768.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13098768.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/13098768/image/17351/173516770/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['color' ,'computer' ,'background' ,'colorful' ,'view' ,'copy' ,'space' ,'bright' ,'business' ,'tech' ,'technology' ,'coffee' ,'modern' ,'pink' ,'creative' ,'office' ,'lay' ,'keyboard' ,'wireless' ,'notebook' ,'desktop' ,'flat' ,'work' ,'desk' ,'music' ,'notepad' ,'education' ,'pencil' ,'marketing' ,'designer' ,'workspace' ,'earphones' ,'minimal' ,'overhead' ,'minimalist' ,'copy space' ,'coffee cup' ,'from above' ,'web design' ,'flatlay' ]

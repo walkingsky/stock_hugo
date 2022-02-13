@@ -2,7 +2,7 @@
 title: 'thoughtful architect sitting at workplace near house model and blueprint'
 date: 2021-01-29T15:21:48+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/12982378/image/44285/442857914/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'paper' ,'business' ,'empty' ,'model' ,'plant' ,'caucasian' ,'man' ,'sit' ,'emotion' ,'architecture' ,'house' ,'office' ,'blank' ,'think' ,'notebook' ,'work' ,'job' ,'businessman' ,'desk' ,'indoors' ,'project' ,'profession' ,'plan' ,'architectural' ,'serious' ,'handsome' ,'architect' ,'designer' ,'workplace' ,'thoughtful' ,'blueprint' ,'bureau' ,'agency' ,'maquette' ,'copy space' ,'one person' ,'formal wear' ]

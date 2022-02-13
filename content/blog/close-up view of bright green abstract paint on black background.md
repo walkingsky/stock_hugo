@@ -2,7 +2,7 @@
 title: 'close-up view of bright green abstract paint on black background '
 date: 2018-05-25T14:35:20+00:00
 author: VadimVasenin
-author_url: https://depositphotos.com/portfolio-13324256.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13324256.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13324256/image/19715/197150070/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'color' ,'background' ,'nobody' ,'close up' ,'colored' ,'design' ,'shape' ,'bright' ,'art' ,'liquid' ,'abstract' ,'water' ,'creativity' ,'watercolor' ,'ink' ,'paint' ,'splash' ,'explosion' ,'fantasy' ,'flowing' ,'motion' ,'smoke' ,'swirl' ,'flow' ,'wallpaper' ,'artistic' ,'acrylic' ,'pigment' ,'copy space' ,'on black' ,'close up view' ]

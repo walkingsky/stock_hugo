@@ -2,7 +2,7 @@
 title: 'joyful african american woman in wireless headphones and on roller skates smiling while holding smartphone'
 date: 2021-10-05T09:43:14+00:00
 author: HayDmitriy
-author_url: https://depositphotos.com/portfolio-20363444.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-20363444.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/20363444/image/50620/506205086/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['sport' ,'leisure' ,'green' ,'entertainment' ,'beautiful' ,'happy' ,'season' ,'smiling' ,'summer' ,'grass' ,'outdoors' ,'cheerful' ,'hobby' ,'brunette' ,'technology' ,'sit' ,'emotion' ,'rest' ,'stylish' ,'hold' ,'woman' ,'cellphone' ,'device' ,'mobile' ,'phone' ,'wireless' ,'lifestyle' ,'curly' ,'joyful' ,'street' ,'trendy' ,'headphones' ,'sunglasses' ,'attractive' ,'outside' ,'shorts' ,'asphalt' ,'fashionable' ,'smartphone' ,'one person' ,'young adult' ,'black woman' ,'african american' ,'roller skates' ,'Crop Top' ]

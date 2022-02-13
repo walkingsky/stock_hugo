@@ -2,7 +2,7 @@
 title: 'Single story brick residential home with the garage in the front.'
 date: 2014-11-03T12:10:42+00:00
 author: Lindasj2
-author_url: https://depositphotos.com/portfolio-3759967.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3759967.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/3759967/image/5696/56963459/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['red' ,'small' ,'single' ,'new' ,'one' ,'brown' ,'family' ,'architecture' ,'estate' ,'exterior' ,'facade' ,'house' ,'real' ,'dwelling' ,'home' ,'fancy' ,'american' ,'property' ,'brick' ,'private' ,'real estate' ,'suburban' ,'outside' ,'residence' ,'housing' ,'residential' ,'household' ,'landscaped' ,'garage' ,'contemporary' ,'story' ,'tan' ,'Suburb' ,'porch' ,'realestate' ,'realty' ,'homestead' ,'neighborhood' ,'landscaping' ,'suburbia' ,'one story' ,'single family' ]

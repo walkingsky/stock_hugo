@@ -2,7 +2,7 @@
 title: 'stethoscope, cardiogram and red heart isolated  on blue background  '
 date: 2018-01-05T11:52:18+00:00
 author: AntonMatyukha
-author_url: https://depositphotos.com/portfolio-13349494.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13349494.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/13349494/image/17896/178964866/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['red' ,'white' ,'objects' ,'blue' ,'background' ,'nobody' ,'graphic' ,'paper' ,'health' ,'healthy' ,'medicine' ,'healthcare' ,'medical' ,'heart' ,'stethoscope' ,'therapy' ,'treatment' ,'cardiogram' ,'top view' ,'isolated on blue' ]

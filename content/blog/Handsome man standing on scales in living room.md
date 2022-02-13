@@ -2,7 +2,7 @@
 title: 'Handsome man standing on scales in living room'
 date: 2020-05-13T13:53:20+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12982378/image/37052/370527204/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['plant' ,'leaves' ,'caucasian' ,'flora' ,'man' ,'european' ,'home' ,'measure' ,'measurement' ,'weight' ,'stand' ,'indoors' ,'Jeans' ,'casual' ,'handsome' ,'denim' ,'couch' ,'scales' ,'quarantine' ,'one person' ,'Living Room' ,'looking down' ,'self isolation' ]

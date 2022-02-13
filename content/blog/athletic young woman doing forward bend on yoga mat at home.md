@@ -2,7 +2,7 @@
 title: 'athletic young woman doing forward bend on yoga mat at home'
 date: 2018-05-18T08:20:14+00:00
 author: AllaSerebrina
-author_url: https://depositphotos.com/portfolio-12985790.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985790.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12985790/image/19602/196028354/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['sport' ,'activity' ,'beautiful' ,'equipment' ,'person' ,'girl' ,'female' ,'people' ,'position' ,'pose' ,'meditation' ,'indoor' ,'home' ,'active' ,'sportive' ,'fit' ,'fitness' ,'exercise' ,'Exercising' ,'alone' ,'attractive' ,'athlete' ,'training' ,'buddhism' ,'meditating' ,'sporting' ,'yoga' ,'Stretching' ,'athletic' ,'workout' ,'practice' ,'flexibility' ,'asana' ,'sporty' ,'sportswear' ,'practicing' ,'sportswoman' ,'young adult' ,'working out' ,'yoga mat' ,'caucasian woman' ,'fit ball' ,'forward bend' ]

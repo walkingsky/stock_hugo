@@ -2,7 +2,7 @@
 title: 'Unposed group of creative business people in an open concept office brainstorming their next project.'
 date: 2016-05-17T04:45:42+00:00
 author: julief514
-author_url: https://depositphotos.com/portfolio-2810065.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2810065.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/2810065/image/10955/109559510/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['group' ,'happy' ,'business' ,'young' ,'people' ,'women' ,'natural' ,'man' ,'Men' ,'creative' ,'office' ,'authentic' ,'diversity' ,'woman' ,'conversation' ,'digital' ,'talking' ,'businessman' ,'Presentation' ,'concentration' ,'discussion' ,'tablet' ,'serious' ,'team' ,'innovation' ,'leadership' ,'owner' ,'candid' ,'Gesturing' ,'meeting' ,'businesswoman' ,'confident' ,'interview' ,'diverse' ,'boss' ,'disagreement' ,'CEO' ,'brainstorming' ,'discussing' ,'agency' ,'brainstorm' ,'concerned' ,'Real People' ,'african american' ,'mixed race' ,'Small Business' ,'multi ethnic' ]

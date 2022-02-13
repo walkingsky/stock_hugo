@@ -2,7 +2,7 @@
 title: 'Medical background'
 date: 2012-04-11T18:16:08+00:00
 author: megija
-author_url: https://depositphotos.com/portfolio-1067125.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1067125.html?ref=64678756
 image: https://static8.depositphotos.com/thumbs/1067125/vector/999/9992790/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['blue' ,'computer' ,'background' ,'number' ,'illustration' ,'design' ,'business' ,'human' ,'abstract' ,'health' ,'healthy' ,'pattern' ,'medicine' ,'medical' ,'technology' ,'style' ,'banner' ,'modern' ,'concept' ,'cell' ,'device' ,'fingers' ,'network' ,'body' ,'cover' ,'wallpaper' ,'stomach' ,'web' ,'template' ,'biology' ,'science' ,'lung' ,'company' ,'website' ,'system' ,'layout' ,'map' ,'organ' ,'chart' ,'scheme' ,'brochure' ,'anatomy' ,'diagram' ,'digestive' ,'clinic' ,'devices' ,'ache' ,'ladies' ,'lungs' ,'digestión' ]

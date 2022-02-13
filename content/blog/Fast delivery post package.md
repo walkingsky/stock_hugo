@@ -2,7 +2,7 @@
 title: 'Fast delivery post package'
 date: 2014-01-09T12:01:12+00:00
 author: nicholashan
-author_url: https://depositphotos.com/portfolio-1017908.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1017908.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1017908/image/3838/38389547/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['shopping' ,'pack' ,'sky' ,'box' ,'package' ,'parcel' ,'transport' ,'cardboard' ,'carton' ,'packaging' ,'brown' ,'remote' ,'fast' ,'shipment' ,'delivery' ,'fly' ,'order' ,'control' ,'propeller' ,'helicopter' ,'Packet' ,'commerce' ,'airplane' ,'mail' ,'post' ,'deliver' ,'sending' ,'Taiwan' ,'drone' ,'despatch' ,'unmanned' ,'uav' ,'multicopter' ]

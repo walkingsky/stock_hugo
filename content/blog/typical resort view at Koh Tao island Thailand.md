@@ -2,7 +2,7 @@
 title: 'typical resort view at Koh Tao island Thailand '
 date: 2015-04-16T11:57:27+00:00
 author: iggy74
-author_url: https://depositphotos.com/portfolio-4695029.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-4695029.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/4695029/image/7029/70295071/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['blue' ,'on' ,'view' ,'stone' ,'sky' ,'beautiful' ,'travel' ,'relaxation' ,'outdoors' ,'nature' ,'natural' ,'sea' ,'wave' ,'tropical' ,'landscape' ,'house' ,'relax' ,'clear' ,'connect' ,'beach' ,'ocean' ,'rock' ,'sand' ,'resort' ,'ship' ,'journey' ,'paradise' ,'trip' ,'thailand' ,'rent' ,'island' ,'destination' ,'wonder' ,'bangkok' ,'phuket' ,'even' ,'viewpoint' ,'yuan' ,'ko' ,'siam' ,'tao' ,'koh' ,'thai' ,'pattaya' ,'krabi' ,'similan' ,'samui' ,'nang' ,'Railay' ,'phangan' ]

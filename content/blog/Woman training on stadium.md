@@ -2,7 +2,7 @@
 title: 'Woman training on stadium'
 date: 2016-10-13T11:16:13+00:00
 author: AntonShevchenko
-author_url: https://depositphotos.com/portfolio-9842946.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-9842946.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/9842946/image/12607/126079840/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['sport' ,'activity' ,'horizontal' ,'beautiful' ,'years' ,'girl' ,'female' ,'young' ,'outdoors' ,'caucasian' ,'health' ,'healthy' ,'brunette' ,'active' ,'legs' ,'woman' ,'lifestyle' ,'fit' ,'fitness' ,'exercise' ,'outside' ,'athlete' ,'stadium' ,'training' ,'wellness' ,'daylight' ,'sneakers' ,'Stretching' ,'athletic' ,'workout' ,'ukrainian' ,'cardio' ,'sporty' ,'sportswear' ,'33' ,'side view' ,'Warming Up' ,'warm up' ]

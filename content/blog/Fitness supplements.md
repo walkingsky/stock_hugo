@@ -2,7 +2,7 @@
 title: 'Fitness supplements'
 date: 2011-06-09T06:56:31+00:00
 author: BrunoWeltmann
-author_url: https://depositphotos.com/portfolio-1006197.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1006197.html?ref=64678756
 image: https://static6.depositphotos.com/thumbs/1006197/image/577/5773454/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['sport' ,'bar' ,'white' ,'blue' ,'nature' ,'sports' ,'health' ,'life' ,'food' ,'diet' ,'medicine' ,'medical' ,'care' ,'pharmacy' ,'electric' ,'nutrition' ,'hand' ,'concept' ,'vitamin' ,'lifestyle' ,'weight' ,'body' ,'fitness' ,'gym' ,'tools' ,'capsules' ,'loss' ,'drugs' ,'pills' ,'tablets' ,'products' ,'weights' ,'supplements' ,'and' ,'supplement' ,'nutritional' ,'i' ,'barbells' ,'natura' ,'et' ,'saude' ,'alimentation' ,'fitnes' ,'deporte' ,'nutricion' ,'sante' ,'complements' ,'supplementation' ,'integrazione' ,'alimentare' ]

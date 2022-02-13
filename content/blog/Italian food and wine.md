@@ -2,7 +2,7 @@
 title: 'Italian food and wine'
 date: 2012-02-22T16:06:02+00:00
 author: klenova
-author_url: https://depositphotos.com/portfolio-1001092.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1001092.html?ref=64678756
 image: https://static8.depositphotos.com/thumbs/1001092/image/910/9107338/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['red' ,'colors' ,'white' ,'background' ,'backgrounds' ,'vibrant' ,'element' ,'macro' ,'design' ,'bright' ,'leaves' ,'oil' ,'healthy' ,'life' ,'vivid' ,'food' ,'cooking' ,'cuisine' ,'ingredient' ,'recipe' ,'whole' ,'mushroom' ,'eating' ,'tomato' ,'herbs' ,'spicy' ,'cook' ,'over' ,'pepper' ,'hot' ,'text' ,'napkin' ,'wine' ,'gourmet' ,'aromatic' ,'fingers' ,'with' ,'still' ,'bottle' ,'garlic' ,'copyspace' ,'cover' ,'foods' ,'italian' ,'sample' ,'bay' ,'dried' ,'olive' ,'still life' ,'styled' ]

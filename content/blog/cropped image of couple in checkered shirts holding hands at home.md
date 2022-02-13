@@ -2,7 +2,7 @@
 title: 'cropped image of couple in checkered shirts holding hands at home'
 date: 2018-11-09T13:41:38+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12982378/image/22440/224405112/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['girl' ,'female' ,'people' ,'caucasian' ,'affectionate' ,'friendship' ,'male' ,'man' ,'crop' ,'home' ,'couple' ,'woman' ,'together' ,'togetherness' ,'indoors' ,'attractive' ,'apartment' ,'handsome' ,'closeness' ,'relationship' ,'checkered' ,'boyfriend' ,'girlfriend' ,'shirts' ,'young adult' ,'holding hands' ,'partial view' ,'cropped image' ]

@@ -2,7 +2,7 @@
 title: 'Toned Flat lay tablet and flowers on white blanket with turquoise plaid'
 date: 2017-08-29T08:24:30+00:00
 author: ok_kate
-author_url: https://depositphotos.com/portfolio-4525917.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-4525917.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/4525917/image/16436/164362816/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'blue' ,'background' ,'nobody' ,'copy' ,'space' ,'holiday' ,'business' ,'travel' ,'relaxation' ,'comfortable' ,'spring' ,'morning' ,'healthy' ,'life' ,'warm' ,'breakfast' ,'rustic' ,'bed' ,'blanket' ,'turquoise' ,'pastel' ,'soft' ,'domestic' ,'rest' ,'relax' ,'interior' ,'cozy' ,'home' ,'romantic' ,'lifestyle' ,'work' ,'still' ,'feminine' ,'room' ,'indoors' ,'toned' ,'tray' ,'tablet' ,'comfort' ,'bedroom' ,'mint' ,'post' ,'blog' ,'bedding' ,'plaid' ,'flatlay' ]

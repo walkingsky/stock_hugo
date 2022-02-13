@@ -2,7 +2,7 @@
 title: 'Project management mind map scheme'
 date: 2014-07-01T07:40:16+00:00
 author: orson
-author_url: https://depositphotos.com/portfolio-1055089.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1055089.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1055089/vector/4881/48818563/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

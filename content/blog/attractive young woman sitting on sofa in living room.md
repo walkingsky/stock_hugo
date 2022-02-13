@@ -2,7 +2,7 @@
 title: 'attractive young woman sitting on sofa in living room '
 date: 2020-06-04T13:22:26+00:00
 author: AlexShadyuk
-author_url: https://depositphotos.com/portfolio-17484154.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-17484154.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/17484154/image/37857/378574516/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['blue' ,'beautiful' ,'girl' ,'caucasian' ,'european' ,'sit' ,'soft' ,'rest' ,'relax' ,'home' ,'woman' ,'indoors' ,'attractive' ,'Jeans' ,'casual' ,'denim' ,'loft' ,'sofa' ,'chill' ,'pillows' ,'socks' ,'copy space' ,'one person' ,'brick wall' ,'young adult' ,'Living Room' ,'White T shirt' ]

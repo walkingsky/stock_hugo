@@ -2,7 +2,7 @@
 title: 'Classic frame with ornament decor in pastel purple color isolated on pink background. Digital illustration. 3d rendering'
 date: 2018-08-31T07:20:15+00:00
 author: remuhin
-author_url: https://depositphotos.com/portfolio-16748576.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-16748576.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/16748576/image/21059/210590022/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['render' ,'design' ,'isolated' ,'decoration' ,'art' ,'floral' ,'flower' ,'ornate' ,'antique' ,'border' ,'frame' ,'old' ,'picture' ,'retro' ,'vintage' ,'3d' ,'ornament' ,'pink' ,'pastel' ,'gallery' ,'museum' ,'carved' ,'carving' ,'baroque' ,'lounge' ,'mockup' ,'moulding' ,'white background' ,'copy space' ,'3d rendering' ,'Living Room' ,'interior design' ,'3d illustration' ,'3D visualization' ]

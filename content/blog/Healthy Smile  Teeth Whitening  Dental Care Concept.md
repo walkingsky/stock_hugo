@@ -2,7 +2,7 @@
 title: 'Healthy Smile. Teeth Whitening. Dental Care Concept'
 date: 2013-12-09T11:45:01+00:00
 author: Subbotina
-author_url: https://depositphotos.com/portfolio-1491329.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1491329.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1491329/image/3696/36962569/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'background' ,'isolated' ,'beautiful' ,'person' ,'girl' ,'female' ,'young' ,'smiling' ,'beauty' ,'happiness' ,'fresh' ,'smile' ,'up' ,'close' ,'health' ,'healthy' ,'teenager' ,'mouth' ,'protection' ,'face' ,'care' ,'skin' ,'concept' ,'teeth' ,'dentist' ,'clear' ,'woman' ,'fingers' ,'skincare' ,'clean' ,'hygiene' ,'treatment' ,'dental' ,'dentistry' ,'stomatology' ,'lady' ,'perfect' ,'lips' ,'treat' ,'laugh' ,'cheek' ,'denture' ,'ladies' ,'alignment' ,'whitening' ,'dentition' ,'whiten' ,'bleach' ,'braces' ]

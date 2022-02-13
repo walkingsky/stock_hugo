@@ -2,7 +2,7 @@
 title: 'Application Green and yellow modern 3d vector icon logo'
 date: 2021-06-01T08:04:12+00:00
 author: Infolight
-author_url: https://depositphotos.com/portfolio-50337402.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-50337402.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/50337402/vector/47091/470916162/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'yellow' ,'vector' ,'health' ,'blood' ,'3d' ,'icon' ,'application' ,'logo' ,'eps' ,'premium' ,'transfusion' ,'health care' ,'healthcare and medical' ,'Blood Donation' ,'medical app' ]

@@ -2,7 +2,7 @@
 title: 'Smiling Hipster Girl with her Dog and Bike'
 date: 2015-04-23T06:15:27+00:00
 author: brickrena
-author_url: https://depositphotos.com/portfolio-1012434.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1012434.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1012434/image/7099/70994381/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['leisure' ,'fun' ,'beautiful' ,'happy' ,'girl' ,'young' ,'smiling' ,'summer' ,'sunlight' ,'park' ,'joy' ,'outdoor' ,'cute' ,'caucasian' ,'smile' ,'hobby' ,'light' ,'warm' ,'youth' ,'style' ,'photo' ,'sit' ,'pet' ,'fashion' ,'hat' ,'pretty' ,'city' ,'urban' ,'dog' ,'hot' ,'legs' ,'woman' ,'with' ,'lifestyle' ,'delight' ,'fit' ,'trendy' ,'toned' ,'in' ,'bicycle' ,'bike' ,'sunglasses' ,'sexy' ,'chic' ,'casual' ,'outfit' ,'candid' ,'sneakers' ,'el' ,'the' ]

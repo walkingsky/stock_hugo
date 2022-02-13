@@ -2,7 +2,7 @@
 title: 'Amphora Green and yellow modern 3d vector icon logo'
 date: 2021-06-01T09:33:05+00:00
 author: Infolight
-author_url: https://depositphotos.com/portfolio-50337402.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-50337402.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/50337402/vector/47102/471020748/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'yellow' ,'vector' ,'antique' ,'3d' ,'icon' ,'greek' ,'pottery' ,'logo' ,'amphora' ,'monuments' ,'eps' ,'premium' ,'art and design' ]

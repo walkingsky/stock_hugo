@@ -2,7 +2,7 @@
 title: 'Lights blurred bokeh background'
 date: 2016-08-15T07:55:29+00:00
 author: Irochka
-author_url: https://depositphotos.com/portfolio-1000992.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1000992.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1000992/image/11952/119526032/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'color' ,'lights' ,'red' ,'yellow' ,'nightlife' ,'blue' ,'background' ,'colorful' ,'horizontal' ,'circle' ,'design' ,'photography' ,'shiny' ,'shape' ,'beautiful' ,'christmas' ,'decoration' ,'festive' ,'holiday' ,'xmas' ,'bright' ,'art' ,'travel' ,'outdoors' ,'outdoor' ,'abstract' ,'texture' ,'pattern' ,'black' ,'crop' ,'dark' ,'road' ,'year' ,'concept' ,'effect' ,'blur' ,'city' ,'urban' ,'night' ,'glow' ,'glowing' ,'wallpaper' ,'street' ,'town' ,'blurred' ,'circles' ,'defocused' ,'blink' ]

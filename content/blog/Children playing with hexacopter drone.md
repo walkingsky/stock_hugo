@@ -2,7 +2,7 @@
 title: 'Children playing with hexacopter drone '
 date: 2016-11-28T10:41:41+00:00
 author: AndrewLobov
-author_url: https://depositphotos.com/portfolio-9881904.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-9881904.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/9881904/image/13185/131853488/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

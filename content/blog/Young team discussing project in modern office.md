@@ -2,7 +2,7 @@
 title: 'Young team discussing project in modern office  '
 date: 2018-02-02T08:47:59+00:00
 author: alebloshka
-author_url: https://depositphotos.com/portfolio-12674628.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12674628.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12674628/image/18241/182415682/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['computer' ,'business' ,'female' ,'young' ,'people' ,'caucasian' ,'male' ,'Men' ,'corporate' ,'woman' ,'working' ,'laptop' ,'indoors' ,'profession' ,'executive' ,'teamwork' ,'workplace' ,'workspace' ,'successful' ,'concentrated' ,'focused' ,'businesswoman' ,'businessmen' ,'businesspeople' ,'formalwear' ,'daytime' ,'colleagues' ,'coworkers' ,'professional occupation' ,'natural light' ,'modern office' ]

@@ -2,7 +2,7 @@
 title: 'Black Clipboard Flat four color minimal icon set'
 date: 2021-06-01T07:07:02+00:00
 author: Infolight
-author_url: https://depositphotos.com/portfolio-50337402.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-50337402.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/50337402/vector/47085/470859388/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'blue' ,'vector' ,'set' ,'paper' ,'icon' ,'flat' ,'note' ,'reminder' ,'notes' ,'logo' ,'papers' ,'minimal' ,'eps' ,'premium' ,'office material' ,'tools and utensils' ]

@@ -2,7 +2,7 @@
 title: 'Female fashion trendy stylish pastel pink accessories set on white background. Flat lay, top view.'
 date: 2018-05-04T07:52:16+00:00
 author: maximleshkovich
-author_url: https://depositphotos.com/portfolio-7595566.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-7595566.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/7595566/image/19414/194144302/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'background' ,'view' ,'merchandise' ,'female' ,'beauty' ,'life' ,'style' ,'watch' ,'fashion' ,'bracelet' ,'modern' ,'pink' ,'pastel' ,'concept' ,'lay' ,'necklace' ,'stylish' ,'romantic' ,'pale' ,'flat' ,'lifestyle' ,'desk' ,'still' ,'accessories' ,'feminine' ,'mood' ,'trendy' ,'top' ,'sunglasses' ,'look' ,'earrings' ,'casual' ,'above' ,'collage' ,'minimalism' ,'blog' ,'purse' ,'boutique' ,'clutch' ,'minimal' ,'flatlay' ]

@@ -2,7 +2,7 @@
 title: 'Cute girl'
 date: 2012-06-09T12:17:42+00:00
 author: interactimages
-author_url: https://depositphotos.com/portfolio-1526816.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1526816.html?ref=64678756
 image: https://static9.depositphotos.com/thumbs/1526816/vector/1105/11052264/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'blue' ,'vector' ,'object' ,'element' ,'illustration' ,'isolated' ,'holding' ,'person' ,'human' ,'girl' ,'female' ,'young' ,'women' ,'cute' ,'smile' ,'girls' ,'child' ,'little' ,'cartoon' ,'children' ,'eyes' ,'kids' ,'hand' ,'open' ,'expression' ,'adorable' ,'woman' ,'stand' ,'drawing' ,'blonde' ,'clipart' ,'sketch' ,'clip art' ,'dress' ,'innocent' ,'tiny' ,'shoes' ,'standing' ,'short' ,'rosy' ,'gesture' ,'arms' ,'of' ,'a' ,'sandals' ,'cheeks' ,'outstretched' ,'fille' ,'dessin' ]

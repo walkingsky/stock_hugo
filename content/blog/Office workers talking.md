@@ -2,7 +2,7 @@
 title: 'Office workers talking'
 date: 2015-04-16T17:42:16+00:00
 author: pressmaster
-author_url: https://depositphotos.com/portfolio-1594308.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1594308.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1594308/image/6940/69405663/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'happy' ,'business' ,'person' ,'young' ,'smiling' ,'people' ,'man' ,'coffee' ,'office' ,'woman' ,'communication' ,'laptop' ,'internet' ,'businessman' ,'partner' ,'teamwork' ,'secretary' ,'meeting' ,'businesswoman' ,'businesspeople' ,'cooperation' ,'typing' ,'and' ,'Colleague' ,'Coworker' ]

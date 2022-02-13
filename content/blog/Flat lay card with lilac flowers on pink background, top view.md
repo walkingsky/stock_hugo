@@ -2,7 +2,7 @@
 title: 'Flat lay card with lilac flowers on pink background, top view'
 date: 2018-06-11T07:11:51+00:00
 author: KucherAndrey
-author_url: https://depositphotos.com/portfolio-4516737.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-4516737.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/4516737/image/19877/198775360/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'background' ,'view' ,'design' ,'copy' ,'space' ,'gift' ,'anniversary' ,'birthday' ,'celebration' ,'day' ,'decoration' ,'decorative' ,'greeting' ,'holiday' ,'empty' ,'art' ,'spring' ,'fresh' ,'plant' ,'up' ,'petal' ,'blooming' ,'floral' ,'flower' ,'pattern' ,'branch' ,'card' ,'frame' ,'vintage' ,'lilac' ,'pink' ,'pastel' ,'purple' ,'lay' ,'text' ,'wedding' ,'flat' ,'template' ,'top' ,'layout' ,'congratulations' ,'postcard' ,'above' ,'arrangement' ,'minimal' ,'mockup' ,'minimalistic' ,'springbackground' ,'flatlay' ]

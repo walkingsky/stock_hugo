@@ -2,7 +2,7 @@
 title: 'Seamless floral pattern'
 date: 2011-08-01T14:22:52+00:00
 author: SelenaMay
-author_url: https://depositphotos.com/portfolio-1011280.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1011280.html?ref=64678756
 image: https://static6.depositphotos.com/thumbs/1011280/vector/613/6135911/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['color' ,'image' ,'white' ,'vector' ,'background' ,'colorful' ,'backgrounds' ,'graphic' ,'element' ,'illustration' ,'design' ,'beautiful' ,'decoration' ,'decorative' ,'silver' ,'art' ,'Decor' ,'season' ,'beauty' ,'leaf' ,'abstract' ,'plant' ,'texture' ,'cute' ,'floral' ,'flower' ,'flowers' ,'cow' ,'pattern' ,'black' ,'branch' ,'line' ,'style' ,'border' ,'card' ,'retro' ,'vintage' ,'cartoon' ,'hands' ,'kids' ,'flores' ,'seamless' ,'ornament' ,'easter' ,'elements' ,'inspiration' ,'backdrop' ,'creative' ,'swirl' ,'office' ]

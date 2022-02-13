@@ -2,7 +2,7 @@
 title: 'Healthy lifestyle background with icon set and hands'
 date: 2014-09-02T12:22:46+00:00
 author: Olyzel
-author_url: https://depositphotos.com/portfolio-2594295.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2594295.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/2594295/vector/5252/52522049/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['sport' ,'green' ,'white' ,'blue' ,'vector' ,'illustration' ,'design' ,'set' ,'isolated' ,'sign' ,'sun' ,'water' ,'smile' ,'health' ,'healthy' ,'natural' ,'food' ,'diet' ,'blood' ,'apple' ,'medicine' ,'medical' ,'care' ,'pharmacy' ,'hands' ,'calendar' ,'symbol' ,'icon' ,'sleeping' ,'cross' ,'doctor' ,'emergency' ,'heart' ,'hospital' ,'pill' ,'flat' ,'patient' ,'pulse' ,'lifestyle' ,'laboratory' ,'smoking' ,'pain' ,'syringe' ,'drug' ,'thermometer' ,'slim' ,'aid' ,'Heartbeat' ,'clinic' ,'medic' ]

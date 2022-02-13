@@ -2,7 +2,7 @@
 title: 'Set of four monsters on retro grunge background'
 date: 2014-03-28T10:05:39+00:00
 author: aleabievsasha
-author_url: https://depositphotos.com/portfolio-1030362.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1030362.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1030362/vector/4348/43484621/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['color' ,'fun' ,'group' ,'vector' ,'colorful' ,'number' ,'backgrounds' ,'illustration' ,'design' ,'set' ,'small' ,'isolated' ,'person' ,'art' ,'cheerful' ,'cute' ,'black' ,'silhouette' ,'style' ,'grunge' ,'old' ,'retro' ,'cartoon' ,'eyes' ,'pretty' ,'bizarre' ,'robot' ,'characters' ,'humor' ,'bacterium' ,'horror' ,'halloween' ,'four' ,'monster' ,'kind' ,'alien' ,'devil' ,'demon' ,'ghost' ,'angel' ,'caricature' ]

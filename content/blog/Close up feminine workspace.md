@@ -2,7 +2,7 @@
 title: 'Close up feminine workspace '
 date: 2017-11-30T10:23:01+00:00
 author: KucherAndrey
-author_url: https://depositphotos.com/portfolio-4516737.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-4516737.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/4516737/image/16671/166718962/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'white' ,'background' ,'view' ,'day' ,'business' ,'empty' ,'person' ,'girl' ,'female' ,'young' ,'people' ,'succulent' ,'coffee' ,'hands' ,'fashion' ,'modern' ,'pink' ,'corporate' ,'office' ,'lay' ,'blank' ,'home' ,'woman' ,'phone' ,'screen' ,'notebook' ,'desktop' ,'flat' ,'work' ,'desk' ,'feminine' ,'top' ,'nail' ,'polish' ,'glasses' ,'workplace' ,'workspace' ,'lipstick' ,'diary' ,'holds' ,'smartphone' ,'minimal' ,'styling' ,'mockup' ,'minimalistic' ,'minimalist' ,'freelance' ,'freelancer' ,'flatlay' ]

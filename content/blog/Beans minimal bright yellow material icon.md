@@ -2,7 +2,7 @@
 title: 'Beans minimal bright yellow material icon'
 date: 2021-06-01T12:11:36+00:00
 author: Infolight
-author_url: https://depositphotos.com/portfolio-50337402.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-50337402.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/50337402/vector/47116/471167836/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['yellow' ,'vector' ,'food' ,'black' ,'icon' ,'vegetarian' ,'organic' ,'beans' ,'logo' ,'vegan' ,'minimal' ,'eps' ,'premium' ,'healthy food' ,'food and restaurant' ]

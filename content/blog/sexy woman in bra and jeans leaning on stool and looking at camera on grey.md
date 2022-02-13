@@ -2,7 +2,7 @@
 title: 'sexy woman in bra and jeans leaning on stool and looking at camera on grey'
 date: 2020-09-23T15:47:20+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12982378/image/40810/408106342/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'blue' ,'background' ,'beautiful' ,'caucasian' ,'brunette' ,'chair' ,'hot' ,'woman' ,'body' ,'grey' ,'sexy' ,'attractive' ,'Jeans' ,'sensual' ,'bust' ,'denim' ,'seductive' ,'leaning' ,'stool' ,'copy space' ,'one person' ,'Studio Shot' ,'young adult' ,'look at camera' ,'mature content' ]

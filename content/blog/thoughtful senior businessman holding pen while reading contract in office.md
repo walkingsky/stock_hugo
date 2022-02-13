@@ -2,7 +2,7 @@
 title: 'thoughtful senior businessman holding pen while reading contract in office'
 date: 2021-12-10T14:41:55+00:00
 author: HayDmitriy
-author_url: https://depositphotos.com/portfolio-20363444.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-20363444.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/20363444/image/53460/534606626/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['paper' ,'business' ,'caucasian' ,'man' ,'emotion' ,'corporate' ,'office' ,'suit' ,'think' ,'manager' ,'professional' ,'businessman' ,'pen' ,'document' ,'contract' ,'read' ,'indoors' ,'pensive' ,'eyeglasses' ,'executive' ,'serious' ,'senior' ,'elderly' ,'successful' ,'thoughtful' ,'experienced' ,'boss' ,'clipboard' ,'CEO' ,'bearded' ,'respectable' ,'copy space' ,'one person' ,'formal wear' ,'Grey Hair' ]

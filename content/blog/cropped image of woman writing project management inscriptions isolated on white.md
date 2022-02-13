@@ -2,7 +2,7 @@
 title: 'cropped image of woman writing project management inscriptions isolated on white'
 date: 2018-03-05T12:09:44+00:00
 author: VadimVasenin
-author_url: https://depositphotos.com/portfolio-13324256.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13324256.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/13324256/image/18662/186621552/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['business' ,'holding' ,'person' ,'sign' ,'female' ,'people' ,'creativity' ,'hand' ,'symbol' ,'creative' ,'text' ,'woman' ,'writing' ,'finance' ,'strategy' ,'marketing' ,'alone' ,'engineering' ,'plan' ,'products' ,'marker' ,'processes' ,'partial' ,'inscriptions' ,'faceless' ,'Isolated On White' ,'Studio Shot' ,'young adult' ,'project management' ,'cropped image' ]

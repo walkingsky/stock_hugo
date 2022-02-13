@@ -2,7 +2,7 @@
 title: '3D printer creating plastic model near blurred figures and laptop in modern office'
 date: 2021-06-22T14:04:46+00:00
 author: Ischukigor
-author_url: https://depositphotos.com/portfolio-46171552.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-46171552.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/46171552/image/47887/478874390/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['computer' ,'nobody' ,'design' ,'black' ,'plastic' ,'technology' ,'machine' ,'modern' ,'create' ,'blur' ,'office' ,'beige' ,'device' ,'electronic' ,'laptop' ,'work' ,'indoors' ,'project' ,'figures' ,'print' ,'production' ,'gadget' ,'manufacture' ,'prototype' ,'triangles' ,'copy space' ,'no people' ,'open space' ,'3D printer' ,'printed models' ]

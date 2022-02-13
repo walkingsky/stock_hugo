@@ -2,7 +2,7 @@
 title: 'businesswoman in earphones with tablet'
 date: 2017-11-24T10:15:06+00:00
 author: ArturVerkhovetskiy
-author_url: https://depositphotos.com/portfolio-9880800.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-9880800.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/9880800/image/17429/174295142/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'business' ,'people' ,'women' ,'technology' ,'Men' ,'corporate' ,'office' ,'hold' ,'electronic' ,'network' ,'work' ,'job' ,'profession' ,'tablet' ,'attractive' ,'executive' ,'workplace' ,'workspace' ,'appliance' ,'businessmen' ,'businesspeople' ,'use' ,'earphones' ,'colleagues' ,'coworkers' ,'businesswomen' ,'gadgets' ,'professional occupation' ,'copy space' ,'young adult' ,'formal wear' ,'caucasian woman' ,'digital devices' ]

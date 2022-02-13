@@ -2,7 +2,7 @@
 title: 'top view of bowl of dry cereal breakfast with cup of coffee on white'
 date: 2018-08-16T10:45:51+00:00
 author: VadimVasenin
-author_url: https://depositphotos.com/portfolio-13324256.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13324256.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13324256/image/20884/208844342/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'heap' ,'morning' ,'energy' ,'food' ,'cup' ,'breakfast' ,'coffee' ,'drink' ,'messy' ,'bowl' ,'aromatic' ,'beverage' ,'mug' ,'organic' ,'aroma' ,'cereal' ,'refreshing' ,'mess' ,'beans' ,'crisps' ,'spilled' ,'cornflakes' ,'coffee break' ,'top view' ,'corn flakes' ,'flat lay' ]

@@ -2,7 +2,7 @@
 title: 'senior african american man holding digital tablet and credit card while sitting on sofa and looking away'
 date: 2019-11-04T15:05:13+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13193658/image/31512/315120392/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['happy' ,'financial' ,'sitting' ,'smiling' ,'cheerful' ,'smile' ,'connection' ,'technology' ,'sit' ,'emotion' ,'wall' ,'home' ,'communication' ,'wireless' ,'emotional' ,'indoors' ,'banking' ,'finance' ,'payment' ,'apartment' ,'casual' ,'handsome' ,'positive' ,'senior' ,'elderly' ,'gadget' ,'sofa' ,'couch' ,'use' ,'bearded' ,'copy space' ,'one person' ,'african american' ,'looking away' ,'Credit card' ,'Grey Hair' ,'online shopping' ,'Digital Tablet' ,'black man' ,'digital device' ]

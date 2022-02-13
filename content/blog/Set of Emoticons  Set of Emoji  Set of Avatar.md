@@ -2,7 +2,7 @@
 title: 'Set of Emoticons. Set of Emoji. Set of Avatar'
 date: 2016-05-12T09:05:34+00:00
 author: mopc.art95.gmail.com
-author_url: https://depositphotos.com/portfolio-6775818.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-6775818.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/6775818/vector/10823/108231232/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['fun' ,'yellow' ,'vector' ,'round' ,'graphic' ,'element' ,'design' ,'set' ,'isolated' ,'happy' ,'sign' ,'love' ,'people' ,'happiness' ,'joy' ,'cheerful' ,'cute' ,'smile' ,'mouth' ,'face' ,'cartoon' ,'eyes' ,'funny' ,'comic' ,'symbol' ,'emotion' ,'expression' ,'icon' ,'message' ,'flat' ,'web' ,'variation' ,'mood' ,'collection' ,'negative' ,'humor' ,'positive' ,'chat' ,'laugh' ,'sadness' ,'sad' ,'feelings' ,'cry' ,'disappointed' ,'winking' ,'weep' ,'emoticon' ,'wink' ,'lol' ,'emoji' ]

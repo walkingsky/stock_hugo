@@ -2,7 +2,7 @@
 title: 'Live chat button'
 date: 2014-10-17T12:23:15+00:00
 author: nickylarson
-author_url: https://depositphotos.com/portfolio-2398103.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2398103.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/2398103/vector/5571/55719787/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['image' ,'white' ,'blue' ,'vector' ,'computer' ,'background' ,'on' ,'illustration' ,'design' ,'customer' ,'sign' ,'technology' ,'modern' ,'symbol' ,'creative' ,'concept' ,'icon' ,'service' ,'message' ,'text' ,'button' ,'communication' ,'contact' ,'talk' ,'communicate' ,'support' ,'network' ,'internet' ,'click' ,'live' ,'speech' ,'information' ,'web' ,'online' ,'website' ,'media' ,'chatting' ,'chat' ,'social' ,'speak' ,'thumbs' ,'of' ,'instant' ,'interface' ]

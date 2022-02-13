@@ -2,7 +2,7 @@
 title: 'Selective focus of african american businessman using laptop near papers and smartphone on table in office '
 date: 2020-04-30T13:59:03+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/13193658/image/36654/366548498/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'glass' ,'business' ,'equipment' ,'water' ,'man' ,'connection' ,'technology' ,'drink' ,'corporate' ,'office' ,'beverage' ,'communication' ,'wireless' ,'working' ,'work' ,'businessman' ,'indoors' ,'profession' ,'executive' ,'handsome' ,'workplace' ,'workspace' ,'documents' ,'papers' ,'use' ,'computers' ,'smartphone' ,'laptops' ,'clipboard' ,'charts' ,'gadgets' ,'graphs' ,'analytics' ,'professional occupation' ,'copy space' ,'one person' ,'selective focus' ,'young adult' ,'african american' ,'formal wear' ,'blank screen' ,'black man' ,'digital devices' ]

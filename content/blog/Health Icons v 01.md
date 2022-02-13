@@ -2,7 +2,7 @@
 title: 'Health Icons v.01'
 date: 2013-05-05T21:09:16+00:00
 author: zagandesign
-author_url: https://depositphotos.com/portfolio-1979329.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1979329.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1979329/vector/2473/24730925/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['pool' ,'sport' ,'vector' ,'beauty' ,'relaxation' ,'water' ,'health' ,'diet' ,'solar' ,'medical' ,'symbol' ,'icon' ,'stickers' ,'heart' ,'pc' ,'measure' ,'balance' ,'weight' ,'bottle' ,'spa' ,'fitness' ,'gym' ,'exercise' ,'sportsman' ,'tablet' ,'run' ,'icons' ,'soccer' ,'swimming' ,'running' ,'meter' ,'squash' ,'barbell' ,'muscle' ,'tan' ,'series' ,'massage' ,'yoga' ,'pictorial' ,'tennis' ,'hydrate' ,'and' ,'sticker' ,'Joga' ,'towels' ,'tumbling' ,'brine' ,'piscine' ,'icon set' ,'jumping rope' ]

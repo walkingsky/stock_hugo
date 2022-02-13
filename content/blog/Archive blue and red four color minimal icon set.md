@@ -2,7 +2,7 @@
 title: 'Archive blue and red four color minimal icon set'
 date: 2021-06-01T11:03:08+00:00
 author: Infolight
-author_url: https://depositphotos.com/portfolio-50337402.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-50337402.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/50337402/vector/47110/471109260/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['red' ,'blue' ,'vector' ,'set' ,'icon' ,'office' ,'flat' ,'document' ,'archive' ,'file' ,'logo' ,'minimal' ,'eps' ,'premium' ]

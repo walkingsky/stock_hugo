@@ -2,7 +2,7 @@
 title: 'Set of vintage style elements for labels and badges for organic food and drink, on the nature background'
 date: 2014-08-27T08:02:50+00:00
 author: Variant
-author_url: https://depositphotos.com/portfolio-1720162.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1720162.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1720162/vector/5206/52061781/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'object' ,'element' ,'illustration' ,'design' ,'set' ,'ribbon' ,'market' ,'sign' ,'label' ,'nature' ,'leaf' ,'floral' ,'healthy' ,'natural' ,'food' ,'cuisine' ,'apple' ,'fruit' ,'cutlery' ,'restaurant' ,'drink' ,'retro' ,'vintage' ,'ornament' ,'symbol' ,'elements' ,'icon' ,'vegetarian' ,'vegetables' ,'farm' ,'product' ,'fingers' ,'organic' ,'sunburst' ,'web' ,'template' ,'calligraphic' ,'badge' ,'certified' ,'blurred' ,'quality' ,'handmade' ,'logo' ,'calligraphy' ,'vegan' ,'sticker' ,'ladies' ,'typographic' ,'soya' ]

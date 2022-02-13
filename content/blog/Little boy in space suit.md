@@ -2,7 +2,7 @@
 title: 'Little boy in space suit'
 date: 2017-02-01T08:37:57+00:00
 author: NatashaFedorova
-author_url: https://depositphotos.com/portfolio-11233746.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-11233746.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/11233746/image/14001/140012860/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['space' ,'people' ,'caucasian' ,'child' ,'boy' ,'childhood' ,'kid' ,'adorable' ,'dream' ,'playing' ,'helmet' ,'preschooler' ,'science' ,'adventure' ,'astronomy' ,'uniform' ,'costume' ,'discover' ,'astronaut' ,'explorer' ,'proud' ,'spaceship' ,'cosmonaut' ,'preteen' ,'pretending' ,'spaceman' ,'one person' ,'Front View' ,'Elementary Age' ,'three quarter length' ]

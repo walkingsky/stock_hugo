@@ -2,7 +2,7 @@
 title: 'cheerful man with arms crossed standing near wall with dry climbing plants'
 date: 2018-11-13T09:04:10+00:00
 author: EdZbarzhyvetsky
-author_url: https://depositphotos.com/portfolio-12985848.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985848.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12985848/image/22471/224715296/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['happy' ,'person' ,'season' ,'smiling' ,'people' ,'cheerful' ,'autumn' ,'caucasian' ,'smile' ,'plants' ,'flora' ,'male' ,'man' ,'scarf' ,'coat' ,'urban' ,'wall' ,'street' ,'dry' ,'branches' ,'climbing' ,'glasses' ,'handsome' ,'positive' ,'berries' ,'outerwear' ,'copy space' ,'selective focus' ,'Arms Crossed' ]

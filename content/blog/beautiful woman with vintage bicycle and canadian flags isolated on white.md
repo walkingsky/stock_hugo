@@ -2,7 +2,7 @@
 title: 'beautiful woman with vintage bicycle and canadian flags isolated on white'
 date: 2019-01-09T10:15:15+00:00
 author: VitalikRadko
-author_url: https://depositphotos.com/portfolio-13194036.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13194036.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13194036/image/23506/235067920/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['red' ,'beautiful' ,'happy' ,'person' ,'girl' ,'female' ,'smiling' ,'people' ,'caucasian' ,'transport' ,'vehicle' ,'transportation' ,'retro' ,'vintage' ,'woman' ,'grey' ,'bicycle' ,'bike' ,'country' ,'attractive' ,'national' ,'symbols' ,'signs' ,'patriotism' ,'Canada' ,'patriot' ,'canadian' ,'patriotic' ,'flags' ,'nation' ,'Isolated On White' ,'copy space' ,'maple leaf' ,'Studio Shot' ,'young adult' ,'casual clothes' ]

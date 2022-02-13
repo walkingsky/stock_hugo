@@ -2,7 +2,7 @@
 title: 'Cropped view of redhead sportswoman hugging friend with vitiligo isolated on grey, banner '
 date: 2021-07-19T08:17:27+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/12982378/image/48319/483191830/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['sport' ,'horizontal' ,'isolated' ,'people' ,'women' ,'beauty' ,'health' ,'friendship' ,'healthcare' ,'crop' ,'banner' ,'gray' ,'skin' ,'lifestyle' ,'grey' ,'together' ,'fitness' ,'friends' ,'embrace' ,'hug' ,'freckles' ,'freckled' ,'redhead' ,'partial' ,'sportswear' ,'pigmentation' ,'autoimmune' ,'sportswomen' ,'self esteem' ,'vitiligo' ,'copy space' ,'Studio Shot' ,'young adult' ,'red hair' ,'website header' ,'self acceptance' ,'body positive' ]

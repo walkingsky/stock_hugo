@@ -2,7 +2,7 @@
 title: 'project management'
 date: 2013-02-28T06:33:29+00:00
 author: lucadp
-author_url: https://depositphotos.com/portfolio-1029541.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1029541.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1029541/image/2146/21468767/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'computer' ,'render' ,'nobody' ,'focus' ,'paper' ,'closeup' ,'business' ,'equipment' ,'financial' ,'market' ,'one' ,'black' ,'technology' ,'3d' ,'modern' ,'concept' ,'office' ,'structure' ,'mobile' ,'mobility' ,'digital' ,'manager' ,'with' ,'pc' ,'occupation' ,'work' ,'tool' ,'pen' ,'document' ,'finance' ,'project' ,'strategy' ,'marketing' ,'tablet' ,'plan' ,'report' ,'improvement' ,'control' ,'organization' ,'graph' ,'management' ,'chart' ,'schedule' ,'deadline' ,'scheme' ,'programming' ,'projection' ,'documents' ,'organize' ]

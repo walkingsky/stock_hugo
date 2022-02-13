@@ -2,7 +2,7 @@
 title: 'Conceptual hand writing showing Trolls. Business photo text Online troublemakers posting provocative inflammatory messages Nice lime colour shadow billboard important clip paperclip ideas'
 date: 2018-07-09T07:30:46+00:00
 author: artursz
-author_url: https://depositphotos.com/portfolio-14431644.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-14431644.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/14431644/image/20264/202646686/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['computer' ,'technology' ,'personal' ,'news' ,'communication' ,'keyboard' ,'phone' ,'smart' ,'monitor' ,'internet' ,'information' ,'web' ,'messaging' ,'negative' ,'identity' ,'media' ,'attack' ,'threat' ,'surveillance' ,'victim' ,'fake' ,'government' ,'politics' ,'cyber' ,'email' ,'abuse' ,'smartphone' ,'bully' ,'leak' ,'election' ,'warriors' ,'harassment' ,'hacking' ,'argue' ,'bullying' ,'humiliate' ,'troll' ,'humiliation' ,'bash' ,'basher' ,'Critic' ,'criticize' ,'trolling' ,'persecution' ,'persecute' ,'socialmedia' ,'bashing' ]

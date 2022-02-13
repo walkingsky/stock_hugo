@@ -2,7 +2,7 @@
 title: 'senior woman with walking stick sitting on sofa in living room'
 date: 2019-05-28T08:18:02+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13193658/image/26676/266765680/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['caucasian' ,'wooden' ,'carpet' ,'cane' ,'lamp' ,'home' ,'woman' ,'furniture' ,'pants' ,'wood' ,'indoors' ,'casual' ,'senior' ,'sofa' ,'cardigan' ,'Wheelchair' ,'one person' ,'selective focus' ,'Living Room' ,'Grey Hair' ,'walking stick' ]

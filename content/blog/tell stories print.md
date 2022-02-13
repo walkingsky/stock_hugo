@@ -2,7 +2,7 @@
 title: 'tell stories print'
 date: 2015-03-11T11:07:13+00:00
 author: yurizap
-author_url: https://depositphotos.com/portfolio-1011183.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1011183.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1011183/image/6657/66578499/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'texture' ,'cardboard' ,'carton' ,'power' ,'frame' ,'grunge' ,'old' ,'vintage' ,'imagination' ,'think' ,'Wisdom' ,'education' ,'world' ,'weathered' ,'scratch' ,'famous' ,'ancient' ,'motivation' ,'goal' ,'greek' ,'control' ,'mind' ,'story' ,'tell' ,'of' ,'quote' ,'rule' ,'philosophy' ,'society' ,'yellowish' ,'Plato' ,'citation' ,'tell stories print' ]

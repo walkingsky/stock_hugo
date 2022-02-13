@@ -2,7 +2,7 @@
 title: 'amazed african american architect gesturing at workplace near laptop and coffee to go'
 date: 2021-02-09T16:47:26+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/13193658/image/44458/444581018/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'happy' ,'business' ,'studio' ,'young' ,'smiling' ,'cheerful' ,'drink' ,'emotion' ,'concept' ,'home' ,'beverage' ,'woman' ,'work' ,'internet' ,'desk' ,'joyful' ,'indoors' ,'remote' ,'profession' ,'online' ,'attractive' ,'eyeglasses' ,'casual' ,'amazed' ,'astonished' ,'architect' ,'positive' ,'excited' ,'workplace' ,'takeaway' ,'Gesturing' ,'businesswoman' ,'freelance' ,'freelancer' ,'copy space' ,'one person' ,'home office' ,'black woman' ,'african american' ,'Interior Designer' ,'paper cup' ,'coffee to go' ]

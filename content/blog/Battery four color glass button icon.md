@@ -2,7 +2,7 @@
 title: 'Battery four color glass button icon'
 date: 2021-06-01T07:47:06+00:00
 author: Infolight
-author_url: https://depositphotos.com/portfolio-50337402.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-50337402.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/50337402/vector/47089/470899460/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'red' ,'blue' ,'vector' ,'glass' ,'cable' ,'electric' ,'electricity' ,'power' ,'car' ,'purple' ,'icon' ,'industry' ,'button' ,'electronics' ,'poles' ,'gradient' ,'negative' ,'positive' ,'battery' ,'starter' ,'logo' ,'source' ,'eps' ,'premium' ,'ecology and environment' ,'construction and tools' ]

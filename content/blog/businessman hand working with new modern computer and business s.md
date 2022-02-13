@@ -2,7 +2,7 @@
 title: 'businessman hand working with new modern computer and business s'
 date: 2013-04-11T08:26:27+00:00
 author: everythingposs
-author_url: https://depositphotos.com/portfolio-1907633.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1907633.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1907633/image/2378/23781507/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

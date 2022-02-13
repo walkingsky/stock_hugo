@@ -2,7 +2,7 @@
 title: 'Battery blue and red four color minimal icon set'
 date: 2021-06-01T08:05:48+00:00
 author: Infolight
-author_url: https://depositphotos.com/portfolio-50337402.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-50337402.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/50337402/vector/47091/470918212/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['red' ,'blue' ,'vector' ,'set' ,'technology' ,'icon' ,'flat' ,'negative' ,'positive' ,'logo' ,'batteries' ,'minimal' ,'mercury' ,'eps' ,'premium' ,'battery level' ,'battery status' ]

@@ -2,7 +2,7 @@
 title: 'tattooed young woman with dyed hair smiling while holding container and applying face cream isolated on pink'
 date: 2021-10-13T13:29:12+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/12982378/image/50808/508081780/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['isolated' ,'beautiful' ,'happy' ,'bright' ,'smiling' ,'beauty' ,'cheerful' ,'caucasian' ,'container' ,'cream' ,'face' ,'care' ,'generation' ,'skin' ,'pink' ,'emotion' ,'pretty' ,'hold' ,'woman' ,'apply' ,'cosmetic' ,'makeup' ,'mascara' ,'skincare' ,'body' ,'clean' ,'purity' ,'treatment' ,'hairstyle' ,'perfect' ,'attractive' ,'visage' ,'tattooed' ,'hipster' ,'one person' ,'Studio Shot' ,'young adult' ,'dyed hair' ,'bare shoulders' ,'lip balm' ,'colorful hair' ,'generation z' ,'Gen Z' ]

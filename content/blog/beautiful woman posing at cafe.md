@@ -2,7 +2,7 @@
 title: 'beautiful woman posing at cafe'
 date: 2015-07-08T12:32:18+00:00
 author: AnnHaritonenko
-author_url: https://depositphotos.com/portfolio-3584475.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3584475.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/3584475/image/7537/75377107/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'fun' ,'glass' ,'beautiful' ,'happy' ,'bright' ,'business' ,'person' ,'travel' ,'girl' ,'female' ,'sitting' ,'young' ,'summer' ,'people' ,'beauty' ,'outdoor' ,'portrait' ,'cute' ,'smile' ,'healthy' ,'tasty' ,'breakfast' ,'restaurant' ,'drink' ,'style' ,'lunch' ,'fashion' ,'tropical' ,'hat' ,'stylish' ,'cafe' ,'woman' ,'phone' ,'lifestyle' ,'makeup' ,'curly' ,'reading' ,'juice' ,'smoothie' ,'cocktail' ,'vacation' ,'sunglasses' ,'sexy' ,'resort' ,'soda' ,'At' ,'straw' ,'mango' ,'hipster' ]

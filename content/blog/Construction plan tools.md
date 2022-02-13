@@ -2,7 +2,7 @@
 title: 'Construction plan tools'
 date: 2012-03-05T16:07:02+00:00
 author: anterovium
-author_url: https://depositphotos.com/portfolio-1040728.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1040728.html?ref=64678756
 image: https://static8.depositphotos.com/thumbs/1040728/image/933/9337610/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'blue' ,'background' ,'backgrounds' ,'on' ,'graphic' ,'design' ,'paper' ,'business' ,'equipment' ,'electric' ,'line' ,'photo' ,'architecture' ,'building' ,'construction' ,'estate' ,'house' ,'industry' ,'real' ,'draw' ,'home' ,'fingers' ,'measure' ,'measurement' ,'pen' ,'scale' ,'drawing' ,'tools' ,'project' ,'print' ,'in' ,'draft' ,'sketch' ,'navigation' ,'right' ,'repair' ,'outline' ,'angle' ,'compass' ,'plan' ,'architectural' ,'technical' ,'ruler' ,'blueprint' ,'drawings' ,'plans' ,'and' ,'ladies' ,'blueprints' ]

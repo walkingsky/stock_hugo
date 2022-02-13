@@ -2,7 +2,7 @@
 title: 'Office desk with computer, supplies and coffee'
 date: 2015-07-27T06:23:25+00:00
 author: karandaev
-author_url: https://depositphotos.com/portfolio-1001069.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1001069.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1001069/image/7874/78740136/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

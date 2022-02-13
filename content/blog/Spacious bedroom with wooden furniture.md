@@ -2,7 +2,7 @@
 title: 'Spacious bedroom with wooden furniture'
 date: 2018-01-24T14:56:15+00:00
 author: photographee.eu
-author_url: https://depositphotos.com/portfolio-2249091.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2249091.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/2249091/image/17895/178957178/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'background' ,'design' ,'bright' ,'nature' ,'plant' ,'wooden' ,'chair' ,'bed' ,'blanket' ,'modern' ,'soft' ,'wall' ,'lamp' ,'fur' ,'interior' ,'beige' ,'home' ,'flat' ,'furniture' ,'grey' ,'cover' ,'gallery' ,'room' ,'panorama' ,'wool' ,'Rug' ,'apartment' ,'header' ,'bedroom' ,'bench' ,'armchair' ,'pillows' ,'spacious' ,'stool' ,'cushions' ,'cupboard' ,'brazilian' ,'hammock' ,'posters' ,'bedsheets' ]

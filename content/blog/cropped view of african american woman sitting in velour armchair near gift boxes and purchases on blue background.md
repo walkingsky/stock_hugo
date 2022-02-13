@@ -2,7 +2,7 @@
 title: 'cropped view of african american woman sitting in velour armchair near gift boxes and purchases on blue background'
 date: 2020-02-13T15:37:54+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12982378/image/34297/342970994/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['blue' ,'shopping' ,'luxury' ,'celebration' ,'event' ,'festive' ,'greeting' ,'holiday' ,'girl' ,'style' ,'sit' ,'fashion' ,'pink' ,'presents' ,'stylish' ,'woman' ,'gifts' ,'armchair' ,'fashionable' ,'shopaholic' ,'partial' ,'purchases' ,'Cropped' ,'velour' ,'one person' ,'Studio Shot' ,'young adult' ,'black woman' ,'african american' ,'shopping bags' ,'gift boxes' ]

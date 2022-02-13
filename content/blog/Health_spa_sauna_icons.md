@@ -2,7 +2,7 @@
 title: 'Health_spa_sauna_icons'
 date: 2011-12-23T11:44:55+00:00
 author: chachar
-author_url: https://depositphotos.com/portfolio-1010915.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1010915.html?ref=64678756
 image: https://static8.depositphotos.com/thumbs/1010915/vector/819/8191201/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['sport' ,'leisure' ,'fun' ,'vector' ,'on' ,'illustration' ,'design' ,'set' ,'greeting' ,'happy' ,'young' ,'women' ,'beauty' ,'sun' ,'vitality' ,'nature' ,'plant' ,'water' ,'energy' ,'health' ,'diet' ,'protection' ,'silhouette' ,'skin' ,'symbol' ,'meditation' ,'spirit' ,'icon' ,'rest' ,'relax' ,'figure' ,'heart' ,'woman' ,'physical' ,'heat' ,'cosmetic' ,'body' ,'spa' ,'therapy' ,'Dieting' ,'fit' ,'fitness' ,'pleasure' ,'sheet' ,'alternative' ,'harmony' ,'icons' ,'swimming' ,'fitting' ,'wellness' ]

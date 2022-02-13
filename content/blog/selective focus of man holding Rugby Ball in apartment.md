@@ -2,7 +2,7 @@
 title: 'selective focus of man holding Rugby Ball in apartment '
 date: 2019-08-30T13:45:44+00:00
 author: HayDmitriy
-author_url: https://depositphotos.com/portfolio-20363444.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-20363444.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/20363444/image/29630/296302090/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['game' ,'play' ,'beautiful' ,'sitting' ,'women' ,'caucasian' ,'girls' ,'friendship' ,'brunette' ,'man' ,'sit' ,'home' ,'together' ,'togetherness' ,'friends' ,'indoors' ,'blonde' ,'attractive' ,'apartment' ,'casual' ,'sofa' ,'students' ,'partial' ,'Cropped' ,'multicultural' ,'multiethnic' ,'selective focus' ,'young adult' ,'mixed race' ,'three people' ,'Rugby Ball' ,'bi racial' ,'generation z' ,'Gen Z' ]

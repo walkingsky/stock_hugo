@@ -2,7 +2,7 @@
 title: 'Futuristic structure of office skyscrapers in the morning'
 date: 2011-09-12T23:11:35+00:00
 author: Vladitto
-author_url: https://depositphotos.com/portfolio-1001925.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1001925.html?ref=64678756
 image: https://static6.depositphotos.com/thumbs/1001925/image/671/6711246/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'blue' ,'striped' ,'background' ,'view' ,'high' ,'glass' ,'luxury' ,'transparent' ,'sky' ,'business' ,'commercial' ,'financial' ,'morning' ,'light' ,'line' ,'modern' ,'dusk' ,'architecture' ,'building' ,'center' ,'city' ,'construction' ,'exterior' ,'futuristic' ,'office' ,'skyscraper' ,'structure' ,'urban' ,'wall' ,'windows' ,'night' ,'interior' ,'development' ,'twilight' ,'mansion' ,'property' ,'future' ,'panoramic' ,'wide' ,'in' ,'marketing' ,'angle' ,'reflect' ,'direction' ,'area' ,'concrete' ,'buildings' ,'control' ,'haze' ]

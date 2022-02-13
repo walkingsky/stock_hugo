@@ -2,7 +2,7 @@
 title: 'lotus flowers'
 date: 2018-02-26T10:02:48+00:00
 author: AlexGukBO
-author_url: https://depositphotos.com/portfolio-16149430.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-16149430.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/16149430/image/18442/184422902/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'nobody' ,'view' ,'beautiful' ,'travel' ,'vacations' ,'outdoors' ,'scene' ,'nature' ,'water' ,'leaves' ,'flora' ,'floral' ,'flowers' ,'natural' ,'pond' ,'tropical' ,'pink' ,'scenic' ,'tourism' ,'exotic' ,'asia' ,'vietnam' ,'traveling' ,'daylight' ,'place' ,'touristic' ,'lotus' ,'destination' ,'hue' ,'water lily flowers' ]

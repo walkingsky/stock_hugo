@@ -2,7 +2,7 @@
 title: 'Two men handshakes after important business conference in modern'
 date: 2017-05-18T15:12:26+00:00
 author: LeonidKos
-author_url: https://depositphotos.com/portfolio-12531278.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12531278.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12531278/image/15255/152552564/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'group' ,'computer' ,'paper' ,'space' ,'business' ,'ideas' ,'people' ,'man' ,'technology' ,'hand' ,'modern' ,'creative' ,'concept' ,'corporate' ,'office' ,'dream' ,'woman' ,'device' ,'talking' ,'global' ,'laptop' ,'internet' ,'job' ,'businessman' ,'seminar' ,'conference' ,'room' ,'project' ,'discussion' ,'thinking' ,'plan' ,'casual' ,'team' ,'loft' ,'designer' ,'engineer' ,'handshake' ,'meeting' ,'documents' ,'analyze' ,'crew' ,'brainstorming' ,'mockup' ,'gadgets' ,'mock' ,'startup' ,'dreamteam' ,'coworking' ,'marceting' ]

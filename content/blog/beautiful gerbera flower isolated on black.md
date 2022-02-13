@@ -2,7 +2,7 @@
 title: 'beautiful gerbera flower isolated on black'
 date: 2017-12-12T17:26:24+00:00
 author: VadimVasenin
-author_url: https://depositphotos.com/portfolio-13324256.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13324256.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/13324256/image/17675/176758246/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['background' ,'colorful' ,'nobody' ,'design' ,'beautiful' ,'decoration' ,'decorative' ,'nature' ,'spring' ,'bloom' ,'blossom' ,'flora' ,'floral' ,'flower' ,'light' ,'elegant' ,'romantic' ,'invitation' ,'botanical' ,'isolated on black' ]

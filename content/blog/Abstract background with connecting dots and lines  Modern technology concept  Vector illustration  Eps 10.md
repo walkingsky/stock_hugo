@@ -2,7 +2,7 @@
 title: 'Abstract background with connecting dots and lines. Modern technology concept. Vector illustration. Eps 10'
 date: 2015-11-10T07:22:35+00:00
 author: vladystock
-author_url: https://depositphotos.com/portfolio-3205185.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3205185.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/3205185/vector/8915/89152856/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['color' ,'triangle' ,'vector' ,'background' ,'design' ,'space' ,'art' ,'abstract' ,'technology' ,'dark' ,'line' ,'3d' ,'modern' ,'dot' ,'abstraction' ,'backdrop' ,'creative' ,'concept' ,'futuristic' ,'structure' ,'lines' ,'digital' ,'global' ,'network' ,'net' ,'web' ,'gradient' ,'geometric' ,'geometry' ,'mesh' ,'point' ,'chemistry' ,'atom' ,'techno' ,'chaotic' ,'polygonal' ]

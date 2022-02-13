@@ -2,7 +2,7 @@
 title: 'Place setting for Christmas'
 date: 2010-11-26T12:50:41+00:00
 author: brebca
-author_url: https://depositphotos.com/portfolio-1007254.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1007254.html?ref=64678756
 image: https://static5.depositphotos.com/thumbs/1007254/image/429/4299506/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'white' ,'glass' ,'luxury' ,'christmas' ,'decoration' ,'festive' ,'holiday' ,'market' ,'Decor' ,'seasonal' ,'scene' ,'life' ,'food' ,'cuisine' ,'tree' ,'plate' ,'kitchenware' ,'cutlery' ,'dish' ,'restaurant' ,'dinner' ,'lunch' ,'house' ,'interior' ,'candle' ,'napkin' ,'home' ,'elegant' ,'fingers' ,'candlelight' ,'still' ,'room' ,'inside' ,'in' ,'setting' ,'At' ,'fine' ,'dining' ,'arrangement' ,'cookies' ,'place' ,'catering' ,'formal' ,'for' ,'decorated' ,'noel' ,'serve' ,'banquet' ,'buffet' ]

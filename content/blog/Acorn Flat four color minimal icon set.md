@@ -2,7 +2,7 @@
 title: 'Acorn Flat four color minimal icon set'
 date: 2021-06-01T12:34:06+00:00
 author: Infolight
-author_url: https://depositphotos.com/portfolio-50337402.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-50337402.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/50337402/vector/47118/471185722/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'blue' ,'vector' ,'set' ,'nature' ,'autumn' ,'food' ,'fall' ,'icon' ,'flat' ,'oak' ,'logo' ,'chestnut' ,'acorn' ,'minimal' ,'eps' ,'premium' ,'food and restaurant' ]

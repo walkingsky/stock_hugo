@@ -2,7 +2,7 @@
 title: 'Retro microphone on stage'
 date: 2012-02-02T10:35:49+00:00
 author: duha127
-author_url: https://depositphotos.com/portfolio-1044234.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1044234.html?ref=64678756
 image: https://static8.depositphotos.com/thumbs/1044234/image/879/8790321/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['bar' ,'fun' ,'white' ,'entertainment' ,'background' ,'on' ,'design' ,'event' ,'equipment' ,'studio' ,'party' ,'young' ,'cheering' ,'scene' ,'micro' ,'up' ,'light' ,'restaurant' ,'electric' ,'technology' ,'style' ,'old' ,'retro' ,'vintage' ,'instrument' ,'chrome' ,'classic' ,'easter' ,'pop' ,'cool' ,'elements' ,'festival' ,'cafe' ,'sing' ,'communication' ,'fingers' ,'sound' ,'with' ,'professional' ,'businessman' ,'audio' ,'conference' ,'karaoke' ,'live' ,'mic' ,'microphone' ,'music' ,'musical' ,'performance' ,'radio' ]

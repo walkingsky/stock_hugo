@@ -2,7 +2,7 @@
 title: 'Film camera with wallet and money'
 date: 2017-10-23T12:42:14+00:00
 author: AntonMatyukha
-author_url: https://depositphotos.com/portfolio-13349494.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13349494.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/13349494/image/17034/170344804/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['money' ,'nobody' ,'holiday' ,'business' ,'travel' ,'retro' ,'vintage' ,'ticket' ,'planning' ,'camera' ,'cash' ,'dollars' ,'finance' ,'surface' ,'tourism' ,'film' ,'vacation' ,'sunglasses' ,'journey' ,'map' ,'trip' ,'shoes' ,'analogue' ,'voyage' ,'weekend' ,'wallet' ,'passport' ,'gumshoes' ,'copy space' ,'top view' ,'credit cards' ,'Elevated View' ,'travel concept' ]

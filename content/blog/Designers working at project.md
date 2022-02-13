@@ -2,7 +2,7 @@
 title: 'Designers working at project '
 date: 2016-12-27T11:31:52+00:00
 author: AndreyBezuglov
-author_url: https://depositphotos.com/portfolio-10654624.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-10654624.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/10654624/image/13553/135538580/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['business' ,'young' ,'corporate' ,'work' ,'project' ,'discussion' ,'using' ,'engineering' ,'architectural' ,'executive' ,'teamwork' ,'businesspeople' ,'colleagues' ,'brainstorming' ,'coworkers' ,'discussing' ,'designers' ,'blueprints' ,'Architects' ]

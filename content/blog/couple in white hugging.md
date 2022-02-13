@@ -2,7 +2,7 @@
 title: 'couple in white hugging'
 date: 2017-02-13T13:14:22+00:00
 author: MicrostockAsia
-author_url: https://depositphotos.com/portfolio-2492691.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2492691.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/2492691/image/13343/133434836/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'background' ,'beautiful' ,'day' ,'happy' ,'love' ,'girl' ,'female' ,'young' ,'summer' ,'people' ,'beauty' ,'happiness' ,'light' ,'male' ,'man' ,'boy' ,'nice' ,'couple' ,'romantic' ,'lovely' ,'two' ,'woman' ,'lifestyle' ,'together' ,'pair' ,'gentle' ,'lady' ,'clothes' ,'charming' ,'dress' ,'attractive' ,'handsome' ,'standing' ,'hugging' ,'hug' ,'feelings' ,'persons' ,'lace' ,'relationship' ,'wonderful' ,'boyfriend' ,'girlfriend' ,'love story' ]

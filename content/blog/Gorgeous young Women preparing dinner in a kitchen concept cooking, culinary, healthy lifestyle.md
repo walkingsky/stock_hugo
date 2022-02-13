@@ -2,7 +2,7 @@
 title: 'Gorgeous young Women preparing dinner in a kitchen concept cooking, culinary, healthy lifestyle.'
 date: 2015-08-20T09:19:13+00:00
 author: undrey
-author_url: https://depositphotos.com/portfolio-2171279.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2171279.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/2171279/image/8116/81161942/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

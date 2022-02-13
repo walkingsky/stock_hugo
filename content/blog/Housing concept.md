@@ -2,7 +2,7 @@
 title: 'Housing concept'
 date: 2015-07-22T15:24:32+00:00
 author: stockasso
-author_url: https://depositphotos.com/portfolio-3889193.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3889193.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/3889193/image/7640/76405367/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

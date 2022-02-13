@@ -2,7 +2,7 @@
 title: 'Traditional Film Strip'
 date: 2010-04-16T13:45:56+00:00
 author: BengLim
-author_url: https://depositphotos.com/portfolio-1009101.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1009101.html?ref=64678756
 image: https://static4.depositphotos.com/thumbs/1009101/vector/291/2918994/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['numbers' ,'entertainment' ,'vector' ,'number' ,'illustration' ,'side' ,'label' ,'frame' ,'old' ,'photo' ,'Photograph' ,'picture' ,'motion' ,'traditional' ,'fingers' ,'with' ,'tape' ,'negative' ,'cinema' ,'film' ,'filmstrip' ,'strip' ,'theater' ,'At' ,'movie' ,'pictures' ,'cinta' ,'strips' ,'photos' ,'foto' ,'cine' ,'iso' ,'and' ,'ladies' ,'pas' ,'expose' ,'de' ,'final' ,'carrete' ,'fotos' ,'filmstreifen' ,'vectores' ,'pellicule' ,'pellicola' ,'ramka' ,'vektorgrafik' ,'pelicula' ,'filme' ,'tira' ,'fotogramas' ]

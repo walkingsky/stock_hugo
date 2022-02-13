@@ -2,7 +2,7 @@
 title: 'Modern Design template'
 date: 2013-07-26T13:45:59+00:00
 author: Success_ER
-author_url: https://depositphotos.com/portfolio-1091305.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1091305.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1091305/vector/2844/28445313/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'color' ,'image' ,'vector' ,'background' ,'number' ,'graphic' ,'element' ,'illustration' ,'design' ,'set' ,'paper' ,'space' ,'business' ,'empty' ,'sign' ,'label' ,'new' ,'tag' ,'art' ,'abstract' ,'card' ,'frame' ,'banner' ,'3d' ,'modern' ,'symbol' ,'elements' ,'backdrop' ,'creative' ,'news' ,'blank' ,'text' ,'button' ,'fingers' ,'www' ,'internet' ,'clean' ,'cover' ,'wallpaper' ,'information' ,'Presentation' ,'education' ,'web' ,'template' ,'palette' ,'website' ,'layout' ,'icons' ,'advertising' ]

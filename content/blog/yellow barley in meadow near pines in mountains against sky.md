@@ -2,7 +2,7 @@
 title: 'yellow barley in meadow near pines in mountains against sky '
 date: 2019-09-27T15:07:50+00:00
 author: HayDmitriy
-author_url: https://depositphotos.com/portfolio-20363444.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-20363444.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/20363444/image/30881/308814092/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'yellow' ,'blue' ,'background' ,'nobody' ,'sky' ,'summer' ,'meadow' ,'lawn' ,'outdoors' ,'field' ,'nature' ,'environment' ,'plants' ,'flora' ,'golden' ,'natural' ,'silhouette' ,'landscape' ,'tranquil' ,'trees' ,'backdrop' ,'mountains' ,'scenery' ,'scenic' ,'ukraine' ,'outside' ,'spruce' ,'barley' ,'daylight' ,'Carpathians' ,'evergreen' ,'pines' ,'daytime' ,'summertime' ,'firs' ,'peaks' ,'copy space' ,'no people' ,'Carpathian Mountains' ,'mountain valley' ]

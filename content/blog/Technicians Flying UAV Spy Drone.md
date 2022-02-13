@@ -2,7 +2,7 @@
 title: 'Technicians Flying UAV Spy Drone'
 date: 2013-09-10T19:24:10+00:00
 author: SimpleFoto
-author_url: https://depositphotos.com/portfolio-1003098.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1003098.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1003098/image/3114/31148631/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['photography' ,'multi' ,'people' ,'outdoor' ,'flying' ,'vehicle' ,'male' ,'man' ,'technology' ,'Men' ,'display' ,'monitor' ,'professional' ,'Expertise' ,'live' ,'camera' ,'photographer' ,'remote' ,'fly' ,'feed' ,'control' ,'propeller' ,'video' ,'aircraft' ,'helicopter' ,'engineer' ,'Link' ,'surveillance' ,'no' ,'technician' ,'tripod' ,'aviation' ,'aerial' ,'Pilot' ,'Slr' ,'operating' ,'copter' ,'rotor' ,'rotorcraft' ,'controlled' ,'drone' ,'unmanned' ,'uav' ,'carbon fiber' ,'uas' ,'unmanned aerial vehicle' ,'multicopter' ,'octocopter' ,'FPV' ,'multirotor' ]

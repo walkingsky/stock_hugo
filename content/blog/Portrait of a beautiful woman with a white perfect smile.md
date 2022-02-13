@@ -2,7 +2,7 @@
 title: 'Portrait of a beautiful woman with a white perfect smile'
 date: 2014-01-01T22:06:17+00:00
 author: AntonioGuillemF
-author_url: https://depositphotos.com/portfolio-1809585.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1809585.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1809585/image/3802/38026889/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'background' ,'beautiful' ,'happy' ,'closeup' ,'girl' ,'female' ,'young' ,'smiling' ,'people' ,'women' ,'beauty' ,'outdoor' ,'portrait' ,'smile' ,'20s' ,'up' ,'close' ,'health' ,'healthy' ,'sweet' ,'face' ,'care' ,'funny' ,'skin' ,'smooth' ,'teeth' ,'dentist' ,'woman' ,'with' ,'beautician' ,'cosmetic' ,'skincare' ,'cosmetics' ,'treatment' ,'dental' ,'dentistry' ,'lady' ,'perfect' ,'outside' ,'smiles' ,'smiley' ,'of' ,'tooth' ,'treatments' ,'twenties' ,'whitening' ,'whiten' ,'bleaching' ,'orthodontics' ]

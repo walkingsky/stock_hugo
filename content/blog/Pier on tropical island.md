@@ -2,7 +2,7 @@
 title: 'Pier on tropical island'
 date: 2014-10-16T12:07:39+00:00
 author: javarman
-author_url: https://depositphotos.com/portfolio-1466059.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1466059.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/1466059/image/5566/55664739/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['blue' ,'background' ,'luxury' ,'sky' ,'beautiful' ,'holiday' ,'travel' ,'palm' ,'summer' ,'sun' ,'nature' ,'water' ,'light' ,'wooden' ,'tree' ,'sea' ,'tropical' ,'landscape' ,'sunset' ,'romantic' ,'wood' ,'remote' ,'beach' ,'ocean' ,'tourism' ,'pier' ,'sand' ,'vacation' ,'resort' ,'paradise' ,'exotic' ,'island' ,'destination' ,'escape' ,'jetty' ,'Madagascar' ]

@@ -2,7 +2,7 @@
 title: 'bearded and senior man in wireless headphones listening music and looking away at home '
 date: 2021-09-10T15:56:26+00:00
 author: RostyslavOleksin
-author_url: https://depositphotos.com/portfolio-19406380.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-19406380.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/19406380/image/50270/502709502/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['leisure' ,'entertainment' ,'caucasian' ,'man' ,'technology' ,'modern' ,'home' ,'electronic' ,'wireless' ,'lifestyle' ,'music' ,'indoors' ,'headphones' ,'listen' ,'handsome' ,'senior' ,'Retired' ,'elderly' ,'bearded' ,'pensioner' ,'one person' ,'Grey Hair' ,'look away' ]

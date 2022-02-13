@@ -2,7 +2,7 @@
 title: 'Live your dreams advice spelled by plastic letter beads'
 date: 2017-03-06T10:47:28+00:00
 author: Ai825
-author_url: https://depositphotos.com/portfolio-3732989.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3732989.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/3732989/image/14412/144129623/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['success' ,'lifestyle' ,'goal' ,'dreams' ,'wishes' ,'objectives' ,'successful' ,'Advice' ,'purpose' ,'inspiring' ,'motivational' ,'tips' ,'spelled' ,'accomplishing' ,'happy life' ,'do what you love' ,'live your dreams' ,'love what you do' ,'plastic letter beads' ,'chasing your dreams' ]

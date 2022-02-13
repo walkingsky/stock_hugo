@@ -2,7 +2,7 @@
 title: 'Ginger kid practicing yoga and sitting in lotus pose with closed eyes'
 date: 2019-02-11T09:01:40+00:00
 author: AllaSerebrina
-author_url: https://depositphotos.com/portfolio-12985790.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985790.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12985790/image/24260/242607186/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['leisure' ,'activity' ,'fun' ,'equipment' ,'person' ,'girl' ,'female' ,'people' ,'water' ,'ginger' ,'cute' ,'caucasian' ,'child' ,'drink' ,'childhood' ,'kid' ,'meditation' ,'adorable' ,'balance' ,'bottle' ,'indoors' ,'gym' ,'harmony' ,'spirituality' ,'carefree' ,'gesture' ,'meditating' ,'chakra' ,'yoga' ,'Stretching' ,'zen' ,'practice' ,'flexibility' ,'asana' ,'sportswear' ,'barefooted' ,'practicing' ,'preteen' ,'mudra' ,'girlhood' ,'padmasana' ,'closed eyes' ,'selective focus' ,'Healthy Lifestyle' ,'Relaxation Exercise' ,'Mental Health' ,'Lotus Pose' ,'yoga mat' ,'Yoga Pose' ]

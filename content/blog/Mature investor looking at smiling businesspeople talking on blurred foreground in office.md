@@ -2,7 +2,7 @@
 title: 'Mature investor looking at smiling businesspeople talking on blurred foreground in office '
 date: 2021-01-15T13:41:23+00:00
 author: HayDmitriy
-author_url: https://depositphotos.com/portfolio-20363444.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-20363444.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/20363444/image/43781/437810496/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['computer' ,'happy' ,'business' ,'smiling' ,'people' ,'cheerful' ,'caucasian' ,'technology' ,'Men' ,'emotion' ,'blur' ,'office' ,'woman' ,'conversation' ,'device' ,'talk' ,'laptop' ,'job' ,'pen' ,'planning' ,'together' ,'indoors' ,'investment' ,'project' ,'strategy' ,'profession' ,'positive' ,'mature' ,'gadget' ,'workplace' ,'management' ,'businesswoman' ,'consultation' ,'businessmen' ,'colleagues' ,'investor' ,'Productivity' ,'advisor' ,'flipchart' ,'formal wear' ,'middle aged' ,'business partners' ]

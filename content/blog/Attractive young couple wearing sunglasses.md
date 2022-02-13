@@ -2,7 +2,7 @@
 title: 'Attractive young couple wearing sunglasses'
 date: 2011-01-03T12:07:18+00:00
 author: konradbak
-author_url: https://depositphotos.com/portfolio-1018174.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1018174.html?ref=64678756
 image: https://static4.depositphotos.com/thumbs/1018174/image/457/4578965/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['group' ,'design' ,'glass' ,'beautiful' ,'valentine' ,'single' ,'holding' ,'person' ,'new' ,'elegance' ,'love' ,'party' ,'travel' ,'girl' ,'female' ,'young' ,'women' ,'beauty' ,'sun' ,'model' ,'happiness' ,'portrait' ,'girls' ,'mode' ,'blond' ,'man' ,'dark' ,'eyes' ,'3d' ,'fashion' ,'Men' ,'river' ,'bridge' ,'easter' ,'elements' ,'winter' ,'year' ,'pose' ,'pretty' ,'building' ,'city' ,'urban' ,'couple' ,'romantic' ,'evening' ,'glamour' ,'woman' ,'fingers' ,'lifestyle' ,'stand' ]

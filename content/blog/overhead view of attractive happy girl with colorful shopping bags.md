@@ -2,7 +2,7 @@
 title: 'overhead view of attractive happy girl with colorful shopping bags'
 date: 2018-11-07T14:29:31+00:00
 author: VitalikRadko
-author_url: https://depositphotos.com/portfolio-13194036.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13194036.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13194036/image/22351/223512052/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['colorful' ,'shopping' ,'beautiful' ,'happy' ,'sale' ,'customer' ,'person' ,'girl' ,'female' ,'smiling' ,'people' ,'happiness' ,'caucasian' ,'style' ,'fashion' ,'elegant' ,'stylish' ,'woman' ,'indoors' ,'trendy' ,'blonde' ,'attractive' ,'shopper' ,'fashionable' ,'shopaholic' ,'copy space' ,'young adult' ,'shopping bags' ,'shopping mall' ,'shopping center' ,'overhead view' ]

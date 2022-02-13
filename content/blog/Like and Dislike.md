@@ -2,7 +2,7 @@
 title: 'Like and Dislike'
 date: 2015-03-20T17:46:43+00:00
 author: Andrew_Rybalko
-author_url: https://depositphotos.com/portfolio-4347477.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-4347477.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/4347477/vector/6799/67999769/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'red' ,'vector' ,'background' ,'graphic' ,'element' ,'illustration' ,'design' ,'set' ,'business' ,'rate' ,'success' ,'up' ,'best' ,'friend' ,'hand' ,'modern' ,'symbol' ,'cool' ,'concept' ,'icon' ,'message' ,'finger' ,'thumb' ,'flat' ,'down' ,'negative' ,'choose' ,'bad' ,'right' ,'choice' ,'positive' ,'social' ,'good' ,'ok' ,'gesture' ,'option' ,'yes' ,'no' ,'vote' ,'like' ,'super' ,'correct' ,'unlike' ,'reject' ,'feedback' ,'accepted' ,'dislike' ]

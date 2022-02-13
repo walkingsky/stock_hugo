@@ -2,7 +2,7 @@
 title: 'upset woman holding bottle with medicine in bed '
 date: 2019-02-01T13:08:31+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13193658/image/24077/240778162/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'white' ,'glass' ,'beautiful' ,'person' ,'female' ,'people' ,'liquid' ,'caucasian' ,'medicine' ,'healthcare' ,'medical' ,'bed' ,'pajamas' ,'home' ,'emotions' ,'woman' ,'stress' ,'bottle' ,'indoors' ,'loneliness' ,'negative' ,'alone' ,'attractive' ,'bedroom' ,'sadness' ,'sad' ,'upset' ,'lonely' ,'Anxiety' ,'depressed' ,'Medicare' ,'selective focus' ]

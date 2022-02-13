@@ -2,7 +2,7 @@
 title: 'Interior design series: Modern living room'
 date: 2013-01-30T16:03:05+00:00
 author: scornejor
-author_url: https://depositphotos.com/portfolio-1987395.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1987395.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1987395/image/1940/19406891/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'red' ,'white' ,'design' ,'luxury' ,'decoration' ,'new' ,'Decor' ,'comfortable' ,'plant' ,'light' ,'brown' ,'wooden' ,'chair' ,'style' ,'carpet' ,'pillow' ,'sit' ,'modern' ,'creative' ,'architecture' ,'estate' ,'house' ,'wall' ,'window' ,'lamp' ,'relax' ,'interior' ,'indoor' ,'beige' ,'home' ,'elegant' ,'lifestyle' ,'salon' ,'furniture' ,'room' ,'wood' ,'floor' ,'living' ,'comfort' ,'apartment' ,'sofa' ,'contemporary' ,'cushion' ,'parquet' ,'lounge' ,'interiors' ,'minimalist' ,'casa' ,'Moderne' ]

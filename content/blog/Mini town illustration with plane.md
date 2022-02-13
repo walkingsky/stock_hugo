@@ -2,7 +2,7 @@
 title: 'Mini town illustration with plane'
 date: 2018-10-19T08:11:10+00:00
 author: ClassyCatStudio
-author_url: https://depositphotos.com/portfolio-2208320.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2208320.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/2208320/vector/2447/24470351/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['color' ,'yellow' ,'vector' ,'background' ,'colorful' ,'graphic' ,'illustration' ,'design' ,'painting' ,'sky' ,'beautiful' ,'greeting' ,'business' ,'art' ,'sun' ,'outdoors' ,'scene' ,'abstract' ,'warm' ,'tree' ,'style' ,'old' ,'vintage' ,'cartoon' ,'architecture' ,'city' ,'construction' ,'downtown' ,'house' ,'tall' ,'tower' ,'urban' ,'hold' ,'lifestyle' ,'street' ,'narrow' ,'clouds' ,'built' ,'cityscape' ,'town' ,'capital' ,'ancient' ,'buildings' ,'plane' ,'mini town' ]

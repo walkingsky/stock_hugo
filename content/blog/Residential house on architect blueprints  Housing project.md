@@ -2,7 +2,7 @@
 title: 'Residential house on architect blueprints. Housing project.'
 date: 2013-02-11T09:42:50+00:00
 author: maxxyustas
-author_url: https://depositphotos.com/portfolio-1001877.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1001877.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1001877/image/2003/20030747/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'on' ,'view' ,'horizontal' ,'illustration' ,'design' ,'paper' ,'isolated' ,'artificial' ,'concepts' ,'ideas' ,'model' ,'rural' ,'up' ,'frame' ,'3d' ,'three dimensional' ,'inspiration' ,'architecture' ,'building' ,'construction' ,'estate' ,'exterior' ,'facade' ,'house' ,'structure' ,'real' ,'home' ,'roof' ,'development' ,'internet' ,'document' ,'planning' ,'detached' ,'project' ,'built' ,'composition' ,'district' ,'plan' ,'architectural' ,'apartment' ,'architect' ,'housing' ,'residential' ,'organization' ,'paperwork' ,'blueprint' ,'beginnings' ,'realization' ,'projects' ]

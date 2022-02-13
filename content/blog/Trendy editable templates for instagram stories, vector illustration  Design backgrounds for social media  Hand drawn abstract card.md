@@ -2,7 +2,7 @@
 title: 'Trendy editable templates for instagram stories, vector illustration. Design backgrounds for social media. Hand drawn abstract card.'
 date: 2018-10-11T11:40:30+00:00
 author: Tolchik
-author_url: https://depositphotos.com/portfolio-2046547.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2046547.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/2046547/vector/21839/218397340/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'graphic' ,'illustration' ,'set' ,'photography' ,'pack' ,'business' ,'love' ,'abstract' ,'frame' ,'photo' ,'fashion' ,'modern' ,'concept' ,'heart' ,'communication' ,'mobile' ,'phone' ,'network' ,'internet' ,'net' ,'web' ,'template' ,'trendy' ,'media' ,'social' ,'designer' ,'story' ,'brand' ,'like' ,'technologies' ,'trend' ,'minimal' ,'blogger' ,'stories' ,'branding' ,'comment' ,'templates' ,'giveaway' ,'photo frame' ,'social media' ,'instagram' ,'instagram stories' ]

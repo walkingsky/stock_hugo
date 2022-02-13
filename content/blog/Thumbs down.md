@@ -2,7 +2,7 @@
 title: 'Thumbs down'
 date: 2009-11-12T16:16:44+00:00
 author: swinnerrr
-author_url: https://depositphotos.com/portfolio-1000201.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1000201.html?ref=64678756
 image: https://static3.depositphotos.com/thumbs/1000201/image/103/1031409/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'background' ,'object' ,'isolated' ,'single' ,'concepts' ,'person' ,'sign' ,'human' ,'ideas' ,'one' ,'people' ,'caucasian' ,'hand' ,'symbol' ,'woman' ,'finger' ,'thumb' ,'part' ,'body' ,'down' ,'negative' ,'expressing' ,'conflict' ,'negativity' ,'failure' ,'loss' ,'thumbs' ,'Gesturing' ,'showing' ,'word' ,'no' ,'cancel' ,'decisions' ,'decline' ,'negation' ,'rejection' ,'disapprove' ,'denunciation' ,'negate' ,'refusing' ,'ablehnung' ]

@@ -2,7 +2,7 @@
 title: 'Floral composition of eustoma bouquet on pink flatlay'
 date: 2018-07-30T08:43:11+00:00
 author: konstantynov
-author_url: https://depositphotos.com/portfolio-1049184.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1049184.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/1049184/image/20573/205738246/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'white' ,'background' ,'view' ,'decoration' ,'closeup' ,'beauty' ,'plant' ,'blossom' ,'floral' ,'flower' ,'corner' ,'style' ,'pink' ,'pastel' ,'lay' ,'text' ,'stylish' ,'flat' ,'gentle' ,'composition' ,'top' ,'bud' ,'overhead' ,'minimalistic' ,'eustoma' ,'LISIANTHUS' ,'flatlay' ]

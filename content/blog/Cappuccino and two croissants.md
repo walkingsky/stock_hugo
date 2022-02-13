@@ -2,7 +2,7 @@
 title: 'Cappuccino and two croissants.'
 date: 2018-07-17T05:26:02+00:00
 author: Olga_Z
-author_url: https://depositphotos.com/portfolio-5190361.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-5190361.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/5190361/image/20419/204191066/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'white' ,'background' ,'view' ,'design' ,'space' ,'happy' ,'closeup' ,'holding' ,'art' ,'fresh' ,'morning' ,'energy' ,'food' ,'wooden' ,'pastry' ,'cup' ,'tasty' ,'sweet' ,'meal' ,'breakfast' ,'dessert' ,'snack' ,'coffee' ,'caffeine' ,'espresso' ,'cappuccino' ,'drink' ,'croissant' ,'french' ,'time' ,'hand' ,'concept' ,'lay' ,'heart' ,'two' ,'cafe' ,'mug' ,'woman' ,'flat' ,'lifestyle' ,'foam' ,'top' ,'bakery' ,'latte' ,'above' ,'stories' ,'Hydrangea' ,'instagram' ,'flatlay' ]

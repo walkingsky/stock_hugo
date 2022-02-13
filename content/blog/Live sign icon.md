@@ -2,7 +2,7 @@
 title: 'Live sign icon'
 date: 2017-01-16T09:00:23+00:00
 author: Blankstock
-author_url: https://depositphotos.com/portfolio-1915171.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1915171.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/1915171/vector/13749/137491662/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'on' ,'graphic' ,'illustration' ,'shape' ,'sign' ,'label' ,'art' ,'air' ,'light' ,'symbol' ,'snow' ,'creative' ,'concept' ,'stream' ,'icon' ,'lamp' ,'mark' ,'button' ,'sound' ,'flat' ,'document' ,'broadcast' ,'live' ,'radio' ,'speech' ,'information' ,'geometric' ,'badge' ,'production' ,'bubble' ,'quality' ,'report' ,'media' ,'file' ,'graph' ,'tv' ,'seal' ,'stamp' ,'info' ,'token' ,'app' ,'now' ]

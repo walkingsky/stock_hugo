@@ -2,7 +2,7 @@
 title: 'Delicious  portion of  fresh salmon fillet  with aromatic herbs,'
 date: 2014-06-17T13:26:39+00:00
 author: klenova
-author_url: https://depositphotos.com/portfolio-1001092.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1001092.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1001092/image/4768/47684611/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'background' ,'on' ,'close up' ,'design' ,'stone' ,'new' ,'nature' ,'fresh' ,'oil' ,'healthy' ,'raw' ,'food' ,'gastronomy' ,'cooking' ,'cuisine' ,'steak' ,'fillet' ,'diet' ,'tasty' ,'delicious' ,'meal' ,'Menu' ,'restaurant' ,'black' ,'dark' ,'vegetable' ,'eating' ,'photo' ,'dill' ,'herbs' ,'dinner' ,'lunch' ,'elements' ,'concept' ,'salad' ,'pepper' ,'vegetables' ,'fish' ,'salmon' ,'gourmet' ,'seafood' ,'rosemary' ,'aromatic' ,'portion' ,'fingers' ,'with' ,'leafy' ,'Dieting' ,'stock' ]

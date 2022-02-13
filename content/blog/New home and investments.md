@@ -2,7 +2,7 @@
 title: 'New home and investments'
 date: 2018-04-03T14:18:18+00:00
 author: stockasso
-author_url: https://depositphotos.com/portfolio-3889193.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3889193.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/3889193/image/19007/190071482/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'grass' ,'environment' ,'protection' ,'man' ,'technology' ,'hands' ,'building' ,'construction' ,'house' ,'eco' ,'investment' ,'loan' ,'mortgage' ,'project' ,'efficient' ,'tablet' ,'engineering' ,'plan' ,'architect' ,'housing' ,'custom' ,'innovation' ,'owner' ,'renovation' ,'contractor' ,'buyer' ,'renewable' ,'sustainability' ,'agent' ,'photovoltaic' ,'real estate' ,'solar panel' ,'Model House' ,'energy saving' ,'environmental conservation' ,'power generation' ,'eco friendly' ,'home insurance' ,'safety helmet' ,'alternative energies' ]

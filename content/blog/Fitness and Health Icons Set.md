@@ -2,7 +2,7 @@
 title: 'Fitness and Health Icons Set'
 date: 2013-02-10T21:06:41+00:00
 author: cavitas
-author_url: https://depositphotos.com/portfolio-2037243.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2037243.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/2037243/vector/2002/20021885/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['sport' ,'vector' ,'design' ,'set' ,'beautiful' ,'sign' ,'female' ,'young' ,'people' ,'women' ,'vitality' ,'nature' ,'smile' ,'sports' ,'energy' ,'health' ,'healthy' ,'food' ,'diet' ,'fruit' ,'nutrition' ,'elements' ,'icon' ,'strong' ,'active' ,'woman' ,'digital' ,'lifestyle' ,'internet' ,'weight' ,'body' ,'fitness' ,'web' ,'gym' ,'exercise' ,'strength' ,'sexy' ,'run' ,'icons' ,'outside' ,'athlete' ,'media' ,'training' ,'social' ,'calories' ,'ready' ,'bodybuilding' ,'muscle' ,'commerce' ,'yoga' ]

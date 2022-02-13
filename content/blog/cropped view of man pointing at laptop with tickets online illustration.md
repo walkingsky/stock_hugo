@@ -2,7 +2,7 @@
 title: 'cropped view of man pointing at laptop with tickets online illustration'
 date: 2018-11-13T14:24:40+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13193658/image/22464/224647732/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['computer' ,'illustration' ,'person' ,'travel' ,'people' ,'male' ,'man' ,'connection' ,'tech' ,'technology' ,'carpet' ,'pose' ,'indoor' ,'home' ,'communication' ,'mobility' ,'screen' ,'wireless' ,'electronics' ,'laptop' ,'monitor' ,'digitally' ,'using' ,'casual' ,'gadget' ,'workplace' ,'symbols' ,'signs' ,'networking' ,'blogger' ,'partial' ,'Cropped' ,'freelance' ,'freelancer' ,'teleworking' ,'teleworker' ,'close up' ,'home office' ,'online shopping' ,'digital device' ,'remote work' ,'tickets online' ]

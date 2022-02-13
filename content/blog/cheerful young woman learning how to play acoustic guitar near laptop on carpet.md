@@ -2,7 +2,7 @@
 title: 'cheerful young woman learning how to play acoustic guitar near laptop on carpet'
 date: 2021-11-19T15:58:09+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/12982378/image/52512/525128134/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['leisure' ,'play' ,'entertainment' ,'computer' ,'beautiful' ,'happy' ,'young' ,'smiling' ,'cheerful' ,'caucasian' ,'orange' ,'hobby' ,'brunette' ,'technology' ,'carpet' ,'emotion' ,'home' ,'woman' ,'device' ,'sound' ,'laptop' ,'internet' ,'music' ,'perform' ,'joyful' ,'indoors' ,'learn' ,'melody' ,'online' ,'study' ,'attractive' ,'casual' ,'lesson' ,'positive' ,'pleased' ,'gadget' ,'sofa' ,'couch' ,'cardigan' ,'tattooed' ,'copy space' ,'one person' ,'Living Room' ,'musical instrument' ,'acoustic guitar' ]

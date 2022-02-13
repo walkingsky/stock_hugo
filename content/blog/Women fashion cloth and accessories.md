@@ -2,7 +2,7 @@
 title: 'Women fashion cloth and accessories'
 date: 2017-10-02T13:45:44+00:00
 author: maximleshkovich
-author_url: https://depositphotos.com/portfolio-7595566.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-7595566.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/7595566/image/16728/167281978/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'white' ,'background' ,'view' ,'set' ,'bright' ,'shop' ,'beauty' ,'life' ,'warm' ,'style' ,'cloth' ,'fashion' ,'modern' ,'winter' ,'lay' ,'necklace' ,'flat' ,'lifestyle' ,'desk' ,'still' ,'accessories' ,'feminine' ,'grey' ,'clothes' ,'sunglasses' ,'look' ,'casual' ,'sweater' ,'collage' ,'magazine' ,'blog' ,'bracelets' ,'purse' ,'essential' ,'boutique' ,'clutch' ,'trend' ,'minimal' ,'entrepreneur' ,'fashion blog' ,'fashion look' ,'flatlay' ]

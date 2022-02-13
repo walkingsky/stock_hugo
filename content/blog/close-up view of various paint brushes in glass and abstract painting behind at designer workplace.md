@@ -2,7 +2,7 @@
 title: 'close-up view of various paint brushes in glass and abstract painting behind at designer workplace'
 date: 2017-12-11T15:36:27+00:00
 author: ViktoriiaDyachenko
-author_url: https://depositphotos.com/portfolio-14862852.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-14862852.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/14862852/image/17648/176480274/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['nobody' ,'close up' ,'design' ,'painting' ,'glass' ,'studio' ,'art' ,'Decor' ,'abstract' ,'hobby' ,'creativity' ,'picture' ,'modern' ,'creative' ,'idea' ,'office' ,'indoor' ,'work' ,'drawing' ,'indoors' ,'workshop' ,'workplace' ,'workspace' ,'various' ,'brushes' ,'paintbrushes' ,'paint brushes' ,'Creative Occupation' ,'designer workplace' ]

@@ -2,7 +2,7 @@
 title: 'businessman in wireless earphones and suit, banner'
 date: 2020-12-07T12:21:16+00:00
 author: HayDmitriy
-author_url: https://depositphotos.com/portfolio-20363444.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-20363444.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/20363444/image/41954/419542118/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['horizontal' ,'business' ,'outdoors' ,'success' ,'caucasian' ,'man' ,'crop' ,'banner' ,'modern' ,'architecture' ,'building' ,'corporate' ,'urban' ,'suit' ,'electronic' ,'wireless' ,'professional' ,'businessman' ,'music' ,'listen' ,'tie' ,'handsome' ,'earphones' ,'bearded' ,'copy space' ,'one person' ,'formal wear' ,'look away' ,'website header' ]

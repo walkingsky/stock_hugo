@@ -2,7 +2,7 @@
 title: 'Colored splashes'
 date: 2012-09-10T05:06:13+00:00
 author: jag_cz
-author_url: https://depositphotos.com/portfolio-1105977.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1105977.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1105977/image/1271/12714900/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['colours' ,'color' ,'colors' ,'white' ,'blue' ,'round' ,'background' ,'colorful' ,'on' ,'circle' ,'colored' ,'design' ,'isolated' ,'closeup' ,'art' ,'nature' ,'drop' ,'fresh' ,'wet' ,'drip' ,'liquid' ,'abstract' ,'water' ,'colour' ,'colourful' ,'light' ,'spray' ,'drink' ,'frame' ,'wave' ,'3d' ,'ink' ,'paint' ,'splash' ,'rainbow' ,'pink' ,'elements' ,'flowing' ,'motion' ,'purple' ,'smooth' ,'flow' ,'painted' ,'hot' ,'stain' ,'brush' ,'ring' ,'artistic' ,'mix' ,'splashes' ]

@@ -2,7 +2,7 @@
 title: 'Selective focus of smiling creative designer holding cubes with ux letters at table with layouts'
 date: 2020-01-17T12:45:06+00:00
 author: VitalikRadko
-author_url: https://depositphotos.com/portfolio-13194036.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13194036.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/13194036/image/32811/328112746/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'design' ,'holding' ,'caucasian' ,'smile' ,'wooden' ,'man' ,'european' ,'emotion' ,'creative' ,'office' ,'working' ,'work' ,'emotional' ,'planning' ,'wood' ,'indoors' ,'project' ,'inside' ,'profession' ,'site' ,'handsome' ,'letters' ,'cells' ,'designer' ,'workplace' ,'workspace' ,'symbols' ,'signs' ,'interface' ,'cubes' ,'frameworks' ,'app' ,'designing' ,'ui' ,'layouts' ,'professional occupation' ,'one person' ,'selective focus' ,'young adult' ,'ux' ,'website template design' ,'user experience design' ,'designer studio' ,'web prototype' ,'designer sketches' ,'web sketches' ,'website wireframe sketches' ]

@@ -2,7 +2,7 @@
 title: 'flying drone with camera on the sky '
 date: 2014-04-22T15:25:28+00:00
 author: goceristeski
-author_url: https://depositphotos.com/portfolio-1003854.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1003854.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1003854/image/4507/45078579/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['image' ,'blue' ,'on' ,'photography' ,'sky' ,'equipment' ,'flying' ,'technology' ,'modern' ,'motion' ,'industry' ,'moving' ,'device' ,'fingers' ,'wireless' ,'digital' ,'with' ,'professional' ,'camera' ,'photographing' ,'stability' ,'remote' ,'watching' ,'robot' ,'innovation' ,'turning' ,'control' ,'propeller' ,'helicopter' ,'spy' ,'television' ,'technique' ,'the' ,'carbon' ,'ladies' ,'rotor' ,'controlled' ,'drone' ,'drones' ,'hexacopter' ,'octocopter' ,'quadrocopter' ]

@@ -2,7 +2,7 @@
 title: 'Set of floral summery wallpapers'
 date: 2012-11-01T18:52:48+00:00
 author: LemonPrintPaper
-author_url: https://depositphotos.com/portfolio-1766827.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1766827.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1766827/vector/1417/14179822/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['background' ,'colorful' ,'graphic' ,'illustration' ,'design' ,'set' ,'paper' ,'gift' ,'decorative' ,'happy' ,'art' ,'summer' ,'beauty' ,'nature' ,'spring' ,'leaf' ,'abstract' ,'blossom' ,'floral' ,'flower' ,'natural' ,'vivid' ,'pattern' ,'dragonfly' ,'card' ,'retro' ,'flores' ,'seamless' ,'ornament' ,'modern' ,'pretty' ,'creative' ,'interior' ,'lovely' ,'wallpaper' ,'fancy' ,'repetition' ,'textile' ,'fabric' ,'charming' ,'cards' ,'series' ,'enchanting' ]

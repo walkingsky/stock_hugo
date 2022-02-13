@@ -2,7 +2,7 @@
 title: 'Set of flat design concept for web development'
 date: 2014-08-06T07:48:30+00:00
 author: Variant
-author_url: https://depositphotos.com/portfolio-1720162.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1720162.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1720162/vector/5071/50715429/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'computer' ,'object' ,'graphic' ,'element' ,'illustration' ,'design' ,'set' ,'business' ,'concepts' ,'sign' ,'abstract' ,'cable' ,'technology' ,'style' ,'banner' ,'time' ,'modern' ,'symbol' ,'elements' ,'creative' ,'concept' ,'icon' ,'office' ,'service' ,'fingers' ,'mobile' ,'services' ,'with' ,'laptop' ,'desktop' ,'flat' ,'network' ,'development' ,'work' ,'tool' ,'internet' ,'desk' ,'book' ,'learning' ,'web' ,'telecommunications' ,'code' ,'coding' ,'ecommerce' ,'online' ,'marketing' ,'website' ,'top' ,'application' ]

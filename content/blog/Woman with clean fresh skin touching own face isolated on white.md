@@ -2,7 +2,7 @@
 title: 'Woman with clean fresh skin touching own face isolated on white'
 date: 2018-02-28T17:04:01+00:00
 author: AllaSerebrina
-author_url: https://depositphotos.com/portfolio-12985790.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985790.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12985790/image/18592/185929740/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['close up' ,'beautiful' ,'person' ,'female' ,'people' ,'caucasian' ,'cream' ,'wellbeing' ,'face' ,'care' ,'skin' ,'woman' ,'touch' ,'cosmetic' ,'skincare' ,'clean' ,'purity' ,'treatment' ,'alone' ,'attractive' ,'mature' ,'wellness' ,'visage' ,'moisturizing' ,'Isolated On White' ,'copy space' ,'Studio Shot' ,'middle aged' ,'skin care' ,'perfect skin' ,'anti wrinkle cream' ,'antiaging skincare' ]

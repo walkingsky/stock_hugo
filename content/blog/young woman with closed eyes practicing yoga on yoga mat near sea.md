@@ -2,7 +2,7 @@
 title: 'young woman with closed eyes practicing yoga on yoga mat near sea '
 date: 2019-06-14T09:22:58+00:00
 author: VitalikRadko
-author_url: https://depositphotos.com/portfolio-13194036.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13194036.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13194036/image/27191/271912844/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['blue' ,'sky' ,'beautiful' ,'girl' ,'summer' ,'relaxation' ,'outdoors' ,'nature' ,'water' ,'caucasian' ,'energy' ,'natural' ,'wellbeing' ,'sea' ,'river' ,'peace' ,'calm' ,'meditation' ,'relax' ,'woman' ,'lifestyle' ,'balance' ,'beach' ,'seascape' ,'shore' ,'tranquility' ,'blonde' ,'sand' ,'harmony' ,'attractive' ,'outside' ,'spirituality' ,'barefoot' ,'wellness' ,'meditating' ,'yoga' ,'zen' ,'summertime' ,'practice' ,'meditate' ,'practicing' ,'copy space' ,'one person' ,'closed eyes' ,'young adult' ,'Mental Health' ,'yoga mat' ,'total white' ]

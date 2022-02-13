@@ -2,7 +2,7 @@
 title: 'beautiful young woman in sailor shirt isolated pn blue'
 date: 2018-02-05T09:14:46+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12982378/image/18245/182451540/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'person' ,'girl' ,'clothing' ,'people' ,'beauty' ,'model' ,'style' ,'retro' ,'vintage' ,'fashion' ,'pose' ,'stylish' ,'clothes' ,'alone' ,'attractive' ,'posing' ,'fashionable' ,'modeling' ,'styling' ,'fashionista' ,'young adult' ,'old fashioned' ,'isolated on blue' ,'pin up' ,'Fashion Shoot' ,'caucasian woman' ,'sailor shirt' ]

@@ -2,7 +2,7 @@
 title: 'portrait of online shop proprietor resting during work at home office'
 date: 2017-12-08T13:45:59+00:00
 author: alebloshka
-author_url: https://depositphotos.com/portfolio-12674628.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12674628.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12674628/image/17635/176357840/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['consumerism' ,'beautiful' ,'business' ,'person' ,'girl' ,'clothing' ,'people' ,'portrait' ,'technology' ,'style' ,'corporate' ,'rest' ,'stylish' ,'electronic' ,'mobility' ,'wireless' ,'laptop' ,'network' ,'work' ,'clothes' ,'alone' ,'tablet' ,'attractive' ,'executive' ,'casual' ,'owner' ,'distribution' ,'gesture' ,'commerce' ,'Gesturing' ,'appliance' ,'businesswoman' ,'entrepreneur' ,'self employed' ,'proprietor' ,'copy space' ,'home office' ,'young adult' ,'Small Business' ,'caucasian woman' ,'online business' ,'remote work' ,'digital devcies' ]

@@ -2,7 +2,7 @@
 title: 'Medicine doctor hand working with modern computer interface'
 date: 2013-04-12T10:32:57+00:00
 author: everythingposs
-author_url: https://depositphotos.com/portfolio-1907633.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1907633.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1907633/image/2380/23805293/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

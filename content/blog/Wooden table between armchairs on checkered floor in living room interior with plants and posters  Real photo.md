@@ -2,7 +2,7 @@
 title: 'Wooden table between armchairs on checkered floor in living room interior with plants and posters. Real photo'
 date: 2018-08-07T14:21:25+00:00
 author: photographee.eu
-author_url: https://depositphotos.com/portfolio-2249091.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2249091.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/2249091/image/20691/206917498/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'white' ,'design' ,'plants' ,'natural' ,'wooden' ,'black' ,'modern' ,'interior' ,'home' ,'flat' ,'furniture' ,'grey' ,'simple' ,'room' ,'floor' ,'contrast' ,'living' ,'apartment' ,'loft' ,'checkered' ,'minimal' ,'armchairs' ,'posters' ]

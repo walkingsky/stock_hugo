@@ -2,7 +2,7 @@
 title: 'Dislike Button'
 date: 2013-07-09T12:44:13+00:00
 author: gow27
-author_url: https://depositphotos.com/portfolio-2394409.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2394409.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/2394409/image/2742/27425773/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['computer' ,'illustration' ,'closeup' ,'business' ,'sign' ,'success' ,'attitude' ,'connection' ,'technology' ,'3d' ,'symbol' ,'emotion' ,'concept' ,'idea' ,'icon' ,'service' ,'button' ,'keyboard' ,'digital' ,'press' ,'laptop' ,'pc' ,'network' ,'tool' ,'internet' ,'click' ,'web' ,'negative' ,'online' ,'website' ,'system' ,'quality' ,'media' ,'choice' ,'innovation' ,'control' ,'social' ,'share' ,'decision' ,'word' ,'networking' ,'enter' ,'relationship' ,'like' ,'interaction' ,'program' ,'fail' ,'trend' ,'comment' ,'comments' ]

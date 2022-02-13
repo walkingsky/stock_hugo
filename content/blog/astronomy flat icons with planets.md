@@ -2,7 +2,7 @@
 title: 'astronomy flat icons with planets'
 date: 2016-04-20T18:51:42+00:00
 author: masha_tace
-author_url: https://depositphotos.com/portfolio-3474805.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-3474805.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/3474805/vector/10284/102843640/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'background' ,'illustration' ,'design' ,'space' ,'sky' ,'sun' ,'solar' ,'full' ,'big' ,'structure' ,'night' ,'flat' ,'body' ,'education' ,'earth' ,'science' ,'half' ,'moon' ,'stars' ,'system' ,'discovery' ,'astronomy' ,'galaxy' ,'universe' ,'phases' ,'telescope' ,'research' ,'observation' ,'exploration' ,'constellation' ,'comet' ,'planets' ,'Venus' ,'celestial' ,'mars' ,'Astronomical' ,'planetarium' ,'starry' ,'mercury' ,'asteroid' ,'neptune' ,'meteor' ,'astrophysics' ,'observatory' ,'jupiter' ,'saturn' ,'pluto' ,'uranus' ,'solar system' ]

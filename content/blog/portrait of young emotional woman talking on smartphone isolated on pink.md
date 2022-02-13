@@ -2,7 +2,7 @@
 title: 'portrait of young emotional woman talking on smartphone isolated on pink'
 date: 2018-10-01T11:32:59+00:00
 author: VitalikRadko
-author_url: https://depositphotos.com/portfolio-13194036.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13194036.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13194036/image/21675/216752476/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['background' ,'beautiful' ,'person' ,'girl' ,'clothing' ,'people' ,'portrait' ,'caucasian' ,'connection' ,'technology' ,'style' ,'pretty' ,'backdrop' ,'stylish' ,'woman' ,'communication' ,'conversation' ,'electronic' ,'mobility' ,'talk' ,'wireless' ,'network' ,'emotional' ,'clothes' ,'attractive' ,'eyeglasses' ,'casual' ,'gadget' ,'gesture' ,'Gesturing' ,'appliance' ,'smartphone' ,'copy space' ,'young adult' ,'Isolated On pink' ,'digital device' ]

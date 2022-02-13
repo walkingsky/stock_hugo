@@ -2,7 +2,7 @@
 title: 'Concepts of idea for business'
 date: 2015-05-26T12:08:28+00:00
 author: VectorStory
-author_url: https://depositphotos.com/portfolio-4038693.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-4038693.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/4038693/vector/7355/73555687/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'computer' ,'background' ,'money' ,'object' ,'view' ,'illustration' ,'design' ,'set' ,'business' ,'sign' ,'success' ,'abstract' ,'light' ,'technology' ,'card' ,'banner' ,'hand' ,'symbol' ,'concept' ,'idea' ,'icon' ,'office' ,'mobile' ,'laptop' ,'desktop' ,'flat' ,'work' ,'internet' ,'document' ,'planning' ,'bulb' ,'web' ,'finance' ,'project' ,'strategy' ,'company' ,'marketing' ,'top' ,'advertising' ,'workspace' ,'management' ,'chart' ,'credit' ,'diagram' ,'propaganda' ,'brainstorming' ,'consulting' ,'hand drawn' ,'startup' ]

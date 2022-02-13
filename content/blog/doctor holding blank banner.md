@@ -2,7 +2,7 @@
 title: 'doctor holding blank banner'
 date: 2017-10-24T14:24:45+00:00
 author: NatashaFedorova
-author_url: https://depositphotos.com/portfolio-11233746.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-11233746.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/11233746/image/17063/170634548/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['background' ,'beautiful' ,'happy' ,'person' ,'sign' ,'female' ,'people' ,'cheerful' ,'texture' ,'smile' ,'health' ,'medicine' ,'healthcare' ,'illness' ,'medical' ,'care' ,'european' ,'card' ,'banner' ,'blank' ,'doctor' ,'work' ,'job' ,'template' ,'blonde' ,'profession' ,'alone' ,'attractive' ,'mature' ,'ad' ,'Medicare' ,'professional occupation' ,'looking at camera' ,'Isolated On White' ,'copy space' ,'Studio Shot' ,'middle aged' ,'white coat' ,'caucasian woman' ,'empty board' ]

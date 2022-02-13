@@ -2,7 +2,7 @@
 title: 'Happy smiling couple in jeans with blueprint at home'
 date: 2019-04-26T11:40:42+00:00
 author: HayDmitriy
-author_url: https://depositphotos.com/portfolio-20363444.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-20363444.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/20363444/image/25635/256353088/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'happy' ,'girl' ,'smiling' ,'cheerful' ,'caucasian' ,'smile' ,'cardboard' ,'packing' ,'carton' ,'family' ,'man' ,'emotion' ,'beard' ,'packages' ,'home' ,'couple' ,'moving' ,'woman' ,'emotional' ,'boxes' ,'room' ,'placard' ,'together' ,'togetherness' ,'indoors' ,'project' ,'delivery' ,'attractive' ,'Jeans' ,'handsome' ,'wife' ,'husband' ,'relationship' ,'blueprint' ,'bearded' ,'relocation' ,'looking at camera' ,'Two People' ,'copy space' ,'young adult' ,'New Life' ,'acoustic guitar' ]

@@ -2,7 +2,7 @@
 title: 'Black polygonal abstract background'
 date: 2015-06-04T10:09:39+00:00
 author: Celticlit
-author_url: https://depositphotos.com/portfolio-2866255.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2866255.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/2866255/vector/7414/74146219/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['triangle' ,'vector' ,'background' ,'graphic' ,'element' ,'illustration' ,'design' ,'space' ,'diamond' ,'luxury' ,'shape' ,'business' ,'abstract' ,'texture' ,'light' ,'pattern' ,'black' ,'dark' ,'style' ,'fashion' ,'modern' ,'backdrop' ,'concept' ,'digital' ,'cover' ,'wallpaper' ,'web' ,'template' ,'geometric' ,'low' ,'carbon' ,'origami' ,'polygon' ,'polygonal' ,'poly' ,'low poly' ,'black polygonal abstract background' ,'backegrand' ]

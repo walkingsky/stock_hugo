@@ -2,7 +2,7 @@
 title: 'Coworkers Making Business Decisions'
 date: 2016-09-12T17:31:49+00:00
 author: kantver
-author_url: https://depositphotos.com/portfolio-2251265.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2251265.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/2251265/image/12250/122506612/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['table' ,'group' ,'white' ,'computer' ,'design' ,'business' ,'person' ,'smiling' ,'people' ,'women' ,'man' ,'technology' ,'corporate' ,'office' ,'working' ,'laptop' ,'notebook' ,'occupation' ,'professional' ,'lifestyle' ,'businessman' ,'desk' ,'together' ,'project' ,'marketing' ,'team' ,'worker' ,'teamwork' ,'workplace' ,'analysis' ,'management' ,'meeting' ,'businesswoman' ,'cooperation' ,'diverse' ,'brainstorming' ,'Coworker' ,'entrepreneur' ,'hipster' ,'multitasking' ,'start up' ,'casual work' ,'cafe place' ,'strategy thinking' ,'research plan' ,'coworkers discussion' ]

@@ -2,7 +2,7 @@
 title: 'displeased woman with vitiligo pointing with hand at laptop on bed'
 date: 2020-12-08T08:17:45+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/13193658/image/42262/422620476/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['white' ,'computer' ,'beautiful' ,'morning' ,'caucasian' ,'health' ,'medical' ,'brunette' ,'technology' ,'bed' ,'skin' ,'emotion' ,'home' ,'woman' ,'laptop' ,'internet' ,'body' ,'disease' ,'indoors' ,'problem' ,'spots' ,'pigment' ,'attractive' ,'bedroom' ,'different' ,'gadget' ,'condition' ,'displeased' ,'gesture' ,'dermatology' ,'use' ,'bedding' ,'blogger' ,'dissatisfied' ,'melanin' ,'pigmentation' ,'freelance' ,'freelancer' ,'autoimmune' ,'vitiligo' ,'lentigo' ,'copy space' ,'one person' ,'work from home' ,'depigmentation' ,'digital device' ,'remote work' ,'point with hand' ]

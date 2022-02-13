@@ -2,7 +2,7 @@
 title: 'Office interior with large windows'
 date: 2014-09-09T12:51:05+00:00
 author: kantver
-author_url: https://depositphotos.com/portfolio-2251265.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-2251265.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/2251265/image/5252/52522495/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['large' ,'white' ,'chairs' ,'background' ,'nobody' ,'perspective' ,'design' ,'space' ,'glass' ,'luxury' ,'business' ,'empty' ,'studio' ,'sunlight' ,'comfortable' ,'light' ,'modern' ,'concept' ,'architecture' ,'building' ,'construction' ,'estate' ,'house' ,'office' ,'wall' ,'window' ,'interior' ,'indoor' ,'blank' ,'home' ,'clear' ,'gallery' ,'room' ,'inside' ,'floor' ,'hall' ,'apartment' ,'residential' ,'loft' ,'warehouse' ,'ceiling' ,'Raum' ,'oficina' ,'biurowce' ]

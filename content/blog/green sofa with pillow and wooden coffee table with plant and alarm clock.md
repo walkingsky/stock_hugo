@@ -2,7 +2,7 @@
 title: 'green sofa with pillow and wooden coffee table with plant and alarm clock'
 date: 2020-05-22T09:27:56+00:00
 author: AntonMatyukha
-author_url: https://depositphotos.com/portfolio-13349494.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13349494.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/13349494/image/37230/372304926/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'white' ,'background' ,'nobody' ,'design' ,'decoration' ,'decorative' ,'Decor' ,'comfortable' ,'plant' ,'flora' ,'flower' ,'wooden' ,'style' ,'pillow' ,'time' ,'modern' ,'wall' ,'interior' ,'home' ,'furniture' ,'grey' ,'room' ,'wood' ,'indoors' ,'floor' ,'apartment' ,'sofa' ,'couch' ,'flowerpot' ,'houseplant' ,'copy space' ,'Living Room' ,'Alarm clock' ,'no people' ,'Coffee Table' ]

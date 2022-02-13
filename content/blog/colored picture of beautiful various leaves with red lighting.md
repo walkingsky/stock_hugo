@@ -2,7 +2,7 @@
 title: 'colored picture of beautiful various leaves with red lighting '
 date: 2018-10-29T09:10:43+00:00
 author: VadimVasenin
-author_url: https://depositphotos.com/portfolio-13324256.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13324256.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13324256/image/22198/221984772/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['red' ,'background' ,'nobody' ,'beautiful' ,'decorative' ,'season' ,'seasonal' ,'summer' ,'beauty' ,'nature' ,'fresh' ,'greenery' ,'growth' ,'texture' ,'flora' ,'floral' ,'natural' ,'botany' ,'black' ,'dark' ,'style' ,'tropical' ,'backdrop' ,'stylish' ,'wallpaper' ,'trendy' ,'exotic' ,'botanical' ,'different' ,'various' ,'close up' ,'Toned Image' ,'Dramatic Lighting' ,'color filter' ]

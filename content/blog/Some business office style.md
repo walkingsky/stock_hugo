@@ -2,7 +2,7 @@
 title: 'Some business office style'
 date: 2016-04-14T08:35:43+00:00
 author: alexdrumcheg.gmail.com
-author_url: https://depositphotos.com/portfolio-6553940.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-6553940.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/6553940/vector/10559/105597716/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['sport' ,'objects' ,'chairs' ,'vector' ,'background' ,'ball' ,'nobody' ,'view' ,'design' ,'set' ,'space' ,'business' ,'studio' ,'decor' ,'plants' ,'flowers' ,'light' ,'technology' ,'cartoon' ,'funny' ,'modern' ,'elements' ,'creative' ,'office' ,'lamp' ,'indoor' ,'text' ,'home' ,'screen' ,'monitor' ,'desktop' ,'work' ,'decorations' ,'music' ,'furniture' ,'wood' ,'comfort' ,'team' ,'guitar' ,'vinyl' ,'rooms' ,'walls' ,'community' ,'tables' ,'computers' ,'cups' ,'interiors' ,'Medals' ,'workplaces' ,'workspaces' ]

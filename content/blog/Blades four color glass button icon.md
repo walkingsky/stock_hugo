@@ -2,7 +2,7 @@
 title: 'Blades four color glass button icon'
 date: 2021-06-01T11:50:44+00:00
 author: Infolight
-author_url: https://depositphotos.com/portfolio-50337402.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-50337402.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/50337402/vector/47115/471150458/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['green' ,'red' ,'blue' ,'vector' ,'glass' ,'transportation' ,'blade' ,'technology' ,'purple' ,'icon' ,'button' ,'electronics' ,'blades' ,'gradient' ,'fly' ,'propeller' ,'helicopter' ,'airplane' ,'logo' ,'aviation' ,'eps' ,'premium' ,'drone' ]

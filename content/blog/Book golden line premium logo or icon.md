@@ -2,7 +2,7 @@
 title: 'Book golden line premium logo or icon'
 date: 2021-06-01T06:52:11+00:00
 author: Infolight
-author_url: https://depositphotos.com/portfolio-50337402.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-50337402.html?ref=64678756
 image: https://st2.depositphotos.com/thumbs/50337402/vector/47084/470841262/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['vector' ,'flower' ,'golden' ,'line' ,'icon' ,'romantic' ,'read' ,'book' ,'education' ,'royal' ,'story' ,'logo' ,'novel' ,'eps' ,'premium' ]

@@ -2,7 +2,7 @@
 title: 'panoramic shot of woman holding baby shoes isolated on blue '
 date: 2020-03-03T11:49:29+00:00
 author: IgorVetushko
-author_url: https://depositphotos.com/portfolio-12982378.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12982378.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12982378/image/34562/345625674/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['colorful' ,'simplicity' ,'bright' ,'elegance' ,'child' ,'childhood' ,'classic' ,'concept' ,'manicure' ,'elegant' ,'woman' ,'simple' ,'trendy' ,'panorama' ,'panoramic' ,'dress' ,'baby' ,'footwear' ,'shoes' ,'sneakers' ,'nails' ,'trend' ,'minimal' ,'partial' ,'fingernails' ,'minimalistic' ,'Cropped' ,'one person' ,'Studio Shot' ,'isolated on blue' ,'Baby Shoes' ,'color of year' ]

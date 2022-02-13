@@ -2,7 +2,7 @@
 title: 'young couple watching tv'
 date: 2017-08-18T08:46:06+00:00
 author: AllaSerebrina
-author_url: https://depositphotos.com/portfolio-12985790.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985790.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/12985790/image/16361/163619410/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['leisure' ,'beautiful' ,'people' ,'portrait' ,'affectionate' ,'friendship' ,'connection' ,'technology' ,'cartoon' ,'sit' ,'concept' ,'house' ,'beard' ,'home' ,'couple' ,'communication' ,'laptop' ,'flat' ,'lifestyle' ,'furniture' ,'room' ,'together' ,'togetherness' ,'using' ,'attractive' ,'casual' ,'handsome' ,'seat' ,'closeness' ,'sofa' ,'gesture' ,'Gesturing' ,'couch' ,'relationship' ,'boyfriend' ,'girlfriend' ,'Isolated On White' ,'young adult' ,'Mid Adult' ,'Full Length' ,'remote control' ,'Wireless Technology' ,'watching tv' ,'caucasian woman' ,'digital device' ,'Caucasian Man' ]

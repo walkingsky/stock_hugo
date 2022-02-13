@@ -2,7 +2,7 @@
 title: 'Smiling mature couple clinking with wine near fresh vegetables on kitchen table '
 date: 2020-06-04T15:06:07+00:00
 author: AndrewLozovyi
-author_url: https://depositphotos.com/portfolio-13193658.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13193658.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13193658/image/37851/378514942/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['celebration' ,'smiling' ,'caucasian' ,'smile' ,'uncooked' ,'raw' ,'food' ,'kitchen' ,'cooking' ,'diet' ,'family' ,'man' ,'european' ,'whole' ,'drink' ,'cut' ,'nutrition' ,'dinner' ,'cook' ,'emotion' ,'salad' ,'vegetables' ,'wine' ,'home' ,'couple' ,'beverage' ,'woman' ,'emotional' ,'together' ,'togetherness' ,'Dieting' ,'indoors' ,'alcohol' ,'ingredients' ,'glasses' ,'mature' ,'wife' ,'husband' ,'clinking' ,'toasting' ,'quarantine' ,'unprocessed' ,'Two People' ,'Healthy Eating' ,'copy space' ,'middle aged' ,'wine glasses' ,'self isolation' ]

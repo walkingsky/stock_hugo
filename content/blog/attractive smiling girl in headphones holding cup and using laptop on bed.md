@@ -2,7 +2,7 @@
 title: 'attractive smiling girl in headphones holding cup and using laptop on bed '
 date: 2018-12-06T09:17:35+00:00
 author: AllaSerebrina
-author_url: https://depositphotos.com/portfolio-12985790.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-12985790.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/12985790/image/22973/229739752/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['computer' ,'beautiful' ,'holding' ,'person' ,'girl' ,'female' ,'sitting' ,'young' ,'smiling' ,'people' ,'caucasian' ,'cup' ,'drink' ,'bed' ,'pretty' ,'beverage' ,'mug' ,'woman' ,'electronics' ,'laptop' ,'indoors' ,'using' ,'headphones' ,'attractive' ,'casual' ,'bedroom' ,'gadgets' ,'copy space' ,'at home' ,'listening music' ,'digital devices' ]

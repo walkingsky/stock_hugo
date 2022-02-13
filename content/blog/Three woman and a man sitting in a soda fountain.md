@@ -2,7 +2,7 @@
 title: 'Three woman and a man sitting in a soda fountain'
 date: 2012-09-26T19:04:18+00:00
 author: everett225
-author_url: https://depositphotos.com/portfolio-1729220.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1729220.html?ref=64678756
 image: https://static9.depositphotos.com/thumbs/1729220/image/1229/12299339/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: []

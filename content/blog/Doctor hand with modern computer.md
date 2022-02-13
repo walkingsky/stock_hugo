@@ -2,7 +2,7 @@
 title: 'Doctor hand with modern computer'
 date: 2014-02-26T10:55:12+00:00
 author: HASLOO
-author_url: https://depositphotos.com/portfolio-1028979.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-1028979.html?ref=64678756
 image: https://st.depositphotos.com/thumbs/1028979/image/4096/40960757/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['computer' ,'background' ,'colorful' ,'graphic' ,'person' ,'push' ,'human' ,'people' ,'health' ,'medicine' ,'male' ,'medical' ,'care' ,'man' ,'tech' ,'technology' ,'hand' ,'modern' ,'symbol' ,'icon' ,'Cardiology' ,'doctor' ,'heart' ,'button' ,'display' ,'screen' ,'digital' ,'press' ,'touch' ,'network' ,'data' ,'exam' ,'professional' ,'test' ,'work' ,'future' ,'navigation' ,'report' ,'At' ,'virtual' ,'graph' ,'chart' ,'interface' ,'diagram' ,'choosing' ,'program' ,'and' ,'medic' ,'cardiologist' ,'portal' ]

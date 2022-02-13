@@ -2,7 +2,7 @@
 title: 'cropped view of happy couple lying in bed and having breakfast together, panoramic shot'
 date: 2019-06-04T11:04:46+00:00
 author: VitalikRadko
-author_url: https://depositphotos.com/portfolio-13194036.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-13194036.html?ref=64678756
 image: https://st4.depositphotos.com/thumbs/13194036/image/27166/271660348/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['beautiful' ,'happy' ,'holding' ,'love' ,'girl' ,'sitting' ,'young' ,'smiling' ,'people' ,'happiness' ,'caucasian' ,'breakfast' ,'family' ,'man' ,'bed' ,'lying' ,'home' ,'couple' ,'two' ,'woman' ,'lifestyle' ,'together' ,'togetherness' ,'having' ,'indoors' ,'panoramic' ,'attractive' ,'casual' ,'boyfriend' ,'girlfriend' ,'cropped view' ]

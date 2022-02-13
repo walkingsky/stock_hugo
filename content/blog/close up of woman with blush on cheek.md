@@ -2,7 +2,7 @@
 title: 'close up of woman with blush on cheek '
 date: 2019-12-12T07:15:58+00:00
 author: HayDmitriy
-author_url: https://depositphotos.com/portfolio-20363444.html?ref=64678756
+author_url: http://depositphotos.com/portfolio-20363444.html?ref=64678756
 image: https://st3.depositphotos.com/thumbs/20363444/image/32297/322975780/api_thumb_450.jpg?forcejpeg=true
 type: "post"
 tags: ['girl' ,'beauty' ,'woman' ,'makeup' ,'blush' ,'cheek' ,'partial' ,'Cropped' ,'one person' ,'selective focus' ,'close up' ,'Studio Shot' ,'body part' ,'young adult' ,'face powder' ,'perfect skin' ]
