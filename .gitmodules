@@ -1,9 +1,0 @@
-[submodule "themes/showcase"]
-	path = themes/showcase
-	url = https://github.com/apvarun/showcase-hugo-theme.git
-[submodule "themes/parsa-hugo"]
-	path = themes/parsa-hugo
-	url = https://github.com/themefisher/parsa-hugo.git
-[submodule "themes/hugo-shopping-product-catalogue-simple"]
-	path = themes/hugo-shopping-product-catalogue-simple
-	url = https://github.com/kishaningithub/hugo-shopping-product-catalogue-simple.git
