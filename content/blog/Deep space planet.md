@@ -13,7 +13,7 @@ categories:
             <font size="60"> Blue and pink planet with two suns in deep space</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1288351/image/3083/30833343/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1288351/image/3083/30833343/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1288351/3083/i/950/depositphotos_30833343-stock-photo-deep-space-planet.jpg?forcejpeg=true' alt='Blue and pink planet with two suns in deep space' >
+    <a href='https://depositphotos.com/30833343/stock-photo-deep-space-planet.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/30833343/stock-photo-deep-space-planet.html?ref=64678756' src='https://st.depositphotos.com/1288351/3083/i/950/depositphotos_30833343-stock-photo-deep-space-planet.jpg?forcejpeg=true' alt='Blue and pink planet with two suns in deep space' >
     </a>
 </div>

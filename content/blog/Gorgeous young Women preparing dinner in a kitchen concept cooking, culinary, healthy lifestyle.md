@@ -13,7 +13,7 @@ categories:
             <font size="60"> Gorgeous young Women preparing dinner in a kitchen concept cooking, culinary, healthy lifestyle</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/2171279/image/8116/81161942/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/2171279/image/8116/81161942/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/2171279/8116/i/950/depositphotos_81161942-stock-photo-gorgeous-young-women-preparing-dinner.jpg?forcejpeg=true' alt='Gorgeous young Women preparing dinner in a kitchen concept cooking, culinary, healthy lifestyle' >
+    <a href='https://depositphotos.com/81161942/stock-photo-gorgeous-young-women-preparing-dinner.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/81161942/stock-photo-gorgeous-young-women-preparing-dinner.html?ref=64678756' src='https://st2.depositphotos.com/2171279/8116/i/950/depositphotos_81161942-stock-photo-gorgeous-young-women-preparing-dinner.jpg?forcejpeg=true' alt='Gorgeous young Women preparing dinner in a kitchen concept cooking, culinary, healthy lifestyle' >
     </a>
 </div>

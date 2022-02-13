@@ -13,7 +13,7 @@ categories:
             <font size="60"> Chocolate cakes with spices on plate</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/1030624/image/13055/130553436/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/1030624/image/13055/130553436/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/1030624/13055/i/950/depositphotos_130553436-stock-photo-chocolate-cakes-with-spices.jpg?forcejpeg=true' alt='Chocolate cakes with spices on plate' >
+    <a href='https://depositphotos.com/130553436/stock-photo-chocolate-cakes-with-spices.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/130553436/stock-photo-chocolate-cakes-with-spices.html?ref=64678756' src='https://st3.depositphotos.com/1030624/13055/i/950/depositphotos_130553436-stock-photo-chocolate-cakes-with-spices.jpg?forcejpeg=true' alt='Chocolate cakes with spices on plate' >
     </a>
 </div>

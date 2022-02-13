@@ -13,7 +13,7 @@ categories:
             <font size="60"> Face of Young Woman with Clean Fresh Skin isolated on white</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1491329/image/3571/35710527/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1491329/image/3571/35710527/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1491329/3571/i/950/depositphotos_35710527-stock-photo-face-of-young-woman-with.jpg?forcejpeg=true' alt='Face of Young Woman with Clean Fresh Skin isolated on white' >
+    <a href='https://depositphotos.com/35710527/stock-photo-face-of-young-woman-with.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/35710527/stock-photo-face-of-young-woman-with.html?ref=64678756' src='https://st.depositphotos.com/1491329/3571/i/950/depositphotos_35710527-stock-photo-face-of-young-woman-with.jpg?forcejpeg=true' alt='Face of Young Woman with Clean Fresh Skin isolated on white' >
     </a>
 </div>

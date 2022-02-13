@@ -13,7 +13,7 @@ categories:
             <font size="60"> Close up portrait of woman in colourful paint</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1033800/image/5819/58197851/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1033800/image/5819/58197851/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1033800/5819/i/950/depositphotos_58197851-stock-photo-woman-in-colourful-paint.jpg?forcejpeg=true' alt='Close up portrait of woman in colourful paint' >
+    <a href='https://depositphotos.com/58197851/stock-photo-woman-in-colourful-paint.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/58197851/stock-photo-woman-in-colourful-paint.html?ref=64678756' src='https://st2.depositphotos.com/1033800/5819/i/950/depositphotos_58197851-stock-photo-woman-in-colourful-paint.jpg?forcejpeg=true' alt='Close up portrait of woman in colourful paint' >
     </a>
 </div>

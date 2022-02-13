@@ -13,7 +13,7 @@ categories:
             <font size="60"> Space quest game with start finish and astronomy icons on background vector illustration</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/2885805/vector/5432/54320505/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/2885805/vector/5432/54320505/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/2885805/5432/v/950/depositphotos_54320505-stock-illustration-space-quest-game.jpg?forcejpeg=true' alt='Space quest game with start finish and astronomy icons on background vector illustration' >
+    <a href='https://depositphotos.com/54320505/stock-illustration-space-quest-game.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/54320505/stock-illustration-space-quest-game.html?ref=64678756' src='https://st2.depositphotos.com/2885805/5432/v/950/depositphotos_54320505-stock-illustration-space-quest-game.jpg?forcejpeg=true' alt='Space quest game with start finish and astronomy icons on background vector illustration' >
     </a>
 </div>

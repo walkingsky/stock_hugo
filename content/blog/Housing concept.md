@@ -13,7 +13,7 @@ categories:
             <font size="60"> Real estate agent holding a small house, desktop with tools, wood swatches and computer on background, top view</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/3889193/image/7640/76405367/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/3889193/image/7640/76405367/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/3889193/7640/i/950/depositphotos_76405367-stock-photo-housing-concept.jpg?forcejpeg=true' alt='Real estate agent holding a small house, desktop with tools, wood swatches and computer on background, top view' >
+    <a href='https://depositphotos.com/76405367/stock-photo-housing-concept.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/76405367/stock-photo-housing-concept.html?ref=64678756' src='https://st2.depositphotos.com/3889193/7640/i/950/depositphotos_76405367-stock-photo-housing-concept.jpg?forcejpeg=true' alt='Real estate agent holding a small house, desktop with tools, wood swatches and computer on background, top view' >
     </a>
 </div>

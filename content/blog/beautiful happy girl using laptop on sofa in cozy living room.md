@@ -13,7 +13,7 @@ categories:
             <font size="60"> Beautiful happy girl using laptop on sofa in cozy living room</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/13193658/image/31230/312309136/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/13193658/image/31230/312309136/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/13193658/31230/i/950/depositphotos_312309136-stock-photo-beautiful-happy-girl-using-laptop.jpg?forcejpeg=true' alt='Beautiful happy girl using laptop on sofa in cozy living room' >
+    <a href='https://depositphotos.com/312309136/stock-photo-beautiful-happy-girl-using-laptop.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/312309136/stock-photo-beautiful-happy-girl-using-laptop.html?ref=64678756' src='https://st4.depositphotos.com/13193658/31230/i/950/depositphotos_312309136-stock-photo-beautiful-happy-girl-using-laptop.jpg?forcejpeg=true' alt='Beautiful happy girl using laptop on sofa in cozy living room' >
     </a>
 </div>

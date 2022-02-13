@@ -13,7 +13,7 @@ categories:
             <font size="60"> Psychologist holding eyeglasses and looking away while standing with hand in pocket</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/20363444/image/53349/533491218/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/20363444/image/53349/533491218/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/20363444/53349/i/950/depositphotos_533491218-stock-photo-psychologist-holding-eyeglasses-looking-away.jpg?forcejpeg=true' alt='Psychologist holding eyeglasses and looking away while standing with hand in pocket' >
+    <a href='https://depositphotos.com/533491218/stock-photo-psychologist-holding-eyeglasses-looking-away.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/533491218/stock-photo-psychologist-holding-eyeglasses-looking-away.html?ref=64678756' src='https://st.depositphotos.com/20363444/53349/i/950/depositphotos_533491218-stock-photo-psychologist-holding-eyeglasses-looking-away.jpg?forcejpeg=true' alt='Psychologist holding eyeglasses and looking away while standing with hand in pocket' >
     </a>
 </div>

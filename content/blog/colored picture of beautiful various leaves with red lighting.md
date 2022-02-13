@@ -13,7 +13,7 @@ categories:
             <font size="60"> Colored picture of beautiful various leaves with red lighting</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/13324256/image/22198/221984772/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/13324256/image/22198/221984772/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/13324256/22198/i/950/depositphotos_221984772-stock-photo-colored-picture-beautiful-various-leaves.jpg?forcejpeg=true' alt='Colored picture of beautiful various leaves with red lighting' >
+    <a href='https://depositphotos.com/221984772/stock-photo-colored-picture-beautiful-various-leaves.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/221984772/stock-photo-colored-picture-beautiful-various-leaves.html?ref=64678756' src='https://st4.depositphotos.com/13324256/22198/i/950/depositphotos_221984772-stock-photo-colored-picture-beautiful-various-leaves.jpg?forcejpeg=true' alt='Colored picture of beautiful various leaves with red lighting' >
     </a>
 </div>

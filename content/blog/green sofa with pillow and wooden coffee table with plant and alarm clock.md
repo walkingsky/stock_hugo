@@ -13,7 +13,7 @@ categories:
             <font size="60"> Green sofa with pillow and wooden coffee table with plant and alarm clock</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13349494/image/37230/372304926/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13349494/image/37230/372304926/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13349494/37230/i/950/depositphotos_372304926-stock-photo-green-sofa-pillow-wooden-coffee.jpg?forcejpeg=true' alt='Green sofa with pillow and wooden coffee table with plant and alarm clock' >
+    <a href='https://depositphotos.com/372304926/stock-photo-green-sofa-pillow-wooden-coffee.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/372304926/stock-photo-green-sofa-pillow-wooden-coffee.html?ref=64678756' src='https://st3.depositphotos.com/13349494/37230/i/950/depositphotos_372304926-stock-photo-green-sofa-pillow-wooden-coffee.jpg?forcejpeg=true' alt='Green sofa with pillow and wooden coffee table with plant and alarm clock' >
     </a>
 </div>

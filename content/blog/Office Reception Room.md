@@ -13,7 +13,7 @@ categories:
             <font size="60"> Reception room and office building vie</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1207017/vector/5483/54834807/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1207017/vector/5483/54834807/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1207017/5483/v/950/depositphotos_54834807-stock-illustration-office-reception-room.jpg?forcejpeg=true' alt='Reception room and office building vie' >
+    <a href='https://depositphotos.com/54834807/stock-illustration-office-reception-room.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/54834807/stock-illustration-office-reception-room.html?ref=64678756' src='https://st2.depositphotos.com/1207017/5483/v/950/depositphotos_54834807-stock-illustration-office-reception-room.jpg?forcejpeg=true' alt='Reception room and office building vie' >
     </a>
 </div>

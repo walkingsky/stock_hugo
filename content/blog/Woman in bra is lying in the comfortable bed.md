@@ -13,7 +13,7 @@ categories:
             <font size="60"> Woman in underwear is lying in the soft bed, white background</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1005116/image/1353/13539160/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1005116/image/1353/13539160/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1005116/1353/i/950/depositphotos_13539160-stock-photo-woman-in-bra-is-lying.jpg?forcejpeg=true' alt='Woman in underwear is lying in the soft bed, white background' >
+    <a href='https://depositphotos.com/13539160/stock-photo-woman-in-bra-is-lying.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/13539160/stock-photo-woman-in-bra-is-lying.html?ref=64678756' src='https://st.depositphotos.com/1005116/1353/i/950/depositphotos_13539160-stock-photo-woman-in-bra-is-lying.jpg?forcejpeg=true' alt='Woman in underwear is lying in the soft bed, white background' >
     </a>
 </div>

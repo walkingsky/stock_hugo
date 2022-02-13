@@ -13,7 +13,7 @@ categories:
             <font size="60"> Food type Icons</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1531425/vector/2415/24157593/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1531425/vector/2415/24157593/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1531425/2415/v/950/depositphotos_24157593-stock-illustration-food-type-icons.jpg?forcejpeg=true' alt='Food type Icons' >
+    <a href='https://depositphotos.com/24157593/stock-illustration-food-type-icons.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/24157593/stock-illustration-food-type-icons.html?ref=64678756' src='https://st.depositphotos.com/1531425/2415/v/950/depositphotos_24157593-stock-illustration-food-type-icons.jpg?forcejpeg=true' alt='Food type Icons' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Workplaces in a modern panoramic office, Singapore city view from the windows. Open space. White tables and black leather chairs. A concept of financial consulting services. 3D rendering.</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/2673929/image/8344/83445092/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/2673929/image/8344/83445092/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/2673929/8344/i/950/depositphotos_83445092-stock-photo-workplaces-in-a-modern-panoramic.jpg?forcejpeg=true' alt='Workplaces in a modern panoramic office, Singapore city view from the windows. Open space. White tables and black leather chairs. A concept of financial consulting services. 3D rendering.' >
+    <a href='https://depositphotos.com/83445092/stock-photo-workplaces-in-a-modern-panoramic.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/83445092/stock-photo-workplaces-in-a-modern-panoramic.html?ref=64678756' src='https://st2.depositphotos.com/2673929/8344/i/950/depositphotos_83445092-stock-photo-workplaces-in-a-modern-panoramic.jpg?forcejpeg=true' alt='Workplaces in a modern panoramic office, Singapore city view from the windows. Open space. White tables and black leather chairs. A concept of financial consulting services. 3D rendering.' >
     </a>
 </div>

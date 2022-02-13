@@ -13,7 +13,7 @@ categories:
             <font size="60"> Beautiful and athletic Girl jumping with a balloon on the beach</font>   
 </div>
 <div>
-    <a href='https://static7.depositphotos.com/thumbs/1011434/image/685/6851668/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static7.depositphotos.com/thumbs/1011434/image/685/6851668/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static7.depositphotos.com/1011434/685/i/950/depositphotos_6851668-stock-photo-jumping-with-balloons.jpg?forcejpeg=true' alt='Beautiful and athletic Girl jumping with a balloon on the beach' >
+    <a href='https://depositphotos.com/6851668/stock-photo-jumping-with-balloons.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/6851668/stock-photo-jumping-with-balloons.html?ref=64678756' src='https://static7.depositphotos.com/1011434/685/i/950/depositphotos_6851668-stock-photo-jumping-with-balloons.jpg?forcejpeg=true' alt='Beautiful and athletic Girl jumping with a balloon on the beach' >
     </a>
 </div>

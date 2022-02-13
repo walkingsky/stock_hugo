@@ -13,7 +13,7 @@ categories:
             <font size="60"> Mini town illustration with plane</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/2208320/vector/2447/24470351/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/2208320/vector/2447/24470351/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/2208320/2447/v/950/depositphotos_24470351-stock-illustration-mini-town-illustration-plane.jpg?forcejpeg=true' alt='Mini town illustration with plane' >
+    <a href='https://depositphotos.com/24470351/stock-illustration-mini-town-illustration-plane.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/24470351/stock-illustration-mini-town-illustration-plane.html?ref=64678756' src='https://st.depositphotos.com/2208320/2447/v/950/depositphotos_24470351-stock-illustration-mini-town-illustration-plane.jpg?forcejpeg=true' alt='Mini town illustration with plane' >
     </a>
 </div>

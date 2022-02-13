@@ -13,7 +13,7 @@ categories:
             <font size="60"> Lifestyle choice and dilemma concept as a two human faces one made of fresh green vegetables and fruit and the other head shaped with greasy fast food as hamburgers and fried foods as a symbol of nutrition facts and healthy living issues.</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1229718/image/5717/57173219/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1229718/image/5717/57173219/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1229718/5717/i/950/depositphotos_57173219-stock-photo-lifestyle-choice.jpg?forcejpeg=true' alt='Lifestyle choice and dilemma concept as a two human faces one made of fresh green vegetables and fruit and the other head shaped with greasy fast food as hamburgers and fried foods as a symbol of nutrition facts and healthy living issues.' >
+    <a href='https://depositphotos.com/57173219/stock-photo-lifestyle-choice.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/57173219/stock-photo-lifestyle-choice.html?ref=64678756' src='https://st2.depositphotos.com/1229718/5717/i/950/depositphotos_57173219-stock-photo-lifestyle-choice.jpg?forcejpeg=true' alt='Lifestyle choice and dilemma concept as a two human faces one made of fresh green vegetables and fruit and the other head shaped with greasy fast food as hamburgers and fried foods as a symbol of nutrition facts and healthy living issues.' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Modern office. workplace in the office of the corporation. workplace before the workday. empty office in the morning. vector.</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/5779744/vector/8396/83964828/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/5779744/vector/8396/83964828/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/5779744/8396/v/950/depositphotos_83964828-stock-illustration-modern-office-workplace.jpg?forcejpeg=true' alt='Modern office. workplace in the office of the corporation. workplace before the workday. empty office in the morning. vector.' >
+    <a href='https://depositphotos.com/83964828/stock-illustration-modern-office-workplace.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/83964828/stock-illustration-modern-office-workplace.html?ref=64678756' src='https://st2.depositphotos.com/5779744/8396/v/950/depositphotos_83964828-stock-illustration-modern-office-workplace.jpg?forcejpeg=true' alt='Modern office. workplace in the office of the corporation. workplace before the workday. empty office in the morning. vector.' >
     </a>
 </div>

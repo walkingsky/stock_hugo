@@ -13,7 +13,7 @@ categories:
             <font size="60"> Beautiful purebred brown chicken isolated on white background</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1373322/image/2535/25354335/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1373322/image/2535/25354335/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1373322/2535/i/950/depositphotos_25354335-stock-photo-beautiful-purebred-brown-chicken-isolated.jpg?forcejpeg=true' alt='Beautiful purebred brown chicken isolated on white background' >
+    <a href='https://depositphotos.com/25354335/stock-photo-beautiful-purebred-brown-chicken-isolated.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/25354335/stock-photo-beautiful-purebred-brown-chicken-isolated.html?ref=64678756' src='https://st.depositphotos.com/1373322/2535/i/950/depositphotos_25354335-stock-photo-beautiful-purebred-brown-chicken-isolated.jpg?forcejpeg=true' alt='Beautiful purebred brown chicken isolated on white background' >
     </a>
 </div>

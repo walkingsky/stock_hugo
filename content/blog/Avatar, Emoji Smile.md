@@ -13,7 +13,7 @@ categories:
             <font size="60"> 16 smiles set . Flat style . Vector format.</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/7138852/vector/9919/99192526/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/7138852/vector/9919/99192526/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/7138852/9919/v/950/depositphotos_99192526-stock-illustration-avatar-emoji-smile.jpg?forcejpeg=true' alt='16 smiles set . Flat style . Vector format.' >
+    <a href='https://depositphotos.com/99192526/stock-illustration-avatar-emoji-smile.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/99192526/stock-illustration-avatar-emoji-smile.html?ref=64678756' src='https://st2.depositphotos.com/7138852/9919/v/950/depositphotos_99192526-stock-illustration-avatar-emoji-smile.jpg?forcejpeg=true' alt='16 smiles set . Flat style . Vector format.' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Illustration of a cute little girl</font>   
 </div>
 <div>
-    <a href='https://static9.depositphotos.com/thumbs/1526816/vector/1105/11052264/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static9.depositphotos.com/thumbs/1526816/vector/1105/11052264/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static9.depositphotos.com/1526816/1105/v/950/depositphotos_11052264-stock-illustration-cute-girl.jpg?forcejpeg=true' alt='Illustration of a cute little girl' >
+    <a href='https://depositphotos.com/11052264/stock-illustration-cute-girl.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/11052264/stock-illustration-cute-girl.html?ref=64678756' src='https://static9.depositphotos.com/1526816/1105/v/950/depositphotos_11052264-stock-illustration-cute-girl.jpg?forcejpeg=true' alt='Illustration of a cute little girl' >
     </a>
 </div>

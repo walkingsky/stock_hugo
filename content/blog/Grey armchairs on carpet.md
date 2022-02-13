@@ -13,7 +13,7 @@ categories:
             <font size="60"> Two cozy grey armchairs standing on white carpet in empty room</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12071432/image/15608/156081362/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12071432/image/15608/156081362/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12071432/15608/i/950/depositphotos_156081362-stock-photo-grey-armchairs-on-carpet.jpg?forcejpeg=true' alt='Two cozy grey armchairs standing on white carpet in empty room' >
+    <a href='https://depositphotos.com/156081362/stock-photo-grey-armchairs-on-carpet.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/156081362/stock-photo-grey-armchairs-on-carpet.html?ref=64678756' src='https://st3.depositphotos.com/12071432/15608/i/950/depositphotos_156081362-stock-photo-grey-armchairs-on-carpet.jpg?forcejpeg=true' alt='Two cozy grey armchairs standing on white carpet in empty room' >
     </a>
 </div>

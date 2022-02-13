@@ -13,7 +13,7 @@ categories:
             <font size="60"> Indoor lifestyle fashion portrait of beautiful woman posing at cafe, drinking fresh healthy tasty mango juice, smiling, have nice time, bright sexy make up</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/3584475/image/7537/75377107/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/3584475/image/7537/75377107/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/3584475/7537/i/950/depositphotos_75377107-stock-photo-beautiful-woman-posing-at-cafe.jpg?forcejpeg=true' alt='Indoor lifestyle fashion portrait of beautiful woman posing at cafe, drinking fresh healthy tasty mango juice, smiling, have nice time, bright sexy make up' >
+    <a href='https://depositphotos.com/75377107/stock-photo-beautiful-woman-posing-at-cafe.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/75377107/stock-photo-beautiful-woman-posing-at-cafe.html?ref=64678756' src='https://st2.depositphotos.com/3584475/7537/i/950/depositphotos_75377107-stock-photo-beautiful-woman-posing-at-cafe.jpg?forcejpeg=true' alt='Indoor lifestyle fashion portrait of beautiful woman posing at cafe, drinking fresh healthy tasty mango juice, smiling, have nice time, bright sexy make up' >
     </a>
 </div>

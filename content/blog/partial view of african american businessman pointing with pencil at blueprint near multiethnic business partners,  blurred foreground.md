@@ -13,7 +13,7 @@ categories:
             <font size="60"> Partial view of african american businessman pointing with pencil at blueprint near multiethnic business partners,  blurred foreground</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/20363444/image/43781/437810286/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/20363444/image/43781/437810286/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/20363444/43781/i/950/depositphotos_437810286-stock-photo-partial-view-african-american-businessman.jpg?forcejpeg=true' alt='Partial view of african american businessman pointing with pencil at blueprint near multiethnic business partners,  blurred foreground' >
+    <a href='https://depositphotos.com/437810286/stock-photo-partial-view-african-american-businessman.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/437810286/stock-photo-partial-view-african-american-businessman.html?ref=64678756' src='https://st2.depositphotos.com/20363444/43781/i/950/depositphotos_437810286-stock-photo-partial-view-african-american-businessman.jpg?forcejpeg=true' alt='Partial view of african american businessman pointing with pencil at blueprint near multiethnic business partners,  blurred foreground' >
     </a>
 </div>

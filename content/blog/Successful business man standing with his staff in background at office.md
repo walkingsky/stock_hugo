@@ -13,7 +13,7 @@ categories:
             <font size="60"> Successful business man standing with his staff in background at office</font>   
 </div>
 <div>
-    <a href='https://static6.depositphotos.com/thumbs/1000816/image/557/5576920/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static6.depositphotos.com/thumbs/1000816/image/557/5576920/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static6.depositphotos.com/1000816/557/i/950/depositphotos_5576920-stock-photo-successful-business-man-standing-with.jpg?forcejpeg=true' alt='Successful business man standing with his staff in background at office' >
+    <a href='https://depositphotos.com/5576920/stock-photo-successful-business-man-standing-with.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/5576920/stock-photo-successful-business-man-standing-with.html?ref=64678756' src='https://static6.depositphotos.com/1000816/557/i/950/depositphotos_5576920-stock-photo-successful-business-man-standing-with.jpg?forcejpeg=true' alt='Successful business man standing with his staff in background at office' >
     </a>
 </div>

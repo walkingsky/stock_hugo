@@ -13,7 +13,7 @@ categories:
             <font size="60"> Fashionable young woman in striped swimsuit and white hat lying on fitness ball on rocks</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/13194036/image/20785/207857632/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/13194036/image/20785/207857632/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/13194036/20785/i/950/depositphotos_207857632-stock-photo-fashionable-young-woman-striped-swimsuit.jpg?forcejpeg=true' alt='Fashionable young woman in striped swimsuit and white hat lying on fitness ball on rocks' >
+    <a href='https://depositphotos.com/207857632/stock-photo-fashionable-young-woman-striped-swimsuit.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/207857632/stock-photo-fashionable-young-woman-striped-swimsuit.html?ref=64678756' src='https://st4.depositphotos.com/13194036/20785/i/950/depositphotos_207857632-stock-photo-fashionable-young-woman-striped-swimsuit.jpg?forcejpeg=true' alt='Fashionable young woman in striped swimsuit and white hat lying on fitness ball on rocks' >
     </a>
 </div>

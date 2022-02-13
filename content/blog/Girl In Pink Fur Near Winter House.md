@@ -13,7 +13,7 @@ categories:
             <font size="60"> Girl dressed in pink fur coat and blue jeans holds a sparkler on the background of the winter house</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/2785795/vector/18822/188226286/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/2785795/vector/18822/188226286/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/2785795/18822/v/950/depositphotos_188226286-stock-illustration-girl-in-pink-fur-near.jpg?forcejpeg=true' alt='Girl dressed in pink fur coat and blue jeans holds a sparkler on the background of the winter house' >
+    <a href='https://depositphotos.com/188226286/stock-illustration-girl-in-pink-fur-near.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/188226286/stock-illustration-girl-in-pink-fur-near.html?ref=64678756' src='https://st3.depositphotos.com/2785795/18822/v/950/depositphotos_188226286-stock-illustration-girl-in-pink-fur-near.jpg?forcejpeg=true' alt='Girl dressed in pink fur coat and blue jeans holds a sparkler on the background of the winter house' >
     </a>
 </div>

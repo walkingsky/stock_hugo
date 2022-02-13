@@ -13,7 +13,7 @@ categories:
             <font size="60"> Vintage collection of food and restaurants posters</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1351697/vector/5235/52359117/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1351697/vector/5235/52359117/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1351697/5235/v/950/depositphotos_52359117-stock-illustration-retro-food-posters.jpg?forcejpeg=true' alt='Vintage collection of food and restaurants posters' >
+    <a href='https://depositphotos.com/52359117/stock-illustration-retro-food-posters.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/52359117/stock-illustration-retro-food-posters.html?ref=64678756' src='https://st2.depositphotos.com/1351697/5235/v/950/depositphotos_52359117-stock-illustration-retro-food-posters.jpg?forcejpeg=true' alt='Vintage collection of food and restaurants posters' >
     </a>
 </div>

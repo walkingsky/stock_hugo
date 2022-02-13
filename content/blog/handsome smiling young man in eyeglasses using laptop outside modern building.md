@@ -13,7 +13,7 @@ categories:
             <font size="60"> Handsome smiling young man in eyeglasses using laptop outside modern building</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12985848/image/19803/198032546/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12985848/image/19803/198032546/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12985848/19803/i/950/depositphotos_198032546-stock-photo-handsome-smiling-young-man-eyeglasses.jpg?forcejpeg=true' alt='Handsome smiling young man in eyeglasses using laptop outside modern building' >
+    <a href='https://depositphotos.com/198032546/stock-photo-handsome-smiling-young-man-eyeglasses.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/198032546/stock-photo-handsome-smiling-young-man-eyeglasses.html?ref=64678756' src='https://st4.depositphotos.com/12985848/19803/i/950/depositphotos_198032546-stock-photo-handsome-smiling-young-man-eyeglasses.jpg?forcejpeg=true' alt='Handsome smiling young man in eyeglasses using laptop outside modern building' >
     </a>
 </div>

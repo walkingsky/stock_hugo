@@ -13,7 +13,7 @@ categories:
             <font size="60"> Happy frog king cartoon isolated on white</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1967477/vector/3715/37158295/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1967477/vector/3715/37158295/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1967477/3715/v/950/depositphotos_37158295-stock-illustration-happy-frog-king-cartoon.jpg?forcejpeg=true' alt='Happy frog king cartoon isolated on white' >
+    <a href='https://depositphotos.com/37158295/stock-illustration-happy-frog-king-cartoon.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/37158295/stock-illustration-happy-frog-king-cartoon.html?ref=64678756' src='https://st.depositphotos.com/1967477/3715/v/950/depositphotos_37158295-stock-illustration-happy-frog-king-cartoon.jpg?forcejpeg=true' alt='Happy frog king cartoon isolated on white' >
     </a>
 </div>

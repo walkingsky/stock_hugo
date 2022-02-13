@@ -13,7 +13,7 @@ categories:
             <font size="60"> Bee blue gradient vector icon</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/50337402/vector/47112/471125184/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/50337402/vector/47112/471125184/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/50337402/47112/v/950/depositphotos_471125184-stock-illustration-bee-blue-gradient-vector-icon.jpg?forcejpeg=true' alt='Bee blue gradient vector icon' >
+    <a href='https://depositphotos.com/471125184/stock-illustration-bee-blue-gradient-vector-icon.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/471125184/stock-illustration-bee-blue-gradient-vector-icon.html?ref=64678756' src='https://st2.depositphotos.com/50337402/47112/v/950/depositphotos_471125184-stock-illustration-bee-blue-gradient-vector-icon.jpg?forcejpeg=true' alt='Bee blue gradient vector icon' >
     </a>
 </div>

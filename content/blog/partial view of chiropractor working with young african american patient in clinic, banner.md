@@ -13,7 +13,7 @@ categories:
             <font size="60"> Partial view of chiropractor working with young african american patient in clinic, banner</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/20363444/image/43779/437790670/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/20363444/image/43779/437790670/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/20363444/43779/i/950/depositphotos_437790670-stock-photo-partial-view-chiropractor-working-young.jpg?forcejpeg=true' alt='Partial view of chiropractor working with young african american patient in clinic, banner' >
+    <a href='https://depositphotos.com/437790670/stock-photo-partial-view-chiropractor-working-young.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/437790670/stock-photo-partial-view-chiropractor-working-young.html?ref=64678756' src='https://st2.depositphotos.com/20363444/43779/i/950/depositphotos_437790670-stock-photo-partial-view-chiropractor-working-young.jpg?forcejpeg=true' alt='Partial view of chiropractor working with young african american patient in clinic, banner' >
     </a>
 </div>

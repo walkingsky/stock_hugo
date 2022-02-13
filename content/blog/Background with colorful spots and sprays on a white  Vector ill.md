@@ -13,7 +13,7 @@ categories:
             <font size="60"> Background with colorful spots and sprays on a white. Vector illustration.</font>   
 </div>
 <div>
-    <a href='https://static8.depositphotos.com/thumbs/1386392/vector/891/8918678/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static8.depositphotos.com/thumbs/1386392/vector/891/8918678/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static8.depositphotos.com/1386392/891/v/950/depositphotos_8918678-stock-illustration-background-with-colorful-spots-and.jpg?forcejpeg=true' alt='Background with colorful spots and sprays on a white. Vector illustration.' >
+    <a href='https://depositphotos.com/8918678/stock-illustration-background-with-colorful-spots-and.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/8918678/stock-illustration-background-with-colorful-spots-and.html?ref=64678756' src='https://static8.depositphotos.com/1386392/891/v/950/depositphotos_8918678-stock-illustration-background-with-colorful-spots-and.jpg?forcejpeg=true' alt='Background with colorful spots and sprays on a white. Vector illustration.' >
     </a>
 </div>

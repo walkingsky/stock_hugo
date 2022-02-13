@@ -13,7 +13,7 @@ categories:
             <font size="60"> This trendy set of real estate vector icons are just perfect for real estate agencies and home insurance agencies, adverts and promotional materials.</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/4060975/vector/7676/76769005/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/4060975/vector/7676/76769005/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/4060975/7676/v/950/depositphotos_76769005-stock-illustration-flat-real-estate-vector-icons.jpg?forcejpeg=true' alt='This trendy set of real estate vector icons are just perfect for real estate agencies and home insurance agencies, adverts and promotional materials.' >
+    <a href='https://depositphotos.com/76769005/stock-illustration-flat-real-estate-vector-icons.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/76769005/stock-illustration-flat-real-estate-vector-icons.html?ref=64678756' src='https://st2.depositphotos.com/4060975/7676/v/950/depositphotos_76769005-stock-illustration-flat-real-estate-vector-icons.jpg?forcejpeg=true' alt='This trendy set of real estate vector icons are just perfect for real estate agencies and home insurance agencies, adverts and promotional materials.' >
     </a>
 </div>

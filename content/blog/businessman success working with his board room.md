@@ -13,7 +13,7 @@ categories:
             <font size="60"> Businessman success working with his board room background</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1907633/image/2182/21826185/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1907633/image/2182/21826185/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1907633/2182/i/950/depositphotos_21826185-stock-photo-businessman-success-working-with-his.jpg?forcejpeg=true' alt='Businessman success working with his board room background' >
+    <a href='https://depositphotos.com/21826185/stock-photo-businessman-success-working-with-his.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/21826185/stock-photo-businessman-success-working-with-his.html?ref=64678756' src='https://st.depositphotos.com/1907633/2182/i/950/depositphotos_21826185-stock-photo-businessman-success-working-with-his.jpg?forcejpeg=true' alt='Businessman success working with his board room background' >
     </a>
 </div>

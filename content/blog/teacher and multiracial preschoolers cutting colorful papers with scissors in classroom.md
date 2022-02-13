@@ -13,7 +13,7 @@ categories:
             <font size="60"> Teacher and multiracial preschoolers cutting colorful papers with scissors in classroom</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12982378/image/20552/205528382/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12982378/image/20552/205528382/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12982378/20552/i/950/depositphotos_205528382-stock-photo-teacher-multiracial-preschoolers-cutting-colorful.jpg?forcejpeg=true' alt='Teacher and multiracial preschoolers cutting colorful papers with scissors in classroom' >
+    <a href='https://depositphotos.com/205528382/stock-photo-teacher-multiracial-preschoolers-cutting-colorful.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/205528382/stock-photo-teacher-multiracial-preschoolers-cutting-colorful.html?ref=64678756' src='https://st4.depositphotos.com/12982378/20552/i/950/depositphotos_205528382-stock-photo-teacher-multiracial-preschoolers-cutting-colorful.jpg?forcejpeg=true' alt='Teacher and multiracial preschoolers cutting colorful papers with scissors in classroom' >
     </a>
 </div>

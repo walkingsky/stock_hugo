@@ -13,7 +13,7 @@ categories:
             <font size="60"> A magic book with light and stars emanating from the pages</font>   
 </div>
 <div>
-    <a href='https://static3.depositphotos.com/thumbs/1005347/image/239/2391153/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static3.depositphotos.com/thumbs/1005347/image/239/2391153/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static3.depositphotos.com/1005347/239/i/950/depositphotos_2391153-stock-photo-magic-book.jpg?forcejpeg=true' alt='A magic book with light and stars emanating from the pages' >
+    <a href='https://depositphotos.com/2391153/stock-photo-magic-book.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/2391153/stock-photo-magic-book.html?ref=64678756' src='https://static3.depositphotos.com/1005347/239/i/950/depositphotos_2391153-stock-photo-magic-book.jpg?forcejpeg=true' alt='A magic book with light and stars emanating from the pages' >
     </a>
 </div>

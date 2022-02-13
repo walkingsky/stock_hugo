@@ -13,7 +13,7 @@ categories:
             <font size="60"> Workspace top down, on wooden background</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1005682/image/11062/110625480/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1005682/image/11062/110625480/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1005682/11062/i/950/depositphotos_110625480-stock-photo-workspace-top-down.jpg?forcejpeg=true' alt='Workspace top down, on wooden background' >
+    <a href='https://depositphotos.com/110625480/stock-photo-workspace-top-down.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/110625480/stock-photo-workspace-top-down.html?ref=64678756' src='https://st2.depositphotos.com/1005682/11062/i/950/depositphotos_110625480-stock-photo-workspace-top-down.jpg?forcejpeg=true' alt='Workspace top down, on wooden background' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Drone Quadcopter Next to Hard Hat Helmet At Construction Site with Workers Behind.</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/1007959/image/21498/214989728/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/1007959/image/21498/214989728/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/1007959/21498/i/950/depositphotos_214989728-stock-photo-drone-quadcopter-next-hard-hat.jpg?forcejpeg=true' alt='Drone Quadcopter Next to Hard Hat Helmet At Construction Site with Workers Behind.' >
+    <a href='https://depositphotos.com/214989728/stock-photo-drone-quadcopter-next-hard-hat.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/214989728/stock-photo-drone-quadcopter-next-hard-hat.html?ref=64678756' src='https://st4.depositphotos.com/1007959/21498/i/950/depositphotos_214989728-stock-photo-drone-quadcopter-next-hard-hat.jpg?forcejpeg=true' alt='Drone Quadcopter Next to Hard Hat Helmet At Construction Site with Workers Behind.' >
     </a>
 </div>

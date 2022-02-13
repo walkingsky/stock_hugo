@@ -13,7 +13,7 @@ categories:
             <font size="60"> Cropped image of woman writing project management inscriptions isolated on white</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13324256/image/18662/186621552/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13324256/image/18662/186621552/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13324256/18662/i/950/depositphotos_186621552-stock-photo-cropped-image-woman-writing-project.jpg?forcejpeg=true' alt='Cropped image of woman writing project management inscriptions isolated on white' >
+    <a href='https://depositphotos.com/186621552/stock-photo-cropped-image-woman-writing-project.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/186621552/stock-photo-cropped-image-woman-writing-project.html?ref=64678756' src='https://st3.depositphotos.com/13324256/18662/i/950/depositphotos_186621552-stock-photo-cropped-image-woman-writing-project.jpg?forcejpeg=true' alt='Cropped image of woman writing project management inscriptions isolated on white' >
     </a>
 </div>

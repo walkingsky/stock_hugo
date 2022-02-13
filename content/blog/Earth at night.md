@@ -13,7 +13,7 @@ categories:
             <font size="60"> Earth at night as seen from space with blue, glowing atmosphere and space at the top. Perfect for illustrations.  Elements of this image furnished by NASA</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/2727711/image/6860/68609013/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/2727711/image/6860/68609013/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/2727711/6860/i/950/depositphotos_68609013-stock-photo-earth-at-night.jpg?forcejpeg=true' alt='Earth at night as seen from space with blue, glowing atmosphere and space at the top. Perfect for illustrations.  Elements of this image furnished by NASA' >
+    <a href='https://depositphotos.com/68609013/stock-photo-earth-at-night.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/68609013/stock-photo-earth-at-night.html?ref=64678756' src='https://st2.depositphotos.com/2727711/6860/i/950/depositphotos_68609013-stock-photo-earth-at-night.jpg?forcejpeg=true' alt='Earth at night as seen from space with blue, glowing atmosphere and space at the top. Perfect for illustrations.  Elements of this image furnished by NASA' >
     </a>
 </div>

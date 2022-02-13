@@ -13,7 +13,7 @@ categories:
             <font size="60"> Woman in lotus position close-up</font>   
 </div>
 <div>
-    <a href='https://static6.depositphotos.com/thumbs/1003434/image/646/6462655/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static6.depositphotos.com/thumbs/1003434/image/646/6462655/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static6.depositphotos.com/1003434/646/i/950/depositphotos_6462655-stock-photo-woman-in-lotus-position.jpg?forcejpeg=true' alt='Woman in lotus position close-up' >
+    <a href='https://depositphotos.com/6462655/stock-photo-woman-in-lotus-position.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/6462655/stock-photo-woman-in-lotus-position.html?ref=64678756' src='https://static6.depositphotos.com/1003434/646/i/950/depositphotos_6462655-stock-photo-woman-in-lotus-position.jpg?forcejpeg=true' alt='Woman in lotus position close-up' >
     </a>
 </div>

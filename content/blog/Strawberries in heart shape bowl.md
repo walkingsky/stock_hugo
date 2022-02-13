@@ -13,7 +13,7 @@ categories:
             <font size="60"> Strawberries in heart shape bowl</font>   
 </div>
 <div>
-    <a href='https://static5.depositphotos.com/thumbs/1010683/image/469/4699527/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static5.depositphotos.com/thumbs/1010683/image/469/4699527/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static5.depositphotos.com/1010683/469/i/950/depositphotos_4699527-stock-photo-strawberries-in-heart-shape-bowl.jpg?forcejpeg=true' alt='Strawberries in heart shape bowl' >
+    <a href='https://depositphotos.com/4699527/stock-photo-strawberries-in-heart-shape-bowl.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/4699527/stock-photo-strawberries-in-heart-shape-bowl.html?ref=64678756' src='https://static5.depositphotos.com/1010683/469/i/950/depositphotos_4699527-stock-photo-strawberries-in-heart-shape-bowl.jpg?forcejpeg=true' alt='Strawberries in heart shape bowl' >
     </a>
 </div>

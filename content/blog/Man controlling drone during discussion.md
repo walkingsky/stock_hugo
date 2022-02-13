@@ -13,7 +13,7 @@ categories:
             <font size="60"> Man controlling the drone in virtual reality goggles while managers discussing the plan of the field with solar panels using computer laptop</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/4972287/image/15177/151771352/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/4972287/image/15177/151771352/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/4972287/15177/i/950/depositphotos_151771352-stock-photo-man-controlling-drone-during-discussion.jpg?forcejpeg=true' alt='Man controlling the drone in virtual reality goggles while managers discussing the plan of the field with solar panels using computer laptop' >
+    <a href='https://depositphotos.com/151771352/stock-photo-man-controlling-drone-during-discussion.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/151771352/stock-photo-man-controlling-drone-during-discussion.html?ref=64678756' src='https://st3.depositphotos.com/4972287/15177/i/950/depositphotos_151771352-stock-photo-man-controlling-drone-during-discussion.jpg?forcejpeg=true' alt='Man controlling the drone in virtual reality goggles while managers discussing the plan of the field with solar panels using computer laptop' >
     </a>
 </div>

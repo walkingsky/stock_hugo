@@ -13,7 +13,7 @@ categories:
             <font size="60"> Solar eclipse vector background with stars and lens flare</font>   
 </div>
 <div>
-    <a href='https://static8.depositphotos.com/thumbs/1000747/vector/1054/10544263/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static8.depositphotos.com/thumbs/1000747/vector/1054/10544263/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static8.depositphotos.com/1000747/1054/v/950/depositphotos_10544263-stock-illustration-solar-eclipse.jpg?forcejpeg=true' alt='Solar eclipse vector background with stars and lens flare' >
+    <a href='https://depositphotos.com/10544263/stock-illustration-solar-eclipse.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/10544263/stock-illustration-solar-eclipse.html?ref=64678756' src='https://static8.depositphotos.com/1000747/1054/v/950/depositphotos_10544263-stock-illustration-solar-eclipse.jpg?forcejpeg=true' alt='Solar eclipse vector background with stars and lens flare' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Multi-coloured smoke on a black background</font>   
 </div>
 <div>
-    <a href='https://static3.depositphotos.com/thumbs/1000647/image/132/1323988/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static3.depositphotos.com/thumbs/1000647/image/132/1323988/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static3.depositphotos.com/1000647/132/i/950/depositphotos_1323988-stock-photo-multi-coloured-smoke-background.jpg?forcejpeg=true' alt='Multi-coloured smoke on a black background' >
+    <a href='https://depositphotos.com/1323988/stock-photo-multi-coloured-smoke-background.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/1323988/stock-photo-multi-coloured-smoke-background.html?ref=64678756' src='https://static3.depositphotos.com/1000647/132/i/950/depositphotos_1323988-stock-photo-multi-coloured-smoke-background.jpg?forcejpeg=true' alt='Multi-coloured smoke on a black background' >
     </a>
 </div>

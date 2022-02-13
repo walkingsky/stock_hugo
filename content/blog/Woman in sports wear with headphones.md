@@ -13,7 +13,7 @@ categories:
             <font size="60"> Music and fitness. Back view of young woman in sports wear with headphones outdoors.</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/1200816/image/15288/152884558/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/1200816/image/15288/152884558/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/1200816/15288/i/950/depositphotos_152884558-stock-photo-woman-in-sports-wear-with.jpg?forcejpeg=true' alt='Music and fitness. Back view of young woman in sports wear with headphones outdoors.' >
+    <a href='https://depositphotos.com/152884558/stock-photo-woman-in-sports-wear-with.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/152884558/stock-photo-woman-in-sports-wear-with.html?ref=64678756' src='https://st3.depositphotos.com/1200816/15288/i/950/depositphotos_152884558-stock-photo-woman-in-sports-wear-with.jpg?forcejpeg=true' alt='Music and fitness. Back view of young woman in sports wear with headphones outdoors.' >
     </a>
 </div>

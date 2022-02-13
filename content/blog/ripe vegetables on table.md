@@ -13,7 +13,7 @@ categories:
             <font size="60"> Close-up view or ripe autumn vegetables on wooden table</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13324256/image/16734/167347260/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13324256/image/16734/167347260/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13324256/16734/i/950/depositphotos_167347260-stock-photo-ripe-vegetables-on-table.jpg?forcejpeg=true' alt='Close-up view or ripe autumn vegetables on wooden table' >
+    <a href='https://depositphotos.com/167347260/stock-photo-ripe-vegetables-on-table.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/167347260/stock-photo-ripe-vegetables-on-table.html?ref=64678756' src='https://st3.depositphotos.com/13324256/16734/i/950/depositphotos_167347260-stock-photo-ripe-vegetables-on-table.jpg?forcejpeg=true' alt='Close-up view or ripe autumn vegetables on wooden table' >
     </a>
 </div>

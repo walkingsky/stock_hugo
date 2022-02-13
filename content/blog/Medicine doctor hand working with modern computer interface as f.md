@@ -13,7 +13,7 @@ categories:
             <font size="60"> Medicine doctor hand working with modern computer interface as family medical concept</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1907633/image/4756/47568059/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1907633/image/4756/47568059/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1907633/4756/i/950/depositphotos_47568059-stock-photo-medicine-doctor-hand-working-with.jpg?forcejpeg=true' alt='Medicine doctor hand working with modern computer interface as family medical concept' >
+    <a href='https://depositphotos.com/47568059/stock-photo-medicine-doctor-hand-working-with.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/47568059/stock-photo-medicine-doctor-hand-working-with.html?ref=64678756' src='https://st.depositphotos.com/1907633/4756/i/950/depositphotos_47568059-stock-photo-medicine-doctor-hand-working-with.jpg?forcejpeg=true' alt='Medicine doctor hand working with modern computer interface as family medical concept' >
     </a>
 </div>

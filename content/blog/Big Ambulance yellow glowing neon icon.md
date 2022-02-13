@@ -13,7 +13,7 @@ categories:
             <font size="60"> Big Ambulance yellow glowing neon icon</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/50337402/vector/47095/470956982/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/50337402/vector/47095/470956982/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/50337402/47095/v/950/depositphotos_470956982-stock-illustration-big-ambulance-yellow-glowing-neon.jpg?forcejpeg=true' alt='Big Ambulance yellow glowing neon icon' >
+    <a href='https://depositphotos.com/470956982/stock-illustration-big-ambulance-yellow-glowing-neon.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/470956982/stock-illustration-big-ambulance-yellow-glowing-neon.html?ref=64678756' src='https://st2.depositphotos.com/50337402/47095/v/950/depositphotos_470956982-stock-illustration-big-ambulance-yellow-glowing-neon.jpg?forcejpeg=true' alt='Big Ambulance yellow glowing neon icon' >
     </a>
 </div>

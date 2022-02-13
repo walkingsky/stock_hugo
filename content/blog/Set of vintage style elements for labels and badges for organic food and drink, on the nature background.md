@@ -13,7 +13,7 @@ categories:
             <font size="60"> Set of badges and labels elements for organic food and drink</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1720162/vector/5206/52061781/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1720162/vector/5206/52061781/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1720162/5206/v/950/depositphotos_52061781-stock-illustration-set-of-vintage-style-elements.jpg?forcejpeg=true' alt='Set of badges and labels elements for organic food and drink' >
+    <a href='https://depositphotos.com/52061781/stock-illustration-set-of-vintage-style-elements.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/52061781/stock-illustration-set-of-vintage-style-elements.html?ref=64678756' src='https://st2.depositphotos.com/1720162/5206/v/950/depositphotos_52061781-stock-illustration-set-of-vintage-style-elements.jpg?forcejpeg=true' alt='Set of badges and labels elements for organic food and drink' >
     </a>
 </div>

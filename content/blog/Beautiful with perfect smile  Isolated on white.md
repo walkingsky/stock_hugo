@@ -13,7 +13,7 @@ categories:
             <font size="60"> Portrait of beautiful with perfect smile. Isolated on white.</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1010550/image/5532/55320487/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1010550/image/5532/55320487/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1010550/5532/i/950/depositphotos_55320487-stock-photo-beautiful-with-perfect-smile-isolated.jpg?forcejpeg=true' alt='Portrait of beautiful with perfect smile. Isolated on white.' >
+    <a href='https://depositphotos.com/55320487/stock-photo-beautiful-with-perfect-smile-isolated.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/55320487/stock-photo-beautiful-with-perfect-smile-isolated.html?ref=64678756' src='https://st2.depositphotos.com/1010550/5532/i/950/depositphotos_55320487-stock-photo-beautiful-with-perfect-smile-isolated.jpg?forcejpeg=true' alt='Portrait of beautiful with perfect smile. Isolated on white.' >
     </a>
 </div>

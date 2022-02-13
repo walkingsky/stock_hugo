@@ -13,7 +13,7 @@ categories:
             <font size="60"> Modern office workplace with blueprints and papers on desk</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/9880800/image/14141/141416710/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/9880800/image/14141/141416710/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/9880800/14141/i/950/depositphotos_141416710-stock-photo-modern-office-workplace.jpg?forcejpeg=true' alt='Modern office workplace with blueprints and papers on desk' >
+    <a href='https://depositphotos.com/141416710/stock-photo-modern-office-workplace.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/141416710/stock-photo-modern-office-workplace.html?ref=64678756' src='https://st3.depositphotos.com/9880800/14141/i/950/depositphotos_141416710-stock-photo-modern-office-workplace.jpg?forcejpeg=true' alt='Modern office workplace with blueprints and papers on desk' >
     </a>
 </div>

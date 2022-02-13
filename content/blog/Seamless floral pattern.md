@@ -13,7 +13,7 @@ categories:
             <font size="60"> Abstract retro seamless floral pattern vector illustration</font>   
 </div>
 <div>
-    <a href='https://static6.depositphotos.com/thumbs/1011280/vector/613/6135911/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static6.depositphotos.com/thumbs/1011280/vector/613/6135911/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static6.depositphotos.com/1011280/613/v/950/depositphotos_6135911-stock-illustration-seamless-floral-pattern.jpg?forcejpeg=true' alt='Abstract retro seamless floral pattern vector illustration' >
+    <a href='https://depositphotos.com/6135911/stock-illustration-seamless-floral-pattern.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/6135911/stock-illustration-seamless-floral-pattern.html?ref=64678756' src='https://static6.depositphotos.com/1011280/613/v/950/depositphotos_6135911-stock-illustration-seamless-floral-pattern.jpg?forcejpeg=true' alt='Abstract retro seamless floral pattern vector illustration' >
     </a>
 </div>

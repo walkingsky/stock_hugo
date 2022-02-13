@@ -13,7 +13,7 @@ categories:
             <font size="60"> The background of tv camera with crowds</font>   
 </div>
 <div>
-    <a href='https://static5.depositphotos.com/thumbs/1006634/vector/536/5369608/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static5.depositphotos.com/thumbs/1006634/vector/536/5369608/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static5.depositphotos.com/1006634/536/v/950/depositphotos_5369608-stock-illustration-tv-camera-with-crowds.jpg?forcejpeg=true' alt='The background of tv camera with crowds' >
+    <a href='https://depositphotos.com/5369608/stock-illustration-tv-camera-with-crowds.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/5369608/stock-illustration-tv-camera-with-crowds.html?ref=64678756' src='https://static5.depositphotos.com/1006634/536/v/950/depositphotos_5369608-stock-illustration-tv-camera-with-crowds.jpg?forcejpeg=true' alt='The background of tv camera with crowds' >
     </a>
 </div>

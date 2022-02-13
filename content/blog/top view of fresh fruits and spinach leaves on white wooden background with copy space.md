@@ -13,7 +13,7 @@ categories:
             <font size="60"> Top view of fresh fruits and spinach leaves on white wooden background with copy space</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13349494/image/19241/192412232/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13349494/image/19241/192412232/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13349494/19241/i/950/depositphotos_192412232-stock-photo-top-view-fresh-fruits-spinach.jpg?forcejpeg=true' alt='Top view of fresh fruits and spinach leaves on white wooden background with copy space' >
+    <a href='https://depositphotos.com/192412232/stock-photo-top-view-fresh-fruits-spinach.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/192412232/stock-photo-top-view-fresh-fruits-spinach.html?ref=64678756' src='https://st3.depositphotos.com/13349494/19241/i/950/depositphotos_192412232-stock-photo-top-view-fresh-fruits-spinach.jpg?forcejpeg=true' alt='Top view of fresh fruits and spinach leaves on white wooden background with copy space' >
     </a>
 </div>

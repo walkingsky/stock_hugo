@@ -13,7 +13,7 @@ categories:
             <font size="60"> Interior of modern child psychologist office</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/13193658/image/22348/223485290/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/13193658/image/22348/223485290/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/13193658/22348/i/950/depositphotos_223485290-stock-photo-interior-modern-child-psychologist-office.jpg?forcejpeg=true' alt='Interior of modern child psychologist office' >
+    <a href='https://depositphotos.com/223485290/stock-photo-interior-modern-child-psychologist-office.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/223485290/stock-photo-interior-modern-child-psychologist-office.html?ref=64678756' src='https://st4.depositphotos.com/13193658/22348/i/950/depositphotos_223485290-stock-photo-interior-modern-child-psychologist-office.jpg?forcejpeg=true' alt='Interior of modern child psychologist office' >
     </a>
 </div>

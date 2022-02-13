@@ -13,7 +13,7 @@ categories:
             <font size="60"> Focused businesswoman in eyeglasses with coffee to go using smartphone on street</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/13194036/image/20887/208875708/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/13194036/image/20887/208875708/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/13194036/20887/i/950/depositphotos_208875708-stock-photo-focused-businesswoman-eyeglasses-coffee-using.jpg?forcejpeg=true' alt='Focused businesswoman in eyeglasses with coffee to go using smartphone on street' >
+    <a href='https://depositphotos.com/208875708/stock-photo-focused-businesswoman-eyeglasses-coffee-using.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/208875708/stock-photo-focused-businesswoman-eyeglasses-coffee-using.html?ref=64678756' src='https://st4.depositphotos.com/13194036/20887/i/950/depositphotos_208875708-stock-photo-focused-businesswoman-eyeglasses-coffee-using.jpg?forcejpeg=true' alt='Focused businesswoman in eyeglasses with coffee to go using smartphone on street' >
     </a>
 </div>

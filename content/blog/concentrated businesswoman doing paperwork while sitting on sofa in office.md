@@ -13,7 +13,7 @@ categories:
             <font size="60"> Concentrated businesswoman doing paperwork while sitting on sofa in office</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13193658/image/18201/182018820/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13193658/image/18201/182018820/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13193658/18201/i/950/depositphotos_182018820-stock-photo-concentrated-businesswoman-doing-paperwork-while.jpg?forcejpeg=true' alt='Concentrated businesswoman doing paperwork while sitting on sofa in office' >
+    <a href='https://depositphotos.com/182018820/stock-photo-concentrated-businesswoman-doing-paperwork-while.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/182018820/stock-photo-concentrated-businesswoman-doing-paperwork-while.html?ref=64678756' src='https://st3.depositphotos.com/13193658/18201/i/950/depositphotos_182018820-stock-photo-concentrated-businesswoman-doing-paperwork-while.jpg?forcejpeg=true' alt='Concentrated businesswoman doing paperwork while sitting on sofa in office' >
     </a>
 </div>

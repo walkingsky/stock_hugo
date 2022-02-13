@@ -13,7 +13,7 @@ categories:
             <font size="60"> Three Cute cartoon girls on a white background</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/4207741/vector/11960/119601258/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/4207741/vector/11960/119601258/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/4207741/11960/v/950/depositphotos_119601258-stock-illustration-three-cute-cartoon-girls.jpg?forcejpeg=true' alt='Three Cute cartoon girls on a white background' >
+    <a href='https://depositphotos.com/119601258/stock-illustration-three-cute-cartoon-girls.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/119601258/stock-illustration-three-cute-cartoon-girls.html?ref=64678756' src='https://st2.depositphotos.com/4207741/11960/v/950/depositphotos_119601258-stock-illustration-three-cute-cartoon-girls.jpg?forcejpeg=true' alt='Three Cute cartoon girls on a white background' >
     </a>
 </div>

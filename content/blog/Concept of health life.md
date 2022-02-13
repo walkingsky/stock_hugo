@@ -13,7 +13,7 @@ categories:
             <font size="60"> Concept of health life</font>   
 </div>
 <div>
-    <a href='https://static3.depositphotos.com/thumbs/1000142/image/114/1140096/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static3.depositphotos.com/thumbs/1000142/image/114/1140096/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static3.depositphotos.com/1000142/114/i/950/depositphotos_1140096-stock-photo-concept-of-health-life.jpg?forcejpeg=true' alt='Concept of health life' >
+    <a href='https://depositphotos.com/1140096/stock-photo-concept-of-health-life.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/1140096/stock-photo-concept-of-health-life.html?ref=64678756' src='https://static3.depositphotos.com/1000142/114/i/950/depositphotos_1140096-stock-photo-concept-of-health-life.jpg?forcejpeg=true' alt='Concept of health life' >
     </a>
 </div>

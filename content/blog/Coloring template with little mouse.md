@@ -13,7 +13,7 @@ categories:
             <font size="60"> Coloring template with little mouse illustration</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/1526816/vector/13867/138676466/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/1526816/vector/13867/138676466/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/1526816/13867/v/950/depositphotos_138676466-stock-illustration-coloring-template-with-little-mouse.jpg?forcejpeg=true' alt='Coloring template with little mouse illustration' >
+    <a href='https://depositphotos.com/138676466/stock-illustration-coloring-template-with-little-mouse.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/138676466/stock-illustration-coloring-template-with-little-mouse.html?ref=64678756' src='https://st3.depositphotos.com/1526816/13867/v/950/depositphotos_138676466-stock-illustration-coloring-template-with-little-mouse.jpg?forcejpeg=true' alt='Coloring template with little mouse illustration' >
     </a>
 </div>

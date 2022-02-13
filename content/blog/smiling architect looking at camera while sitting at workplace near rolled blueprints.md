@@ -13,7 +13,7 @@ categories:
             <font size="60"> Smiling architect looking at camera while sitting at workplace near rolled blueprints</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/12982378/image/44285/442859966/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/12982378/image/44285/442859966/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/12982378/44285/i/950/depositphotos_442859966-stock-photo-smiling-architect-looking-camera-while.jpg?forcejpeg=true' alt='Smiling architect looking at camera while sitting at workplace near rolled blueprints' >
+    <a href='https://depositphotos.com/442859966/stock-photo-smiling-architect-looking-camera-while.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/442859966/stock-photo-smiling-architect-looking-camera-while.html?ref=64678756' src='https://st2.depositphotos.com/12982378/44285/i/950/depositphotos_442859966-stock-photo-smiling-architect-looking-camera-while.jpg?forcejpeg=true' alt='Smiling architect looking at camera while sitting at workplace near rolled blueprints' >
     </a>
 </div>

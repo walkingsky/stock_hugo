@@ -13,7 +13,7 @@ categories:
             <font size="60"> Kitchen in ultra modern home with black granite island</font>   
 </div>
 <div>
-    <a href='https://static8.depositphotos.com/thumbs/1392258/image/867/8671124/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static8.depositphotos.com/thumbs/1392258/image/867/8671124/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static8.depositphotos.com/1392258/867/i/950/depositphotos_8671124-stock-photo-kitchen-with-black-granite-island.jpg?forcejpeg=true' alt='Kitchen in ultra modern home with black granite island' >
+    <a href='https://depositphotos.com/8671124/stock-photo-kitchen-with-black-granite-island.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/8671124/stock-photo-kitchen-with-black-granite-island.html?ref=64678756' src='https://static8.depositphotos.com/1392258/867/i/950/depositphotos_8671124-stock-photo-kitchen-with-black-granite-island.jpg?forcejpeg=true' alt='Kitchen in ultra modern home with black granite island' >
     </a>
 </div>

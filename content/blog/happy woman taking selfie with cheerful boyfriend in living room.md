@@ -13,7 +13,7 @@ categories:
             <font size="60"> Happy woman taking selfie with cheerful boyfriend in living room</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/46171552/image/52090/520900188/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/46171552/image/52090/520900188/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/46171552/52090/i/950/depositphotos_520900188-stock-photo-happy-woman-taking-selfie-cheerful.jpg?forcejpeg=true' alt='Happy woman taking selfie with cheerful boyfriend in living room' >
+    <a href='https://depositphotos.com/520900188/stock-photo-happy-woman-taking-selfie-cheerful.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/520900188/stock-photo-happy-woman-taking-selfie-cheerful.html?ref=64678756' src='https://st.depositphotos.com/46171552/52090/i/950/depositphotos_520900188-stock-photo-happy-woman-taking-selfie-cheerful.jpg?forcejpeg=true' alt='Happy woman taking selfie with cheerful boyfriend in living room' >
     </a>
 </div>

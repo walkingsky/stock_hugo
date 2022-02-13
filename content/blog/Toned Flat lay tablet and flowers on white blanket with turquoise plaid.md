@@ -13,7 +13,7 @@ categories:
             <font size="60"> Toned Flat lay tablet and flowers on white blanket with turquoise plaid. Window light, space for text blog, posts</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/4525917/image/16436/164362816/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/4525917/image/16436/164362816/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/4525917/16436/i/950/depositphotos_164362816-stock-photo-toned-flat-lay-tablet-and.jpg?forcejpeg=true' alt='Toned Flat lay tablet and flowers on white blanket with turquoise plaid. Window light, space for text blog, posts' >
+    <a href='https://depositphotos.com/164362816/stock-photo-toned-flat-lay-tablet-and.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/164362816/stock-photo-toned-flat-lay-tablet-and.html?ref=64678756' src='https://st3.depositphotos.com/4525917/16436/i/950/depositphotos_164362816-stock-photo-toned-flat-lay-tablet-and.jpg?forcejpeg=true' alt='Toned Flat lay tablet and flowers on white blanket with turquoise plaid. Window light, space for text blog, posts' >
     </a>
 </div>

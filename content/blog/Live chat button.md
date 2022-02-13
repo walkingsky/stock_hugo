@@ -13,7 +13,7 @@ categories:
             <font size="60"> Illustration of live chat button on blue background</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/2398103/vector/5571/55719787/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/2398103/vector/5571/55719787/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/2398103/5571/v/950/depositphotos_55719787-stock-illustration-live-chat-button.jpg?forcejpeg=true' alt='Illustration of live chat button on blue background' >
+    <a href='https://depositphotos.com/55719787/stock-illustration-live-chat-button.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/55719787/stock-illustration-live-chat-button.html?ref=64678756' src='https://st2.depositphotos.com/2398103/5571/v/950/depositphotos_55719787-stock-illustration-live-chat-button.jpg?forcejpeg=true' alt='Illustration of live chat button on blue background' >
     </a>
 </div>

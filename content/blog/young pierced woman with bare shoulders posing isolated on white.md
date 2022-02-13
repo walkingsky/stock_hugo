@@ -13,7 +13,7 @@ categories:
             <font size="60"> Young pierced woman with bare shoulders posing isolated on white</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/12982378/image/49460/494604700/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/12982378/image/49460/494604700/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/12982378/49460/i/950/depositphotos_494604700-stock-photo-young-pierced-woman-bare-shoulders.jpg?forcejpeg=true' alt='Young pierced woman with bare shoulders posing isolated on white' >
+    <a href='https://depositphotos.com/494604700/stock-photo-young-pierced-woman-bare-shoulders.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/494604700/stock-photo-young-pierced-woman-bare-shoulders.html?ref=64678756' src='https://st2.depositphotos.com/12982378/49460/i/950/depositphotos_494604700-stock-photo-young-pierced-woman-bare-shoulders.jpg?forcejpeg=true' alt='Young pierced woman with bare shoulders posing isolated on white' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Top view of crumpled paper balls with row of colorful ones on black background, think different concept</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12985656/image/22888/228884036/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12985656/image/22888/228884036/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12985656/22888/i/950/depositphotos_228884036-stock-photo-top-view-crumpled-paper-balls.jpg?forcejpeg=true' alt='Top view of crumpled paper balls with row of colorful ones on black background, think different concept' >
+    <a href='https://depositphotos.com/228884036/stock-photo-top-view-crumpled-paper-balls.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/228884036/stock-photo-top-view-crumpled-paper-balls.html?ref=64678756' src='https://st4.depositphotos.com/12985656/22888/i/950/depositphotos_228884036-stock-photo-top-view-crumpled-paper-balls.jpg?forcejpeg=true' alt='Top view of crumpled paper balls with row of colorful ones on black background, think different concept' >
     </a>
 </div>

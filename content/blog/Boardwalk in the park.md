@@ -13,7 +13,7 @@ categories:
             <font size="60"> Boardwalk in the park</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1004221/image/1384/13846233/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1004221/image/1384/13846233/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1004221/1384/i/950/depositphotos_13846233-stock-photo-boardwalk-in-the-park.jpg?forcejpeg=true' alt='Boardwalk in the park' >
+    <a href='https://depositphotos.com/13846233/stock-photo-boardwalk-in-the-park.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/13846233/stock-photo-boardwalk-in-the-park.html?ref=64678756' src='https://st.depositphotos.com/1004221/1384/i/950/depositphotos_13846233-stock-photo-boardwalk-in-the-park.jpg?forcejpeg=true' alt='Boardwalk in the park' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Selective focus of sportswoman doing lunges with resistance band and looking at digital camera at home</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/13194036/image/40271/402719530/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/13194036/image/40271/402719530/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/13194036/40271/i/950/depositphotos_402719530-stock-photo-selective-focus-sportswoman-doing-lunges.jpg?forcejpeg=true' alt='Selective focus of sportswoman doing lunges with resistance band and looking at digital camera at home' >
+    <a href='https://depositphotos.com/402719530/stock-photo-selective-focus-sportswoman-doing-lunges.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/402719530/stock-photo-selective-focus-sportswoman-doing-lunges.html?ref=64678756' src='https://st4.depositphotos.com/13194036/40271/i/950/depositphotos_402719530-stock-photo-selective-focus-sportswoman-doing-lunges.jpg?forcejpeg=true' alt='Selective focus of sportswoman doing lunges with resistance band and looking at digital camera at home' >
     </a>
 </div>

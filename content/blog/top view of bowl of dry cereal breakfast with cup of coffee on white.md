@@ -13,7 +13,7 @@ categories:
             <font size="60"> Top view of bowl of dry cereal breakfast with cup of coffee on white</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/13324256/image/20884/208844342/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/13324256/image/20884/208844342/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/13324256/20884/i/950/depositphotos_208844342-stock-photo-top-view-bowl-dry-cereal.jpg?forcejpeg=true' alt='Top view of bowl of dry cereal breakfast with cup of coffee on white' >
+    <a href='https://depositphotos.com/208844342/stock-photo-top-view-bowl-dry-cereal.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/208844342/stock-photo-top-view-bowl-dry-cereal.html?ref=64678756' src='https://st4.depositphotos.com/13324256/20884/i/950/depositphotos_208844342-stock-photo-top-view-bowl-dry-cereal.jpg?forcejpeg=true' alt='Top view of bowl of dry cereal breakfast with cup of coffee on white' >
     </a>
 </div>

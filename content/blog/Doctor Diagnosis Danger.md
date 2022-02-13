@@ -13,7 +13,7 @@ categories:
             <font size="60"> Doctor diagnosis danger and risk as a medical concept and health care metaphor with a physician in a lab coat walking on a tightrope or high wire shaped as an ECG pulse trace as a symbol of monitoring patient health safely and carefully.</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1229718/image/3321/33211673/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1229718/image/3321/33211673/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1229718/3321/i/950/depositphotos_33211673-stock-photo-doctor-diagnosis-danger.jpg?forcejpeg=true' alt='Doctor diagnosis danger and risk as a medical concept and health care metaphor with a physician in a lab coat walking on a tightrope or high wire shaped as an ECG pulse trace as a symbol of monitoring patient health safely and carefully.' >
+    <a href='https://depositphotos.com/33211673/stock-photo-doctor-diagnosis-danger.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/33211673/stock-photo-doctor-diagnosis-danger.html?ref=64678756' src='https://st.depositphotos.com/1229718/3321/i/950/depositphotos_33211673-stock-photo-doctor-diagnosis-danger.jpg?forcejpeg=true' alt='Doctor diagnosis danger and risk as a medical concept and health care metaphor with a physician in a lab coat walking on a tightrope or high wire shaped as an ECG pulse trace as a symbol of monitoring patient health safely and carefully.' >
     </a>
 </div>

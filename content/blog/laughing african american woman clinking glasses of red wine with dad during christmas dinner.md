@@ -13,7 +13,7 @@ categories:
             <font size="60"> Laughing african american woman clinking glasses of red wine with dad during christmas dinner</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/20363444/image/51050/510501114/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/20363444/image/51050/510501114/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/20363444/51050/i/950/depositphotos_510501114-stock-photo-laughing-african-american-woman-clinking.jpg?forcejpeg=true' alt='Laughing african american woman clinking glasses of red wine with dad during christmas dinner' >
+    <a href='https://depositphotos.com/510501114/stock-photo-laughing-african-american-woman-clinking.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/510501114/stock-photo-laughing-african-american-woman-clinking.html?ref=64678756' src='https://st2.depositphotos.com/20363444/51050/i/950/depositphotos_510501114-stock-photo-laughing-african-american-woman-clinking.jpg?forcejpeg=true' alt='Laughing african american woman clinking glasses of red wine with dad during christmas dinner' >
     </a>
 </div>

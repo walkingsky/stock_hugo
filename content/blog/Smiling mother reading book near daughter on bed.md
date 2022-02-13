@@ -13,7 +13,7 @@ categories:
             <font size="60"> Smiling mother reading book near daughter on bed</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/13185108/image/46853/468530688/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/13185108/image/46853/468530688/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/13185108/46853/i/950/depositphotos_468530688-stock-photo-smiling-mother-reading-book-daughter.jpg?forcejpeg=true' alt='Smiling mother reading book near daughter on bed' >
+    <a href='https://depositphotos.com/468530688/stock-photo-smiling-mother-reading-book-daughter.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/468530688/stock-photo-smiling-mother-reading-book-daughter.html?ref=64678756' src='https://st2.depositphotos.com/13185108/46853/i/950/depositphotos_468530688-stock-photo-smiling-mother-reading-book-daughter.jpg?forcejpeg=true' alt='Smiling mother reading book near daughter on bed' >
     </a>
 </div>

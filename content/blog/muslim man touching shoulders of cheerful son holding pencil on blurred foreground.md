@@ -13,7 +13,7 @@ categories:
             <font size="60"> Muslim man touching shoulders of cheerful son holding pencil on blurred foreground</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/20363444/image/45753/457531730/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/20363444/image/45753/457531730/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/20363444/45753/i/950/depositphotos_457531730-stock-photo-muslim-man-touching-shoulders-cheerful.jpg?forcejpeg=true' alt='Muslim man touching shoulders of cheerful son holding pencil on blurred foreground' >
+    <a href='https://depositphotos.com/457531730/stock-photo-muslim-man-touching-shoulders-cheerful.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/457531730/stock-photo-muslim-man-touching-shoulders-cheerful.html?ref=64678756' src='https://st2.depositphotos.com/20363444/45753/i/950/depositphotos_457531730-stock-photo-muslim-man-touching-shoulders-cheerful.jpg?forcejpeg=true' alt='Muslim man touching shoulders of cheerful son holding pencil on blurred foreground' >
     </a>
 </div>

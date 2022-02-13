@@ -13,7 +13,7 @@ categories:
             <font size="60"> Colorful ink in water abstract</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1167801/image/4561/45618537/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1167801/image/4561/45618537/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1167801/4561/i/950/depositphotos_45618537-stock-photo-colorful-ink-in-water.jpg?forcejpeg=true' alt='Colorful ink in water abstract' >
+    <a href='https://depositphotos.com/45618537/stock-photo-colorful-ink-in-water.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/45618537/stock-photo-colorful-ink-in-water.html?ref=64678756' src='https://st.depositphotos.com/1167801/4561/i/950/depositphotos_45618537-stock-photo-colorful-ink-in-water.jpg?forcejpeg=true' alt='Colorful ink in water abstract' >
     </a>
 </div>

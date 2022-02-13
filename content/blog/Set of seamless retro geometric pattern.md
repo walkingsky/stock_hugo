@@ -13,7 +13,7 @@ categories:
             <font size="60"> Vector background  set of seamless retro geometric pattern</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/4044301/vector/6988/69889771/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/4044301/vector/6988/69889771/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/4044301/6988/v/950/depositphotos_69889771-stock-illustration-set-of-seamless-retro-geometric.jpg?forcejpeg=true' alt='Vector background  set of seamless retro geometric pattern' >
+    <a href='https://depositphotos.com/69889771/stock-illustration-set-of-seamless-retro-geometric.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/69889771/stock-illustration-set-of-seamless-retro-geometric.html?ref=64678756' src='https://st2.depositphotos.com/4044301/6988/v/950/depositphotos_69889771-stock-illustration-set-of-seamless-retro-geometric.jpg?forcejpeg=true' alt='Vector background  set of seamless retro geometric pattern' >
     </a>
 </div>

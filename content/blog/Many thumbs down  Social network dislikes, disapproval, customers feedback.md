@@ -13,7 +13,7 @@ categories:
             <font size="60"> Many thumbs down. Social network dislikes, disapproval, customers feedback. Modern flat design concepts for web banners, web sites, printed materials, infographics. Creative vector illustration</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1734074/vector/8285/82857076/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1734074/vector/8285/82857076/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1734074/8285/v/950/depositphotos_82857076-stock-illustration-many-thumbs-down-social-network.jpg?forcejpeg=true' alt='Many thumbs down. Social network dislikes, disapproval, customers feedback. Modern flat design concepts for web banners, web sites, printed materials, infographics. Creative vector illustration' >
+    <a href='https://depositphotos.com/82857076/stock-illustration-many-thumbs-down-social-network.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/82857076/stock-illustration-many-thumbs-down-social-network.html?ref=64678756' src='https://st2.depositphotos.com/1734074/8285/v/950/depositphotos_82857076-stock-illustration-many-thumbs-down-social-network.jpg?forcejpeg=true' alt='Many thumbs down. Social network dislikes, disapproval, customers feedback. Modern flat design concepts for web banners, web sites, printed materials, infographics. Creative vector illustration' >
     </a>
 </div>

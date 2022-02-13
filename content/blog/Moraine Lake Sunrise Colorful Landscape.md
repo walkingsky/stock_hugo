@@ -13,7 +13,7 @@ categories:
             <font size="60"> Taken at the peak of color during the morning sunrise at Moraine lake in Banff National park.</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1899425/image/1623/16232649/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1899425/image/1623/16232649/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1899425/1623/i/950/depositphotos_16232649-stock-photo-moraine-lake-sunrise-colorful-landscape.jpg?forcejpeg=true' alt='Taken at the peak of color during the morning sunrise at Moraine lake in Banff National park.' >
+    <a href='https://depositphotos.com/16232649/stock-photo-moraine-lake-sunrise-colorful-landscape.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/16232649/stock-photo-moraine-lake-sunrise-colorful-landscape.html?ref=64678756' src='https://st.depositphotos.com/1899425/1623/i/950/depositphotos_16232649-stock-photo-moraine-lake-sunrise-colorful-landscape.jpg?forcejpeg=true' alt='Taken at the peak of color during the morning sunrise at Moraine lake in Banff National park.' >
     </a>
 </div>

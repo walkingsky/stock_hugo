@@ -13,7 +13,7 @@ categories:
             <font size="60"> Smiling woman holding bowl of vegetable salad near husband and wife in kitchen</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/20363444/image/48157/481571310/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/20363444/image/48157/481571310/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/20363444/48157/i/950/depositphotos_481571310-stock-photo-smiling-woman-holding-bowl-vegetable.jpg?forcejpeg=true' alt='Smiling woman holding bowl of vegetable salad near husband and wife in kitchen' >
+    <a href='https://depositphotos.com/481571310/stock-photo-smiling-woman-holding-bowl-vegetable.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/481571310/stock-photo-smiling-woman-holding-bowl-vegetable.html?ref=64678756' src='https://st2.depositphotos.com/20363444/48157/i/950/depositphotos_481571310-stock-photo-smiling-woman-holding-bowl-vegetable.jpg?forcejpeg=true' alt='Smiling woman holding bowl of vegetable salad near husband and wife in kitchen' >
     </a>
 </div>

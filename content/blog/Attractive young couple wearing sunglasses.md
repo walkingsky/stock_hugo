@@ -13,7 +13,7 @@ categories:
             <font size="60"> Attractive young couple wearing sunglasses</font>   
 </div>
 <div>
-    <a href='https://static4.depositphotos.com/thumbs/1018174/image/457/4578965/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static4.depositphotos.com/thumbs/1018174/image/457/4578965/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static4.depositphotos.com/1018174/457/i/950/depositphotos_4578965-stock-photo-attractive-young-couple-wearing-sunglasses.jpg?forcejpeg=true' alt='Attractive young couple wearing sunglasses' >
+    <a href='https://depositphotos.com/4578965/stock-photo-attractive-young-couple-wearing-sunglasses.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/4578965/stock-photo-attractive-young-couple-wearing-sunglasses.html?ref=64678756' src='https://static4.depositphotos.com/1018174/457/i/950/depositphotos_4578965-stock-photo-attractive-young-couple-wearing-sunglasses.jpg?forcejpeg=true' alt='Attractive young couple wearing sunglasses' >
     </a>
 </div>

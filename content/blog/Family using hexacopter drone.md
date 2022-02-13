@@ -13,7 +13,7 @@ categories:
             <font size="60"> Family using hexacopter drone isolated on white</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/9881904/image/13185/131853506/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/9881904/image/13185/131853506/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/9881904/13185/i/950/depositphotos_131853506-stock-photo-family-using-hexacopter-drone.jpg?forcejpeg=true' alt='Family using hexacopter drone isolated on white' >
+    <a href='https://depositphotos.com/131853506/stock-photo-family-using-hexacopter-drone.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/131853506/stock-photo-family-using-hexacopter-drone.html?ref=64678756' src='https://st3.depositphotos.com/9881904/13185/i/950/depositphotos_131853506-stock-photo-family-using-hexacopter-drone.jpg?forcejpeg=true' alt='Family using hexacopter drone isolated on white' >
     </a>
 </div>

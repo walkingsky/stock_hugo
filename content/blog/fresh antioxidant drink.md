@@ -13,7 +13,7 @@ categories:
             <font size="60"> Fresh antioxidant drink, bowl of spinach leaves and piece of lemon on tabletop</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12674628/image/15411/154111106/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12674628/image/15411/154111106/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12674628/15411/i/950/depositphotos_154111106-stock-photo-fresh-antioxidant-drink.jpg?forcejpeg=true' alt='Fresh antioxidant drink, bowl of spinach leaves and piece of lemon on tabletop' >
+    <a href='https://depositphotos.com/154111106/stock-photo-fresh-antioxidant-drink.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/154111106/stock-photo-fresh-antioxidant-drink.html?ref=64678756' src='https://st3.depositphotos.com/12674628/15411/i/950/depositphotos_154111106-stock-photo-fresh-antioxidant-drink.jpg?forcejpeg=true' alt='Fresh antioxidant drink, bowl of spinach leaves and piece of lemon on tabletop' >
     </a>
 </div>

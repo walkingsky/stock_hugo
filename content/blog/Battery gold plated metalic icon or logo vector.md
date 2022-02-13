@@ -13,7 +13,7 @@ categories:
             <font size="60"> Battery gold plated metalic icon or logo vector</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/50337402/vector/47118/471188584/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/50337402/vector/47118/471188584/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/50337402/47118/v/950/depositphotos_471188584-stock-illustration-battery-gold-plated-metalic-icon.jpg?forcejpeg=true' alt='Battery gold plated metalic icon or logo vector' >
+    <a href='https://depositphotos.com/471188584/stock-illustration-battery-gold-plated-metalic-icon.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/471188584/stock-illustration-battery-gold-plated-metalic-icon.html?ref=64678756' src='https://st2.depositphotos.com/50337402/47118/v/950/depositphotos_471188584-stock-illustration-battery-gold-plated-metalic-icon.jpg?forcejpeg=true' alt='Battery gold plated metalic icon or logo vector' >
     </a>
 </div>

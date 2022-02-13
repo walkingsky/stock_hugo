@@ -13,7 +13,7 @@ categories:
             <font size="60"> Cropped view of businesswoman holding pen near notebook and glass of water during consultation with investor on blurred background, banner</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/20363444/image/43781/437811118/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/20363444/image/43781/437811118/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/20363444/43781/i/950/depositphotos_437811118-stock-photo-cropped-view-businesswoman-holding-pen.jpg?forcejpeg=true' alt='Cropped view of businesswoman holding pen near notebook and glass of water during consultation with investor on blurred background, banner' >
+    <a href='https://depositphotos.com/437811118/stock-photo-cropped-view-businesswoman-holding-pen.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/437811118/stock-photo-cropped-view-businesswoman-holding-pen.html?ref=64678756' src='https://st2.depositphotos.com/20363444/43781/i/950/depositphotos_437811118-stock-photo-cropped-view-businesswoman-holding-pen.jpg?forcejpeg=true' alt='Cropped view of businesswoman holding pen near notebook and glass of water during consultation with investor on blurred background, banner' >
     </a>
 </div>

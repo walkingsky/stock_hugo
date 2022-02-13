@@ -13,7 +13,7 @@ categories:
             <font size="60"> CLUJ NAPOCA, ROMANIA, JULY 30, 2015: Crowd of party people raising their hands during an ATB live concert at the Untold Festival</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1355276/image/8034/80347056/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1355276/image/8034/80347056/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1355276/8034/i/950/depositphotos_80347056-stock-photo-live-concert-on-the-main.jpg?forcejpeg=true' alt='CLUJ NAPOCA, ROMANIA, JULY 30, 2015: Crowd of party people raising their hands during an ATB live concert at the Untold Festival' >
+    <a href='https://depositphotos.com/80347056/stock-photo-live-concert-on-the-main.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/80347056/stock-photo-live-concert-on-the-main.html?ref=64678756' src='https://st2.depositphotos.com/1355276/8034/i/950/depositphotos_80347056-stock-photo-live-concert-on-the-main.jpg?forcejpeg=true' alt='CLUJ NAPOCA, ROMANIA, JULY 30, 2015: Crowd of party people raising their hands during an ATB live concert at the Untold Festival' >
     </a>
 </div>

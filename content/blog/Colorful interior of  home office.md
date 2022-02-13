@@ -13,7 +13,7 @@ categories:
             <font size="60"> Interior of a home office of a pink desk and a turquoise chair</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1749882/image/5277/52778303/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1749882/image/5277/52778303/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1749882/5277/i/950/depositphotos_52778303-stock-photo-colorful-interior-of-home-office.jpg?forcejpeg=true' alt='Interior of a home office of a pink desk and a turquoise chair' >
+    <a href='https://depositphotos.com/52778303/stock-photo-colorful-interior-of-home-office.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/52778303/stock-photo-colorful-interior-of-home-office.html?ref=64678756' src='https://st2.depositphotos.com/1749882/5277/i/950/depositphotos_52778303-stock-photo-colorful-interior-of-home-office.jpg?forcejpeg=true' alt='Interior of a home office of a pink desk and a turquoise chair' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Plant on cupboard in spacious bedroom interior with hammock, gallery of posters and wooden furniture</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/2249091/image/17895/178957178/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/2249091/image/17895/178957178/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/2249091/17895/i/950/depositphotos_178957178-stock-photo-spacious-bedroom-with-wooden-furniture.jpg?forcejpeg=true' alt='Plant on cupboard in spacious bedroom interior with hammock, gallery of posters and wooden furniture' >
+    <a href='https://depositphotos.com/178957178/stock-photo-spacious-bedroom-with-wooden-furniture.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/178957178/stock-photo-spacious-bedroom-with-wooden-furniture.html?ref=64678756' src='https://st3.depositphotos.com/2249091/17895/i/950/depositphotos_178957178-stock-photo-spacious-bedroom-with-wooden-furniture.jpg?forcejpeg=true' alt='Plant on cupboard in spacious bedroom interior with hammock, gallery of posters and wooden furniture' >
     </a>
 </div>

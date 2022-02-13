@@ -13,7 +13,7 @@ categories:
             <font size="60"> Beautiful blonde girl holding wooden toy ship , standing on sea shore at sunset</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/7544970/image/19439/194397412/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/7544970/image/19439/194397412/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/7544970/19439/i/950/depositphotos_194397412-stock-photo-beautiful-blonde-girl-holding-wooden.jpg?forcejpeg=true' alt='Beautiful blonde girl holding wooden toy ship , standing on sea shore at sunset' >
+    <a href='https://depositphotos.com/194397412/stock-photo-beautiful-blonde-girl-holding-wooden.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/194397412/stock-photo-beautiful-blonde-girl-holding-wooden.html?ref=64678756' src='https://st3.depositphotos.com/7544970/19439/i/950/depositphotos_194397412-stock-photo-beautiful-blonde-girl-holding-wooden.jpg?forcejpeg=true' alt='Beautiful blonde girl holding wooden toy ship , standing on sea shore at sunset' >
     </a>
 </div>

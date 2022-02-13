@@ -13,7 +13,7 @@ categories:
             <font size="60"> Smiling blonde girl holding retro sunglasses isolated on grey</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12071432/image/19061/190610724/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12071432/image/19061/190610724/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12071432/19061/i/950/depositphotos_190610724-stock-photo-smiling-blonde-girl-holding-retro.jpg?forcejpeg=true' alt='Smiling blonde girl holding retro sunglasses isolated on grey' >
+    <a href='https://depositphotos.com/190610724/stock-photo-smiling-blonde-girl-holding-retro.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/190610724/stock-photo-smiling-blonde-girl-holding-retro.html?ref=64678756' src='https://st3.depositphotos.com/12071432/19061/i/950/depositphotos_190610724-stock-photo-smiling-blonde-girl-holding-retro.jpg?forcejpeg=true' alt='Smiling blonde girl holding retro sunglasses isolated on grey' >
     </a>
 </div>

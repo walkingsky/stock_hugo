@@ -13,7 +13,7 @@ categories:
             <font size="60"> Horizontal concept of happy mother and son using laptop outside</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12985886/image/39157/391576758/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12985886/image/39157/391576758/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12985886/39157/i/950/depositphotos_391576758-stock-photo-horizontal-concept-happy-mother-son.jpg?forcejpeg=true' alt='Horizontal concept of happy mother and son using laptop outside' >
+    <a href='https://depositphotos.com/391576758/stock-photo-horizontal-concept-happy-mother-son.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/391576758/stock-photo-horizontal-concept-happy-mother-son.html?ref=64678756' src='https://st4.depositphotos.com/12985886/39157/i/950/depositphotos_391576758-stock-photo-horizontal-concept-happy-mother-son.jpg?forcejpeg=true' alt='Horizontal concept of happy mother and son using laptop outside' >
     </a>
 </div>

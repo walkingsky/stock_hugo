@@ -13,7 +13,7 @@ categories:
             <font size="60"> Beauty Blonde Woman. Beautiful girl with long curly blond hair</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1491329/image/4426/44267771/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1491329/image/4426/44267771/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1491329/4426/i/950/depositphotos_44267771-stock-photo-beauty-blonde-woman-beautiful-girl.jpg?forcejpeg=true' alt='Beauty Blonde Woman. Beautiful girl with long curly blond hair' >
+    <a href='https://depositphotos.com/44267771/stock-photo-beauty-blonde-woman-beautiful-girl.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/44267771/stock-photo-beauty-blonde-woman-beautiful-girl.html?ref=64678756' src='https://st.depositphotos.com/1491329/4426/i/950/depositphotos_44267771-stock-photo-beauty-blonde-woman-beautiful-girl.jpg?forcejpeg=true' alt='Beauty Blonde Woman. Beautiful girl with long curly blond hair' >
     </a>
 </div>

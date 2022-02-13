@@ -13,7 +13,7 @@ categories:
             <font size="60"> Close-up view of a color chart used for paint selection</font>   
 </div>
 <div>
-    <a href='https://static3.depositphotos.com/thumbs/1000693/image/112/1120684/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static3.depositphotos.com/thumbs/1000693/image/112/1120684/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static3.depositphotos.com/1000693/112/i/950/depositphotos_1120684-stock-photo-color-guide.jpg?forcejpeg=true' alt='Close-up view of a color chart used for paint selection' >
+    <a href='https://depositphotos.com/1120684/stock-photo-color-guide.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/1120684/stock-photo-color-guide.html?ref=64678756' src='https://static3.depositphotos.com/1000693/112/i/950/depositphotos_1120684-stock-photo-color-guide.jpg?forcejpeg=true' alt='Close-up view of a color chart used for paint selection' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Vector Abstract geometric shape from red diagonal</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1174966/vector/8336/83362040/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1174966/vector/8336/83362040/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1174966/8336/v/950/depositphotos_83362040-stock-illustration-vector-abstract-geometric.jpg?forcejpeg=true' alt='Vector Abstract geometric shape from red diagonal' >
+    <a href='https://depositphotos.com/83362040/stock-illustration-vector-abstract-geometric.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/83362040/stock-illustration-vector-abstract-geometric.html?ref=64678756' src='https://st2.depositphotos.com/1174966/8336/v/950/depositphotos_83362040-stock-illustration-vector-abstract-geometric.jpg?forcejpeg=true' alt='Vector Abstract geometric shape from red diagonal' >
     </a>
 </div>

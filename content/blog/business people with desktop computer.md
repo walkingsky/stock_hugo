@@ -13,7 +13,7 @@ categories:
             <font size="60"> Smiling young business people using desktop computer together</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12039412/image/16416/164166808/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12039412/image/16416/164166808/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12039412/16416/i/950/depositphotos_164166808-stock-photo-business-people-with-desktop-computer.jpg?forcejpeg=true' alt='Smiling young business people using desktop computer together' >
+    <a href='https://depositphotos.com/164166808/stock-photo-business-people-with-desktop-computer.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/164166808/stock-photo-business-people-with-desktop-computer.html?ref=64678756' src='https://st3.depositphotos.com/12039412/16416/i/950/depositphotos_164166808-stock-photo-business-people-with-desktop-computer.jpg?forcejpeg=true' alt='Smiling young business people using desktop computer together' >
     </a>
 </div>

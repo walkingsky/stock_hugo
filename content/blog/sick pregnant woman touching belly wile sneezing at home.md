@@ -13,7 +13,7 @@ categories:
             <font size="60"> Sick pregnant woman touching belly wile sneezing at home</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12982378/image/29898/298983080/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12982378/image/29898/298983080/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12982378/29898/i/950/depositphotos_298983080-stock-photo-sick-pregnant-woman-touching-belly.jpg?forcejpeg=true' alt='Sick pregnant woman touching belly wile sneezing at home' >
+    <a href='https://depositphotos.com/298983080/stock-photo-sick-pregnant-woman-touching-belly.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/298983080/stock-photo-sick-pregnant-woman-touching-belly.html?ref=64678756' src='https://st4.depositphotos.com/12982378/29898/i/950/depositphotos_298983080-stock-photo-sick-pregnant-woman-touching-belly.jpg?forcejpeg=true' alt='Sick pregnant woman touching belly wile sneezing at home' >
     </a>
 </div>

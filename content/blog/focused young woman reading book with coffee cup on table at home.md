@@ -13,7 +13,7 @@ categories:
             <font size="60"> Focused young woman reading book with coffee cup on table at home</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13193658/image/19573/195734664/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13193658/image/19573/195734664/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13193658/19573/i/950/depositphotos_195734664-stock-photo-focused-young-woman-reading-book.jpg?forcejpeg=true' alt='Focused young woman reading book with coffee cup on table at home' >
+    <a href='https://depositphotos.com/195734664/stock-photo-focused-young-woman-reading-book.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/195734664/stock-photo-focused-young-woman-reading-book.html?ref=64678756' src='https://st3.depositphotos.com/13193658/19573/i/950/depositphotos_195734664-stock-photo-focused-young-woman-reading-book.jpg?forcejpeg=true' alt='Focused young woman reading book with coffee cup on table at home' >
     </a>
 </div>

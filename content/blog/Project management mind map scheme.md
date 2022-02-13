@@ -13,7 +13,7 @@ categories:
             <font size="60"> Vector Project management mindmap scheme concept diagram</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1055089/vector/4881/48818563/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1055089/vector/4881/48818563/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1055089/4881/v/950/depositphotos_48818563-stock-illustration-project-management-mind-map-scheme.jpg?forcejpeg=true' alt='Vector Project management mindmap scheme concept diagram' >
+    <a href='https://depositphotos.com/48818563/stock-illustration-project-management-mind-map-scheme.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/48818563/stock-illustration-project-management-mind-map-scheme.html?ref=64678756' src='https://st.depositphotos.com/1055089/4881/v/950/depositphotos_48818563-stock-illustration-project-management-mind-map-scheme.jpg?forcejpeg=true' alt='Vector Project management mindmap scheme concept diagram' >
     </a>
 </div>

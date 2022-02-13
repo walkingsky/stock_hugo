@@ -13,7 +13,7 @@ categories:
             <font size="60"> Set of apps color icons</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1005549/vector/2249/22492623/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1005549/vector/2249/22492623/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1005549/2249/v/950/depositphotos_22492623-stock-illustration-set-of-apps-color-icons.jpg?forcejpeg=true' alt='Set of apps color icons' >
+    <a href='https://depositphotos.com/22492623/stock-illustration-set-of-apps-color-icons.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/22492623/stock-illustration-set-of-apps-color-icons.html?ref=64678756' src='https://st.depositphotos.com/1005549/2249/v/950/depositphotos_22492623-stock-illustration-set-of-apps-color-icons.jpg?forcejpeg=true' alt='Set of apps color icons' >
     </a>
 </div>

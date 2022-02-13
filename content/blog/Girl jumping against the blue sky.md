@@ -13,7 +13,7 @@ categories:
             <font size="60"> Girl jumping against the blue sky</font>   
 </div>
 <div>
-    <a href='https://static4.depositphotos.com/thumbs/1006994/vector/415/4158976/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static4.depositphotos.com/thumbs/1006994/vector/415/4158976/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static4.depositphotos.com/1006994/415/v/950/depositphotos_4158976-stock-illustration-girl-jumping-against-the-blue.jpg?forcejpeg=true' alt='Girl jumping against the blue sky' >
+    <a href='https://depositphotos.com/4158976/stock-illustration-girl-jumping-against-the-blue.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/4158976/stock-illustration-girl-jumping-against-the-blue.html?ref=64678756' src='https://static4.depositphotos.com/1006994/415/v/950/depositphotos_4158976-stock-illustration-girl-jumping-against-the-blue.jpg?forcejpeg=true' alt='Girl jumping against the blue sky' >
     </a>
 </div>

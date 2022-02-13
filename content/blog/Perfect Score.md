@@ -13,7 +13,7 @@ categories:
             <font size="60"> Vector illustration of several hands holding perfect 10 score signs.</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1656786/vector/3868/38685159/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1656786/vector/3868/38685159/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1656786/3868/v/950/depositphotos_38685159-stock-illustration-perfect-score.jpg?forcejpeg=true' alt='Vector illustration of several hands holding perfect 10 score signs.' >
+    <a href='https://depositphotos.com/38685159/stock-illustration-perfect-score.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/38685159/stock-illustration-perfect-score.html?ref=64678756' src='https://st.depositphotos.com/1656786/3868/v/950/depositphotos_38685159-stock-illustration-perfect-score.jpg?forcejpeg=true' alt='Vector illustration of several hands holding perfect 10 score signs.' >
     </a>
 </div>

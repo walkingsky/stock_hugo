@@ -13,7 +13,7 @@ categories:
             <font size="60"> Vector classical wall-paper with a flower pattern.</font>   
 </div>
 <div>
-    <a href='https://static6.depositphotos.com/thumbs/1035423/vector/561/5614846/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static6.depositphotos.com/thumbs/1035423/vector/561/5614846/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static6.depositphotos.com/1035423/561/v/950/depositphotos_5614846-stock-illustration-classical-wall-paper-with-a.jpg?forcejpeg=true' alt='Vector classical wall-paper with a flower pattern.' >
+    <a href='https://depositphotos.com/5614846/stock-illustration-classical-wall-paper-with-a.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/5614846/stock-illustration-classical-wall-paper-with-a.html?ref=64678756' src='https://static6.depositphotos.com/1035423/561/v/950/depositphotos_5614846-stock-illustration-classical-wall-paper-with-a.jpg?forcejpeg=true' alt='Vector classical wall-paper with a flower pattern.' >
     </a>
 </div>

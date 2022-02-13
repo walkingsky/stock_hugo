@@ -13,7 +13,7 @@ categories:
             <font size="60"> Ok hand sign emoji set of various skin tones</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1001911/vector/11638/116381176/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1001911/vector/11638/116381176/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1001911/11638/v/950/depositphotos_116381176-stock-illustration-ok-hand-sign-emoji.jpg?forcejpeg=true' alt='Ok hand sign emoji set of various skin tones' >
+    <a href='https://depositphotos.com/116381176/stock-illustration-ok-hand-sign-emoji.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/116381176/stock-illustration-ok-hand-sign-emoji.html?ref=64678756' src='https://st2.depositphotos.com/1001911/11638/v/950/depositphotos_116381176-stock-illustration-ok-hand-sign-emoji.jpg?forcejpeg=true' alt='Ok hand sign emoji set of various skin tones' >
     </a>
 </div>

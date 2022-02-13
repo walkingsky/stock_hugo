@@ -13,7 +13,7 @@ categories:
             <font size="60"> Women posing in bathing suits</font>   
 </div>
 <div>
-    <a href='https://static9.depositphotos.com/thumbs/1729220/image/1230/12301997/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static9.depositphotos.com/thumbs/1729220/image/1230/12301997/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static9.depositphotos.com/1729220/1230/i/950/depositphotos_12301997-stock-photo-women-posing-in-bathing-suits.jpg?forcejpeg=true' alt='Women posing in bathing suits' >
+    <a href='https://depositphotos.com/12301997/stock-photo-women-posing-in-bathing-suits.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/12301997/stock-photo-women-posing-in-bathing-suits.html?ref=64678756' src='https://static9.depositphotos.com/1729220/1230/i/950/depositphotos_12301997-stock-photo-women-posing-in-bathing-suits.jpg?forcejpeg=true' alt='Women posing in bathing suits' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Smiling woman sitting on car with book and looking away on blurred background, banner</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/20363444/image/41304/413045880/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/20363444/image/41304/413045880/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/20363444/41304/i/950/depositphotos_413045880-stock-photo-smiling-woman-sitting-car-book.jpg?forcejpeg=true' alt='Smiling woman sitting on car with book and looking away on blurred background, banner' >
+    <a href='https://depositphotos.com/413045880/stock-photo-smiling-woman-sitting-car-book.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/413045880/stock-photo-smiling-woman-sitting-car-book.html?ref=64678756' src='https://st4.depositphotos.com/20363444/41304/i/950/depositphotos_413045880-stock-photo-smiling-woman-sitting-car-book.jpg?forcejpeg=true' alt='Smiling woman sitting on car with book and looking away on blurred background, banner' >
     </a>
 </div>

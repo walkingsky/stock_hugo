@@ -13,7 +13,7 @@ categories:
             <font size="60"> Book Green and yellow modern 3d vector icon logo</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/50337402/vector/47106/471061808/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/50337402/vector/47106/471061808/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/50337402/47106/v/950/depositphotos_471061808-stock-illustration-book-green-yellow-modern-vector.jpg?forcejpeg=true' alt='Book Green and yellow modern 3d vector icon logo' >
+    <a href='https://depositphotos.com/471061808/stock-illustration-book-green-yellow-modern-vector.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/471061808/stock-illustration-book-green-yellow-modern-vector.html?ref=64678756' src='https://st2.depositphotos.com/50337402/47106/v/950/depositphotos_471061808-stock-illustration-book-green-yellow-modern-vector.jpg?forcejpeg=true' alt='Book Green and yellow modern 3d vector icon logo' >
     </a>
 </div>

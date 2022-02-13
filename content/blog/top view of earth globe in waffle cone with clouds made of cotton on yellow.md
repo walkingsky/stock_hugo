@@ -13,7 +13,7 @@ categories:
             <font size="60"> Top view of earth globe in waffle cone with clouds made of cotton on yellow</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12985848/image/20641/206412464/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12985848/image/20641/206412464/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12985848/20641/i/950/depositphotos_206412464-stock-photo-top-view-earth-globe-waffle.jpg?forcejpeg=true' alt='Top view of earth globe in waffle cone with clouds made of cotton on yellow' >
+    <a href='https://depositphotos.com/206412464/stock-photo-top-view-earth-globe-waffle.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/206412464/stock-photo-top-view-earth-globe-waffle.html?ref=64678756' src='https://st4.depositphotos.com/12985848/20641/i/950/depositphotos_206412464-stock-photo-top-view-earth-globe-waffle.jpg?forcejpeg=true' alt='Top view of earth globe in waffle cone with clouds made of cotton on yellow' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Portrait of online shop proprietor resting during work at home office</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12674628/image/17635/176357840/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12674628/image/17635/176357840/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12674628/17635/i/950/depositphotos_176357840-stock-photo-portrait-online-shop-proprietor-resting.jpg?forcejpeg=true' alt='Portrait of online shop proprietor resting during work at home office' >
+    <a href='https://depositphotos.com/176357840/stock-photo-portrait-online-shop-proprietor-resting.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/176357840/stock-photo-portrait-online-shop-proprietor-resting.html?ref=64678756' src='https://st3.depositphotos.com/12674628/17635/i/950/depositphotos_176357840-stock-photo-portrait-online-shop-proprietor-resting.jpg?forcejpeg=true' alt='Portrait of online shop proprietor resting during work at home office' >
     </a>
 </div>

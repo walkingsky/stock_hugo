@@ -13,7 +13,7 @@ categories:
             <font size="60"> Young woman in sunglasses showing thumb up looking at camera. Portrait of trendy girl having fun style casual concept lifestyle urban fashion.</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/2171279/image/8114/81145924/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/2171279/image/8114/81145924/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/2171279/8114/i/950/depositphotos_81145924-stock-photo-young-woman-in-sunglasses-showing.jpg?forcejpeg=true' alt='Young woman in sunglasses showing thumb up looking at camera. Portrait of trendy girl having fun style casual concept lifestyle urban fashion.' >
+    <a href='https://depositphotos.com/81145924/stock-photo-young-woman-in-sunglasses-showing.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/81145924/stock-photo-young-woman-in-sunglasses-showing.html?ref=64678756' src='https://st2.depositphotos.com/2171279/8114/i/950/depositphotos_81145924-stock-photo-young-woman-in-sunglasses-showing.jpg?forcejpeg=true' alt='Young woman in sunglasses showing thumb up looking at camera. Portrait of trendy girl having fun style casual concept lifestyle urban fashion.' >
     </a>
 </div>

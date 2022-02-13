@@ -13,7 +13,7 @@ categories:
             <font size="60"> Two bored workers looking at camera in office</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/1888161/image/12805/128056384/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/1888161/image/12805/128056384/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/1888161/12805/i/950/depositphotos_128056384-stock-photo-two-bored-workers-in-office.jpg?forcejpeg=true' alt='Two bored workers looking at camera in office' >
+    <a href='https://depositphotos.com/128056384/stock-photo-two-bored-workers-in-office.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/128056384/stock-photo-two-bored-workers-in-office.html?ref=64678756' src='https://st3.depositphotos.com/1888161/12805/i/950/depositphotos_128056384-stock-photo-two-bored-workers-in-office.jpg?forcejpeg=true' alt='Two bored workers looking at camera in office' >
     </a>
 </div>

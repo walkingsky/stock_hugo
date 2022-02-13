@@ -13,7 +13,7 @@ categories:
             <font size="60"> Bright interior in a modern style . 3D render</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/5167347/image/9714/97147156/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/5167347/image/9714/97147156/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/5167347/9714/i/950/depositphotos_97147156-stock-photo-modern-bright-interior-3d-render.jpg?forcejpeg=true' alt='Bright interior in a modern style . 3D render' >
+    <a href='https://depositphotos.com/97147156/stock-photo-modern-bright-interior-3d-render.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/97147156/stock-photo-modern-bright-interior-3d-render.html?ref=64678756' src='https://st2.depositphotos.com/5167347/9714/i/950/depositphotos_97147156-stock-photo-modern-bright-interior-3d-render.jpg?forcejpeg=true' alt='Bright interior in a modern style . 3D render' >
     </a>
 </div>

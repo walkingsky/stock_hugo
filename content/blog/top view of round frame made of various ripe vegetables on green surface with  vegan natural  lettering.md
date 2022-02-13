@@ -13,7 +13,7 @@ categories:
             <font size="60"> Top view of round frame made of various ripe vegetables on green surface with "vegan natural" lettering</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/13349494/image/21763/217635634/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/13349494/image/21763/217635634/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/13349494/21763/i/950/depositphotos_217635634-stock-photo-top-view-frame-made-various.jpg?forcejpeg=true' alt='Top view of round frame made of various ripe vegetables on green surface with "vegan natural" lettering' >
+    <a href='https://depositphotos.com/217635634/stock-photo-top-view-frame-made-various.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/217635634/stock-photo-top-view-frame-made-various.html?ref=64678756' src='https://st4.depositphotos.com/13349494/21763/i/950/depositphotos_217635634-stock-photo-top-view-frame-made-various.jpg?forcejpeg=true' alt='Top view of round frame made of various ripe vegetables on green surface with "vegan natural" lettering' >
     </a>
 </div>

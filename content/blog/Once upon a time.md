@@ -13,7 +13,7 @@ categories:
             <font size="60"> The beginning of a story on an old fashioned typewriter</font>   
 </div>
 <div>
-    <a href='https://static8.depositphotos.com/thumbs/1186033/image/859/8597444/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static8.depositphotos.com/thumbs/1186033/image/859/8597444/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static8.depositphotos.com/1186033/859/i/950/depositphotos_8597444-stock-photo-once-upon-a-time.jpg?forcejpeg=true' alt='The beginning of a story on an old fashioned typewriter' >
+    <a href='https://depositphotos.com/8597444/stock-photo-once-upon-a-time.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/8597444/stock-photo-once-upon-a-time.html?ref=64678756' src='https://static8.depositphotos.com/1186033/859/i/950/depositphotos_8597444-stock-photo-once-upon-a-time.jpg?forcejpeg=true' alt='The beginning of a story on an old fashioned typewriter' >
     </a>
 </div>

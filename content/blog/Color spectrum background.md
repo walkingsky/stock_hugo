@@ -13,7 +13,7 @@ categories:
             <font size="60"> Abstract color spectrum horizontal vector background.</font>   
 </div>
 <div>
-    <a href='https://static3.depositphotos.com/thumbs/1000868/vector/127/1273663/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static3.depositphotos.com/thumbs/1000868/vector/127/1273663/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static3.depositphotos.com/1000868/127/v/950/depositphotos_1273663-stock-illustration-color-spectrum-background.jpg?forcejpeg=true' alt='Abstract color spectrum horizontal vector background.' >
+    <a href='https://depositphotos.com/1273663/stock-illustration-color-spectrum-background.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/1273663/stock-illustration-color-spectrum-background.html?ref=64678756' src='https://static3.depositphotos.com/1000868/127/v/950/depositphotos_1273663-stock-illustration-color-spectrum-background.jpg?forcejpeg=true' alt='Abstract color spectrum horizontal vector background.' >
     </a>
 </div>

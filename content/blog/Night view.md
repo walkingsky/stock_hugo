@@ -13,7 +13,7 @@ categories:
             <font size="60"> Spacious living room with beautiful view through glass wall</font>   
 </div>
 <div>
-    <a href='https://static4.depositphotos.com/thumbs/1005951/image/346/3466980/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static4.depositphotos.com/thumbs/1005951/image/346/3466980/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static4.depositphotos.com/1005951/346/i/950/depositphotos_3466980-stock-photo-night-view.jpg?forcejpeg=true' alt='Spacious living room with beautiful view through glass wall' >
+    <a href='https://depositphotos.com/3466980/stock-photo-night-view.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/3466980/stock-photo-night-view.html?ref=64678756' src='https://static4.depositphotos.com/1005951/346/i/950/depositphotos_3466980-stock-photo-night-view.jpg?forcejpeg=true' alt='Spacious living room with beautiful view through glass wall' >
     </a>
 </div>

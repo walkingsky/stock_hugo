@@ -13,7 +13,7 @@ categories:
             <font size="60"> Multiethnic family sitting on sofa and using laptop together</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/11233746/image/15912/159126362/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/11233746/image/15912/159126362/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/11233746/15912/i/950/depositphotos_159126362-stock-photo-family-with-laptop-at-home.jpg?forcejpeg=true' alt='Multiethnic family sitting on sofa and using laptop together' >
+    <a href='https://depositphotos.com/159126362/stock-photo-family-with-laptop-at-home.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/159126362/stock-photo-family-with-laptop-at-home.html?ref=64678756' src='https://st3.depositphotos.com/11233746/15912/i/950/depositphotos_159126362-stock-photo-family-with-laptop-at-home.jpg?forcejpeg=true' alt='Multiethnic family sitting on sofa and using laptop together' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Team of ants carries logs with trail car, teamwork, ecofriendly transportation</font>   
 </div>
 <div>
-    <a href='https://static8.depositphotos.com/thumbs/1000145/image/870/8700565/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static8.depositphotos.com/thumbs/1000145/image/870/8700565/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static8.depositphotos.com/1000145/870/i/950/depositphotos_8700565-stock-photo-team-of-ants-carry-wooden.jpg?forcejpeg=true' alt='Team of ants carries logs with trail car, teamwork, ecofriendly transportation' >
+    <a href='https://depositphotos.com/8700565/stock-photo-team-of-ants-carry-wooden.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/8700565/stock-photo-team-of-ants-carry-wooden.html?ref=64678756' src='https://static8.depositphotos.com/1000145/870/i/950/depositphotos_8700565-stock-photo-team-of-ants-carry-wooden.jpg?forcejpeg=true' alt='Team of ants carries logs with trail car, teamwork, ecofriendly transportation' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Abstract colored splashes in round shape with free space for text</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1105977/image/4300/43005605/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1105977/image/4300/43005605/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1105977/4300/i/950/depositphotos_43005605-stock-photo-abstract-colored-splashes.jpg?forcejpeg=true' alt='Abstract colored splashes in round shape with free space for text' >
+    <a href='https://depositphotos.com/43005605/stock-photo-abstract-colored-splashes.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/43005605/stock-photo-abstract-colored-splashes.html?ref=64678756' src='https://st.depositphotos.com/1105977/4300/i/950/depositphotos_43005605-stock-photo-abstract-colored-splashes.jpg?forcejpeg=true' alt='Abstract colored splashes in round shape with free space for text' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Cropped view of african american woman sitting in velour armchair near gift boxes and purchases on blue background</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12982378/image/34297/342970994/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12982378/image/34297/342970994/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12982378/34297/i/950/depositphotos_342970994-stock-photo-cropped-view-african-american-woman.jpg?forcejpeg=true' alt='Cropped view of african american woman sitting in velour armchair near gift boxes and purchases on blue background' >
+    <a href='https://depositphotos.com/342970994/stock-photo-cropped-view-african-american-woman.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/342970994/stock-photo-cropped-view-african-american-woman.html?ref=64678756' src='https://st3.depositphotos.com/12982378/34297/i/950/depositphotos_342970994-stock-photo-cropped-view-african-american-woman.jpg?forcejpeg=true' alt='Cropped view of african american woman sitting in velour armchair near gift boxes and purchases on blue background' >
     </a>
 </div>

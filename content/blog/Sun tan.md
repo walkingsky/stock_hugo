@@ -13,7 +13,7 @@ categories:
             <font size="60"> Beautiful fit woman with perfect tanned skin</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/2980211/image/5932/59326031/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/2980211/image/5932/59326031/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/2980211/5932/i/950/depositphotos_59326031-stock-photo-sun-tan.jpg?forcejpeg=true' alt='Beautiful fit woman with perfect tanned skin' >
+    <a href='https://depositphotos.com/59326031/stock-photo-sun-tan.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/59326031/stock-photo-sun-tan.html?ref=64678756' src='https://st2.depositphotos.com/2980211/5932/i/950/depositphotos_59326031-stock-photo-sun-tan.jpg?forcejpeg=true' alt='Beautiful fit woman with perfect tanned skin' >
     </a>
 </div>

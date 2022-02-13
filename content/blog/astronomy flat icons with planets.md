@@ -13,7 +13,7 @@ categories:
             <font size="60"> Large vector set of astronomy flat icons with planets, stars, asteroids, comet, observatory, moon phases, telescope, meteoroid. Solar system celestial bodies, moon phases, planetarium and telescope</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/3474805/vector/10284/102843640/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/3474805/vector/10284/102843640/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/3474805/10284/v/950/depositphotos_102843640-stock-illustration-astronomy-flat-icons-with-planets.jpg?forcejpeg=true' alt='Large vector set of astronomy flat icons with planets, stars, asteroids, comet, observatory, moon phases, telescope, meteoroid. Solar system celestial bodies, moon phases, planetarium and telescope' >
+    <a href='https://depositphotos.com/102843640/stock-illustration-astronomy-flat-icons-with-planets.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/102843640/stock-illustration-astronomy-flat-icons-with-planets.html?ref=64678756' src='https://st2.depositphotos.com/3474805/10284/v/950/depositphotos_102843640-stock-illustration-astronomy-flat-icons-with-planets.jpg?forcejpeg=true' alt='Large vector set of astronomy flat icons with planets, stars, asteroids, comet, observatory, moon phases, telescope, meteoroid. Solar system celestial bodies, moon phases, planetarium and telescope' >
     </a>
 </div>

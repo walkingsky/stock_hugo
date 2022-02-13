@@ -13,7 +13,7 @@ categories:
             <font size="60"> Vector seamless pattern with hand-drawn waves</font>   
 </div>
 <div>
-    <a href='https://static8.depositphotos.com/thumbs/1000940/vector/983/9838105/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static8.depositphotos.com/thumbs/1000940/vector/983/9838105/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static8.depositphotos.com/1000940/983/v/950/depositphotos_9838105-stock-illustration-seamless-pattern-with-hand-drawn.jpg?forcejpeg=true' alt='Vector seamless pattern with hand-drawn waves' >
+    <a href='https://depositphotos.com/9838105/stock-illustration-seamless-pattern-with-hand-drawn.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/9838105/stock-illustration-seamless-pattern-with-hand-drawn.html?ref=64678756' src='https://static8.depositphotos.com/1000940/983/v/950/depositphotos_9838105-stock-illustration-seamless-pattern-with-hand-drawn.jpg?forcejpeg=true' alt='Vector seamless pattern with hand-drawn waves' >
     </a>
 </div>

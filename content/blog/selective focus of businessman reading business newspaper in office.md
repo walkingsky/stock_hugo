@@ -13,7 +13,7 @@ categories:
             <font size="60"> Selective focus of businessman reading business newspaper in office</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/13194036/image/24816/248169156/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/13194036/image/24816/248169156/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/13194036/24816/i/950/depositphotos_248169156-stock-photo-selective-focus-businessman-reading-business.jpg?forcejpeg=true' alt='Selective focus of businessman reading business newspaper in office' >
+    <a href='https://depositphotos.com/248169156/stock-photo-selective-focus-businessman-reading-business.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/248169156/stock-photo-selective-focus-businessman-reading-business.html?ref=64678756' src='https://st4.depositphotos.com/13194036/24816/i/950/depositphotos_248169156-stock-photo-selective-focus-businessman-reading-business.jpg?forcejpeg=true' alt='Selective focus of businessman reading business newspaper in office' >
     </a>
 </div>

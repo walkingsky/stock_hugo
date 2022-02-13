@@ -13,7 +13,7 @@ categories:
             <font size="60"> Portrait of a beautiful woman with a white perfect smile outdoor</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1809585/image/3802/38026889/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1809585/image/3802/38026889/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1809585/3802/i/950/depositphotos_38026889-stock-photo-portrait-of-a-beautiful-woman.jpg?forcejpeg=true' alt='Portrait of a beautiful woman with a white perfect smile outdoor' >
+    <a href='https://depositphotos.com/38026889/stock-photo-portrait-of-a-beautiful-woman.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/38026889/stock-photo-portrait-of-a-beautiful-woman.html?ref=64678756' src='https://st.depositphotos.com/1809585/3802/i/950/depositphotos_38026889-stock-photo-portrait-of-a-beautiful-woman.jpg?forcejpeg=true' alt='Portrait of a beautiful woman with a white perfect smile outdoor' >
     </a>
 </div>

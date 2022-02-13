@@ -13,7 +13,7 @@ categories:
             <font size="60"> Portrait Of Happy Young Couple Sitting On Floor Looking Up While Dreaming Their New Home And Furnishing</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1743476/image/5052/50520933/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1743476/image/5052/50520933/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1743476/5052/i/950/depositphotos_50520933-stock-photo-happy-couple-dream-new-home.jpg?forcejpeg=true' alt='Portrait Of Happy Young Couple Sitting On Floor Looking Up While Dreaming Their New Home And Furnishing' >
+    <a href='https://depositphotos.com/50520933/stock-photo-happy-couple-dream-new-home.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/50520933/stock-photo-happy-couple-dream-new-home.html?ref=64678756' src='https://st.depositphotos.com/1743476/5052/i/950/depositphotos_50520933-stock-photo-happy-couple-dream-new-home.jpg?forcejpeg=true' alt='Portrait Of Happy Young Couple Sitting On Floor Looking Up While Dreaming Their New Home And Furnishing' >
     </a>
 </div>

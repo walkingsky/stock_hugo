@@ -13,7 +13,7 @@ categories:
             <font size="60"> Bottle Cap blue gradient vector icon</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/50337402/vector/47104/471044688/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/50337402/vector/47104/471044688/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/50337402/47104/v/950/depositphotos_471044688-stock-illustration-bottle-cap-blue-gradient-vector.jpg?forcejpeg=true' alt='Bottle Cap blue gradient vector icon' >
+    <a href='https://depositphotos.com/471044688/stock-illustration-bottle-cap-blue-gradient-vector.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/471044688/stock-illustration-bottle-cap-blue-gradient-vector.html?ref=64678756' src='https://st2.depositphotos.com/50337402/47104/v/950/depositphotos_471044688-stock-illustration-bottle-cap-blue-gradient-vector.jpg?forcejpeg=true' alt='Bottle Cap blue gradient vector icon' >
     </a>
 </div>

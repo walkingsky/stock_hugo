@@ -13,7 +13,7 @@ categories:
             <font size="60"> Nature landscape view</font>   
 </div>
 <div>
-    <a href='https://static3.depositphotos.com/thumbs/1004095/image/181/1814306/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static3.depositphotos.com/thumbs/1004095/image/181/1814306/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static3.depositphotos.com/1004095/181/i/950/depositphotos_1814306-stock-photo-nature-landscape-view.jpg?forcejpeg=true' alt='Nature landscape view' >
+    <a href='https://depositphotos.com/1814306/stock-photo-nature-landscape-view.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/1814306/stock-photo-nature-landscape-view.html?ref=64678756' src='https://static3.depositphotos.com/1004095/181/i/950/depositphotos_1814306-stock-photo-nature-landscape-view.jpg?forcejpeg=true' alt='Nature landscape view' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Flying drone with camera on the sky</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1003854/image/4507/45078579/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1003854/image/4507/45078579/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1003854/4507/i/950/depositphotos_45078579-stock-photo-flying-drone-with-camera-on.jpg?forcejpeg=true' alt='Flying drone with camera on the sky' >
+    <a href='https://depositphotos.com/45078579/stock-photo-flying-drone-with-camera-on.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/45078579/stock-photo-flying-drone-with-camera-on.html?ref=64678756' src='https://st.depositphotos.com/1003854/4507/i/950/depositphotos_45078579-stock-photo-flying-drone-with-camera-on.jpg?forcejpeg=true' alt='Flying drone with camera on the sky' >
     </a>
 </div>

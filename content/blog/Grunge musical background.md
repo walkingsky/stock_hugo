@@ -13,7 +13,7 @@ categories:
             <font size="60"> Black and white grunge musical background</font>   
 </div>
 <div>
-    <a href='https://static5.depositphotos.com/thumbs/1000282/image/410/4104680/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static5.depositphotos.com/thumbs/1000282/image/410/4104680/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static5.depositphotos.com/1000282/410/i/950/depositphotos_4104680-stock-photo-grunge-musical-background.jpg?forcejpeg=true' alt='Black and white grunge musical background' >
+    <a href='https://depositphotos.com/4104680/stock-photo-grunge-musical-background.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/4104680/stock-photo-grunge-musical-background.html?ref=64678756' src='https://static5.depositphotos.com/1000282/410/i/950/depositphotos_4104680-stock-photo-grunge-musical-background.jpg?forcejpeg=true' alt='Black and white grunge musical background' >
     </a>
 </div>

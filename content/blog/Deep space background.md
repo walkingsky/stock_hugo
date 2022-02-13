@@ -13,7 +13,7 @@ categories:
             <font size="60"> Deep space background with thousands of stars and nebulae.</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1288351/image/3262/32622785/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1288351/image/3262/32622785/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1288351/3262/i/950/depositphotos_32622785-stock-photo-deep-space-background.jpg?forcejpeg=true' alt='Deep space background with thousands of stars and nebulae.' >
+    <a href='https://depositphotos.com/32622785/stock-photo-deep-space-background.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/32622785/stock-photo-deep-space-background.html?ref=64678756' src='https://st.depositphotos.com/1288351/3262/i/950/depositphotos_32622785-stock-photo-deep-space-background.jpg?forcejpeg=true' alt='Deep space background with thousands of stars and nebulae.' >
     </a>
 </div>

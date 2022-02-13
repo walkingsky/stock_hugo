@@ -13,7 +13,7 @@ categories:
             <font size="60"> Project plan Gantt charts with shallow depth of field</font>   
 </div>
 <div>
-    <a href='https://static8.depositphotos.com/thumbs/1578046/image/1044/10445634/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static8.depositphotos.com/thumbs/1578046/image/1044/10445634/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static8.depositphotos.com/1578046/1044/i/950/depositphotos_10445634-stock-photo-project-planning-documents.jpg?forcejpeg=true' alt='Project plan Gantt charts with shallow depth of field' >
+    <a href='https://depositphotos.com/10445634/stock-photo-project-planning-documents.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/10445634/stock-photo-project-planning-documents.html?ref=64678756' src='https://static8.depositphotos.com/1578046/1044/i/950/depositphotos_10445634-stock-photo-project-planning-documents.jpg?forcejpeg=true' alt='Project plan Gantt charts with shallow depth of field' >
     </a>
 </div>

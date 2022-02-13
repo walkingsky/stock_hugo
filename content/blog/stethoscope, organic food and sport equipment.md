@@ -13,7 +13,7 @@ categories:
             <font size="60"> Top view of stethoscope, organic vegetables and fruits and sport equipment on wooden surface, healthy lifestyle concept</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13349494/image/16046/160465162/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13349494/image/16046/160465162/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13349494/16046/i/950/depositphotos_160465162-stock-photo-stethoscope-organic-food-and-sport.jpg?forcejpeg=true' alt='Top view of stethoscope, organic vegetables and fruits and sport equipment on wooden surface, healthy lifestyle concept' >
+    <a href='https://depositphotos.com/160465162/stock-photo-stethoscope-organic-food-and-sport.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/160465162/stock-photo-stethoscope-organic-food-and-sport.html?ref=64678756' src='https://st3.depositphotos.com/13349494/16046/i/950/depositphotos_160465162-stock-photo-stethoscope-organic-food-and-sport.jpg?forcejpeg=true' alt='Top view of stethoscope, organic vegetables and fruits and sport equipment on wooden surface, healthy lifestyle concept' >
     </a>
 </div>

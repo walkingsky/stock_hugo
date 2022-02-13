@@ -13,7 +13,7 @@ categories:
             <font size="60"> Thumbs up smiling yellow cartoon glove character in a hand</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/2196544/vector/3438/34382977/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/2196544/vector/3438/34382977/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/2196544/3438/v/950/depositphotos_34382977-stock-illustration-thumbs-up-smiling-yellow-cartoon.jpg?forcejpeg=true' alt='Thumbs up smiling yellow cartoon glove character in a hand' >
+    <a href='https://depositphotos.com/34382977/stock-illustration-thumbs-up-smiling-yellow-cartoon.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/34382977/stock-illustration-thumbs-up-smiling-yellow-cartoon.html?ref=64678756' src='https://st.depositphotos.com/2196544/3438/v/950/depositphotos_34382977-stock-illustration-thumbs-up-smiling-yellow-cartoon.jpg?forcejpeg=true' alt='Thumbs up smiling yellow cartoon glove character in a hand' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Panoramic shot of beautiful young wwoman with pink makeup in torn paper, on pink</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12982378/image/33795/337954794/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12982378/image/33795/337954794/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12982378/33795/i/950/depositphotos_337954794-stock-photo-panoramic-shot-beautiful-young-wwoman.jpg?forcejpeg=true' alt='Panoramic shot of beautiful young wwoman with pink makeup in torn paper, on pink' >
+    <a href='https://depositphotos.com/337954794/stock-photo-panoramic-shot-beautiful-young-wwoman.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/337954794/stock-photo-panoramic-shot-beautiful-young-wwoman.html?ref=64678756' src='https://st3.depositphotos.com/12982378/33795/i/950/depositphotos_337954794-stock-photo-panoramic-shot-beautiful-young-wwoman.jpg?forcejpeg=true' alt='Panoramic shot of beautiful young wwoman with pink makeup in torn paper, on pink' >
     </a>
 </div>

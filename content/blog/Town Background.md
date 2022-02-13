@@ -13,7 +13,7 @@ categories:
             <font size="60"> Square Urban background. Townhouses in a retro Style. Little Town. Vector Illustration.</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1029736/vector/2127/21275457/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1029736/vector/2127/21275457/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1029736/2127/v/950/depositphotos_21275457-stock-illustration-town-background.jpg?forcejpeg=true' alt='Square Urban background. Townhouses in a retro Style. Little Town. Vector Illustration.' >
+    <a href='https://depositphotos.com/21275457/stock-illustration-town-background.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/21275457/stock-illustration-town-background.html?ref=64678756' src='https://st.depositphotos.com/1029736/2127/v/950/depositphotos_21275457-stock-illustration-town-background.jpg?forcejpeg=true' alt='Square Urban background. Townhouses in a retro Style. Little Town. Vector Illustration.' >
     </a>
 </div>

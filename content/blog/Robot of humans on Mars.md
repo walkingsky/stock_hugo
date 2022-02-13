@@ -13,7 +13,7 @@ categories:
             <font size="60"> Robot of humans on Mars</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/3935719/image/7647/76472421/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/3935719/image/7647/76472421/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/3935719/7647/i/950/depositphotos_76472421-stock-photo-robot-of-humans-on-mars.jpg?forcejpeg=true' alt='Robot of humans on Mars' >
+    <a href='https://depositphotos.com/76472421/stock-photo-robot-of-humans-on-mars.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/76472421/stock-photo-robot-of-humans-on-mars.html?ref=64678756' src='https://st2.depositphotos.com/3935719/7647/i/950/depositphotos_76472421-stock-photo-robot-of-humans-on-mars.jpg?forcejpeg=true' alt='Robot of humans on Mars' >
     </a>
 </div>

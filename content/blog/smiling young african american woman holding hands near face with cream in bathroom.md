@@ -13,7 +13,7 @@ categories:
             <font size="60"> Smiling young african american woman holding hands near face with cream in bathroom</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/12982378/image/47554/475547468/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/12982378/image/47554/475547468/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/12982378/47554/i/950/depositphotos_475547468-stock-photo-smiling-young-african-american-woman.jpg?forcejpeg=true' alt='Smiling young african american woman holding hands near face with cream in bathroom' >
+    <a href='https://depositphotos.com/475547468/stock-photo-smiling-young-african-american-woman.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/475547468/stock-photo-smiling-young-african-american-woman.html?ref=64678756' src='https://st2.depositphotos.com/12982378/47554/i/950/depositphotos_475547468-stock-photo-smiling-young-african-american-woman.jpg?forcejpeg=true' alt='Smiling young african american woman holding hands near face with cream in bathroom' >
     </a>
 </div>

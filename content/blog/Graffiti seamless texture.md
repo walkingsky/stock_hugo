@@ -13,7 +13,7 @@ categories:
             <font size="60"> Graffiti seamless texture with bizarre elements and characters.</font>   
 </div>
 <div>
-    <a href='https://static8.depositphotos.com/thumbs/1000755/vector/970/9700351/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static8.depositphotos.com/thumbs/1000755/vector/970/9700351/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static8.depositphotos.com/1000755/970/v/950/depositphotos_9700351-stock-illustration-graffiti-seamless-texture.jpg?forcejpeg=true' alt='Graffiti seamless texture with bizarre elements and characters.' >
+    <a href='https://depositphotos.com/9700351/stock-illustration-graffiti-seamless-texture.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/9700351/stock-illustration-graffiti-seamless-texture.html?ref=64678756' src='https://static8.depositphotos.com/1000755/970/v/950/depositphotos_9700351-stock-illustration-graffiti-seamless-texture.jpg?forcejpeg=true' alt='Graffiti seamless texture with bizarre elements and characters.' >
     </a>
 </div>

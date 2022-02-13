@@ -13,7 +13,7 @@ categories:
             <font size="60"> Selective focus of smiling creative designer holding cubes with ux letters at table with layouts</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13194036/image/32811/328112746/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13194036/image/32811/328112746/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13194036/32811/i/950/depositphotos_328112746-stock-photo-selective-focus-smiling-creative-designer.jpg?forcejpeg=true' alt='Selective focus of smiling creative designer holding cubes with ux letters at table with layouts' >
+    <a href='https://depositphotos.com/328112746/stock-photo-selective-focus-smiling-creative-designer.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/328112746/stock-photo-selective-focus-smiling-creative-designer.html?ref=64678756' src='https://st3.depositphotos.com/13194036/32811/i/950/depositphotos_328112746-stock-photo-selective-focus-smiling-creative-designer.jpg?forcejpeg=true' alt='Selective focus of smiling creative designer holding cubes with ux letters at table with layouts' >
     </a>
 </div>

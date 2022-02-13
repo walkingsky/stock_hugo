@@ -13,7 +13,7 @@ categories:
             <font size="60"> KYIV, UKRAINE - MAY 10, 2017:  Alma from France at the second semi-final rehearsal during Eurovision Song Contest, in Kyiv, Ukraine</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12749700/image/15290/152905912/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12749700/image/15290/152905912/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12749700/15290/i/950/depositphotos_152905912-stock-photo-alma-from-france-eurovision-2017.jpg?forcejpeg=true' alt='KYIV, UKRAINE - MAY 10, 2017:  Alma from France at the second semi-final rehearsal during Eurovision Song Contest, in Kyiv, Ukraine' >
+    <a href='https://depositphotos.com/152905912/stock-photo-alma-from-france-eurovision-2017.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/152905912/stock-photo-alma-from-france-eurovision-2017.html?ref=64678756' src='https://st3.depositphotos.com/12749700/15290/i/950/depositphotos_152905912-stock-photo-alma-from-france-eurovision-2017.jpg?forcejpeg=true' alt='KYIV, UKRAINE - MAY 10, 2017:  Alma from France at the second semi-final rehearsal during Eurovision Song Contest, in Kyiv, Ukraine' >
     </a>
 </div>

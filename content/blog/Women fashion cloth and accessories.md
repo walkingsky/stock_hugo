@@ -13,7 +13,7 @@ categories:
             <font size="60"> Women fashion cloth and accessories. Flat lay female casual style look with warm sweater, jeans, purse, watch, sunglasses. Top view.</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/7595566/image/16728/167281978/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/7595566/image/16728/167281978/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/7595566/16728/i/950/depositphotos_167281978-stock-photo-women-fashion-cloth-and-accessories.jpg?forcejpeg=true' alt='Women fashion cloth and accessories. Flat lay female casual style look with warm sweater, jeans, purse, watch, sunglasses. Top view.' >
+    <a href='https://depositphotos.com/167281978/stock-photo-women-fashion-cloth-and-accessories.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/167281978/stock-photo-women-fashion-cloth-and-accessories.html?ref=64678756' src='https://st3.depositphotos.com/7595566/16728/i/950/depositphotos_167281978-stock-photo-women-fashion-cloth-and-accessories.jpg?forcejpeg=true' alt='Women fashion cloth and accessories. Flat lay female casual style look with warm sweater, jeans, purse, watch, sunglasses. Top view.' >
     </a>
 </div>

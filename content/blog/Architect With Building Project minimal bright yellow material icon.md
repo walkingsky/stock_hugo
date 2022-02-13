@@ -13,7 +13,7 @@ categories:
             <font size="60"> Architect With Building Project minimal bright yellow material icon</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/50337402/vector/47090/470906470/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/50337402/vector/47090/470906470/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/50337402/47090/v/950/depositphotos_470906470-stock-illustration-architect-building-project-minimal-bright.jpg?forcejpeg=true' alt='Architect With Building Project minimal bright yellow material icon' >
+    <a href='https://depositphotos.com/470906470/stock-illustration-architect-building-project-minimal-bright.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/470906470/stock-illustration-architect-building-project-minimal-bright.html?ref=64678756' src='https://st2.depositphotos.com/50337402/47090/v/950/depositphotos_470906470-stock-illustration-architect-building-project-minimal-bright.jpg?forcejpeg=true' alt='Architect With Building Project minimal bright yellow material icon' >
     </a>
 </div>

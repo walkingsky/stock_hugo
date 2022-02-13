@@ -13,7 +13,7 @@ categories:
             <font size="60"> Smiling middle aged male doctor with digital tablet gesturing by hand and talking to female patient at table in office</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/13194036/image/21194/211949118/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/13194036/image/21194/211949118/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/13194036/21194/i/950/depositphotos_211949118-stock-photo-smiling-middle-aged-male-doctor.jpg?forcejpeg=true' alt='Smiling middle aged male doctor with digital tablet gesturing by hand and talking to female patient at table in office' >
+    <a href='https://depositphotos.com/211949118/stock-photo-smiling-middle-aged-male-doctor.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/211949118/stock-photo-smiling-middle-aged-male-doctor.html?ref=64678756' src='https://st4.depositphotos.com/13194036/21194/i/950/depositphotos_211949118-stock-photo-smiling-middle-aged-male-doctor.jpg?forcejpeg=true' alt='Smiling middle aged male doctor with digital tablet gesturing by hand and talking to female patient at table in office' >
     </a>
 </div>

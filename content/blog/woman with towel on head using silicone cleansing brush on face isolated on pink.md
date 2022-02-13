@@ -13,7 +13,7 @@ categories:
             <font size="60"> Woman with towel on head using silicone cleansing brush on face isolated on pink</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/19406380/image/50270/502702242/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/19406380/image/50270/502702242/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/19406380/50270/i/950/depositphotos_502702242-stock-photo-woman-towel-head-using-silicone.jpg?forcejpeg=true' alt='Woman with towel on head using silicone cleansing brush on face isolated on pink' >
+    <a href='https://depositphotos.com/502702242/stock-photo-woman-towel-head-using-silicone.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/502702242/stock-photo-woman-towel-head-using-silicone.html?ref=64678756' src='https://st2.depositphotos.com/19406380/50270/i/950/depositphotos_502702242-stock-photo-woman-towel-head-using-silicone.jpg?forcejpeg=true' alt='Woman with towel on head using silicone cleansing brush on face isolated on pink' >
     </a>
 </div>

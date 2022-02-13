@@ -13,7 +13,7 @@ categories:
             <font size="60"> Man in a rural environment guiding a drone</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1007034/image/9755/97555006/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1007034/image/9755/97555006/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1007034/9755/i/950/depositphotos_97555006-stock-photo-man-guiding-a-drone.jpg?forcejpeg=true' alt='Man in a rural environment guiding a drone' >
+    <a href='https://depositphotos.com/97555006/stock-photo-man-guiding-a-drone.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/97555006/stock-photo-man-guiding-a-drone.html?ref=64678756' src='https://st2.depositphotos.com/1007034/9755/i/950/depositphotos_97555006-stock-photo-man-guiding-a-drone.jpg?forcejpeg=true' alt='Man in a rural environment guiding a drone' >
     </a>
 </div>

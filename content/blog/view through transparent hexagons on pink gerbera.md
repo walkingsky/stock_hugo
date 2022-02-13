@@ -13,7 +13,7 @@ categories:
             <font size="60"> View through transparent hexagons on pink gerbera</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13349494/image/17969/179690192/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13349494/image/17969/179690192/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13349494/17969/i/950/depositphotos_179690192-stock-photo-view-transparent-hexagons-pink-gerbera.jpg?forcejpeg=true' alt='View through transparent hexagons on pink gerbera' >
+    <a href='https://depositphotos.com/179690192/stock-photo-view-transparent-hexagons-pink-gerbera.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/179690192/stock-photo-view-transparent-hexagons-pink-gerbera.html?ref=64678756' src='https://st3.depositphotos.com/13349494/17969/i/950/depositphotos_179690192-stock-photo-view-transparent-hexagons-pink-gerbera.jpg?forcejpeg=true' alt='View through transparent hexagons on pink gerbera' >
     </a>
 </div>

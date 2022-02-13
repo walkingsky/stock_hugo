@@ -13,7 +13,7 @@ categories:
             <font size="60"> Young male technicians flying UAV spy drone in park</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1003098/image/3114/31148631/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1003098/image/3114/31148631/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1003098/3114/i/950/depositphotos_31148631-stock-photo-technicians-flying-uav-spy-drone.jpg?forcejpeg=true' alt='Young male technicians flying UAV spy drone in park' >
+    <a href='https://depositphotos.com/31148631/stock-photo-technicians-flying-uav-spy-drone.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/31148631/stock-photo-technicians-flying-uav-spy-drone.html?ref=64678756' src='https://st.depositphotos.com/1003098/3114/i/950/depositphotos_31148631-stock-photo-technicians-flying-uav-spy-drone.jpg?forcejpeg=true' alt='Young male technicians flying UAV spy drone in park' >
     </a>
 </div>

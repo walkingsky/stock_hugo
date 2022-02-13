@@ -13,7 +13,7 @@ categories:
             <font size="60"> Woman feel freedom and enjoy the beautiful view in the mountains and looking on sunset</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/4122877/image/8215/82157886/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/4122877/image/8215/82157886/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/4122877/8215/i/950/depositphotos_82157886-stock-photo-woman-relaxing-in-the-nature.jpg?forcejpeg=true' alt='Woman feel freedom and enjoy the beautiful view in the mountains and looking on sunset' >
+    <a href='https://depositphotos.com/82157886/stock-photo-woman-relaxing-in-the-nature.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/82157886/stock-photo-woman-relaxing-in-the-nature.html?ref=64678756' src='https://st2.depositphotos.com/4122877/8215/i/950/depositphotos_82157886-stock-photo-woman-relaxing-in-the-nature.jpg?forcejpeg=true' alt='Woman feel freedom and enjoy the beautiful view in the mountains and looking on sunset' >
     </a>
 </div>

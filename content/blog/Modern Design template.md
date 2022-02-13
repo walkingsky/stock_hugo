@@ -13,7 +13,7 @@ categories:
             <font size="60"> Modern Design template</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1091305/vector/2844/28445313/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1091305/vector/2844/28445313/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1091305/2844/v/950/depositphotos_28445313-stock-illustration-modern-design-template.jpg?forcejpeg=true' alt='Modern Design template' >
+    <a href='https://depositphotos.com/28445313/stock-illustration-modern-design-template.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/28445313/stock-illustration-modern-design-template.html?ref=64678756' src='https://st.depositphotos.com/1091305/2844/v/950/depositphotos_28445313-stock-illustration-modern-design-template.jpg?forcejpeg=true' alt='Modern Design template' >
     </a>
 </div>

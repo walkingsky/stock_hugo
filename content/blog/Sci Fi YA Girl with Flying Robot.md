@@ -13,7 +13,7 @@ categories:
             <font size="60"> Sci Fi YA Girl with Flying Robot</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/1695244/image/28112/281124102/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/1695244/image/28112/281124102/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/1695244/28112/i/950/depositphotos_281124102-stock-photo-sci-girl-flying-robot.jpg?forcejpeg=true' alt='Sci Fi YA Girl with Flying Robot' >
+    <a href='https://depositphotos.com/281124102/stock-photo-sci-girl-flying-robot.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/281124102/stock-photo-sci-girl-flying-robot.html?ref=64678756' src='https://st4.depositphotos.com/1695244/28112/i/950/depositphotos_281124102-stock-photo-sci-girl-flying-robot.jpg?forcejpeg=true' alt='Sci Fi YA Girl with Flying Robot' >
     </a>
 </div>

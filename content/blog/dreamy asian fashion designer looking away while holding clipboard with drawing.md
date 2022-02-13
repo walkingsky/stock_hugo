@@ -13,7 +13,7 @@ categories:
             <font size="60"> Dreamy asian fashion designer looking away while holding clipboard with drawing</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/20363444/image/48914/489143062/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/20363444/image/48914/489143062/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/20363444/48914/i/950/depositphotos_489143062-stock-photo-dreamy-asian-fashion-designer-looking.jpg?forcejpeg=true' alt='Dreamy asian fashion designer looking away while holding clipboard with drawing' >
+    <a href='https://depositphotos.com/489143062/stock-photo-dreamy-asian-fashion-designer-looking.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/489143062/stock-photo-dreamy-asian-fashion-designer-looking.html?ref=64678756' src='https://st2.depositphotos.com/20363444/48914/i/950/depositphotos_489143062-stock-photo-dreamy-asian-fashion-designer-looking.jpg?forcejpeg=true' alt='Dreamy asian fashion designer looking away while holding clipboard with drawing' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Stylish man holding skateboard and looking at watch on grey</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/9880800/image/14126/141262418/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/9880800/image/14126/141262418/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/9880800/14126/i/950/depositphotos_141262418-stock-photo-stylish-man-holding-skateboard.jpg?forcejpeg=true' alt='Stylish man holding skateboard and looking at watch on grey' >
+    <a href='https://depositphotos.com/141262418/stock-photo-stylish-man-holding-skateboard.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/141262418/stock-photo-stylish-man-holding-skateboard.html?ref=64678756' src='https://st3.depositphotos.com/9880800/14126/i/950/depositphotos_141262418-stock-photo-stylish-man-holding-skateboard.jpg?forcejpeg=true' alt='Stylish man holding skateboard and looking at watch on grey' >
     </a>
 </div>

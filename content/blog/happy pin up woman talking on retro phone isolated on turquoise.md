@@ -13,7 +13,7 @@ categories:
             <font size="60"> Happy pin up woman talking on retro phone isolated on turquoise</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/13193658/image/44356/443562448/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/13193658/image/44356/443562448/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/13193658/44356/i/950/depositphotos_443562448-stock-photo-happy-pin-woman-talking-retro.jpg?forcejpeg=true' alt='Happy pin up woman talking on retro phone isolated on turquoise' >
+    <a href='https://depositphotos.com/443562448/stock-photo-happy-pin-woman-talking-retro.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/443562448/stock-photo-happy-pin-woman-talking-retro.html?ref=64678756' src='https://st2.depositphotos.com/13193658/44356/i/950/depositphotos_443562448-stock-photo-happy-pin-woman-talking-retro.jpg?forcejpeg=true' alt='Happy pin up woman talking on retro phone isolated on turquoise' >
     </a>
 </div>

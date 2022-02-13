@@ -13,7 +13,7 @@ categories:
             <font size="60"> Blue Magic butterfly over water</font>   
 </div>
 <div>
-    <a href='https://static9.depositphotos.com/thumbs/1064045/image/1188/11889482/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static9.depositphotos.com/thumbs/1064045/image/1188/11889482/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static9.depositphotos.com/1064045/1188/i/950/depositphotos_11889482-stock-photo-butterfly.jpg?forcejpeg=true' alt='Blue Magic butterfly over water' >
+    <a href='https://depositphotos.com/11889482/stock-photo-butterfly.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/11889482/stock-photo-butterfly.html?ref=64678756' src='https://static9.depositphotos.com/1064045/1188/i/950/depositphotos_11889482-stock-photo-butterfly.jpg?forcejpeg=true' alt='Blue Magic butterfly over water' >
     </a>
 </div>

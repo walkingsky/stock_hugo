@@ -13,7 +13,7 @@ categories:
             <font size="60"> Concentrated young businessman typing on laptop at workplace in office</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12985848/image/15965/159652326/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12985848/image/15965/159652326/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12985848/15965/i/950/depositphotos_159652326-stock-photo-businessman-with-laptop-at-workplace.jpg?forcejpeg=true' alt='Concentrated young businessman typing on laptop at workplace in office' >
+    <a href='https://depositphotos.com/159652326/stock-photo-businessman-with-laptop-at-workplace.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/159652326/stock-photo-businessman-with-laptop-at-workplace.html?ref=64678756' src='https://st3.depositphotos.com/12985848/15965/i/950/depositphotos_159652326-stock-photo-businessman-with-laptop-at-workplace.jpg?forcejpeg=true' alt='Concentrated young businessman typing on laptop at workplace in office' >
     </a>
 </div>

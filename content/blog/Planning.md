@@ -13,7 +13,7 @@ categories:
             <font size="60"> Close-up of businessman hand with pen explaining a financial plan to colleagues at meeting</font>   
 </div>
 <div>
-    <a href='https://static9.depositphotos.com/thumbs/1594308/image/1131/11310901/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static9.depositphotos.com/thumbs/1594308/image/1131/11310901/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static9.depositphotos.com/1594308/1131/i/950/depositphotos_11310901-stock-photo-planning.jpg?forcejpeg=true' alt='Close-up of businessman hand with pen explaining a financial plan to colleagues at meeting' >
+    <a href='https://depositphotos.com/11310901/stock-photo-planning.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/11310901/stock-photo-planning.html?ref=64678756' src='https://static9.depositphotos.com/1594308/1131/i/950/depositphotos_11310901-stock-photo-planning.jpg?forcejpeg=true' alt='Close-up of businessman hand with pen explaining a financial plan to colleagues at meeting' >
     </a>
 </div>

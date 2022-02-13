@@ -13,7 +13,7 @@ categories:
             <font size="60"> Portrait of a smiling woman doctor holding fresh fruits. Isolated over white background.</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1606463/image/1954/19545693/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1606463/image/1954/19545693/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1606463/1954/i/950/depositphotos_19545693-stock-photo-vegetarian.jpg?forcejpeg=true' alt='Portrait of a smiling woman doctor holding fresh fruits. Isolated over white background.' >
+    <a href='https://depositphotos.com/19545693/stock-photo-vegetarian.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/19545693/stock-photo-vegetarian.html?ref=64678756' src='https://st.depositphotos.com/1606463/1954/i/950/depositphotos_19545693-stock-photo-vegetarian.jpg?forcejpeg=true' alt='Portrait of a smiling woman doctor holding fresh fruits. Isolated over white background.' >
     </a>
 </div>

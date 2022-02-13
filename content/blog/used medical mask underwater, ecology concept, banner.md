@@ -13,7 +13,7 @@ categories:
             <font size="60"> Used medical mask underwater, ecology concept, banner</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/12982378/image/45889/458898548/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/12982378/image/45889/458898548/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/12982378/45889/i/950/depositphotos_458898548-stock-photo-used-medical-mask-underwater-ecology.jpg?forcejpeg=true' alt='Used medical mask underwater, ecology concept, banner' >
+    <a href='https://depositphotos.com/458898548/stock-photo-used-medical-mask-underwater-ecology.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/458898548/stock-photo-used-medical-mask-underwater-ecology.html?ref=64678756' src='https://st2.depositphotos.com/12982378/45889/i/950/depositphotos_458898548-stock-photo-used-medical-mask-underwater-ecology.jpg?forcejpeg=true' alt='Used medical mask underwater, ecology concept, banner' >
     </a>
 </div>

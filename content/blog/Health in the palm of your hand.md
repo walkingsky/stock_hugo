@@ -13,7 +13,7 @@ categories:
             <font size="60"> Male hand outstretched with the word "Health" floating above, surrounded by a word cloud on a vibrant green and blue modern grunge background</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/3442145/image/6288/62889277/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/3442145/image/6288/62889277/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/3442145/6288/i/950/depositphotos_62889277-stock-photo-health-in-the-palm-of.jpg?forcejpeg=true' alt='Male hand outstretched with the word "Health" floating above, surrounded by a word cloud on a vibrant green and blue modern grunge background' >
+    <a href='https://depositphotos.com/62889277/stock-photo-health-in-the-palm-of.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/62889277/stock-photo-health-in-the-palm-of.html?ref=64678756' src='https://st2.depositphotos.com/3442145/6288/i/950/depositphotos_62889277-stock-photo-health-in-the-palm-of.jpg?forcejpeg=true' alt='Male hand outstretched with the word "Health" floating above, surrounded by a word cloud on a vibrant green and blue modern grunge background' >
     </a>
 </div>

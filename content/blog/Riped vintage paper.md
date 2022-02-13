@@ -13,7 +13,7 @@ categories:
             <font size="60"> Riped vintage paper on grunge background</font>   
 </div>
 <div>
-    <a href='https://static8.depositphotos.com/thumbs/1260672/image/1057/10572842/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static8.depositphotos.com/thumbs/1260672/image/1057/10572842/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static8.depositphotos.com/1260672/1057/i/950/depositphotos_10572842-stock-photo-riped-vintage-paper.jpg?forcejpeg=true' alt='Riped vintage paper on grunge background' >
+    <a href='https://depositphotos.com/10572842/stock-photo-riped-vintage-paper.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/10572842/stock-photo-riped-vintage-paper.html?ref=64678756' src='https://static8.depositphotos.com/1260672/1057/i/950/depositphotos_10572842-stock-photo-riped-vintage-paper.jpg?forcejpeg=true' alt='Riped vintage paper on grunge background' >
     </a>
 </div>

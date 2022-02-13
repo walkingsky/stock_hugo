@@ -13,7 +13,7 @@ categories:
             <font size="60"> Set of chocolate sweets, cakes and other chocolate food</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1352665/vector/2934/29345565/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1352665/vector/2934/29345565/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1352665/2934/v/950/depositphotos_29345565-stock-illustration-set-of-chocolate-sweets-cakes.jpg?forcejpeg=true' alt='Set of chocolate sweets, cakes and other chocolate food' >
+    <a href='https://depositphotos.com/29345565/stock-illustration-set-of-chocolate-sweets-cakes.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/29345565/stock-illustration-set-of-chocolate-sweets-cakes.html?ref=64678756' src='https://st.depositphotos.com/1352665/2934/v/950/depositphotos_29345565-stock-illustration-set-of-chocolate-sweets-cakes.jpg?forcejpeg=true' alt='Set of chocolate sweets, cakes and other chocolate food' >
     </a>
 </div>

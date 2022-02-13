@@ -13,7 +13,7 @@ categories:
             <font size="60"> STRETCHED OUT</font>   
 </div>
 <div>
-    <a href='https://static9.depositphotos.com/thumbs/1729220/image/1228/12285701/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static9.depositphotos.com/thumbs/1729220/image/1228/12285701/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static9.depositphotos.com/1729220/1228/i/950/depositphotos_12285701-stock-photo-stretched-out.jpg?forcejpeg=true' alt='STRETCHED OUT' >
+    <a href='https://depositphotos.com/12285701/stock-photo-stretched-out.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/12285701/stock-photo-stretched-out.html?ref=64678756' src='https://static9.depositphotos.com/1729220/1228/i/950/depositphotos_12285701-stock-photo-stretched-out.jpg?forcejpeg=true' alt='STRETCHED OUT' >
     </a>
 </div>

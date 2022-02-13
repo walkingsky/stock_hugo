@@ -13,7 +13,7 @@ categories:
             <font size="60"> Plitvicka jezera national park - the most beautiful part of Croatia</font>   
 </div>
 <div>
-    <a href='https://static3.depositphotos.com/thumbs/1005594/image/202/2021718/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static3.depositphotos.com/thumbs/1005594/image/202/2021718/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static3.depositphotos.com/1005594/202/i/950/depositphotos_2021718-stock-photo-plitvicka-jezera-national-park.jpg?forcejpeg=true' alt='Plitvicka jezera national park - the most beautiful part of Croatia' >
+    <a href='https://depositphotos.com/2021718/stock-photo-plitvicka-jezera-national-park.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/2021718/stock-photo-plitvicka-jezera-national-park.html?ref=64678756' src='https://static3.depositphotos.com/1005594/202/i/950/depositphotos_2021718-stock-photo-plitvicka-jezera-national-park.jpg?forcejpeg=true' alt='Plitvicka jezera national park - the most beautiful part of Croatia' >
     </a>
 </div>

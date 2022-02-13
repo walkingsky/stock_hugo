@@ -13,7 +13,7 @@ categories:
             <font size="60"> Elegant woman in pastel grey vintage dress holding tasty hot dog isolated on black</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/20363444/image/47556/475565358/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/20363444/image/47556/475565358/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/20363444/47556/i/950/depositphotos_475565358-stock-photo-elegant-woman-pastel-grey-vintage.jpg?forcejpeg=true' alt='Elegant woman in pastel grey vintage dress holding tasty hot dog isolated on black' >
+    <a href='https://depositphotos.com/475565358/stock-photo-elegant-woman-pastel-grey-vintage.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/475565358/stock-photo-elegant-woman-pastel-grey-vintage.html?ref=64678756' src='https://st2.depositphotos.com/20363444/47556/i/950/depositphotos_475565358-stock-photo-elegant-woman-pastel-grey-vintage.jpg?forcejpeg=true' alt='Elegant woman in pastel grey vintage dress holding tasty hot dog isolated on black' >
     </a>
 </div>

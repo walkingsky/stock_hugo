@@ -13,7 +13,7 @@ categories:
             <font size="60"> Typical resort view at Koh Tao island Thailand</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/4695029/image/7029/70295071/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/4695029/image/7029/70295071/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/4695029/7029/i/950/depositphotos_70295071-stock-photo-typical-resort-view-at-koh.jpg?forcejpeg=true' alt='Typical resort view at Koh Tao island Thailand' >
+    <a href='https://depositphotos.com/70295071/stock-photo-typical-resort-view-at-koh.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/70295071/stock-photo-typical-resort-view-at-koh.html?ref=64678756' src='https://st2.depositphotos.com/4695029/7029/i/950/depositphotos_70295071-stock-photo-typical-resort-view-at-koh.jpg?forcejpeg=true' alt='Typical resort view at Koh Tao island Thailand' >
     </a>
 </div>

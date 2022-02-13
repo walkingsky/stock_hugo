@@ -13,7 +13,7 @@ categories:
             <font size="60"> Set of dancing astronauts collection. Comic book cartoon pop art retro vector illustration vintage kitsch</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/4323461/vector/19715/197151240/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/4323461/vector/19715/197151240/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/4323461/19715/v/950/depositphotos_197151240-stock-illustration-set-of-dancing-astronauts-collection.jpg?forcejpeg=true' alt='Set of dancing astronauts collection. Comic book cartoon pop art retro vector illustration vintage kitsch' >
+    <a href='https://depositphotos.com/197151240/stock-illustration-set-of-dancing-astronauts-collection.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/197151240/stock-illustration-set-of-dancing-astronauts-collection.html?ref=64678756' src='https://st4.depositphotos.com/4323461/19715/v/950/depositphotos_197151240-stock-illustration-set-of-dancing-astronauts-collection.jpg?forcejpeg=true' alt='Set of dancing astronauts collection. Comic book cartoon pop art retro vector illustration vintage kitsch' >
     </a>
 </div>

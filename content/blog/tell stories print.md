@@ -13,7 +13,7 @@ categories:
             <font size="60"> Those who tell the stories - ancient Greek philosopher Plato quote printed on grunge vintage cardboard</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1011183/image/6657/66578499/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1011183/image/6657/66578499/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1011183/6657/i/950/depositphotos_66578499-stock-photo-tell-stories-print.jpg?forcejpeg=true' alt='Those who tell the stories - ancient Greek philosopher Plato quote printed on grunge vintage cardboard' >
+    <a href='https://depositphotos.com/66578499/stock-photo-tell-stories-print.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/66578499/stock-photo-tell-stories-print.html?ref=64678756' src='https://st2.depositphotos.com/1011183/6657/i/950/depositphotos_66578499-stock-photo-tell-stories-print.jpg?forcejpeg=true' alt='Those who tell the stories - ancient Greek philosopher Plato quote printed on grunge vintage cardboard' >
     </a>
 </div>

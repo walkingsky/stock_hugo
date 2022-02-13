@@ -13,7 +13,7 @@ categories:
             <font size="60"> Quadrocopter isolated on white</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1559266/image/4117/41172409/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1559266/image/4117/41172409/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1559266/4117/i/950/depositphotos_41172409-stock-photo-quadrocopter.jpg?forcejpeg=true' alt='Quadrocopter isolated on white' >
+    <a href='https://depositphotos.com/41172409/stock-photo-quadrocopter.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/41172409/stock-photo-quadrocopter.html?ref=64678756' src='https://st.depositphotos.com/1559266/4117/i/950/depositphotos_41172409-stock-photo-quadrocopter.jpg?forcejpeg=true' alt='Quadrocopter isolated on white' >
     </a>
 </div>

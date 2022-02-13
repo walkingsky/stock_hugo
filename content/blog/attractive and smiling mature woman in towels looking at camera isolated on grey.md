@@ -13,7 +13,7 @@ categories:
             <font size="60"> Attractive and smiling mature woman in towels looking at camera isolated on grey</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12985790/image/25162/251621220/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12985790/image/25162/251621220/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12985790/25162/i/950/depositphotos_251621220-stock-photo-attractive-smiling-mature-woman-towels.jpg?forcejpeg=true' alt='Attractive and smiling mature woman in towels looking at camera isolated on grey' >
+    <a href='https://depositphotos.com/251621220/stock-photo-attractive-smiling-mature-woman-towels.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/251621220/stock-photo-attractive-smiling-mature-woman-towels.html?ref=64678756' src='https://st4.depositphotos.com/12985790/25162/i/950/depositphotos_251621220-stock-photo-attractive-smiling-mature-woman-towels.jpg?forcejpeg=true' alt='Attractive and smiling mature woman in towels looking at camera isolated on grey' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Raw pork ribs with butcher cleaver and spices on wooden board</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13324256/image/17769/177693250/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13324256/image/17769/177693250/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13324256/17769/i/950/depositphotos_177693250-stock-photo-raw-pork-ribs-butcher-cleaver.jpg?forcejpeg=true' alt='Raw pork ribs with butcher cleaver and spices on wooden board' >
+    <a href='https://depositphotos.com/177693250/stock-photo-raw-pork-ribs-butcher-cleaver.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/177693250/stock-photo-raw-pork-ribs-butcher-cleaver.html?ref=64678756' src='https://st3.depositphotos.com/13324256/17769/i/950/depositphotos_177693250-stock-photo-raw-pork-ribs-butcher-cleaver.jpg?forcejpeg=true' alt='Raw pork ribs with butcher cleaver and spices on wooden board' >
     </a>
 </div>

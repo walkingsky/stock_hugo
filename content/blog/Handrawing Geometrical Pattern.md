@@ -13,7 +13,7 @@ categories:
             <font size="60"> Handrawing Geometrical Pattern. Vector illustration</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/4502047/vector/8010/80109360/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/4502047/vector/8010/80109360/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/4502047/8010/v/950/depositphotos_80109360-stock-illustration-handrawing-geometrical-pattern.jpg?forcejpeg=true' alt='Handrawing Geometrical Pattern. Vector illustration' >
+    <a href='https://depositphotos.com/80109360/stock-illustration-handrawing-geometrical-pattern.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/80109360/stock-illustration-handrawing-geometrical-pattern.html?ref=64678756' src='https://st2.depositphotos.com/4502047/8010/v/950/depositphotos_80109360-stock-illustration-handrawing-geometrical-pattern.jpg?forcejpeg=true' alt='Handrawing Geometrical Pattern. Vector illustration' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Positive negative sign illustration design over a white background</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1014014/image/2259/22594111/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1014014/image/2259/22594111/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1014014/2259/i/950/depositphotos_22594111-stock-photo-positive-negative-sign.jpg?forcejpeg=true' alt='Positive negative sign illustration design over a white background' >
+    <a href='https://depositphotos.com/22594111/stock-photo-positive-negative-sign.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/22594111/stock-photo-positive-negative-sign.html?ref=64678756' src='https://st.depositphotos.com/1014014/2259/i/950/depositphotos_22594111-stock-photo-positive-negative-sign.jpg?forcejpeg=true' alt='Positive negative sign illustration design over a white background' >
     </a>
 </div>

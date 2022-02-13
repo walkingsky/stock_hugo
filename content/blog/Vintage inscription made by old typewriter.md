@@ -13,7 +13,7 @@ categories:
             <font size="60"> Vintage inscription made by old typewriter, what"s your story?</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1475009/image/4601/46011781/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1475009/image/4601/46011781/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1475009/4601/i/950/depositphotos_46011781-stock-photo-vintage-inscription-made-by-old.jpg?forcejpeg=true' alt='Vintage inscription made by old typewriter, what"s your story?' >
+    <a href='https://depositphotos.com/46011781/stock-photo-vintage-inscription-made-by-old.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/46011781/stock-photo-vintage-inscription-made-by-old.html?ref=64678756' src='https://st.depositphotos.com/1475009/4601/i/950/depositphotos_46011781-stock-photo-vintage-inscription-made-by-old.jpg?forcejpeg=true' alt='Vintage inscription made by old typewriter, what"s your story?' >
     </a>
 </div>

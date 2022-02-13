@@ -13,7 +13,7 @@ categories:
             <font size="60"> Image of White Office Desk with Computer Keyboard Mouse Color Pencils Booklets Glasses and other Supplies Top View</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/4107269/image/8878/88783072/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/4107269/image/8878/88783072/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/4107269/8878/i/950/depositphotos_88783072-stock-photo-office-white-table-with-computer.jpg?forcejpeg=true' alt='Image of White Office Desk with Computer Keyboard Mouse Color Pencils Booklets Glasses and other Supplies Top View' >
+    <a href='https://depositphotos.com/88783072/stock-photo-office-white-table-with-computer.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/88783072/stock-photo-office-white-table-with-computer.html?ref=64678756' src='https://st2.depositphotos.com/4107269/8878/i/950/depositphotos_88783072-stock-photo-office-white-table-with-computer.jpg?forcejpeg=true' alt='Image of White Office Desk with Computer Keyboard Mouse Color Pencils Booklets Glasses and other Supplies Top View' >
     </a>
 </div>

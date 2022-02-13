@@ -13,7 +13,7 @@ categories:
             <font size="60"> Smart city isometric concept icons set with clean city symbols isolated vector illustration</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/2885805/vector/21977/219779328/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/2885805/vector/21977/219779328/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/2885805/21977/v/950/depositphotos_219779328-stock-illustration-smart-city-concept-icons-set.jpg?forcejpeg=true' alt='Smart city isometric concept icons set with clean city symbols isolated vector illustration' >
+    <a href='https://depositphotos.com/219779328/stock-illustration-smart-city-concept-icons-set.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/219779328/stock-illustration-smart-city-concept-icons-set.html?ref=64678756' src='https://st4.depositphotos.com/2885805/21977/v/950/depositphotos_219779328-stock-illustration-smart-city-concept-icons-set.jpg?forcejpeg=true' alt='Smart city isometric concept icons set with clean city symbols isolated vector illustration' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Office blur background with wooden desk and modern chair</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/4392653/image/6596/65960955/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/4392653/image/6596/65960955/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/4392653/6596/i/950/depositphotos_65960955-stock-photo-office-blur-background-with-wooden.jpg?forcejpeg=true' alt='Office blur background with wooden desk and modern chair' >
+    <a href='https://depositphotos.com/65960955/stock-photo-office-blur-background-with-wooden.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/65960955/stock-photo-office-blur-background-with-wooden.html?ref=64678756' src='https://st2.depositphotos.com/4392653/6596/i/950/depositphotos_65960955-stock-photo-office-blur-background-with-wooden.jpg?forcejpeg=true' alt='Office blur background with wooden desk and modern chair' >
     </a>
 </div>

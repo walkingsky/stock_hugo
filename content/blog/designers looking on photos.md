@@ -13,7 +13,7 @@ categories:
             <font size="60"> Female and male designers looking on photos in modern office with computer</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12985790/image/16650/166507784/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12985790/image/16650/166507784/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12985790/16650/i/950/depositphotos_166507784-stock-photo-designers-looking-on-photos.jpg?forcejpeg=true' alt='Female and male designers looking on photos in modern office with computer' >
+    <a href='https://depositphotos.com/166507784/stock-photo-designers-looking-on-photos.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/166507784/stock-photo-designers-looking-on-photos.html?ref=64678756' src='https://st3.depositphotos.com/12985790/16650/i/950/depositphotos_166507784-stock-photo-designers-looking-on-photos.jpg?forcejpeg=true' alt='Female and male designers looking on photos in modern office with computer' >
     </a>
 </div>

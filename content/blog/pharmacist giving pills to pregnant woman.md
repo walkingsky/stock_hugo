@@ -13,7 +13,7 @@ categories:
             <font size="60"> Smiling female pharmacist giving pills to pregnant woman in drugstore</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12039320/image/16972/169727696/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12039320/image/16972/169727696/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12039320/16972/i/950/depositphotos_169727696-stock-photo-pharmacist-giving-pills-to-pregnant.jpg?forcejpeg=true' alt='Smiling female pharmacist giving pills to pregnant woman in drugstore' >
+    <a href='https://depositphotos.com/169727696/stock-photo-pharmacist-giving-pills-to-pregnant.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/169727696/stock-photo-pharmacist-giving-pills-to-pregnant.html?ref=64678756' src='https://st3.depositphotos.com/12039320/16972/i/950/depositphotos_169727696-stock-photo-pharmacist-giving-pills-to-pregnant.jpg?forcejpeg=true' alt='Smiling female pharmacist giving pills to pregnant woman in drugstore' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Portrait of elegant stylish girl posing in red jacket, isolated on red</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12071432/image/17350/173509868/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12071432/image/17350/173509868/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12071432/17350/i/950/depositphotos_173509868-stock-photo-elegant-girl-posing-in-red.jpg?forcejpeg=true' alt='Portrait of elegant stylish girl posing in red jacket, isolated on red' >
+    <a href='https://depositphotos.com/173509868/stock-photo-elegant-girl-posing-in-red.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/173509868/stock-photo-elegant-girl-posing-in-red.html?ref=64678756' src='https://st3.depositphotos.com/12071432/17350/i/950/depositphotos_173509868-stock-photo-elegant-girl-posing-in-red.jpg?forcejpeg=true' alt='Portrait of elegant stylish girl posing in red jacket, isolated on red' >
     </a>
 </div>

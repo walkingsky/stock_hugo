@@ -13,7 +13,7 @@ categories:
             <font size="60"> Abstract oil texture colored with yellow and blue paint</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13324256/image/19090/190903950/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13324256/image/19090/190903950/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13324256/19090/i/950/depositphotos_190903950-stock-photo-abstract-oil-texture-colored-yellow.jpg?forcejpeg=true' alt='Abstract oil texture colored with yellow and blue paint' >
+    <a href='https://depositphotos.com/190903950/stock-photo-abstract-oil-texture-colored-yellow.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/190903950/stock-photo-abstract-oil-texture-colored-yellow.html?ref=64678756' src='https://st3.depositphotos.com/13324256/19090/i/950/depositphotos_190903950-stock-photo-abstract-oil-texture-colored-yellow.jpg?forcejpeg=true' alt='Abstract oil texture colored with yellow and blue paint' >
     </a>
 </div>

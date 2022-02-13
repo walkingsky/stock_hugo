@@ -13,7 +13,7 @@ categories:
             <font size="60"> Summer vacation background with headphones, flip flops, denim trousers, ticket, passport with copy space</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12039412/image/15237/152378914/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12039412/image/15237/152378914/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12039412/15237/i/950/depositphotos_152378914-stock-photo-summer-vacation-background.jpg?forcejpeg=true' alt='Summer vacation background with headphones, flip flops, denim trousers, ticket, passport with copy space' >
+    <a href='https://depositphotos.com/152378914/stock-photo-summer-vacation-background.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/152378914/stock-photo-summer-vacation-background.html?ref=64678756' src='https://st3.depositphotos.com/12039412/15237/i/950/depositphotos_152378914-stock-photo-summer-vacation-background.jpg?forcejpeg=true' alt='Summer vacation background with headphones, flip flops, denim trousers, ticket, passport with copy space' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Selective focus of african american businessman using laptop near papers and smartphone on table in office</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13193658/image/36654/366548498/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13193658/image/36654/366548498/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13193658/36654/i/950/depositphotos_366548498-stock-photo-selective-focus-african-american-businessman.jpg?forcejpeg=true' alt='Selective focus of african american businessman using laptop near papers and smartphone on table in office' >
+    <a href='https://depositphotos.com/366548498/stock-photo-selective-focus-african-american-businessman.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/366548498/stock-photo-selective-focus-african-american-businessman.html?ref=64678756' src='https://st3.depositphotos.com/13193658/36654/i/950/depositphotos_366548498-stock-photo-selective-focus-african-american-businessman.jpg?forcejpeg=true' alt='Selective focus of african american businessman using laptop near papers and smartphone on table in office' >
     </a>
 </div>

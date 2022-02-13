@@ -13,7 +13,7 @@ categories:
             <font size="60"> Colored paints splashes circle, isolated on white background</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1105977/image/1271/12714900/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1105977/image/1271/12714900/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1105977/1271/i/950/depositphotos_12714900-stock-photo-colored-splashes.jpg?forcejpeg=true' alt='Colored paints splashes circle, isolated on white background' >
+    <a href='https://depositphotos.com/12714900/stock-photo-colored-splashes.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/12714900/stock-photo-colored-splashes.html?ref=64678756' src='https://st.depositphotos.com/1105977/1271/i/950/depositphotos_12714900-stock-photo-colored-splashes.jpg?forcejpeg=true' alt='Colored paints splashes circle, isolated on white background' >
     </a>
 </div>

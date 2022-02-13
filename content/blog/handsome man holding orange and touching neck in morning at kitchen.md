@@ -13,7 +13,7 @@ categories:
             <font size="60"> Handsome man holding orange and touching neck in morning at kitchen</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12982378/image/22860/228600998/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12982378/image/22860/228600998/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12982378/22860/i/950/depositphotos_228600998-stock-photo-handsome-man-holding-orange-touching.jpg?forcejpeg=true' alt='Handsome man holding orange and touching neck in morning at kitchen' >
+    <a href='https://depositphotos.com/228600998/stock-photo-handsome-man-holding-orange-touching.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/228600998/stock-photo-handsome-man-holding-orange-touching.html?ref=64678756' src='https://st4.depositphotos.com/12982378/22860/i/950/depositphotos_228600998-stock-photo-handsome-man-holding-orange-touching.jpg?forcejpeg=true' alt='Handsome man holding orange and touching neck in morning at kitchen' >
     </a>
 </div>

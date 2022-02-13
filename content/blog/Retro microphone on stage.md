@@ -13,7 +13,7 @@ categories:
             <font size="60"> Retro microphone on stage in restaurant. Blurred background</font>   
 </div>
 <div>
-    <a href='https://static8.depositphotos.com/thumbs/1044234/image/879/8790321/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static8.depositphotos.com/thumbs/1044234/image/879/8790321/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static8.depositphotos.com/1044234/879/i/950/depositphotos_8790321-stock-photo-retro-microphone-on-stage.jpg?forcejpeg=true' alt='Retro microphone on stage in restaurant. Blurred background' >
+    <a href='https://depositphotos.com/8790321/stock-photo-retro-microphone-on-stage.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/8790321/stock-photo-retro-microphone-on-stage.html?ref=64678756' src='https://static8.depositphotos.com/1044234/879/i/950/depositphotos_8790321-stock-photo-retro-microphone-on-stage.jpg?forcejpeg=true' alt='Retro microphone on stage in restaurant. Blurred background' >
     </a>
 </div>

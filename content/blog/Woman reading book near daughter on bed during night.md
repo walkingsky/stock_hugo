@@ -13,7 +13,7 @@ categories:
             <font size="60"> Woman reading book near daughter on bed during night</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/13185108/image/46853/468530742/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/13185108/image/46853/468530742/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/13185108/46853/i/950/depositphotos_468530742-stock-photo-woman-reading-book-daughter-bed.jpg?forcejpeg=true' alt='Woman reading book near daughter on bed during night' >
+    <a href='https://depositphotos.com/468530742/stock-photo-woman-reading-book-daughter-bed.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/468530742/stock-photo-woman-reading-book-daughter-bed.html?ref=64678756' src='https://st2.depositphotos.com/13185108/46853/i/950/depositphotos_468530742-stock-photo-woman-reading-book-daughter-bed.jpg?forcejpeg=true' alt='Woman reading book near daughter on bed during night' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Businessman having a vegetables salad for lunch, healthy eating and lifestyle concept, unrecognizable person</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/3889193/image/7829/78293012/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/3889193/image/7829/78293012/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/3889193/7829/i/950/depositphotos_78293012-stock-photo-healthy-vegetarian-meal.jpg?forcejpeg=true' alt='Businessman having a vegetables salad for lunch, healthy eating and lifestyle concept, unrecognizable person' >
+    <a href='https://depositphotos.com/78293012/stock-photo-healthy-vegetarian-meal.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/78293012/stock-photo-healthy-vegetarian-meal.html?ref=64678756' src='https://st2.depositphotos.com/3889193/7829/i/950/depositphotos_78293012-stock-photo-healthy-vegetarian-meal.jpg?forcejpeg=true' alt='Businessman having a vegetables salad for lunch, healthy eating and lifestyle concept, unrecognizable person' >
     </a>
 </div>

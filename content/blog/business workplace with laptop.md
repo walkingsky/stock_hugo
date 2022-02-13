@@ -13,7 +13,7 @@ categories:
             <font size="60"> Business workplace with laptop and business colleagues in office</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12548352/image/16212/162123162/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12548352/image/16212/162123162/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12548352/16212/i/950/depositphotos_162123162-stock-photo-business-workplace-with-laptop.jpg?forcejpeg=true' alt='Business workplace with laptop and business colleagues in office' >
+    <a href='https://depositphotos.com/162123162/stock-photo-business-workplace-with-laptop.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/162123162/stock-photo-business-workplace-with-laptop.html?ref=64678756' src='https://st3.depositphotos.com/12548352/16212/i/950/depositphotos_162123162-stock-photo-business-workplace-with-laptop.jpg?forcejpeg=true' alt='Business workplace with laptop and business colleagues in office' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Selective focus of handsome designer looking at camera by laptop and mobile web sketches on table</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13194036/image/32811/328113620/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13194036/image/32811/328113620/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13194036/32811/i/950/depositphotos_328113620-stock-photo-selective-focus-handsome-designer-looking.jpg?forcejpeg=true' alt='Selective focus of handsome designer looking at camera by laptop and mobile web sketches on table' >
+    <a href='https://depositphotos.com/328113620/stock-photo-selective-focus-handsome-designer-looking.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/328113620/stock-photo-selective-focus-handsome-designer-looking.html?ref=64678756' src='https://st3.depositphotos.com/13194036/32811/i/950/depositphotos_328113620-stock-photo-selective-focus-handsome-designer-looking.jpg?forcejpeg=true' alt='Selective focus of handsome designer looking at camera by laptop and mobile web sketches on table' >
     </a>
 </div>

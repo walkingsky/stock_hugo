@@ -13,7 +13,7 @@ categories:
             <font size="60"> One tablet pc with a project manager app and documents with gantt and financial charts (3d render)</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1029541/image/2146/21468767/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1029541/image/2146/21468767/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1029541/2146/i/950/depositphotos_21468767-stock-photo-project-management.jpg?forcejpeg=true' alt='One tablet pc with a project manager app and documents with gantt and financial charts (3d render)' >
+    <a href='https://depositphotos.com/21468767/stock-photo-project-management.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/21468767/stock-photo-project-management.html?ref=64678756' src='https://st.depositphotos.com/1029541/2146/i/950/depositphotos_21468767-stock-photo-project-management.jpg?forcejpeg=true' alt='One tablet pc with a project manager app and documents with gantt and financial charts (3d render)' >
     </a>
 </div>

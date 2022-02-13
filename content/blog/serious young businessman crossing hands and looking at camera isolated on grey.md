@@ -13,7 +13,7 @@ categories:
             <font size="60"> Serious young businessman crossing hands and looking at camera isolated on grey</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12982378/image/17887/178874308/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12982378/image/17887/178874308/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12982378/17887/i/950/depositphotos_178874308-stock-photo-serious-young-businessman-crossing-hands.jpg?forcejpeg=true' alt='Serious young businessman crossing hands and looking at camera isolated on grey' >
+    <a href='https://depositphotos.com/178874308/stock-photo-serious-young-businessman-crossing-hands.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/178874308/stock-photo-serious-young-businessman-crossing-hands.html?ref=64678756' src='https://st3.depositphotos.com/12982378/17887/i/950/depositphotos_178874308-stock-photo-serious-young-businessman-crossing-hands.jpg?forcejpeg=true' alt='Serious young businessman crossing hands and looking at camera isolated on grey' >
     </a>
 </div>

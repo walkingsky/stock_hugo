@@ -13,7 +13,7 @@ categories:
             <font size="60"> Stylish open plan kitchen and dining room interior with white cupboard and long table with grey tablecloth and food</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/2249091/image/25053/250536614/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/2249091/image/25053/250536614/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/2249091/25053/i/950/depositphotos_250536614-stock-photo-stylish-open-plan-kitchen-and.jpg?forcejpeg=true' alt='Stylish open plan kitchen and dining room interior with white cupboard and long table with grey tablecloth and food' >
+    <a href='https://depositphotos.com/250536614/stock-photo-stylish-open-plan-kitchen-and.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/250536614/stock-photo-stylish-open-plan-kitchen-and.html?ref=64678756' src='https://st4.depositphotos.com/2249091/25053/i/950/depositphotos_250536614-stock-photo-stylish-open-plan-kitchen-and.jpg?forcejpeg=true' alt='Stylish open plan kitchen and dining room interior with white cupboard and long table with grey tablecloth and food' >
     </a>
 </div>

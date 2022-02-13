@@ -13,7 +13,7 @@ categories:
             <font size="60"> Set of aerial drone footage emblems and icons</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1814083/vector/6814/68142457/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1814083/vector/6814/68142457/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1814083/6814/v/950/depositphotos_68142457-stock-illustration-set-of-aerial-drone-footage.jpg?forcejpeg=true' alt='Set of aerial drone footage emblems and icons' >
+    <a href='https://depositphotos.com/68142457/stock-illustration-set-of-aerial-drone-footage.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/68142457/stock-illustration-set-of-aerial-drone-footage.html?ref=64678756' src='https://st2.depositphotos.com/1814083/6814/v/950/depositphotos_68142457-stock-illustration-set-of-aerial-drone-footage.jpg?forcejpeg=true' alt='Set of aerial drone footage emblems and icons' >
     </a>
 </div>

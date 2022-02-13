@@ -13,7 +13,7 @@ categories:
             <font size="60"> Group Young Coworkers Team Making Excellent Business Decisions.Creative People Discussion Corporate Work Concept Modern Office.New Startup Marketing Idea Presentation.Woman Touching Laptop.Flares</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/2251265/image/12250/122506612/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/2251265/image/12250/122506612/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/2251265/12250/i/950/depositphotos_122506612-stock-photo-coworkers-making-business-decisions.jpg?forcejpeg=true' alt='Group Young Coworkers Team Making Excellent Business Decisions.Creative People Discussion Corporate Work Concept Modern Office.New Startup Marketing Idea Presentation.Woman Touching Laptop.Flares' >
+    <a href='https://depositphotos.com/122506612/stock-photo-coworkers-making-business-decisions.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/122506612/stock-photo-coworkers-making-business-decisions.html?ref=64678756' src='https://st2.depositphotos.com/2251265/12250/i/950/depositphotos_122506612-stock-photo-coworkers-making-business-decisions.jpg?forcejpeg=true' alt='Group Young Coworkers Team Making Excellent Business Decisions.Creative People Discussion Corporate Work Concept Modern Office.New Startup Marketing Idea Presentation.Woman Touching Laptop.Flares' >
     </a>
 </div>

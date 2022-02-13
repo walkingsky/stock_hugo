@@ -13,7 +13,7 @@ categories:
             <font size="60"> Cartoon Illustration of Color Blue and Cat</font>   
 </div>
 <div>
-    <a href='https://static9.depositphotos.com/thumbs/1024768/vector/1133/11339678/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static9.depositphotos.com/thumbs/1024768/vector/1133/11339678/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static9.depositphotos.com/1024768/1133/v/950/depositphotos_11339678-stock-illustration-color-blue-and-cat-cartoon.jpg?forcejpeg=true' alt='Cartoon Illustration of Color Blue and Cat' >
+    <a href='https://depositphotos.com/11339678/stock-illustration-color-blue-and-cat-cartoon.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/11339678/stock-illustration-color-blue-and-cat-cartoon.html?ref=64678756' src='https://static9.depositphotos.com/1024768/1133/v/950/depositphotos_11339678-stock-illustration-color-blue-and-cat-cartoon.jpg?forcejpeg=true' alt='Cartoon Illustration of Color Blue and Cat' >
     </a>
 </div>

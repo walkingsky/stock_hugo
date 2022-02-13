@@ -13,7 +13,7 @@ categories:
             <font size="60"> Drone with camera flying in the clouds, Rio de Janeiro-Brazil</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1172243/image/6162/61623489/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1172243/image/6162/61623489/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1172243/6162/i/950/depositphotos_61623489-stock-photo-drone-flying-in-the-clouds.jpg?forcejpeg=true' alt='Drone with camera flying in the clouds, Rio de Janeiro-Brazil' >
+    <a href='https://depositphotos.com/61623489/stock-photo-drone-flying-in-the-clouds.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/61623489/stock-photo-drone-flying-in-the-clouds.html?ref=64678756' src='https://st2.depositphotos.com/1172243/6162/i/950/depositphotos_61623489-stock-photo-drone-flying-in-the-clouds.jpg?forcejpeg=true' alt='Drone with camera flying in the clouds, Rio de Janeiro-Brazil' >
     </a>
 </div>

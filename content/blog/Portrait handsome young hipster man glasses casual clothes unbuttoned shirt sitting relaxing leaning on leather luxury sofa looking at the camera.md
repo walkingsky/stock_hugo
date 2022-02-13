@@ -13,7 +13,7 @@ categories:
             <font size="60"> Portrait handsome young hipster man glasses casual clothes unbuttoned shirt sitting relaxing leaning on leather luxury sofa looking at the camera</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/2171279/image/6823/68232451/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/2171279/image/6823/68232451/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/2171279/6823/i/950/depositphotos_68232451-stock-photo-portrait-handsome-young-hipster-man.jpg?forcejpeg=true' alt='Portrait handsome young hipster man glasses casual clothes unbuttoned shirt sitting relaxing leaning on leather luxury sofa looking at the camera' >
+    <a href='https://depositphotos.com/68232451/stock-photo-portrait-handsome-young-hipster-man.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/68232451/stock-photo-portrait-handsome-young-hipster-man.html?ref=64678756' src='https://st2.depositphotos.com/2171279/6823/i/950/depositphotos_68232451-stock-photo-portrait-handsome-young-hipster-man.jpg?forcejpeg=true' alt='Portrait handsome young hipster man glasses casual clothes unbuttoned shirt sitting relaxing leaning on leather luxury sofa looking at the camera' >
     </a>
 </div>

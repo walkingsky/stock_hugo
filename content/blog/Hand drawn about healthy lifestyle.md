@@ -13,7 +13,7 @@ categories:
             <font size="60"> Hand drawn about healthy lifestyle on bright background.. Sketches for use in design</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1810600/vector/7666/76665733/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1810600/vector/7666/76665733/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1810600/7666/v/950/depositphotos_76665733-stock-illustration-hand-drawn-about-healthy-lifestyle.jpg?forcejpeg=true' alt='Hand drawn about healthy lifestyle on bright background.. Sketches for use in design' >
+    <a href='https://depositphotos.com/76665733/stock-illustration-hand-drawn-about-healthy-lifestyle.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/76665733/stock-illustration-hand-drawn-about-healthy-lifestyle.html?ref=64678756' src='https://st2.depositphotos.com/1810600/7666/v/950/depositphotos_76665733-stock-illustration-hand-drawn-about-healthy-lifestyle.jpg?forcejpeg=true' alt='Hand drawn about healthy lifestyle on bright background.. Sketches for use in design' >
     </a>
 </div>

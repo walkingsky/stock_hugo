@@ -13,7 +13,7 @@ categories:
             <font size="60"> Mother and daughter in colorful red and yellow outfits playing on grey background, panoramic shot</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/20363444/image/40886/408860392/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/20363444/image/40886/408860392/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/20363444/40886/i/950/depositphotos_408860392-stock-photo-mother-daughter-colorful-red-yellow.jpg?forcejpeg=true' alt='Mother and daughter in colorful red and yellow outfits playing on grey background, panoramic shot' >
+    <a href='https://depositphotos.com/408860392/stock-photo-mother-daughter-colorful-red-yellow.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/408860392/stock-photo-mother-daughter-colorful-red-yellow.html?ref=64678756' src='https://st4.depositphotos.com/20363444/40886/i/950/depositphotos_408860392-stock-photo-mother-daughter-colorful-red-yellow.jpg?forcejpeg=true' alt='Mother and daughter in colorful red and yellow outfits playing on grey background, panoramic shot' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Greeting card cute Cartoon Girl is holding a placard on a stars background</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/4207741/vector/12652/126523326/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/4207741/vector/12652/126523326/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/4207741/12652/v/950/depositphotos_126523326-stock-illustration-greeting-card-cute-cartoon-girl.jpg?forcejpeg=true' alt='Greeting card cute Cartoon Girl is holding a placard on a stars background' >
+    <a href='https://depositphotos.com/126523326/stock-illustration-greeting-card-cute-cartoon-girl.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/126523326/stock-illustration-greeting-card-cute-cartoon-girl.html?ref=64678756' src='https://st3.depositphotos.com/4207741/12652/v/950/depositphotos_126523326-stock-illustration-greeting-card-cute-cartoon-girl.jpg?forcejpeg=true' alt='Greeting card cute Cartoon Girl is holding a placard on a stars background' >
     </a>
 </div>

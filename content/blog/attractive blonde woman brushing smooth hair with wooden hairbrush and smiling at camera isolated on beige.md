@@ -13,7 +13,7 @@ categories:
             <font size="60"> Attractive blonde woman brushing smooth hair with wooden hairbrush and smiling at camera isolated on beige</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12985790/image/23761/237613562/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12985790/image/23761/237613562/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12985790/23761/i/950/depositphotos_237613562-stock-photo-attractive-blonde-woman-brushing-smooth.jpg?forcejpeg=true' alt='Attractive blonde woman brushing smooth hair with wooden hairbrush and smiling at camera isolated on beige' >
+    <a href='https://depositphotos.com/237613562/stock-photo-attractive-blonde-woman-brushing-smooth.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/237613562/stock-photo-attractive-blonde-woman-brushing-smooth.html?ref=64678756' src='https://st4.depositphotos.com/12985790/23761/i/950/depositphotos_237613562-stock-photo-attractive-blonde-woman-brushing-smooth.jpg?forcejpeg=true' alt='Attractive blonde woman brushing smooth hair with wooden hairbrush and smiling at camera isolated on beige' >
     </a>
 </div>

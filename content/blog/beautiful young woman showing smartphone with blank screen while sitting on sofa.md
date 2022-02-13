@@ -13,7 +13,7 @@ categories:
             <font size="60"> Beautiful young woman showing smartphone with blank screen while sitting on sofa</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/17484154/image/37301/373012926/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/17484154/image/37301/373012926/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/17484154/37301/i/950/depositphotos_373012926-stock-photo-beautiful-young-woman-showing-smartphone.jpg?forcejpeg=true' alt='Beautiful young woman showing smartphone with blank screen while sitting on sofa' >
+    <a href='https://depositphotos.com/373012926/stock-photo-beautiful-young-woman-showing-smartphone.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/373012926/stock-photo-beautiful-young-woman-showing-smartphone.html?ref=64678756' src='https://st3.depositphotos.com/17484154/37301/i/950/depositphotos_373012926-stock-photo-beautiful-young-woman-showing-smartphone.jpg?forcejpeg=true' alt='Beautiful young woman showing smartphone with blank screen while sitting on sofa' >
     </a>
 </div>

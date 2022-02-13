@@ -13,7 +13,7 @@ categories:
             <font size="60"> Blurred Modern Living Room with Television applying Retro Instagram Style Filter</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1533202/image/6935/69357599/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1533202/image/6935/69357599/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1533202/6935/i/950/depositphotos_69357599-stock-photo-blurred-living-room.jpg?forcejpeg=true' alt='Blurred Modern Living Room with Television applying Retro Instagram Style Filter' >
+    <a href='https://depositphotos.com/69357599/stock-photo-blurred-living-room.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/69357599/stock-photo-blurred-living-room.html?ref=64678756' src='https://st2.depositphotos.com/1533202/6935/i/950/depositphotos_69357599-stock-photo-blurred-living-room.jpg?forcejpeg=true' alt='Blurred Modern Living Room with Television applying Retro Instagram Style Filter' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Healthy lifestyle concept - vegetable bike</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1660108/image/1927/19276675/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1660108/image/1927/19276675/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1660108/1927/i/950/depositphotos_19276675-stock-photo-healthy-lifestyle-concept-vegetable-bike.jpg?forcejpeg=true' alt='Healthy lifestyle concept - vegetable bike' >
+    <a href='https://depositphotos.com/19276675/stock-photo-healthy-lifestyle-concept-vegetable-bike.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/19276675/stock-photo-healthy-lifestyle-concept-vegetable-bike.html?ref=64678756' src='https://st.depositphotos.com/1660108/1927/i/950/depositphotos_19276675-stock-photo-healthy-lifestyle-concept-vegetable-bike.jpg?forcejpeg=true' alt='Healthy lifestyle concept - vegetable bike' >
     </a>
 </div>

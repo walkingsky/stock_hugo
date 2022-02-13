@@ -13,7 +13,7 @@ categories:
             <font size="60"> High angle view of laptop with headphones, eyeglasses and cup of coffee on carpet in empty room</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12982378/image/15835/158350294/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12982378/image/15835/158350294/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12982378/15835/i/950/depositphotos_158350294-stock-photo-digital-devices-in-empty-room.jpg?forcejpeg=true' alt='High angle view of laptop with headphones, eyeglasses and cup of coffee on carpet in empty room' >
+    <a href='https://depositphotos.com/158350294/stock-photo-digital-devices-in-empty-room.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/158350294/stock-photo-digital-devices-in-empty-room.html?ref=64678756' src='https://st3.depositphotos.com/12982378/15835/i/950/depositphotos_158350294-stock-photo-digital-devices-in-empty-room.jpg?forcejpeg=true' alt='High angle view of laptop with headphones, eyeglasses and cup of coffee on carpet in empty room' >
     </a>
 </div>

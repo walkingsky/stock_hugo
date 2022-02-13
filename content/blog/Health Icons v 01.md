@@ -1,19 +1,19 @@
 ---
 title: 'Health Icons v.01'
-date: 2013-05-14T07:59:05+00:00
+date: 2013-05-05T21:09:16+00:00
 author: zagandesign
 author_url: https://depositphotos.com/portfolio-1979329.html?ref=64678756
-image: https://st.depositphotos.com/thumbs/1979329/vector/2524/25249059/api_thumb_450.jpg?forcejpeg=true
+image: https://st.depositphotos.com/thumbs/1979329/vector/2473/24730925/api_thumb_450.jpg?forcejpeg=true
 type: "post"
-tags: ['pool' ,'sport' ,'set' ,'beauty' ,'water' ,'health' ,'diet' ,'medical' ,'grunge' ,'grungy' ,'old' ,'retro' ,'rusty' ,'vintage' ,'symbol' ,'icon' ,'heart' ,'pc' ,'measure' ,'balance' ,'bottle' ,'spa' ,'fitness' ,'gym' ,'exercise' ,'tablet' ,'run' ,'icons' ,'soccer' ,'swimming' ,'meter' ,'squash' ,'barbell' ,'muscle' ,'massage' ,'pictorial' ,'tennis' ,'hydrate' ,'programme' ,'towels' ,'tumbling' ,'50s' ,'brine' ,'fifties' ,'piscine' ,'icon set' ,'health icons' ,'gym icons' ]
+tags: ['pool' ,'sport' ,'vector' ,'beauty' ,'relaxation' ,'water' ,'health' ,'diet' ,'solar' ,'medical' ,'symbol' ,'icon' ,'stickers' ,'heart' ,'pc' ,'measure' ,'balance' ,'weight' ,'bottle' ,'spa' ,'fitness' ,'gym' ,'exercise' ,'sportsman' ,'tablet' ,'run' ,'icons' ,'soccer' ,'swimming' ,'running' ,'meter' ,'squash' ,'barbell' ,'muscle' ,'tan' ,'series' ,'massage' ,'yoga' ,'pictorial' ,'tennis' ,'hydrate' ,'and' ,'sticker' ,'Joga' ,'towels' ,'tumbling' ,'brine' ,'piscine' ,'icon set' ,'jumping rope' ]
 categories: 
-  - retro
+  - health
 ---
 <div aling="center">
-            <font size="60"> Health icon set, vintage collection series</font>   
+            <font size="60"> Health icon set, sticker series</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1979329/vector/2524/25249059/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1979329/vector/2524/25249059/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1979329/2524/v/950/depositphotos_25249059-stock-illustration-health-icons-v-01.jpg?forcejpeg=true' alt='Health icon set, vintage collection series' >
+    <a href='https://depositphotos.com/24730925/stock-illustration-health-icons-v-01.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/24730925/stock-illustration-health-icons-v-01.html?ref=64678756' src='https://st.depositphotos.com/1979329/2473/v/950/depositphotos_24730925-stock-illustration-health-icons-v-01.jpg?forcejpeg=true' alt='Health icon set, sticker series' >
     </a>
 </div>

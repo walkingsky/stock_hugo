@@ -13,7 +13,7 @@ categories:
             <font size="60"> Floral frame of rose flowers and eucalyptus branches on white background. Flat lay, top view festive flowers mockup with copy space.</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/7595566/image/18944/189442300/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/7595566/image/18944/189442300/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/7595566/18944/i/950/depositphotos_189442300-stock-photo-floral-frame-rose-flowers-eucalyptus.jpg?forcejpeg=true' alt='Floral frame of rose flowers and eucalyptus branches on white background. Flat lay, top view festive flowers mockup with copy space.' >
+    <a href='https://depositphotos.com/189442300/stock-photo-floral-frame-rose-flowers-eucalyptus.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/189442300/stock-photo-floral-frame-rose-flowers-eucalyptus.html?ref=64678756' src='https://st3.depositphotos.com/7595566/18944/i/950/depositphotos_189442300-stock-photo-floral-frame-rose-flowers-eucalyptus.jpg?forcejpeg=true' alt='Floral frame of rose flowers and eucalyptus branches on white background. Flat lay, top view festive flowers mockup with copy space.' >
     </a>
 </div>

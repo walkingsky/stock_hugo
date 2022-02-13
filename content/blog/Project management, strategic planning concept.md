@@ -13,7 +13,7 @@ categories:
             <font size="60"> Concept of social media network, project management, strategic planning, online education and e-learning, healthcare, mobile marketing and web analytics elements.</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/3991093/vector/6631/66313999/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/3991093/vector/6631/66313999/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/3991093/6631/v/950/depositphotos_66313999-stock-illustration-project-management-strategic-planning-concept.jpg?forcejpeg=true' alt='Concept of social media network, project management, strategic planning, online education and e-learning, healthcare, mobile marketing and web analytics elements.' >
+    <a href='https://depositphotos.com/66313999/stock-illustration-project-management-strategic-planning-concept.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/66313999/stock-illustration-project-management-strategic-planning-concept.html?ref=64678756' src='https://st2.depositphotos.com/3991093/6631/v/950/depositphotos_66313999-stock-illustration-project-management-strategic-planning-concept.jpg?forcejpeg=true' alt='Concept of social media network, project management, strategic planning, online education and e-learning, healthcare, mobile marketing and web analytics elements.' >
     </a>
 </div>

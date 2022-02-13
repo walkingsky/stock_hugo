@@ -13,7 +13,7 @@ categories:
             <font size="60"> Brunette woman lying by her husband in bedroom</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12985790/image/18891/188911760/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12985790/image/18891/188911760/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12985790/18891/i/950/depositphotos_188911760-stock-photo-brunette-woman-lying-her-husband.jpg?forcejpeg=true' alt='Brunette woman lying by her husband in bedroom' >
+    <a href='https://depositphotos.com/188911760/stock-photo-brunette-woman-lying-her-husband.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/188911760/stock-photo-brunette-woman-lying-her-husband.html?ref=64678756' src='https://st3.depositphotos.com/12985790/18891/i/950/depositphotos_188911760-stock-photo-brunette-woman-lying-her-husband.jpg?forcejpeg=true' alt='Brunette woman lying by her husband in bedroom' >
     </a>
 </div>

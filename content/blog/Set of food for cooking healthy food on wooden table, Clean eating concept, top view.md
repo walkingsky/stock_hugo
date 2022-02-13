@@ -13,7 +13,7 @@ categories:
             <font size="60"> Set of food for cooking healthy food on wooden table, Clean eating concept, top view</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/4516737/image/20041/200417174/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/4516737/image/20041/200417174/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/4516737/20041/i/950/depositphotos_200417174-stock-photo-set-food-cooking-healthy-food.jpg?forcejpeg=true' alt='Set of food for cooking healthy food on wooden table, Clean eating concept, top view' >
+    <a href='https://depositphotos.com/200417174/stock-photo-set-food-cooking-healthy-food.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/200417174/stock-photo-set-food-cooking-healthy-food.html?ref=64678756' src='https://st4.depositphotos.com/4516737/20041/i/950/depositphotos_200417174-stock-photo-set-food-cooking-healthy-food.jpg?forcejpeg=true' alt='Set of food for cooking healthy food on wooden table, Clean eating concept, top view' >
     </a>
 </div>

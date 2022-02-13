@@ -13,7 +13,7 @@ categories:
             <font size="60"> House symbol</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1056464/vector/2376/23761951/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1056464/vector/2376/23761951/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1056464/2376/v/950/depositphotos_23761951-stock-illustration-house-symbol.jpg?forcejpeg=true' alt='House symbol' >
+    <a href='https://depositphotos.com/23761951/stock-illustration-house-symbol.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/23761951/stock-illustration-house-symbol.html?ref=64678756' src='https://st.depositphotos.com/1056464/2376/v/950/depositphotos_23761951-stock-illustration-house-symbol.jpg?forcejpeg=true' alt='House symbol' >
     </a>
 </div>

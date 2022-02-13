@@ -13,7 +13,7 @@ categories:
             <font size="60"> Handsome shirtless young man standing with hands behind head and smiling at camera on blue</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12985848/image/18855/188559288/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12985848/image/18855/188559288/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12985848/18855/i/950/depositphotos_188559288-stock-photo-handsome-shirtless-young-man-standing.jpg?forcejpeg=true' alt='Handsome shirtless young man standing with hands behind head and smiling at camera on blue' >
+    <a href='https://depositphotos.com/188559288/stock-photo-handsome-shirtless-young-man-standing.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/188559288/stock-photo-handsome-shirtless-young-man-standing.html?ref=64678756' src='https://st3.depositphotos.com/12985848/18855/i/950/depositphotos_188559288-stock-photo-handsome-shirtless-young-man-standing.jpg?forcejpeg=true' alt='Handsome shirtless young man standing with hands behind head and smiling at camera on blue' >
     </a>
 </div>

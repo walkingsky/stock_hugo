@@ -13,7 +13,7 @@ categories:
             <font size="60"> Traditional film strip with ISO label and numbers at side.</font>   
 </div>
 <div>
-    <a href='https://static4.depositphotos.com/thumbs/1009101/vector/291/2918994/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static4.depositphotos.com/thumbs/1009101/vector/291/2918994/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static4.depositphotos.com/1009101/291/v/950/depositphotos_2918994-stock-illustration-traditional-film-strip.jpg?forcejpeg=true' alt='Traditional film strip with ISO label and numbers at side.' >
+    <a href='https://depositphotos.com/2918994/stock-illustration-traditional-film-strip.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/2918994/stock-illustration-traditional-film-strip.html?ref=64678756' src='https://static4.depositphotos.com/1009101/291/v/950/depositphotos_2918994-stock-illustration-traditional-film-strip.jpg?forcejpeg=true' alt='Traditional film strip with ISO label and numbers at side.' >
     </a>
 </div>

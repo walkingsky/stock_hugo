@@ -13,7 +13,7 @@ categories:
             <font size="60"> New upscale executive house</font>   
 </div>
 <div>
-    <a href='https://static9.depositphotos.com/thumbs/1625039/image/1145/11458497/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static9.depositphotos.com/thumbs/1625039/image/1145/11458497/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static9.depositphotos.com/1625039/1145/i/950/depositphotos_11458497-stock-photo-new-upscale-executive-house.jpg?forcejpeg=true' alt='New upscale executive house' >
+    <a href='https://depositphotos.com/11458497/stock-photo-new-upscale-executive-house.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/11458497/stock-photo-new-upscale-executive-house.html?ref=64678756' src='https://static9.depositphotos.com/1625039/1145/i/950/depositphotos_11458497-stock-photo-new-upscale-executive-house.jpg?forcejpeg=true' alt='New upscale executive house' >
     </a>
 </div>

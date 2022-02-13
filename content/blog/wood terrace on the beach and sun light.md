@@ -13,7 +13,7 @@ categories:
             <font size="60"> Wood terrace on the beach and sun light</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1164721/image/2778/27788739/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1164721/image/2778/27788739/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1164721/2778/i/950/depositphotos_27788739-stock-photo-wood-terrace-on-the-beach.jpg?forcejpeg=true' alt='Wood terrace on the beach and sun light' >
+    <a href='https://depositphotos.com/27788739/stock-photo-wood-terrace-on-the-beach.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/27788739/stock-photo-wood-terrace-on-the-beach.html?ref=64678756' src='https://st.depositphotos.com/1164721/2778/i/950/depositphotos_27788739-stock-photo-wood-terrace-on-the-beach.jpg?forcejpeg=true' alt='Wood terrace on the beach and sun light' >
     </a>
 </div>

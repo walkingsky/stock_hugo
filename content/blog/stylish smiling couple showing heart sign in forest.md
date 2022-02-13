@@ -13,7 +13,7 @@ categories:
             <font size="60"> Stylish smiling couple showing heart sign in forest</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12982378/image/26830/268301174/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12982378/image/26830/268301174/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12982378/26830/i/950/depositphotos_268301174-stock-photo-stylish-smiling-couple-showing-heart.jpg?forcejpeg=true' alt='Stylish smiling couple showing heart sign in forest' >
+    <a href='https://depositphotos.com/268301174/stock-photo-stylish-smiling-couple-showing-heart.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/268301174/stock-photo-stylish-smiling-couple-showing-heart.html?ref=64678756' src='https://st4.depositphotos.com/12982378/26830/i/950/depositphotos_268301174-stock-photo-stylish-smiling-couple-showing-heart.jpg?forcejpeg=true' alt='Stylish smiling couple showing heart sign in forest' >
     </a>
 </div>

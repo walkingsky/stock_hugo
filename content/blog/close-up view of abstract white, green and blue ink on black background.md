@@ -13,7 +13,7 @@ categories:
             <font size="60"> Close-up view of abstract white, green and blue ink on black background</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/13324256/image/19714/197149842/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/13324256/image/19714/197149842/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/13324256/19714/i/950/depositphotos_197149842-stock-photo-close-view-abstract-white-green.jpg?forcejpeg=true' alt='Close-up view of abstract white, green and blue ink on black background' >
+    <a href='https://depositphotos.com/197149842/stock-photo-close-view-abstract-white-green.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/197149842/stock-photo-close-view-abstract-white-green.html?ref=64678756' src='https://st4.depositphotos.com/13324256/19714/i/950/depositphotos_197149842-stock-photo-close-view-abstract-white-green.jpg?forcejpeg=true' alt='Close-up view of abstract white, green and blue ink on black background' >
     </a>
 </div>

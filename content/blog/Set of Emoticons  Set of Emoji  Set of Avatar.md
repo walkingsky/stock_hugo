@@ -13,7 +13,7 @@ categories:
             <font size="60"> Set of Emoticons. Set of Emoji. Set of Avatar.Flat style illustrations - stock vector</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/6775818/vector/10823/108231232/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/6775818/vector/10823/108231232/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/6775818/10823/v/950/depositphotos_108231232-stock-illustration-set-of-emoticons-set-of.jpg?forcejpeg=true' alt='Set of Emoticons. Set of Emoji. Set of Avatar.Flat style illustrations - stock vector' >
+    <a href='https://depositphotos.com/108231232/stock-illustration-set-of-emoticons-set-of.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/108231232/stock-illustration-set-of-emoticons-set-of.html?ref=64678756' src='https://st2.depositphotos.com/6775818/10823/v/950/depositphotos_108231232-stock-illustration-set-of-emoticons-set-of.jpg?forcejpeg=true' alt='Set of Emoticons. Set of Emoji. Set of Avatar.Flat style illustrations - stock vector' >
     </a>
 </div>

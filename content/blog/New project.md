@@ -13,7 +13,7 @@ categories:
             <font size="60"> Four businesswomen sitting at table examining some documents</font>   
 </div>
 <div>
-    <a href='https://static9.depositphotos.com/thumbs/1594308/image/1131/11311945/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static9.depositphotos.com/thumbs/1594308/image/1131/11311945/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static9.depositphotos.com/1594308/1131/i/950/depositphotos_11311945-stock-photo-new-project.jpg?forcejpeg=true' alt='Four businesswomen sitting at table examining some documents' >
+    <a href='https://depositphotos.com/11311945/stock-photo-new-project.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/11311945/stock-photo-new-project.html?ref=64678756' src='https://static9.depositphotos.com/1594308/1131/i/950/depositphotos_11311945-stock-photo-new-project.jpg?forcejpeg=true' alt='Four businesswomen sitting at table examining some documents' >
     </a>
 </div>

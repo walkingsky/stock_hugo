@@ -13,7 +13,7 @@ categories:
             <font size="60"> Young blond girl in bikini with a tape around her waistline in act to think about her fitness body</font>   
 </div>
 <div>
-    <a href='https://static5.depositphotos.com/thumbs/1036362/image/470/4704810/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static5.depositphotos.com/thumbs/1036362/image/470/4704810/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static5.depositphotos.com/1036362/470/i/950/depositphotos_4704810-stock-photo-young-blond-girl-bikini-tape.jpg?forcejpeg=true' alt='Young blond girl in bikini with a tape around her waistline in act to think about her fitness body' >
+    <a href='https://depositphotos.com/4704810/stock-photo-young-blond-girl-bikini-tape.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/4704810/stock-photo-young-blond-girl-bikini-tape.html?ref=64678756' src='https://static5.depositphotos.com/1036362/470/i/950/depositphotos_4704810-stock-photo-young-blond-girl-bikini-tape.jpg?forcejpeg=true' alt='Young blond girl in bikini with a tape around her waistline in act to think about her fitness body' >
     </a>
 </div>

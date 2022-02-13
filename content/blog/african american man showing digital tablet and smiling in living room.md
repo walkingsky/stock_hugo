@@ -13,7 +13,7 @@ categories:
             <font size="60"> African american man showing digital tablet and smiling in living room</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12985848/image/22997/229972704/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12985848/image/22997/229972704/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12985848/22997/i/950/depositphotos_229972704-stock-photo-african-american-man-showing-digital.jpg?forcejpeg=true' alt='African american man showing digital tablet and smiling in living room' >
+    <a href='https://depositphotos.com/229972704/stock-photo-african-american-man-showing-digital.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/229972704/stock-photo-african-american-man-showing-digital.html?ref=64678756' src='https://st4.depositphotos.com/12985848/22997/i/950/depositphotos_229972704-stock-photo-african-american-man-showing-digital.jpg?forcejpeg=true' alt='African american man showing digital tablet and smiling in living room' >
     </a>
 </div>

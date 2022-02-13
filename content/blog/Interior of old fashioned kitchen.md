@@ -13,7 +13,7 @@ categories:
             <font size="60"> Cartoon happy and funny scene of an old traditional rural room - for different fairy tales</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/2435397/image/13390/133909138/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/2435397/image/13390/133909138/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/2435397/13390/i/950/depositphotos_133909138-stock-photo-interior-of-old-fashioned-kitchen.jpg?forcejpeg=true' alt='Cartoon happy and funny scene of an old traditional rural room - for different fairy tales' >
+    <a href='https://depositphotos.com/133909138/stock-photo-interior-of-old-fashioned-kitchen.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/133909138/stock-photo-interior-of-old-fashioned-kitchen.html?ref=64678756' src='https://st3.depositphotos.com/2435397/13390/i/950/depositphotos_133909138-stock-photo-interior-of-old-fashioned-kitchen.jpg?forcejpeg=true' alt='Cartoon happy and funny scene of an old traditional rural room - for different fairy tales' >
     </a>
 </div>

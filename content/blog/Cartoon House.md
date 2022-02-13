@@ -13,7 +13,7 @@ categories:
             <font size="60"> Illustration of a cartoon house in spring or summer season</font>   
 </div>
 <div>
-    <a href='https://static7.depositphotos.com/thumbs/1302980/vector/794/7943187/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static7.depositphotos.com/thumbs/1302980/vector/794/7943187/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static7.depositphotos.com/1302980/794/v/950/depositphotos_7943187-stock-illustration-cartoon-house.jpg?forcejpeg=true' alt='Illustration of a cartoon house in spring or summer season' >
+    <a href='https://depositphotos.com/7943187/stock-illustration-cartoon-house.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/7943187/stock-illustration-cartoon-house.html?ref=64678756' src='https://static7.depositphotos.com/1302980/794/v/950/depositphotos_7943187-stock-illustration-cartoon-house.jpg?forcejpeg=true' alt='Illustration of a cartoon house in spring or summer season' >
     </a>
 </div>

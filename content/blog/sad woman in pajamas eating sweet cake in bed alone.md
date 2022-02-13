@@ -13,7 +13,7 @@ categories:
             <font size="60"> Sad woman in pajamas eating sweet cake in bed alone</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/13193658/image/24077/240779572/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/13193658/image/24077/240779572/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/13193658/24077/i/950/depositphotos_240779572-stock-photo-sad-woman-pajamas-eating-sweet.jpg?forcejpeg=true' alt='Sad woman in pajamas eating sweet cake in bed alone' >
+    <a href='https://depositphotos.com/240779572/stock-photo-sad-woman-pajamas-eating-sweet.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/240779572/stock-photo-sad-woman-pajamas-eating-sweet.html?ref=64678756' src='https://st4.depositphotos.com/13193658/24077/i/950/depositphotos_240779572-stock-photo-sad-woman-pajamas-eating-sweet.jpg?forcejpeg=true' alt='Sad woman in pajamas eating sweet cake in bed alone' >
     </a>
 </div>

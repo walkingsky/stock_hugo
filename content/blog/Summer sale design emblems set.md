@@ -13,7 +13,7 @@ categories:
             <font size="60"> Summer sale design emblems set</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/2208320/vector/2596/25968685/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/2208320/vector/2596/25968685/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/2208320/2596/v/950/depositphotos_25968685-stock-illustration-summer-sale-design-emblems-set.jpg?forcejpeg=true' alt='Summer sale design emblems set' >
+    <a href='https://depositphotos.com/25968685/stock-illustration-summer-sale-design-emblems-set.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/25968685/stock-illustration-summer-sale-design-emblems-set.html?ref=64678756' src='https://st.depositphotos.com/2208320/2596/v/950/depositphotos_25968685-stock-illustration-summer-sale-design-emblems-set.jpg?forcejpeg=true' alt='Summer sale design emblems set' >
     </a>
 </div>

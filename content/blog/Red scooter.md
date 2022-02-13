@@ -13,7 +13,7 @@ categories:
             <font size="60"> Photo of red scooter near green door and palm</font>   
 </div>
 <div>
-    <a href='https://static4.depositphotos.com/thumbs/1011278/image/300/3006796/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static4.depositphotos.com/thumbs/1011278/image/300/3006796/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static4.depositphotos.com/1011278/300/i/950/depositphotos_3006796-stock-photo-red-scooter.jpg?forcejpeg=true' alt='Photo of red scooter near green door and palm' >
+    <a href='https://depositphotos.com/3006796/stock-photo-red-scooter.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/3006796/stock-photo-red-scooter.html?ref=64678756' src='https://static4.depositphotos.com/1011278/300/i/950/depositphotos_3006796-stock-photo-red-scooter.jpg?forcejpeg=true' alt='Photo of red scooter near green door and palm' >
     </a>
 </div>

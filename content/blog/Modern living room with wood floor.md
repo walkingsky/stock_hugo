@@ -13,7 +13,7 @@ categories:
             <font size="60"> Modern living room with wood floor overlooking the garden</font>   
 </div>
 <div>
-    <a href='https://static7.depositphotos.com/thumbs/1035257/image/745/7450281/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static7.depositphotos.com/thumbs/1035257/image/745/7450281/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static7.depositphotos.com/1035257/745/i/950/depositphotos_7450281-stock-photo-modern-living-room-with-wood.jpg?forcejpeg=true' alt='Modern living room with wood floor overlooking the garden' >
+    <a href='https://depositphotos.com/7450281/stock-photo-modern-living-room-with-wood.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/7450281/stock-photo-modern-living-room-with-wood.html?ref=64678756' src='https://static7.depositphotos.com/1035257/745/i/950/depositphotos_7450281-stock-photo-modern-living-room-with-wood.jpg?forcejpeg=true' alt='Modern living room with wood floor overlooking the garden' >
     </a>
 </div>

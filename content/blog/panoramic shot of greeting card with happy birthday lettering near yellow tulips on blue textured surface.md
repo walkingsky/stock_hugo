@@ -13,7 +13,7 @@ categories:
             <font size="60"> Panoramic shot of greeting card with happy birthday lettering near yellow tulips on blue textured surface</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12982378/image/36296/362966020/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12982378/image/36296/362966020/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12982378/36296/i/950/depositphotos_362966020-stock-photo-panoramic-shot-greeting-card-happy.jpg?forcejpeg=true' alt='Panoramic shot of greeting card with happy birthday lettering near yellow tulips on blue textured surface' >
+    <a href='https://depositphotos.com/362966020/stock-photo-panoramic-shot-greeting-card-happy.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/362966020/stock-photo-panoramic-shot-greeting-card-happy.html?ref=64678756' src='https://st3.depositphotos.com/12982378/36296/i/950/depositphotos_362966020-stock-photo-panoramic-shot-greeting-card-happy.jpg?forcejpeg=true' alt='Panoramic shot of greeting card with happy birthday lettering near yellow tulips on blue textured surface' >
     </a>
 </div>

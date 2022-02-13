@@ -13,7 +13,7 @@ categories:
             <font size="60"> Glasses and pen on clipboard on working table in clinic</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12982378/image/17555/175554258/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12982378/image/17555/175554258/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12982378/17555/i/950/depositphotos_175554258-stock-photo-glasses-pen-clipboard-working-table.jpg?forcejpeg=true' alt='Glasses and pen on clipboard on working table in clinic' >
+    <a href='https://depositphotos.com/175554258/stock-photo-glasses-pen-clipboard-working-table.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/175554258/stock-photo-glasses-pen-clipboard-working-table.html?ref=64678756' src='https://st3.depositphotos.com/12982378/17555/i/950/depositphotos_175554258-stock-photo-glasses-pen-clipboard-working-table.jpg?forcejpeg=true' alt='Glasses and pen on clipboard on working table in clinic' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Guitar emblem with text live music and ribbon, vector Illustration</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/4187363/vector/14257/142574363/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/4187363/vector/14257/142574363/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/4187363/14257/v/950/depositphotos_142574363-stock-illustration-guitar-emblem-with-text-live.jpg?forcejpeg=true' alt='Guitar emblem with text live music and ribbon, vector Illustration' >
+    <a href='https://depositphotos.com/142574363/stock-illustration-guitar-emblem-with-text-live.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/142574363/stock-illustration-guitar-emblem-with-text-live.html?ref=64678756' src='https://st3.depositphotos.com/4187363/14257/v/950/depositphotos_142574363-stock-illustration-guitar-emblem-with-text-live.jpg?forcejpeg=true' alt='Guitar emblem with text live music and ribbon, vector Illustration' >
     </a>
 </div>

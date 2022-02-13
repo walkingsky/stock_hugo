@@ -13,7 +13,7 @@ categories:
             <font size="60"> African american child sitting on floor near babysitter and building tower from multicolored blocks</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/20363444/image/40094/400941912/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/20363444/image/40094/400941912/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/20363444/40094/i/950/depositphotos_400941912-stock-photo-african-american-child-sitting-floor.jpg?forcejpeg=true' alt='African american child sitting on floor near babysitter and building tower from multicolored blocks' >
+    <a href='https://depositphotos.com/400941912/stock-photo-african-american-child-sitting-floor.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/400941912/stock-photo-african-american-child-sitting-floor.html?ref=64678756' src='https://st4.depositphotos.com/20363444/40094/i/950/depositphotos_400941912-stock-photo-african-american-child-sitting-floor.jpg?forcejpeg=true' alt='African american child sitting on floor near babysitter and building tower from multicolored blocks' >
     </a>
 </div>

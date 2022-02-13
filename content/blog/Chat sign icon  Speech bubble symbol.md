@@ -13,7 +13,7 @@ categories:
             <font size="60"> Chat sign icon. Speech bubble symbol. Communication chat bubble. Circle flat button with shadow. Modern UI website navigation. Vector</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1915171/vector/5351/53514547/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1915171/vector/5351/53514547/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1915171/5351/v/950/depositphotos_53514547-stock-illustration-chat-sign-icon-speech-bubble.jpg?forcejpeg=true' alt='Chat sign icon. Speech bubble symbol. Communication chat bubble. Circle flat button with shadow. Modern UI website navigation. Vector' >
+    <a href='https://depositphotos.com/53514547/stock-illustration-chat-sign-icon-speech-bubble.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/53514547/stock-illustration-chat-sign-icon-speech-bubble.html?ref=64678756' src='https://st2.depositphotos.com/1915171/5351/v/950/depositphotos_53514547-stock-illustration-chat-sign-icon-speech-bubble.jpg?forcejpeg=true' alt='Chat sign icon. Speech bubble symbol. Communication chat bubble. Circle flat button with shadow. Modern UI website navigation. Vector' >
     </a>
 </div>

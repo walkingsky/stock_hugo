@@ -13,7 +13,7 @@ categories:
             <font size="60"> Balance four color glass button icon</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/50337402/vector/47080/470803566/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/50337402/vector/47080/470803566/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/50337402/47080/v/950/depositphotos_470803566-stock-illustration-balance-four-color-glass-button.jpg?forcejpeg=true' alt='Balance four color glass button icon' >
+    <a href='https://depositphotos.com/470803566/stock-illustration-balance-four-color-glass-button.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/470803566/stock-illustration-balance-four-color-glass-button.html?ref=64678756' src='https://st2.depositphotos.com/50337402/47080/v/950/depositphotos_470803566-stock-illustration-balance-four-color-glass-button.jpg?forcejpeg=true' alt='Balance four color glass button icon' >
     </a>
 </div>

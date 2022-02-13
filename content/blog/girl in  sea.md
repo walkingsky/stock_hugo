@@ -13,7 +13,7 @@ categories:
             <font size="60"> Sports girl in the sea</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1004114/image/4735/47353169/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1004114/image/4735/47353169/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1004114/4735/i/950/depositphotos_47353169-stock-photo-girl-in-sea.jpg?forcejpeg=true' alt='Sports girl in the sea' >
+    <a href='https://depositphotos.com/47353169/stock-photo-girl-in-sea.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/47353169/stock-photo-girl-in-sea.html?ref=64678756' src='https://st.depositphotos.com/1004114/4735/i/950/depositphotos_47353169-stock-photo-girl-in-sea.jpg?forcejpeg=true' alt='Sports girl in the sea' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Live sign icon, vector illustration</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/1915171/vector/13749/137491662/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/1915171/vector/13749/137491662/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/1915171/13749/v/950/depositphotos_137491662-stock-illustration-live-sign-icon.jpg?forcejpeg=true' alt='Live sign icon, vector illustration' >
+    <a href='https://depositphotos.com/137491662/stock-illustration-live-sign-icon.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/137491662/stock-illustration-live-sign-icon.html?ref=64678756' src='https://st3.depositphotos.com/1915171/13749/v/950/depositphotos_137491662-stock-illustration-live-sign-icon.jpg?forcejpeg=true' alt='Live sign icon, vector illustration' >
     </a>
 </div>

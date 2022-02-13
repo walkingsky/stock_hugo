@@ -13,7 +13,7 @@ categories:
             <font size="60"> Selective focus of boy using laptop during online education near mother, color pencils and paper on couch</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12982378/image/37541/375412558/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12982378/image/37541/375412558/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12982378/37541/i/950/depositphotos_375412558-stock-photo-selective-focus-boy-using-laptop.jpg?forcejpeg=true' alt='Selective focus of boy using laptop during online education near mother, color pencils and paper on couch' >
+    <a href='https://depositphotos.com/375412558/stock-photo-selective-focus-boy-using-laptop.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/375412558/stock-photo-selective-focus-boy-using-laptop.html?ref=64678756' src='https://st3.depositphotos.com/12982378/37541/i/950/depositphotos_375412558-stock-photo-selective-focus-boy-using-laptop.jpg?forcejpeg=true' alt='Selective focus of boy using laptop during online education near mother, color pencils and paper on couch' >
     </a>
 </div>

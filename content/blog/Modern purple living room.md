@@ -13,7 +13,7 @@ categories:
             <font size="60"> Contemporary living room with dining space - rendering - the art work on wall is a my composition</font>   
 </div>
 <div>
-    <a href='https://static5.depositphotos.com/thumbs/1047404/image/494/4946755/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static5.depositphotos.com/thumbs/1047404/image/494/4946755/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static5.depositphotos.com/1047404/494/i/950/depositphotos_4946755-stock-photo-modern-purple-living-room.jpg?forcejpeg=true' alt='Contemporary living room with dining space - rendering - the art work on wall is a my composition' >
+    <a href='https://depositphotos.com/4946755/stock-photo-modern-purple-living-room.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/4946755/stock-photo-modern-purple-living-room.html?ref=64678756' src='https://static5.depositphotos.com/1047404/494/i/950/depositphotos_4946755-stock-photo-modern-purple-living-room.jpg?forcejpeg=true' alt='Contemporary living room with dining space - rendering - the art work on wall is a my composition' >
     </a>
 </div>

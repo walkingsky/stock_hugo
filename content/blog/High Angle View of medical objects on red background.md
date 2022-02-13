@@ -13,7 +13,7 @@ categories:
             <font size="60"> High Angle View of medical objects on red background</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13349494/image/35038/350387588/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13349494/image/35038/350387588/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13349494/35038/i/950/depositphotos_350387588-stock-photo-high-angle-view-medical-objects.jpg?forcejpeg=true' alt='High Angle View of medical objects on red background' >
+    <a href='https://depositphotos.com/350387588/stock-photo-high-angle-view-medical-objects.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/350387588/stock-photo-high-angle-view-medical-objects.html?ref=64678756' src='https://st3.depositphotos.com/13349494/35038/i/950/depositphotos_350387588-stock-photo-high-angle-view-medical-objects.jpg?forcejpeg=true' alt='High Angle View of medical objects on red background' >
     </a>
 </div>

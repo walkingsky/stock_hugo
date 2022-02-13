@@ -13,7 +13,7 @@ categories:
             <font size="60"> Brunette beautiful woman with long curly healthy hair isolated on grey</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/13193658/image/30864/308641174/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/13193658/image/30864/308641174/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/13193658/30864/i/950/depositphotos_308641174-stock-photo-brunette-beautiful-woman-long-curly.jpg?forcejpeg=true' alt='Brunette beautiful woman with long curly healthy hair isolated on grey' >
+    <a href='https://depositphotos.com/308641174/stock-photo-brunette-beautiful-woman-long-curly.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/308641174/stock-photo-brunette-beautiful-woman-long-curly.html?ref=64678756' src='https://st4.depositphotos.com/13193658/30864/i/950/depositphotos_308641174-stock-photo-brunette-beautiful-woman-long-curly.jpg?forcejpeg=true' alt='Brunette beautiful woman with long curly healthy hair isolated on grey' >
     </a>
 </div>

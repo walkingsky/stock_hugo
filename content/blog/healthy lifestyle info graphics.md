@@ -13,7 +13,7 @@ categories:
             <font size="60"> Concept of healthy lifestyle info graphics. Icons for web: fitness, healthy food and metrics. Flat design vector illustration.</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/4320929/vector/10112/101121260/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/4320929/vector/10112/101121260/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/4320929/10112/v/950/depositphotos_101121260-stock-illustration-healthy-lifestyle-info-graphics.jpg?forcejpeg=true' alt='Concept of healthy lifestyle info graphics. Icons for web: fitness, healthy food and metrics. Flat design vector illustration.' >
+    <a href='https://depositphotos.com/101121260/stock-illustration-healthy-lifestyle-info-graphics.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/101121260/stock-illustration-healthy-lifestyle-info-graphics.html?ref=64678756' src='https://st2.depositphotos.com/4320929/10112/v/950/depositphotos_101121260-stock-illustration-healthy-lifestyle-info-graphics.jpg?forcejpeg=true' alt='Concept of healthy lifestyle info graphics. Icons for web: fitness, healthy food and metrics. Flat design vector illustration.' >
     </a>
 </div>

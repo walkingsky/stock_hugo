@@ -13,7 +13,7 @@ categories:
             <font size="60"> Thessaloniki, Greece, October 4 2015: Aerial soot of the Toumba Stadium full of fans during a football match for the championship between teams PAOK vs Olympiacos</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/2793427/image/8653/86536388/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/2793427/image/8653/86536388/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/2793427/8653/i/950/depositphotos_86536388-stock-photo-aerial-soot-of-the-toumba.jpg?forcejpeg=true' alt='Thessaloniki, Greece, October 4 2015: Aerial soot of the Toumba Stadium full of fans during a football match for the championship between teams PAOK vs Olympiacos' >
+    <a href='https://depositphotos.com/86536388/stock-photo-aerial-soot-of-the-toumba.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/86536388/stock-photo-aerial-soot-of-the-toumba.html?ref=64678756' src='https://st2.depositphotos.com/2793427/8653/i/950/depositphotos_86536388-stock-photo-aerial-soot-of-the-toumba.jpg?forcejpeg=true' alt='Thessaloniki, Greece, October 4 2015: Aerial soot of the Toumba Stadium full of fans during a football match for the championship between teams PAOK vs Olympiacos' >
     </a>
 </div>

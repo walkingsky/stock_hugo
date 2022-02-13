@@ -13,7 +13,7 @@ categories:
             <font size="60"> Businessman hand showing  blank flow chart on new modern computer as concept with bokeh exposure</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1907633/image/6917/69170853/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1907633/image/6917/69170853/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1907633/6917/i/950/depositphotos_69170853-stock-photo-hand-drawing-blank-flow-chart.jpg?forcejpeg=true' alt='Businessman hand showing  blank flow chart on new modern computer as concept with bokeh exposure' >
+    <a href='https://depositphotos.com/69170853/stock-photo-hand-drawing-blank-flow-chart.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/69170853/stock-photo-hand-drawing-blank-flow-chart.html?ref=64678756' src='https://st2.depositphotos.com/1907633/6917/i/950/depositphotos_69170853-stock-photo-hand-drawing-blank-flow-chart.jpg?forcejpeg=true' alt='Businessman hand showing  blank flow chart on new modern computer as concept with bokeh exposure' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Businessman drawing a new business project</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1001201/image/2686/26862759/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1001201/image/2686/26862759/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1001201/2686/i/950/depositphotos_26862759-stock-photo-businessman-drawing-a-new-project.jpg?forcejpeg=true' alt='Businessman drawing a new business project' >
+    <a href='https://depositphotos.com/26862759/stock-photo-businessman-drawing-a-new-project.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/26862759/stock-photo-businessman-drawing-a-new-project.html?ref=64678756' src='https://st.depositphotos.com/1001201/2686/i/950/depositphotos_26862759-stock-photo-businessman-drawing-a-new-project.jpg?forcejpeg=true' alt='Businessman drawing a new business project' >
     </a>
 </div>

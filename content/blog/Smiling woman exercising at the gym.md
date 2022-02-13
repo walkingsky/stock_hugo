@@ -13,7 +13,7 @@ categories:
             <font size="60"> Smiling woman exercising at the gym on a mat, fitness and workout concept</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/3889193/image/7829/78294354/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/3889193/image/7829/78294354/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/3889193/7829/i/950/depositphotos_78294354-stock-photo-smiling-woman-exercising-at-the.jpg?forcejpeg=true' alt='Smiling woman exercising at the gym on a mat, fitness and workout concept' >
+    <a href='https://depositphotos.com/78294354/stock-photo-smiling-woman-exercising-at-the.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/78294354/stock-photo-smiling-woman-exercising-at-the.html?ref=64678756' src='https://st2.depositphotos.com/3889193/7829/i/950/depositphotos_78294354-stock-photo-smiling-woman-exercising-at-the.jpg?forcejpeg=true' alt='Smiling woman exercising at the gym on a mat, fitness and workout concept' >
     </a>
 </div>

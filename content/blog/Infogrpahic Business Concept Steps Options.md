@@ -13,7 +13,7 @@ categories:
             <font size="60"> Infographic concept for various design projects.</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/2100659/vector/3073/30734455/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/2100659/vector/3073/30734455/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/2100659/3073/v/950/depositphotos_30734455-stock-illustration-infogrpahic-business-concept-steps-options.jpg?forcejpeg=true' alt='Infographic concept for various design projects.' >
+    <a href='https://depositphotos.com/30734455/stock-illustration-infogrpahic-business-concept-steps-options.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/30734455/stock-illustration-infogrpahic-business-concept-steps-options.html?ref=64678756' src='https://st.depositphotos.com/2100659/3073/v/950/depositphotos_30734455-stock-illustration-infogrpahic-business-concept-steps-options.jpg?forcejpeg=true' alt='Infographic concept for various design projects.' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Image of beautiful elegant secretary woman smiling and holding clipboard in white office</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/1017228/image/32215/322157374/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/1017228/image/32215/322157374/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/1017228/32215/i/950/depositphotos_322157374-stock-photo-image-of-beautiful-secretary-woman.jpg?forcejpeg=true' alt='Image of beautiful elegant secretary woman smiling and holding clipboard in white office' >
+    <a href='https://depositphotos.com/322157374/stock-photo-image-of-beautiful-secretary-woman.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/322157374/stock-photo-image-of-beautiful-secretary-woman.html?ref=64678756' src='https://st3.depositphotos.com/1017228/32215/i/950/depositphotos_322157374-stock-photo-image-of-beautiful-secretary-woman.jpg?forcejpeg=true' alt='Image of beautiful elegant secretary woman smiling and holding clipboard in white office' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> 3d white drone with camera. Isolated white background.</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1064545/image/6243/62433801/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1064545/image/6243/62433801/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1064545/6243/i/950/depositphotos_62433801-stock-photo-3d-drone-with-camera.jpg?forcejpeg=true' alt='3d white drone with camera. Isolated white background.' >
+    <a href='https://depositphotos.com/62433801/stock-photo-3d-drone-with-camera.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/62433801/stock-photo-3d-drone-with-camera.html?ref=64678756' src='https://st2.depositphotos.com/1064545/6243/i/950/depositphotos_62433801-stock-photo-3d-drone-with-camera.jpg?forcejpeg=true' alt='3d white drone with camera. Isolated white background.' >
     </a>
 </div>

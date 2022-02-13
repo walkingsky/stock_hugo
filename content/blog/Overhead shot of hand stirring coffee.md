@@ -13,7 +13,7 @@ categories:
             <font size="60"> Top view of female stirring coffee. Tasty breakfast served on service tray in the bed</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/1049184/image/14950/149506958/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/1049184/image/14950/149506958/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/1049184/14950/i/950/depositphotos_149506958-stock-photo-overhead-shot-of-hand-stirring.jpg?forcejpeg=true' alt='Top view of female stirring coffee. Tasty breakfast served on service tray in the bed' >
+    <a href='https://depositphotos.com/149506958/stock-photo-overhead-shot-of-hand-stirring.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/149506958/stock-photo-overhead-shot-of-hand-stirring.html?ref=64678756' src='https://st3.depositphotos.com/1049184/14950/i/950/depositphotos_149506958-stock-photo-overhead-shot-of-hand-stirring.jpg?forcejpeg=true' alt='Top view of female stirring coffee. Tasty breakfast served on service tray in the bed' >
     </a>
 </div>

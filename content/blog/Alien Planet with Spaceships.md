@@ -13,7 +13,7 @@ categories:
             <font size="60"> Fantasy landscape with UFOs</font>   
 </div>
 <div>
-    <a href='https://static8.depositphotos.com/thumbs/1222912/image/885/8852268/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static8.depositphotos.com/thumbs/1222912/image/885/8852268/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static8.depositphotos.com/1222912/885/i/950/depositphotos_8852268-stock-photo-alien-planet-with-spaceships.jpg?forcejpeg=true' alt='Fantasy landscape with UFOs' >
+    <a href='https://depositphotos.com/8852268/stock-photo-alien-planet-with-spaceships.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/8852268/stock-photo-alien-planet-with-spaceships.html?ref=64678756' src='https://static8.depositphotos.com/1222912/885/i/950/depositphotos_8852268-stock-photo-alien-planet-with-spaceships.jpg?forcejpeg=true' alt='Fantasy landscape with UFOs' >
     </a>
 </div>

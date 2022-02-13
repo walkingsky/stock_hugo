@@ -13,7 +13,7 @@ categories:
             <font size="60"> Cropped view of sportswoman doing lunge exercise with dumbbells at sports center</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12985790/image/22701/227010988/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12985790/image/22701/227010988/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12985790/22701/i/950/depositphotos_227010988-stock-photo-cropped-view-sportswoman-doing-lunge.jpg?forcejpeg=true' alt='Cropped view of sportswoman doing lunge exercise with dumbbells at sports center' >
+    <a href='https://depositphotos.com/227010988/stock-photo-cropped-view-sportswoman-doing-lunge.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/227010988/stock-photo-cropped-view-sportswoman-doing-lunge.html?ref=64678756' src='https://st4.depositphotos.com/12985790/22701/i/950/depositphotos_227010988-stock-photo-cropped-view-sportswoman-doing-lunge.jpg?forcejpeg=true' alt='Cropped view of sportswoman doing lunge exercise with dumbbells at sports center' >
     </a>
 </div>

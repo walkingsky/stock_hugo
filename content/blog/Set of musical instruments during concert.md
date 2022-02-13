@@ -13,7 +13,7 @@ categories:
             <font size="60"> Set of musical instruments during concert</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1000975/image/2491/24919645/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1000975/image/2491/24919645/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1000975/2491/i/950/depositphotos_24919645-stock-photo-set-of-musical-instruments-during.jpg?forcejpeg=true' alt='Set of musical instruments during concert' >
+    <a href='https://depositphotos.com/24919645/stock-photo-set-of-musical-instruments-during.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/24919645/stock-photo-set-of-musical-instruments-during.html?ref=64678756' src='https://st.depositphotos.com/1000975/2491/i/950/depositphotos_24919645-stock-photo-set-of-musical-instruments-during.jpg?forcejpeg=true' alt='Set of musical instruments during concert' >
     </a>
 </div>

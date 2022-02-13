@@ -13,7 +13,7 @@ categories:
             <font size="60"> Restaurant elements set</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1755257/vector/1266/12662512/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1755257/vector/1266/12662512/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1755257/1266/v/950/depositphotos_12662512-stock-illustration-restaurant-elements-set.jpg?forcejpeg=true' alt='Restaurant elements set' >
+    <a href='https://depositphotos.com/12662512/stock-illustration-restaurant-elements-set.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/12662512/stock-illustration-restaurant-elements-set.html?ref=64678756' src='https://st.depositphotos.com/1755257/1266/v/950/depositphotos_12662512-stock-illustration-restaurant-elements-set.jpg?forcejpeg=true' alt='Restaurant elements set' >
     </a>
 </div>

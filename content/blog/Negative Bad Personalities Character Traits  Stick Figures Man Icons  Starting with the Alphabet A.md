@@ -13,7 +13,7 @@ categories:
             <font size="60"> Negative personalities traits, attitude, and characteristic. Annoying, anxious, abrupt, arrogant, airy-fairy, argumentative, aimless, authoritative, absent-minded, arbitrary, aloof, apathetic, attention seeker, artful, and anti-social.</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1029662/vector/10859/108594846/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1029662/vector/10859/108594846/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1029662/10859/v/950/depositphotos_108594846-stock-illustration-negative-bad-personalities-character-traits.jpg?forcejpeg=true' alt='Negative personalities traits, attitude, and characteristic. Annoying, anxious, abrupt, arrogant, airy-fairy, argumentative, aimless, authoritative, absent-minded, arbitrary, aloof, apathetic, attention seeker, artful, and anti-social.' >
+    <a href='https://depositphotos.com/108594846/stock-illustration-negative-bad-personalities-character-traits.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/108594846/stock-illustration-negative-bad-personalities-character-traits.html?ref=64678756' src='https://st2.depositphotos.com/1029662/10859/v/950/depositphotos_108594846-stock-illustration-negative-bad-personalities-character-traits.jpg?forcejpeg=true' alt='Negative personalities traits, attitude, and characteristic. Annoying, anxious, abrupt, arrogant, airy-fairy, argumentative, aimless, authoritative, absent-minded, arbitrary, aloof, apathetic, attention seeker, artful, and anti-social.' >
     </a>
 </div>

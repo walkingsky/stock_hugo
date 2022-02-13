@@ -13,7 +13,7 @@ categories:
             <font size="60"> Insurance Template Design Infographic. Concept Vector Illustration</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1328013/vector/5275/52754847/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1328013/vector/5275/52754847/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1328013/5275/v/950/depositphotos_52754847-stock-illustration-insurance-template-design-infographic.jpg?forcejpeg=true' alt='Insurance Template Design Infographic. Concept Vector Illustration' >
+    <a href='https://depositphotos.com/52754847/stock-illustration-insurance-template-design-infographic.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/52754847/stock-illustration-insurance-template-design-infographic.html?ref=64678756' src='https://st2.depositphotos.com/1328013/5275/v/950/depositphotos_52754847-stock-illustration-insurance-template-design-infographic.jpg?forcejpeg=true' alt='Insurance Template Design Infographic. Concept Vector Illustration' >
     </a>
 </div>

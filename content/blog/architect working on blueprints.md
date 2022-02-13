@@ -13,7 +13,7 @@ categories:
             <font size="60"> Partial view of architect working on blueprints at workplace with calculator</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13324256/image/16927/169279904/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13324256/image/16927/169279904/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13324256/16927/i/950/depositphotos_169279904-stock-photo-architect-working-on-blueprints.jpg?forcejpeg=true' alt='Partial view of architect working on blueprints at workplace with calculator' >
+    <a href='https://depositphotos.com/169279904/stock-photo-architect-working-on-blueprints.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/169279904/stock-photo-architect-working-on-blueprints.html?ref=64678756' src='https://st3.depositphotos.com/13324256/16927/i/950/depositphotos_169279904-stock-photo-architect-working-on-blueprints.jpg?forcejpeg=true' alt='Partial view of architect working on blueprints at workplace with calculator' >
     </a>
 </div>

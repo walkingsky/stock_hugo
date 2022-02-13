@@ -13,7 +13,7 @@ categories:
             <font size="60"> View of nice womans body on white background</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1005018/image/2875/28756535/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1005018/image/2875/28756535/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1005018/2875/i/950/depositphotos_28756535-stock-photo-view-of-nice-womans-body.jpg?forcejpeg=true' alt='View of nice womans body on white background' >
+    <a href='https://depositphotos.com/28756535/stock-photo-view-of-nice-womans-body.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/28756535/stock-photo-view-of-nice-womans-body.html?ref=64678756' src='https://st.depositphotos.com/1005018/2875/i/950/depositphotos_28756535-stock-photo-view-of-nice-womans-body.jpg?forcejpeg=true' alt='View of nice womans body on white background' >
     </a>
 </div>

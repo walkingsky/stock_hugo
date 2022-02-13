@@ -13,7 +13,7 @@ categories:
             <font size="60"> Amazed african american architect gesturing at workplace near laptop and coffee to go</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/13193658/image/44458/444581018/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/13193658/image/44458/444581018/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/13193658/44458/i/950/depositphotos_444581018-stock-photo-amazed-african-american-architect-gesturing.jpg?forcejpeg=true' alt='Amazed african american architect gesturing at workplace near laptop and coffee to go' >
+    <a href='https://depositphotos.com/444581018/stock-photo-amazed-african-american-architect-gesturing.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/444581018/stock-photo-amazed-african-american-architect-gesturing.html?ref=64678756' src='https://st2.depositphotos.com/13193658/44458/i/950/depositphotos_444581018-stock-photo-amazed-african-american-architect-gesturing.jpg?forcejpeg=true' alt='Amazed african american architect gesturing at workplace near laptop and coffee to go' >
     </a>
 </div>

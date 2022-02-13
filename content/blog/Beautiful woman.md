@@ -13,7 +13,7 @@ categories:
             <font size="60"> Pin-up girl in retro cafe</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/1003434/image/18913/189133976/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/1003434/image/18913/189133976/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/1003434/18913/i/950/depositphotos_189133976-stock-photo-beautiful-woman.jpg?forcejpeg=true' alt='Pin-up girl in retro cafe' >
+    <a href='https://depositphotos.com/189133976/stock-photo-beautiful-woman.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/189133976/stock-photo-beautiful-woman.html?ref=64678756' src='https://st3.depositphotos.com/1003434/18913/i/950/depositphotos_189133976-stock-photo-beautiful-woman.jpg?forcejpeg=true' alt='Pin-up girl in retro cafe' >
     </a>
 </div>

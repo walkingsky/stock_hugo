@@ -13,7 +13,7 @@ categories:
             <font size="60"> Couple of young tourists embracing and looking away while standing near old building in sunlight</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/20363444/image/32106/321063008/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/20363444/image/32106/321063008/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/20363444/32106/i/950/depositphotos_321063008-stock-photo-couple-young-tourists-embracing-looking.jpg?forcejpeg=true' alt='Couple of young tourists embracing and looking away while standing near old building in sunlight' >
+    <a href='https://depositphotos.com/321063008/stock-photo-couple-young-tourists-embracing-looking.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/321063008/stock-photo-couple-young-tourists-embracing-looking.html?ref=64678756' src='https://st3.depositphotos.com/20363444/32106/i/950/depositphotos_321063008-stock-photo-couple-young-tourists-embracing-looking.jpg?forcejpeg=true' alt='Couple of young tourists embracing and looking away while standing near old building in sunlight' >
     </a>
 </div>

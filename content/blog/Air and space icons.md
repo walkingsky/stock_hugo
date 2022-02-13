@@ -13,7 +13,7 @@ categories:
             <font size="60"> Set of vector icons. Air transport, flying machines and space</font>   
 </div>
 <div>
-    <a href='https://static4.depositphotos.com/thumbs/1000840/vector/376/3760153/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static4.depositphotos.com/thumbs/1000840/vector/376/3760153/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static4.depositphotos.com/1000840/376/v/950/depositphotos_3760153-stock-illustration-air-and-space-icons.jpg?forcejpeg=true' alt='Set of vector icons. Air transport, flying machines and space' >
+    <a href='https://depositphotos.com/3760153/stock-illustration-air-and-space-icons.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/3760153/stock-illustration-air-and-space-icons.html?ref=64678756' src='https://static4.depositphotos.com/1000840/376/v/950/depositphotos_3760153-stock-illustration-air-and-space-icons.jpg?forcejpeg=true' alt='Set of vector icons. Air transport, flying machines and space' >
     </a>
 </div>

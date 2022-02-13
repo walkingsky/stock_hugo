@@ -13,7 +13,7 @@ categories:
             <font size="60"> Airport Flat four color minimal icon set</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/50337402/vector/47082/470828738/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/50337402/vector/47082/470828738/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/50337402/47082/v/950/depositphotos_470828738-stock-illustration-airport-flat-four-color-minimal.jpg?forcejpeg=true' alt='Airport Flat four color minimal icon set' >
+    <a href='https://depositphotos.com/470828738/stock-illustration-airport-flat-four-color-minimal.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/470828738/stock-illustration-airport-flat-four-color-minimal.html?ref=64678756' src='https://st2.depositphotos.com/50337402/47082/v/950/depositphotos_470828738-stock-illustration-airport-flat-four-color-minimal.jpg?forcejpeg=true' alt='Airport Flat four color minimal icon set' >
     </a>
 </div>

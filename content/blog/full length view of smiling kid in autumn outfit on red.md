@@ -13,7 +13,7 @@ categories:
             <font size="60"> Full length view of smiling kid in autumn outfit on red</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12982378/image/30811/308119728/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12982378/image/30811/308119728/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12982378/30811/i/950/depositphotos_308119728-stock-photo-full-length-view-smiling-kid.jpg?forcejpeg=true' alt='Full length view of smiling kid in autumn outfit on red' >
+    <a href='https://depositphotos.com/308119728/stock-photo-full-length-view-smiling-kid.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/308119728/stock-photo-full-length-view-smiling-kid.html?ref=64678756' src='https://st4.depositphotos.com/12982378/30811/i/950/depositphotos_308119728-stock-photo-full-length-view-smiling-kid.jpg?forcejpeg=true' alt='Full length view of smiling kid in autumn outfit on red' >
     </a>
 </div>

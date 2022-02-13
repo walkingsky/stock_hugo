@@ -13,7 +13,7 @@ categories:
             <font size="60"> Professional carbon drone with GPS making a ride.</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1235826/image/3688/36884343/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1235826/image/3688/36884343/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1235826/3688/i/950/depositphotos_36884343-stock-photo-drone.jpg?forcejpeg=true' alt='Professional carbon drone with GPS making a ride.' >
+    <a href='https://depositphotos.com/36884343/stock-photo-drone.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/36884343/stock-photo-drone.html?ref=64678756' src='https://st.depositphotos.com/1235826/3688/i/950/depositphotos_36884343-stock-photo-drone.jpg?forcejpeg=true' alt='Professional carbon drone with GPS making a ride.' >
     </a>
 </div>

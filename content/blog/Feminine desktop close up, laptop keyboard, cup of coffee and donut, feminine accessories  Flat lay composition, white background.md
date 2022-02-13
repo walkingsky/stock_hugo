@@ -13,7 +13,7 @@ categories:
             <font size="60"> Feminine desktop close up, laptop keyboard, cup of coffee and donut, feminine accessories. Flat lay composition, white background.</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/10652958/image/19773/197731410/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/10652958/image/19773/197731410/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/10652958/19773/i/950/depositphotos_197731410-stock-photo-feminine-desktop-close-laptop-keyboard.jpg?forcejpeg=true' alt='Feminine desktop close up, laptop keyboard, cup of coffee and donut, feminine accessories. Flat lay composition, white background.' >
+    <a href='https://depositphotos.com/197731410/stock-photo-feminine-desktop-close-laptop-keyboard.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/197731410/stock-photo-feminine-desktop-close-laptop-keyboard.html?ref=64678756' src='https://st4.depositphotos.com/10652958/19773/i/950/depositphotos_197731410-stock-photo-feminine-desktop-close-laptop-keyboard.jpg?forcejpeg=true' alt='Feminine desktop close up, laptop keyboard, cup of coffee and donut, feminine accessories. Flat lay composition, white background.' >
     </a>
 </div>

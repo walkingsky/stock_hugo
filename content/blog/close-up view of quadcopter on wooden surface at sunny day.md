@@ -13,7 +13,7 @@ categories:
             <font size="60"> Close-up view of quadcopter on wooden surface at sunny day</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/15914886/image/19776/197768644/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/15914886/image/19776/197768644/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/15914886/19776/i/950/depositphotos_197768644-stock-photo-close-view-quadcopter-wooden-surface.jpg?forcejpeg=true' alt='Close-up view of quadcopter on wooden surface at sunny day' >
+    <a href='https://depositphotos.com/197768644/stock-photo-close-view-quadcopter-wooden-surface.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/197768644/stock-photo-close-view-quadcopter-wooden-surface.html?ref=64678756' src='https://st4.depositphotos.com/15914886/19776/i/950/depositphotos_197768644-stock-photo-close-view-quadcopter-wooden-surface.jpg?forcejpeg=true' alt='Close-up view of quadcopter on wooden surface at sunny day' >
     </a>
 </div>

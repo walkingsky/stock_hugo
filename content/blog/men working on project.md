@@ -13,7 +13,7 @@ categories:
             <font size="60"> Overhead view of small office meeting in small business office</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/10638998/image/14997/149975354/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/10638998/image/14997/149975354/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/10638998/14997/i/950/depositphotos_149975354-stock-photo-men-working-on-project.jpg?forcejpeg=true' alt='Overhead view of small office meeting in small business office' >
+    <a href='https://depositphotos.com/149975354/stock-photo-men-working-on-project.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/149975354/stock-photo-men-working-on-project.html?ref=64678756' src='https://st3.depositphotos.com/10638998/14997/i/950/depositphotos_149975354-stock-photo-men-working-on-project.jpg?forcejpeg=true' alt='Overhead view of small office meeting in small business office' >
     </a>
 </div>

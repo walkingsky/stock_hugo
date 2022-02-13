@@ -13,7 +13,7 @@ categories:
             <font size="60"> Wooden table on kitchen sink window background</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/3544857/image/6430/64306537/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/3544857/image/6430/64306537/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/3544857/6430/i/950/depositphotos_64306537-stock-photo-wooden-table-on-kitchen-sink.jpg?forcejpeg=true' alt='Wooden table on kitchen sink window background' >
+    <a href='https://depositphotos.com/64306537/stock-photo-wooden-table-on-kitchen-sink.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/64306537/stock-photo-wooden-table-on-kitchen-sink.html?ref=64678756' src='https://st2.depositphotos.com/3544857/6430/i/950/depositphotos_64306537-stock-photo-wooden-table-on-kitchen-sink.jpg?forcejpeg=true' alt='Wooden table on kitchen sink window background' >
     </a>
 </div>

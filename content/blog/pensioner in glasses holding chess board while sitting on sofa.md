@@ -13,7 +13,7 @@ categories:
             <font size="60"> Pensioner in glasses holding chess board while sitting on sofa</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12982378/image/24292/242923702/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12982378/image/24292/242923702/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12982378/24292/i/950/depositphotos_242923702-stock-photo-pensioner-glasses-holding-chess-board.jpg?forcejpeg=true' alt='Pensioner in glasses holding chess board while sitting on sofa' >
+    <a href='https://depositphotos.com/242923702/stock-photo-pensioner-glasses-holding-chess-board.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/242923702/stock-photo-pensioner-glasses-holding-chess-board.html?ref=64678756' src='https://st4.depositphotos.com/12982378/24292/i/950/depositphotos_242923702-stock-photo-pensioner-glasses-holding-chess-board.jpg?forcejpeg=true' alt='Pensioner in glasses holding chess board while sitting on sofa' >
     </a>
 </div>

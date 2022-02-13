@@ -13,7 +13,7 @@ categories:
             <font size="60"> Side view of african american businesswoman writing on sticky note on board</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/46171552/image/46990/469900630/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/46171552/image/46990/469900630/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/46171552/46990/i/950/depositphotos_469900630-stock-photo-side-view-african-american-businesswoman.jpg?forcejpeg=true' alt='Side view of african american businesswoman writing on sticky note on board' >
+    <a href='https://depositphotos.com/469900630/stock-photo-side-view-african-american-businesswoman.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/469900630/stock-photo-side-view-african-american-businesswoman.html?ref=64678756' src='https://st2.depositphotos.com/46171552/46990/i/950/depositphotos_469900630-stock-photo-side-view-african-american-businesswoman.jpg?forcejpeg=true' alt='Side view of african american businesswoman writing on sticky note on board' >
     </a>
 </div>

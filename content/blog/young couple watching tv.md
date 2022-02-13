@@ -13,7 +13,7 @@ categories:
             <font size="60"> Young attractive couple watching tv and using remote control in cartoon flat</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12985790/image/16361/163619410/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12985790/image/16361/163619410/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12985790/16361/i/950/depositphotos_163619410-stock-photo-young-couple-watching-tv.jpg?forcejpeg=true' alt='Young attractive couple watching tv and using remote control in cartoon flat' >
+    <a href='https://depositphotos.com/163619410/stock-photo-young-couple-watching-tv.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/163619410/stock-photo-young-couple-watching-tv.html?ref=64678756' src='https://st3.depositphotos.com/12985790/16361/i/950/depositphotos_163619410-stock-photo-young-couple-watching-tv.jpg?forcejpeg=true' alt='Young attractive couple watching tv and using remote control in cartoon flat' >
     </a>
 </div>

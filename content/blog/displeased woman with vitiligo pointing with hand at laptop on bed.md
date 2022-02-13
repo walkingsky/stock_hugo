@@ -13,7 +13,7 @@ categories:
             <font size="60"> Displeased woman with vitiligo pointing with hand at laptop on bed</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/13193658/image/42262/422620476/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/13193658/image/42262/422620476/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/13193658/42262/i/950/depositphotos_422620476-stock-photo-displeased-woman-vitiligo-pointing-hand.jpg?forcejpeg=true' alt='Displeased woman with vitiligo pointing with hand at laptop on bed' >
+    <a href='https://depositphotos.com/422620476/stock-photo-displeased-woman-vitiligo-pointing-hand.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/422620476/stock-photo-displeased-woman-vitiligo-pointing-hand.html?ref=64678756' src='https://st2.depositphotos.com/13193658/42262/i/950/depositphotos_422620476-stock-photo-displeased-woman-vitiligo-pointing-hand.jpg?forcejpeg=true' alt='Displeased woman with vitiligo pointing with hand at laptop on bed' >
     </a>
 </div>

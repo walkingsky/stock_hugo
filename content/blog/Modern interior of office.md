@@ -13,7 +13,7 @@ categories:
             <font size="60"> Modern interior of office (3d rendering )</font>   
 </div>
 <div>
-    <a href='https://static6.depositphotos.com/thumbs/1018770/image/553/5531948/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static6.depositphotos.com/thumbs/1018770/image/553/5531948/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static6.depositphotos.com/1018770/553/i/950/depositphotos_5531948-stock-photo-modern-interior-of-office.jpg?forcejpeg=true' alt='Modern interior of office (3d rendering )' >
+    <a href='https://depositphotos.com/5531948/stock-photo-modern-interior-of-office.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/5531948/stock-photo-modern-interior-of-office.html?ref=64678756' src='https://static6.depositphotos.com/1018770/553/i/950/depositphotos_5531948-stock-photo-modern-interior-of-office.jpg?forcejpeg=true' alt='Modern interior of office (3d rendering )' >
     </a>
 </div>

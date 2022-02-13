@@ -13,7 +13,7 @@ categories:
             <font size="60"> Cheerful couple smiling with closed eyes while holding hands in kitchen</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12985790/image/23618/236188108/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12985790/image/23618/236188108/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12985790/23618/i/950/depositphotos_236188108-stock-photo-cheerful-couple-smiling-closed-eyes.jpg?forcejpeg=true' alt='Cheerful couple smiling with closed eyes while holding hands in kitchen' >
+    <a href='https://depositphotos.com/236188108/stock-photo-cheerful-couple-smiling-closed-eyes.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/236188108/stock-photo-cheerful-couple-smiling-closed-eyes.html?ref=64678756' src='https://st4.depositphotos.com/12985790/23618/i/950/depositphotos_236188108-stock-photo-cheerful-couple-smiling-closed-eyes.jpg?forcejpeg=true' alt='Cheerful couple smiling with closed eyes while holding hands in kitchen' >
     </a>
 </div>

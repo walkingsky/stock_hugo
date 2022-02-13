@@ -13,7 +13,7 @@ categories:
             <font size="60"> Magic light at the and of walkway in autumn park</font>   
 </div>
 <div>
-    <a href='https://static7.depositphotos.com/thumbs/1022150/image/723/7233769/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static7.depositphotos.com/thumbs/1022150/image/723/7233769/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static7.depositphotos.com/1022150/723/i/950/depositphotos_7233769-stock-photo-magic-light-and-walkway-in.jpg?forcejpeg=true' alt='Magic light at the and of walkway in autumn park' >
+    <a href='https://depositphotos.com/7233769/stock-photo-magic-light-and-walkway-in.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/7233769/stock-photo-magic-light-and-walkway-in.html?ref=64678756' src='https://static7.depositphotos.com/1022150/723/i/950/depositphotos_7233769-stock-photo-magic-light-and-walkway-in.jpg?forcejpeg=true' alt='Magic light at the and of walkway in autumn park' >
     </a>
 </div>

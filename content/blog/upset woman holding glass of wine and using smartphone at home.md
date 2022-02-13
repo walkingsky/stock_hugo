@@ -13,7 +13,7 @@ categories:
             <font size="60"> Upset woman holding glass of wine and using smartphone at home</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/13193658/image/24079/240797540/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/13193658/image/24079/240797540/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/13193658/24079/i/950/depositphotos_240797540-stock-photo-upset-woman-holding-glass-wine.jpg?forcejpeg=true' alt='Upset woman holding glass of wine and using smartphone at home' >
+    <a href='https://depositphotos.com/240797540/stock-photo-upset-woman-holding-glass-wine.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/240797540/stock-photo-upset-woman-holding-glass-wine.html?ref=64678756' src='https://st4.depositphotos.com/13193658/24079/i/950/depositphotos_240797540-stock-photo-upset-woman-holding-glass-wine.jpg?forcejpeg=true' alt='Upset woman holding glass of wine and using smartphone at home' >
     </a>
 </div>

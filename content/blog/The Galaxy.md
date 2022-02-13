@@ -13,7 +13,7 @@ categories:
             <font size="60"> Space with many stars. Eps 10</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1408467/vector/1370/13707280/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1408467/vector/1370/13707280/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1408467/1370/v/950/depositphotos_13707280-stock-illustration-the-galaxy.jpg?forcejpeg=true' alt='Space with many stars. Eps 10' >
+    <a href='https://depositphotos.com/13707280/stock-illustration-the-galaxy.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/13707280/stock-illustration-the-galaxy.html?ref=64678756' src='https://st.depositphotos.com/1408467/1370/v/950/depositphotos_13707280-stock-illustration-the-galaxy.jpg?forcejpeg=true' alt='Space with many stars. Eps 10' >
     </a>
 </div>

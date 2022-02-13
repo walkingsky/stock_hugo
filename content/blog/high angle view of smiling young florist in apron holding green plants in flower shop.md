@@ -13,7 +13,7 @@ categories:
             <font size="60"> High angle view of smiling young florist in apron holding green plants in flower shop</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12985790/image/18877/188777014/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12985790/image/18877/188777014/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12985790/18877/i/950/depositphotos_188777014-stock-photo-high-angle-view-smiling-young.jpg?forcejpeg=true' alt='High angle view of smiling young florist in apron holding green plants in flower shop' >
+    <a href='https://depositphotos.com/188777014/stock-photo-high-angle-view-smiling-young.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/188777014/stock-photo-high-angle-view-smiling-young.html?ref=64678756' src='https://st3.depositphotos.com/12985790/18877/i/950/depositphotos_188777014-stock-photo-high-angle-view-smiling-young.jpg?forcejpeg=true' alt='High angle view of smiling young florist in apron holding green plants in flower shop' >
     </a>
 </div>

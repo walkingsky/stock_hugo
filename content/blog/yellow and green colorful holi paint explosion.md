@@ -13,7 +13,7 @@ categories:
             <font size="60"> Yellow and green colorful holi paint explosion</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13349494/image/33383/333835390/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13349494/image/33383/333835390/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13349494/33383/i/950/depositphotos_333835390-stock-photo-yellow-green-colorful-holi-paint.jpg?forcejpeg=true' alt='Yellow and green colorful holi paint explosion' >
+    <a href='https://depositphotos.com/333835390/stock-photo-yellow-green-colorful-holi-paint.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/333835390/stock-photo-yellow-green-colorful-holi-paint.html?ref=64678756' src='https://st3.depositphotos.com/13349494/33383/i/950/depositphotos_333835390-stock-photo-yellow-green-colorful-holi-paint.jpg?forcejpeg=true' alt='Yellow and green colorful holi paint explosion' >
     </a>
 </div>

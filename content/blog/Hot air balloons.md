@@ -13,7 +13,7 @@ categories:
             <font size="60"> Hot air balloons festival in blue sky in Goreme national park, fairy chimneys, Cappadocia, Turkey</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/14847044/image/17953/179537520/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/14847044/image/17953/179537520/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/14847044/17953/i/950/depositphotos_179537520-stock-photo-hot-air-balloons.jpg?forcejpeg=true' alt='Hot air balloons festival in blue sky in Goreme national park, fairy chimneys, Cappadocia, Turkey' >
+    <a href='https://depositphotos.com/179537520/stock-photo-hot-air-balloons.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/179537520/stock-photo-hot-air-balloons.html?ref=64678756' src='https://st3.depositphotos.com/14847044/17953/i/950/depositphotos_179537520-stock-photo-hot-air-balloons.jpg?forcejpeg=true' alt='Hot air balloons festival in blue sky in Goreme national park, fairy chimneys, Cappadocia, Turkey' >
     </a>
 </div>

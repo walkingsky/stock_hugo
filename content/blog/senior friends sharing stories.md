@@ -13,7 +13,7 @@ categories:
             <font size="60"> Group of multiethnic senior friends sharing stories from past</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/10654668/image/17287/172872706/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/10654668/image/17287/172872706/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/10654668/17287/i/950/depositphotos_172872706-stock-photo-senior-friends-sharing-stories.jpg?forcejpeg=true' alt='Group of multiethnic senior friends sharing stories from past' >
+    <a href='https://depositphotos.com/172872706/stock-photo-senior-friends-sharing-stories.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/172872706/stock-photo-senior-friends-sharing-stories.html?ref=64678756' src='https://st3.depositphotos.com/10654668/17287/i/950/depositphotos_172872706-stock-photo-senior-friends-sharing-stories.jpg?forcejpeg=true' alt='Group of multiethnic senior friends sharing stories from past' >
     </a>
 </div>

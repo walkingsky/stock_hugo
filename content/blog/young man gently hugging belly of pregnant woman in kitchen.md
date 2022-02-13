@@ -13,7 +13,7 @@ categories:
             <font size="60"> Young man gently hugging belly of pregnant woman in kitchen</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/20363444/image/47994/479940038/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/20363444/image/47994/479940038/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/20363444/47994/i/950/depositphotos_479940038-stock-photo-young-man-gently-hugging-belly.jpg?forcejpeg=true' alt='Young man gently hugging belly of pregnant woman in kitchen' >
+    <a href='https://depositphotos.com/479940038/stock-photo-young-man-gently-hugging-belly.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/479940038/stock-photo-young-man-gently-hugging-belly.html?ref=64678756' src='https://st2.depositphotos.com/20363444/47994/i/950/depositphotos_479940038-stock-photo-young-man-gently-hugging-belly.jpg?forcejpeg=true' alt='Young man gently hugging belly of pregnant woman in kitchen' >
     </a>
 </div>

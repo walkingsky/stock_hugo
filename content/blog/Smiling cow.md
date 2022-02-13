@@ -13,7 +13,7 @@ categories:
             <font size="60"> One smiling cow on a white background</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1763191/vector/6767/67675197/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1763191/vector/6767/67675197/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1763191/6767/v/950/depositphotos_67675197-stock-illustration-smiling-cow.jpg?forcejpeg=true' alt='One smiling cow on a white background' >
+    <a href='https://depositphotos.com/67675197/stock-illustration-smiling-cow.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/67675197/stock-illustration-smiling-cow.html?ref=64678756' src='https://st2.depositphotos.com/1763191/6767/v/950/depositphotos_67675197-stock-illustration-smiling-cow.jpg?forcejpeg=true' alt='One smiling cow on a white background' >
     </a>
 </div>

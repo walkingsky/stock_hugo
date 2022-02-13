@@ -13,7 +13,7 @@ categories:
             <font size="60"> Cheerful pharmacist in white coat writing on clipboard</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/12982378/image/51143/511436310/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/12982378/image/51143/511436310/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/12982378/51143/i/950/depositphotos_511436310-stock-photo-cheerful-pharmacist-white-coat-writing.jpg?forcejpeg=true' alt='Cheerful pharmacist in white coat writing on clipboard' >
+    <a href='https://depositphotos.com/511436310/stock-photo-cheerful-pharmacist-white-coat-writing.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/511436310/stock-photo-cheerful-pharmacist-white-coat-writing.html?ref=64678756' src='https://st.depositphotos.com/12982378/51143/i/950/depositphotos_511436310-stock-photo-cheerful-pharmacist-white-coat-writing.jpg?forcejpeg=true' alt='Cheerful pharmacist in white coat writing on clipboard' >
     </a>
 </div>

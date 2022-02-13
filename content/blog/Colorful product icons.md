@@ -13,7 +13,7 @@ categories:
             <font size="60"> Set of common goods and everyday products we get by shopping in a supermarket.</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1352665/vector/8591/85914396/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1352665/vector/8591/85914396/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1352665/8591/v/950/depositphotos_85914396-stock-illustration-colorful-product-icons.jpg?forcejpeg=true' alt='Set of common goods and everyday products we get by shopping in a supermarket.' >
+    <a href='https://depositphotos.com/85914396/stock-illustration-colorful-product-icons.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/85914396/stock-illustration-colorful-product-icons.html?ref=64678756' src='https://st2.depositphotos.com/1352665/8591/v/950/depositphotos_85914396-stock-illustration-colorful-product-icons.jpg?forcejpeg=true' alt='Set of common goods and everyday products we get by shopping in a supermarket.' >
     </a>
 </div>

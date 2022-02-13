@@ -13,7 +13,7 @@ categories:
             <font size="60"> Top view of plate with plastic trash on white, ecology concept</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/12982378/image/45890/458902268/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/12982378/image/45890/458902268/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/12982378/45890/i/950/depositphotos_458902268-stock-photo-top-view-plate-plastic-trash.jpg?forcejpeg=true' alt='Top view of plate with plastic trash on white, ecology concept' >
+    <a href='https://depositphotos.com/458902268/stock-photo-top-view-plate-plastic-trash.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/458902268/stock-photo-top-view-plate-plastic-trash.html?ref=64678756' src='https://st2.depositphotos.com/12982378/45890/i/950/depositphotos_458902268-stock-photo-top-view-plate-plastic-trash.jpg?forcejpeg=true' alt='Top view of plate with plastic trash on white, ecology concept' >
     </a>
 </div>

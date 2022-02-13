@@ -13,7 +13,7 @@ categories:
             <font size="60"> Music poster with microphone</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1536490/vector/1696/16963257/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1536490/vector/1696/16963257/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1536490/1696/v/950/depositphotos_16963257-stock-illustration-music-poster.jpg?forcejpeg=true' alt='Music poster with microphone' >
+    <a href='https://depositphotos.com/16963257/stock-illustration-music-poster.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/16963257/stock-illustration-music-poster.html?ref=64678756' src='https://st.depositphotos.com/1536490/1696/v/950/depositphotos_16963257-stock-illustration-music-poster.jpg?forcejpeg=true' alt='Music poster with microphone' >
     </a>
 </div>

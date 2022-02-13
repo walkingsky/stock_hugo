@@ -13,7 +13,7 @@ categories:
             <font size="60"> Happy romantic couple sitting on plaid and enjoying guitar in autumn forest</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/9880800/image/12845/128453076/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/9880800/image/12845/128453076/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/9880800/12845/i/950/depositphotos_128453076-stock-photo-romantic-couple-in-autumn-forest.jpg?forcejpeg=true' alt='Happy romantic couple sitting on plaid and enjoying guitar in autumn forest' >
+    <a href='https://depositphotos.com/128453076/stock-photo-romantic-couple-in-autumn-forest.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/128453076/stock-photo-romantic-couple-in-autumn-forest.html?ref=64678756' src='https://st3.depositphotos.com/9880800/12845/i/950/depositphotos_128453076-stock-photo-romantic-couple-in-autumn-forest.jpg?forcejpeg=true' alt='Happy romantic couple sitting on plaid and enjoying guitar in autumn forest' >
     </a>
 </div>

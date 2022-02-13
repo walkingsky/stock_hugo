@@ -13,7 +13,7 @@ categories:
             <font size="60"> Stylish modern workplace with computer in office</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13193658/image/16917/169174546/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13193658/image/16917/169174546/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13193658/16917/i/950/depositphotos_169174546-stock-photo-modern-workplace.jpg?forcejpeg=true' alt='Stylish modern workplace with computer in office' >
+    <a href='https://depositphotos.com/169174546/stock-photo-modern-workplace.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/169174546/stock-photo-modern-workplace.html?ref=64678756' src='https://st3.depositphotos.com/13193658/16917/i/950/depositphotos_169174546-stock-photo-modern-workplace.jpg?forcejpeg=true' alt='Stylish modern workplace with computer in office' >
     </a>
 </div>

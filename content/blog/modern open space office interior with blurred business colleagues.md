@@ -13,7 +13,7 @@ categories:
             <font size="60"> Modern open space office interior with blurred business colleagues</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12985790/image/23602/236024322/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12985790/image/23602/236024322/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12985790/23602/i/950/depositphotos_236024322-stock-photo-modern-open-space-office-interior.jpg?forcejpeg=true' alt='Modern open space office interior with blurred business colleagues' >
+    <a href='https://depositphotos.com/236024322/stock-photo-modern-open-space-office-interior.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/236024322/stock-photo-modern-open-space-office-interior.html?ref=64678756' src='https://st4.depositphotos.com/12985790/23602/i/950/depositphotos_236024322-stock-photo-modern-open-space-office-interior.jpg?forcejpeg=true' alt='Modern open space office interior with blurred business colleagues' >
     </a>
 </div>

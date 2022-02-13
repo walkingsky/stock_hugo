@@ -13,7 +13,7 @@ categories:
             <font size="60"> Large beige house with green grass</font>   
 </div>
 <div>
-    <a href='https://static7.depositphotos.com/thumbs/1041088/image/758/7589448/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static7.depositphotos.com/thumbs/1041088/image/758/7589448/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static7.depositphotos.com/1041088/758/i/950/depositphotos_7589448-stock-photo-large-beige-house-with-green.jpg?forcejpeg=true' alt='Large beige house with green grass' >
+    <a href='https://depositphotos.com/7589448/stock-photo-large-beige-house-with-green.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/7589448/stock-photo-large-beige-house-with-green.html?ref=64678756' src='https://static7.depositphotos.com/1041088/758/i/950/depositphotos_7589448-stock-photo-large-beige-house-with-green.jpg?forcejpeg=true' alt='Large beige house with green grass' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Smiling female doctor with clipboard walking on staircase in hospital</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/13194036/image/21194/211942904/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/13194036/image/21194/211942904/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/13194036/21194/i/950/depositphotos_211942904-stock-photo-smiling-female-doctor-clipboard-walking.jpg?forcejpeg=true' alt='Smiling female doctor with clipboard walking on staircase in hospital' >
+    <a href='https://depositphotos.com/211942904/stock-photo-smiling-female-doctor-clipboard-walking.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/211942904/stock-photo-smiling-female-doctor-clipboard-walking.html?ref=64678756' src='https://st4.depositphotos.com/13194036/21194/i/950/depositphotos_211942904-stock-photo-smiling-female-doctor-clipboard-walking.jpg?forcejpeg=true' alt='Smiling female doctor with clipboard walking on staircase in hospital' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Nature, landscape</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1006137/image/3198/31981505/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1006137/image/3198/31981505/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1006137/3198/i/950/depositphotos_31981505-stock-photo-raw-nature.jpg?forcejpeg=true' alt='Nature, landscape' >
+    <a href='https://depositphotos.com/31981505/stock-photo-raw-nature.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/31981505/stock-photo-raw-nature.html?ref=64678756' src='https://st.depositphotos.com/1006137/3198/i/950/depositphotos_31981505-stock-photo-raw-nature.jpg?forcejpeg=true' alt='Nature, landscape' >
     </a>
 </div>

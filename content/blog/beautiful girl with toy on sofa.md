@@ -13,7 +13,7 @@ categories:
             <font size="60"> Beautiful girl with toy on sofa</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1001411/image/9698/96985666/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1001411/image/9698/96985666/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1001411/9698/i/950/depositphotos_96985666-stock-photo-beautiful-girl-with-toy-on.jpg?forcejpeg=true' alt='Beautiful girl with toy on sofa' >
+    <a href='https://depositphotos.com/96985666/stock-photo-beautiful-girl-with-toy-on.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/96985666/stock-photo-beautiful-girl-with-toy-on.html?ref=64678756' src='https://st2.depositphotos.com/1001411/9698/i/950/depositphotos_96985666-stock-photo-beautiful-girl-with-toy-on.jpg?forcejpeg=true' alt='Beautiful girl with toy on sofa' >
     </a>
 </div>

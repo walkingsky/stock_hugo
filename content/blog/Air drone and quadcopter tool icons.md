@@ -13,7 +13,7 @@ categories:
             <font size="60"> Air drone and quadcopter tool icons. Icon set style is flat vector images, yellow symbols, isolated on a white background</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/5266903/vector/7969/79695764/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/5266903/vector/7969/79695764/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/5266903/7969/v/950/depositphotos_79695764-stock-illustration-air-drone-and-quadcopter-tool.jpg?forcejpeg=true' alt='Air drone and quadcopter tool icons. Icon set style is flat vector images, yellow symbols, isolated on a white background' >
+    <a href='https://depositphotos.com/79695764/stock-illustration-air-drone-and-quadcopter-tool.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/79695764/stock-illustration-air-drone-and-quadcopter-tool.html?ref=64678756' src='https://st2.depositphotos.com/5266903/7969/v/950/depositphotos_79695764-stock-illustration-air-drone-and-quadcopter-tool.jpg?forcejpeg=true' alt='Air drone and quadcopter tool icons. Icon set style is flat vector images, yellow symbols, isolated on a white background' >
     </a>
 </div>

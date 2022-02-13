@@ -13,7 +13,7 @@ categories:
             <font size="60"> Futuristic structure of office skyscrapers in the morning, wide angle view</font>   
 </div>
 <div>
-    <a href='https://static6.depositphotos.com/thumbs/1001925/image/671/6711246/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static6.depositphotos.com/thumbs/1001925/image/671/6711246/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static6.depositphotos.com/1001925/671/i/950/depositphotos_6711246-stock-photo-futuristic-structure-of-office-skyscrapers.jpg?forcejpeg=true' alt='Futuristic structure of office skyscrapers in the morning, wide angle view' >
+    <a href='https://depositphotos.com/6711246/stock-photo-futuristic-structure-of-office-skyscrapers.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/6711246/stock-photo-futuristic-structure-of-office-skyscrapers.html?ref=64678756' src='https://static6.depositphotos.com/1001925/671/i/950/depositphotos_6711246-stock-photo-futuristic-structure-of-office-skyscrapers.jpg?forcejpeg=true' alt='Futuristic structure of office skyscrapers in the morning, wide angle view' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Smiling african american girl with golden eye patches and braces, isolated on grey</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13194036/image/33240/332406330/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13194036/image/33240/332406330/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13194036/33240/i/950/depositphotos_332406330-stock-photo-smiling-african-american-girl-golden.jpg?forcejpeg=true' alt='Smiling african american girl with golden eye patches and braces, isolated on grey' >
+    <a href='https://depositphotos.com/332406330/stock-photo-smiling-african-american-girl-golden.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/332406330/stock-photo-smiling-african-american-girl-golden.html?ref=64678756' src='https://st3.depositphotos.com/13194036/33240/i/950/depositphotos_332406330-stock-photo-smiling-african-american-girl-golden.jpg?forcejpeg=true' alt='Smiling african american girl with golden eye patches and braces, isolated on grey' >
     </a>
 </div>

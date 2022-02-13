@@ -13,7 +13,7 @@ categories:
             <font size="60"> Healthy food background. Collection with different fruits, berries and vegetables</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1069055/image/6822/68224817/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1069055/image/6822/68224817/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1069055/6822/i/950/depositphotos_68224817-stock-photo-healthy-food-background.jpg?forcejpeg=true' alt='Healthy food background. Collection with different fruits, berries and vegetables' >
+    <a href='https://depositphotos.com/68224817/stock-photo-healthy-food-background.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/68224817/stock-photo-healthy-food-background.html?ref=64678756' src='https://st2.depositphotos.com/1069055/6822/i/950/depositphotos_68224817-stock-photo-healthy-food-background.jpg?forcejpeg=true' alt='Healthy food background. Collection with different fruits, berries and vegetables' >
     </a>
 </div>

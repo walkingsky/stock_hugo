@@ -13,7 +13,7 @@ categories:
             <font size="60"> Young business partners sharing and discussing ideas at meeting in office</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1594308/image/5155/51556977/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1594308/image/5155/51556977/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1594308/5155/i/950/depositphotos_51556977-stock-photo-business-partners-at-meeting.jpg?forcejpeg=true' alt='Young business partners sharing and discussing ideas at meeting in office' >
+    <a href='https://depositphotos.com/51556977/stock-photo-business-partners-at-meeting.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/51556977/stock-photo-business-partners-at-meeting.html?ref=64678756' src='https://st.depositphotos.com/1594308/5155/i/950/depositphotos_51556977-stock-photo-business-partners-at-meeting.jpg?forcejpeg=true' alt='Young business partners sharing and discussing ideas at meeting in office' >
     </a>
 </div>

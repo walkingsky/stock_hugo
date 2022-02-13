@@ -13,7 +13,7 @@ categories:
             <font size="60"> Cheerful woman looking at camera while cutting fresh fruits on blurred foreground</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/13193658/image/45156/451563582/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/13193658/image/45156/451563582/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/13193658/45156/i/950/depositphotos_451563582-stock-photo-cheerful-woman-looking-camera-while.jpg?forcejpeg=true' alt='Cheerful woman looking at camera while cutting fresh fruits on blurred foreground' >
+    <a href='https://depositphotos.com/451563582/stock-photo-cheerful-woman-looking-camera-while.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/451563582/stock-photo-cheerful-woman-looking-camera-while.html?ref=64678756' src='https://st2.depositphotos.com/13193658/45156/i/950/depositphotos_451563582-stock-photo-cheerful-woman-looking-camera-while.jpg?forcejpeg=true' alt='Cheerful woman looking at camera while cutting fresh fruits on blurred foreground' >
     </a>
 </div>

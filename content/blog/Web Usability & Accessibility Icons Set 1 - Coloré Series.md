@@ -13,7 +13,7 @@ categories:
             <font size="60"> This set contains Web Usability and Accessibility Icons great for presentations, web design, mobile apps or any type of design projects.</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/2119833/vector/5637/56377865/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/2119833/vector/5637/56377865/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/2119833/5637/v/950/depositphotos_56377865-stock-illustration-web-usability-accessibility-icons-set.jpg?forcejpeg=true' alt='This set contains Web Usability and Accessibility Icons great for presentations, web design, mobile apps or any type of design projects.' >
+    <a href='https://depositphotos.com/56377865/stock-illustration-web-usability-accessibility-icons-set.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/56377865/stock-illustration-web-usability-accessibility-icons-set.html?ref=64678756' src='https://st2.depositphotos.com/2119833/5637/v/950/depositphotos_56377865-stock-illustration-web-usability-accessibility-icons-set.jpg?forcejpeg=true' alt='This set contains Web Usability and Accessibility Icons great for presentations, web design, mobile apps or any type of design projects.' >
     </a>
 </div>

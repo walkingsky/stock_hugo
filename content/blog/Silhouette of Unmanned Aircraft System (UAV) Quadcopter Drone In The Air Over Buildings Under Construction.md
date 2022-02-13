@@ -13,7 +13,7 @@ categories:
             <font size="60"> Silhouette of Unmanned Aircraft System (UAV) Quadcopter Drone In The Air Over Buildings Under Construction.</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/1007959/image/21683/216839980/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/1007959/image/21683/216839980/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/1007959/21683/i/950/depositphotos_216839980-stock-photo-silhouette-unmanned-aircraft-system-uav.jpg?forcejpeg=true' alt='Silhouette of Unmanned Aircraft System (UAV) Quadcopter Drone In The Air Over Buildings Under Construction.' >
+    <a href='https://depositphotos.com/216839980/stock-photo-silhouette-unmanned-aircraft-system-uav.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/216839980/stock-photo-silhouette-unmanned-aircraft-system-uav.html?ref=64678756' src='https://st4.depositphotos.com/1007959/21683/i/950/depositphotos_216839980-stock-photo-silhouette-unmanned-aircraft-system-uav.jpg?forcejpeg=true' alt='Silhouette of Unmanned Aircraft System (UAV) Quadcopter Drone In The Air Over Buildings Under Construction.' >
     </a>
 </div>

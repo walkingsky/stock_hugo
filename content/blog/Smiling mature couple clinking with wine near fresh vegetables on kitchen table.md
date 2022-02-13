@@ -13,7 +13,7 @@ categories:
             <font size="60"> Smiling mature couple clinking with wine near fresh vegetables on kitchen table</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/13193658/image/37851/378514942/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/13193658/image/37851/378514942/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/13193658/37851/i/950/depositphotos_378514942-stock-photo-smiling-mature-couple-clinking-wine.jpg?forcejpeg=true' alt='Smiling mature couple clinking with wine near fresh vegetables on kitchen table' >
+    <a href='https://depositphotos.com/378514942/stock-photo-smiling-mature-couple-clinking-wine.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/378514942/stock-photo-smiling-mature-couple-clinking-wine.html?ref=64678756' src='https://st4.depositphotos.com/13193658/37851/i/950/depositphotos_378514942-stock-photo-smiling-mature-couple-clinking-wine.jpg?forcejpeg=true' alt='Smiling mature couple clinking with wine near fresh vegetables on kitchen table' >
     </a>
 </div>

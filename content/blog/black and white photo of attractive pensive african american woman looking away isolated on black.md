@@ -13,7 +13,7 @@ categories:
             <font size="60"> Black and white photo of attractive pensive african american woman looking away isolated on black</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12982378/image/22136/221369024/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12982378/image/22136/221369024/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12982378/22136/i/950/depositphotos_221369024-stock-photo-black-white-photo-attractive-pensive.jpg?forcejpeg=true' alt='Black and white photo of attractive pensive african american woman looking away isolated on black' >
+    <a href='https://depositphotos.com/221369024/stock-photo-black-white-photo-attractive-pensive.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/221369024/stock-photo-black-white-photo-attractive-pensive.html?ref=64678756' src='https://st4.depositphotos.com/12982378/22136/i/950/depositphotos_221369024-stock-photo-black-white-photo-attractive-pensive.jpg?forcejpeg=true' alt='Black and white photo of attractive pensive african american woman looking away isolated on black' >
     </a>
 </div>

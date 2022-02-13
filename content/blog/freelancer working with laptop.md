@@ -13,7 +13,7 @@ categories:
             <font size="60"> Cropped view of bearded freelancer working with laptop in home office</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12982378/image/15753/157536162/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12982378/image/15753/157536162/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12982378/15753/i/950/depositphotos_157536162-stock-photo-freelancer-working-with-laptop.jpg?forcejpeg=true' alt='Cropped view of bearded freelancer working with laptop in home office' >
+    <a href='https://depositphotos.com/157536162/stock-photo-freelancer-working-with-laptop.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/157536162/stock-photo-freelancer-working-with-laptop.html?ref=64678756' src='https://st3.depositphotos.com/12982378/15753/i/950/depositphotos_157536162-stock-photo-freelancer-working-with-laptop.jpg?forcejpeg=true' alt='Cropped view of bearded freelancer working with laptop in home office' >
     </a>
 </div>

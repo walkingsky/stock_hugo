@@ -13,7 +13,7 @@ categories:
             <font size="60"> Nurse measuring blood pressure to smiling senior woman in hospital</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12982378/image/16765/167654776/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12982378/image/16765/167654776/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12982378/16765/i/950/depositphotos_167654776-stock-photo-nurse-measuring-blood-pressure-to.jpg?forcejpeg=true' alt='Nurse measuring blood pressure to smiling senior woman in hospital' >
+    <a href='https://depositphotos.com/167654776/stock-photo-nurse-measuring-blood-pressure-to.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/167654776/stock-photo-nurse-measuring-blood-pressure-to.html?ref=64678756' src='https://st3.depositphotos.com/12982378/16765/i/950/depositphotos_167654776-stock-photo-nurse-measuring-blood-pressure-to.jpg?forcejpeg=true' alt='Nurse measuring blood pressure to smiling senior woman in hospital' >
     </a>
 </div>

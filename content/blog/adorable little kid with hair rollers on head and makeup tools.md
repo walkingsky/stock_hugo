@@ -13,7 +13,7 @@ categories:
             <font size="60"> Adorable little kid with hair rollers on head and makeup tools</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12982378/image/17675/176754406/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12982378/image/17675/176754406/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12982378/17675/i/950/depositphotos_176754406-stock-photo-adorable-little-kid-hair-rollers.jpg?forcejpeg=true' alt='Adorable little kid with hair rollers on head and makeup tools' >
+    <a href='https://depositphotos.com/176754406/stock-photo-adorable-little-kid-hair-rollers.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/176754406/stock-photo-adorable-little-kid-hair-rollers.html?ref=64678756' src='https://st3.depositphotos.com/12982378/17675/i/950/depositphotos_176754406-stock-photo-adorable-little-kid-hair-rollers.jpg?forcejpeg=true' alt='Adorable little kid with hair rollers on head and makeup tools' >
     </a>
 </div>

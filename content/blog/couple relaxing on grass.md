@@ -13,7 +13,7 @@ categories:
             <font size="60"> Beautiful couple relaxing on grass in front of new house</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/9880800/image/16793/167932616/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/9880800/image/16793/167932616/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/9880800/16793/i/950/depositphotos_167932616-stock-photo-couple-relaxing-on-grass.jpg?forcejpeg=true' alt='Beautiful couple relaxing on grass in front of new house' >
+    <a href='https://depositphotos.com/167932616/stock-photo-couple-relaxing-on-grass.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/167932616/stock-photo-couple-relaxing-on-grass.html?ref=64678756' src='https://st3.depositphotos.com/9880800/16793/i/950/depositphotos_167932616-stock-photo-couple-relaxing-on-grass.jpg?forcejpeg=true' alt='Beautiful couple relaxing on grass in front of new house' >
     </a>
 </div>

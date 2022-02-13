@@ -13,7 +13,7 @@ categories:
             <font size="60"> Cropped view of girl in autumn outfit holding board with sale sign, isolated on white</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/13194036/image/21493/214933398/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/13194036/image/21493/214933398/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/13194036/21493/i/950/depositphotos_214933398-stock-photo-cropped-view-girl-autumn-outfit.jpg?forcejpeg=true' alt='Cropped view of girl in autumn outfit holding board with sale sign, isolated on white' >
+    <a href='https://depositphotos.com/214933398/stock-photo-cropped-view-girl-autumn-outfit.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/214933398/stock-photo-cropped-view-girl-autumn-outfit.html?ref=64678756' src='https://st4.depositphotos.com/13194036/21493/i/950/depositphotos_214933398-stock-photo-cropped-view-girl-autumn-outfit.jpg?forcejpeg=true' alt='Cropped view of girl in autumn outfit holding board with sale sign, isolated on white' >
     </a>
 </div>

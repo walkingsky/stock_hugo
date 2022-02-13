@@ -13,7 +13,7 @@ categories:
             <font size="60"> Confident female doctor with crossed arms looking at camera</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12985790/image/18888/188887178/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12985790/image/18888/188887178/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12985790/18888/i/950/depositphotos_188887178-stock-photo-confident-female-doctor-crossed-arms.jpg?forcejpeg=true' alt='Confident female doctor with crossed arms looking at camera' >
+    <a href='https://depositphotos.com/188887178/stock-photo-confident-female-doctor-crossed-arms.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/188887178/stock-photo-confident-female-doctor-crossed-arms.html?ref=64678756' src='https://st3.depositphotos.com/12985790/18888/i/950/depositphotos_188887178-stock-photo-confident-female-doctor-crossed-arms.jpg?forcejpeg=true' alt='Confident female doctor with crossed arms looking at camera' >
     </a>
 </div>

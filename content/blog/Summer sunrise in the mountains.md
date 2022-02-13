@@ -13,7 +13,7 @@ categories:
             <font size="60"> Colorful summer sunrise in the mountains covered with blooming rhododendron flowers in soft morning light.</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/3651191/image/7259/72591037/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/3651191/image/7259/72591037/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/3651191/7259/i/950/depositphotos_72591037-stock-photo-summer-sunrise-in-the-mountains.jpg?forcejpeg=true' alt='Colorful summer sunrise in the mountains covered with blooming rhododendron flowers in soft morning light.' >
+    <a href='https://depositphotos.com/72591037/stock-photo-summer-sunrise-in-the-mountains.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/72591037/stock-photo-summer-sunrise-in-the-mountains.html?ref=64678756' src='https://st2.depositphotos.com/3651191/7259/i/950/depositphotos_72591037-stock-photo-summer-sunrise-in-the-mountains.jpg?forcejpeg=true' alt='Colorful summer sunrise in the mountains covered with blooming rhododendron flowers in soft morning light.' >
     </a>
 </div>

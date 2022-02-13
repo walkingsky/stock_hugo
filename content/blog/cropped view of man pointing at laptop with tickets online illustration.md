@@ -13,7 +13,7 @@ categories:
             <font size="60"> Cropped view of man pointing at laptop with tickets online illustration</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/13193658/image/22464/224647732/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/13193658/image/22464/224647732/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/13193658/22464/i/950/depositphotos_224647732-stock-photo-cropped-view-man-pointing-laptop.jpg?forcejpeg=true' alt='Cropped view of man pointing at laptop with tickets online illustration' >
+    <a href='https://depositphotos.com/224647732/stock-photo-cropped-view-man-pointing-laptop.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/224647732/stock-photo-cropped-view-man-pointing-laptop.html?ref=64678756' src='https://st4.depositphotos.com/13193658/22464/i/950/depositphotos_224647732-stock-photo-cropped-view-man-pointing-laptop.jpg?forcejpeg=true' alt='Cropped view of man pointing at laptop with tickets online illustration' >
     </a>
 </div>

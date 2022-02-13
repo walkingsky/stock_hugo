@@ -13,7 +13,7 @@ categories:
             <font size="60"> Cropped view of shocked freelancer sitting near laptop and stationery on table at home, concept of earning online</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/20363444/image/39221/392214530/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/20363444/image/39221/392214530/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/20363444/39221/i/950/depositphotos_392214530-stock-photo-cropped-view-shocked-freelancer-sitting.jpg?forcejpeg=true' alt='Cropped view of shocked freelancer sitting near laptop and stationery on table at home, concept of earning online' >
+    <a href='https://depositphotos.com/392214530/stock-photo-cropped-view-shocked-freelancer-sitting.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/392214530/stock-photo-cropped-view-shocked-freelancer-sitting.html?ref=64678756' src='https://st4.depositphotos.com/20363444/39221/i/950/depositphotos_392214530-stock-photo-cropped-view-shocked-freelancer-sitting.jpg?forcejpeg=true' alt='Cropped view of shocked freelancer sitting near laptop and stationery on table at home, concept of earning online' >
     </a>
 </div>

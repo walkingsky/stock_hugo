@@ -13,7 +13,7 @@ categories:
             <font size="60"> Top view of salt, chilli flakes and powdered pepper in paper bags on table</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/15583058/image/19656/196567198/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/15583058/image/19656/196567198/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/15583058/19656/i/950/depositphotos_196567198-stock-photo-top-view-salt-chilli-flakes.jpg?forcejpeg=true' alt='Top view of salt, chilli flakes and powdered pepper in paper bags on table' >
+    <a href='https://depositphotos.com/196567198/stock-photo-top-view-salt-chilli-flakes.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/196567198/stock-photo-top-view-salt-chilli-flakes.html?ref=64678756' src='https://st4.depositphotos.com/15583058/19656/i/950/depositphotos_196567198-stock-photo-top-view-salt-chilli-flakes.jpg?forcejpeg=true' alt='Top view of salt, chilli flakes and powdered pepper in paper bags on table' >
     </a>
 </div>

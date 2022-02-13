@@ -13,7 +13,7 @@ categories:
             <font size="60"> Athletic young woman doing forward bend on yoga mat at home</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12985790/image/19602/196028354/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12985790/image/19602/196028354/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12985790/19602/i/950/depositphotos_196028354-stock-photo-athletic-young-woman-doing-forward.jpg?forcejpeg=true' alt='Athletic young woman doing forward bend on yoga mat at home' >
+    <a href='https://depositphotos.com/196028354/stock-photo-athletic-young-woman-doing-forward.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/196028354/stock-photo-athletic-young-woman-doing-forward.html?ref=64678756' src='https://st4.depositphotos.com/12985790/19602/i/950/depositphotos_196028354-stock-photo-athletic-young-woman-doing-forward.jpg?forcejpeg=true' alt='Athletic young woman doing forward bend on yoga mat at home' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Selective focus of happy operator in headset waving hand while having video call at home</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12982378/image/36576/365762002/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12982378/image/36576/365762002/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12982378/36576/i/950/depositphotos_365762002-stock-photo-selective-focus-happy-operator-headset.jpg?forcejpeg=true' alt='Selective focus of happy operator in headset waving hand while having video call at home' >
+    <a href='https://depositphotos.com/365762002/stock-photo-selective-focus-happy-operator-headset.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/365762002/stock-photo-selective-focus-happy-operator-headset.html?ref=64678756' src='https://st3.depositphotos.com/12982378/36576/i/950/depositphotos_365762002-stock-photo-selective-focus-happy-operator-headset.jpg?forcejpeg=true' alt='Selective focus of happy operator in headset waving hand while having video call at home' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Young brunette Caucasian businesswoman with thumb down and negative facial expression on gray background.</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1759606/image/1984/19844853/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1759606/image/1984/19844853/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1759606/1984/i/950/depositphotos_19844853-stock-photo-not-impressed.jpg?forcejpeg=true' alt='Young brunette Caucasian businesswoman with thumb down and negative facial expression on gray background.' >
+    <a href='https://depositphotos.com/19844853/stock-photo-not-impressed.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/19844853/stock-photo-not-impressed.html?ref=64678756' src='https://st.depositphotos.com/1759606/1984/i/950/depositphotos_19844853-stock-photo-not-impressed.jpg?forcejpeg=true' alt='Young brunette Caucasian businesswoman with thumb down and negative facial expression on gray background.' >
     </a>
 </div>

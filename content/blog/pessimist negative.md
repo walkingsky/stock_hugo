@@ -13,7 +13,7 @@ categories:
             <font size="60"> Pessimist negative on gray background</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1034986/image/1360/13603137/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1034986/image/1360/13603137/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1034986/1360/i/950/depositphotos_13603137-stock-photo-pessimist-negative.jpg?forcejpeg=true' alt='Pessimist negative on gray background' >
+    <a href='https://depositphotos.com/13603137/stock-photo-pessimist-negative.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/13603137/stock-photo-pessimist-negative.html?ref=64678756' src='https://st.depositphotos.com/1034986/1360/i/950/depositphotos_13603137-stock-photo-pessimist-negative.jpg?forcejpeg=true' alt='Pessimist negative on gray background' >
     </a>
 </div>

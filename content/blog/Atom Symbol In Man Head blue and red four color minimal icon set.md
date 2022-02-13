@@ -13,7 +13,7 @@ categories:
             <font size="60"> Atom Symbol In Man Head blue and red four color minimal icon set</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/50337402/vector/47103/471038122/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/50337402/vector/47103/471038122/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/50337402/47103/v/950/depositphotos_471038122-stock-illustration-atom-symbol-man-head-blue.jpg?forcejpeg=true' alt='Atom Symbol In Man Head blue and red four color minimal icon set' >
+    <a href='https://depositphotos.com/471038122/stock-illustration-atom-symbol-man-head-blue.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/471038122/stock-illustration-atom-symbol-man-head-blue.html?ref=64678756' src='https://st2.depositphotos.com/50337402/47103/v/950/depositphotos_471038122-stock-illustration-atom-symbol-man-head-blue.jpg?forcejpeg=true' alt='Atom Symbol In Man Head blue and red four color minimal icon set' >
     </a>
 </div>

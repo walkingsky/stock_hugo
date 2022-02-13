@@ -13,7 +13,7 @@ categories:
             <font size="60"> Smiling senior man looking at wife in park during summer</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/13193658/image/39502/395025962/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/13193658/image/39502/395025962/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/13193658/39502/i/950/depositphotos_395025962-stock-photo-smiling-senior-man-looking-wife.jpg?forcejpeg=true' alt='Smiling senior man looking at wife in park during summer' >
+    <a href='https://depositphotos.com/395025962/stock-photo-smiling-senior-man-looking-wife.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/395025962/stock-photo-smiling-senior-man-looking-wife.html?ref=64678756' src='https://st4.depositphotos.com/13193658/39502/i/950/depositphotos_395025962-stock-photo-smiling-senior-man-looking-wife.jpg?forcejpeg=true' alt='Smiling senior man looking at wife in park during summer' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Freeze motion of colored dust explosion isolated on black background</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1105977/image/3593/35936527/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1105977/image/3593/35936527/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1105977/3593/i/950/depositphotos_35936527-stock-photo-colored-dust.jpg?forcejpeg=true' alt='Freeze motion of colored dust explosion isolated on black background' >
+    <a href='https://depositphotos.com/35936527/stock-photo-colored-dust.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/35936527/stock-photo-colored-dust.html?ref=64678756' src='https://st.depositphotos.com/1105977/3593/i/950/depositphotos_35936527-stock-photo-colored-dust.jpg?forcejpeg=true' alt='Freeze motion of colored dust explosion isolated on black background' >
     </a>
 </div>

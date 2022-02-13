@@ -13,7 +13,7 @@ categories:
             <font size="60"> Wooden text on vintage board background with copy space</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1026550/image/5097/50978143/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1026550/image/5097/50978143/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1026550/5097/i/950/depositphotos_50978143-stock-photo-home-sweet-home.jpg?forcejpeg=true' alt='Wooden text on vintage board background with copy space' >
+    <a href='https://depositphotos.com/50978143/stock-photo-home-sweet-home.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/50978143/stock-photo-home-sweet-home.html?ref=64678756' src='https://st.depositphotos.com/1026550/5097/i/950/depositphotos_50978143-stock-photo-home-sweet-home.jpg?forcejpeg=true' alt='Wooden text on vintage board background with copy space' >
     </a>
 </div>

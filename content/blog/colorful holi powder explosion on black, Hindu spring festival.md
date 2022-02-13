@@ -13,7 +13,7 @@ categories:
             <font size="60"> Colorful holi powder explosion on black, Hindu spring festival</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13349494/image/18500/185000004/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13349494/image/18500/185000004/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13349494/18500/i/950/depositphotos_185000004-stock-photo-colorful-holi-powder-explosion-black.jpg?forcejpeg=true' alt='Colorful holi powder explosion on black, Hindu spring festival' >
+    <a href='https://depositphotos.com/185000004/stock-photo-colorful-holi-powder-explosion-black.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/185000004/stock-photo-colorful-holi-powder-explosion-black.html?ref=64678756' src='https://st3.depositphotos.com/13349494/18500/i/950/depositphotos_185000004-stock-photo-colorful-holi-powder-explosion-black.jpg?forcejpeg=true' alt='Colorful holi powder explosion on black, Hindu spring festival' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Senior disabled man in wheelchair reading business newspaper on street</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12982378/image/22280/222803226/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12982378/image/22280/222803226/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12982378/22280/i/950/depositphotos_222803226-stock-photo-senior-disabled-man-wheelchair-reading.jpg?forcejpeg=true' alt='Senior disabled man in wheelchair reading business newspaper on street' >
+    <a href='https://depositphotos.com/222803226/stock-photo-senior-disabled-man-wheelchair-reading.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/222803226/stock-photo-senior-disabled-man-wheelchair-reading.html?ref=64678756' src='https://st4.depositphotos.com/12982378/22280/i/950/depositphotos_222803226-stock-photo-senior-disabled-man-wheelchair-reading.jpg?forcejpeg=true' alt='Senior disabled man in wheelchair reading business newspaper on street' >
     </a>
 </div>

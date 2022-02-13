@@ -13,7 +13,7 @@ categories:
             <font size="60"> Health symbols. Healthy heart, healthy food, good sleep, yoga, spa therapy. Colorful design. Isolated on a white background.</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1067125/vector/2978/29788787/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1067125/vector/2978/29788787/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1067125/2978/v/950/depositphotos_29788787-stock-illustration-health-symbols.jpg?forcejpeg=true' alt='Health symbols. Healthy heart, healthy food, good sleep, yoga, spa therapy. Colorful design. Isolated on a white background.' >
+    <a href='https://depositphotos.com/29788787/stock-illustration-health-symbols.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/29788787/stock-illustration-health-symbols.html?ref=64678756' src='https://st.depositphotos.com/1067125/2978/v/950/depositphotos_29788787-stock-illustration-health-symbols.jpg?forcejpeg=true' alt='Health symbols. Healthy heart, healthy food, good sleep, yoga, spa therapy. Colorful design. Isolated on a white background.' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Minimal workspace with laptop and pink peony flowers on white background. Flat lay, top view blog hero header.</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/7595566/image/20607/206071798/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/7595566/image/20607/206071798/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/7595566/20607/i/950/depositphotos_206071798-stock-photo-minimal-workspace-laptop-pink-peony.jpg?forcejpeg=true' alt='Minimal workspace with laptop and pink peony flowers on white background. Flat lay, top view blog hero header.' >
+    <a href='https://depositphotos.com/206071798/stock-photo-minimal-workspace-laptop-pink-peony.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/206071798/stock-photo-minimal-workspace-laptop-pink-peony.html?ref=64678756' src='https://st4.depositphotos.com/7595566/20607/i/950/depositphotos_206071798-stock-photo-minimal-workspace-laptop-pink-peony.jpg?forcejpeg=true' alt='Minimal workspace with laptop and pink peony flowers on white background. Flat lay, top view blog hero header.' >
     </a>
 </div>

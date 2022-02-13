@@ -13,7 +13,7 @@ categories:
             <font size="60"> Multiethnic business partners working together at moden office</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/10654668/image/17465/174654790/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/10654668/image/17465/174654790/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/10654668/17465/i/950/depositphotos_174654790-stock-photo-multiethnic-business-partners-working-together.jpg?forcejpeg=true' alt='Multiethnic business partners working together at moden office' >
+    <a href='https://depositphotos.com/174654790/stock-photo-multiethnic-business-partners-working-together.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/174654790/stock-photo-multiethnic-business-partners-working-together.html?ref=64678756' src='https://st3.depositphotos.com/10654668/17465/i/950/depositphotos_174654790-stock-photo-multiethnic-business-partners-working-together.jpg?forcejpeg=true' alt='Multiethnic business partners working together at moden office' >
     </a>
 </div>

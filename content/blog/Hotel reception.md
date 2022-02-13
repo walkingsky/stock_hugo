@@ -13,7 +13,7 @@ categories:
             <font size="60"> Interior of a hotel reception, modern style.</font>   
 </div>
 <div>
-    <a href='https://static7.depositphotos.com/thumbs/1010643/image/759/7599744/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static7.depositphotos.com/thumbs/1010643/image/759/7599744/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static7.depositphotos.com/1010643/759/i/950/depositphotos_7599744-stock-photo-hotel-reception.jpg?forcejpeg=true' alt='Interior of a hotel reception, modern style.' >
+    <a href='https://depositphotos.com/7599744/stock-photo-hotel-reception.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/7599744/stock-photo-hotel-reception.html?ref=64678756' src='https://static7.depositphotos.com/1010643/759/i/950/depositphotos_7599744-stock-photo-hotel-reception.jpg?forcejpeg=true' alt='Interior of a hotel reception, modern style.' >
     </a>
 </div>

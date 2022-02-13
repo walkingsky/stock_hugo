@@ -13,7 +13,7 @@ categories:
             <font size="60"> 3D printer creating plastic model near blurred figures and laptop in modern office</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/46171552/image/47887/478874390/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/46171552/image/47887/478874390/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/46171552/47887/i/950/depositphotos_478874390-stock-photo-printer-creating-plastic-model-blurred.jpg?forcejpeg=true' alt='3D printer creating plastic model near blurred figures and laptop in modern office' >
+    <a href='https://depositphotos.com/478874390/stock-photo-printer-creating-plastic-model-blurred.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/478874390/stock-photo-printer-creating-plastic-model-blurred.html?ref=64678756' src='https://st2.depositphotos.com/46171552/47887/i/950/depositphotos_478874390-stock-photo-printer-creating-plastic-model-blurred.jpg?forcejpeg=true' alt='3D printer creating plastic model near blurred figures and laptop in modern office' >
     </a>
 </div>

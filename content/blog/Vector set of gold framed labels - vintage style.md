@@ -13,7 +13,7 @@ categories:
             <font size="60"> Set of labels with gold elements</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/2773629/vector/5273/52730263/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/2773629/vector/5273/52730263/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/2773629/5273/v/950/depositphotos_52730263-stock-illustration-vector-set-of-gold-framed.jpg?forcejpeg=true' alt='Set of labels with gold elements' >
+    <a href='https://depositphotos.com/52730263/stock-illustration-vector-set-of-gold-framed.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/52730263/stock-illustration-vector-set-of-gold-framed.html?ref=64678756' src='https://st2.depositphotos.com/2773629/5273/v/950/depositphotos_52730263-stock-illustration-vector-set-of-gold-framed.jpg?forcejpeg=true' alt='Set of labels with gold elements' >
     </a>
 </div>

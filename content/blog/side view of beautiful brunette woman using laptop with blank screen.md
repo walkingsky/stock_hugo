@@ -13,7 +13,7 @@ categories:
             <font size="60"> Side view of beautiful brunette woman using laptop with blank screen</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12071432/image/19080/190800642/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12071432/image/19080/190800642/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12071432/19080/i/950/depositphotos_190800642-stock-photo-side-view-beautiful-brunette-woman.jpg?forcejpeg=true' alt='Side view of beautiful brunette woman using laptop with blank screen' >
+    <a href='https://depositphotos.com/190800642/stock-photo-side-view-beautiful-brunette-woman.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/190800642/stock-photo-side-view-beautiful-brunette-woman.html?ref=64678756' src='https://st3.depositphotos.com/12071432/19080/i/950/depositphotos_190800642-stock-photo-side-view-beautiful-brunette-woman.jpg?forcejpeg=true' alt='Side view of beautiful brunette woman using laptop with blank screen' >
     </a>
 </div>

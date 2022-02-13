@@ -13,7 +13,7 @@ categories:
             <font size="60"> Color wheel with shade of colors,color harmony</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1899395/vector/4094/40944165/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1899395/vector/4094/40944165/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1899395/4094/v/950/depositphotos_40944165-stock-illustration-color-wheel-with-shade-of.jpg?forcejpeg=true' alt='Color wheel with shade of colors,color harmony' >
+    <a href='https://depositphotos.com/40944165/stock-illustration-color-wheel-with-shade-of.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/40944165/stock-illustration-color-wheel-with-shade-of.html?ref=64678756' src='https://st.depositphotos.com/1899395/4094/v/950/depositphotos_40944165-stock-illustration-color-wheel-with-shade-of.jpg?forcejpeg=true' alt='Color wheel with shade of colors,color harmony' >
     </a>
 </div>

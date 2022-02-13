@@ -13,7 +13,7 @@ categories:
             <font size="60"> Notebook, computer keyboard with coffee and earphones on bright pink background with copy space</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13098768/image/17351/173516770/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13098768/image/17351/173516770/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13098768/17351/i/950/depositphotos_173516770-stock-photo-keyboard-with-coffee-and-earphones.jpg?forcejpeg=true' alt='Notebook, computer keyboard with coffee and earphones on bright pink background with copy space' >
+    <a href='https://depositphotos.com/173516770/stock-photo-keyboard-with-coffee-and-earphones.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/173516770/stock-photo-keyboard-with-coffee-and-earphones.html?ref=64678756' src='https://st3.depositphotos.com/13098768/17351/i/950/depositphotos_173516770-stock-photo-keyboard-with-coffee-and-earphones.jpg?forcejpeg=true' alt='Notebook, computer keyboard with coffee and earphones on bright pink background with copy space' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Black and white photo of audience with hands raised at a music festival and lights streaming down from above the stage. Soft focus, blurred movement.</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/2959013/image/8326/83265464/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/2959013/image/8326/83265464/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/2959013/8326/i/950/depositphotos_83265464-stock-photo-put-your-hands-up-in.jpg?forcejpeg=true' alt='Black and white photo of audience with hands raised at a music festival and lights streaming down from above the stage. Soft focus, blurred movement.' >
+    <a href='https://depositphotos.com/83265464/stock-photo-put-your-hands-up-in.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/83265464/stock-photo-put-your-hands-up-in.html?ref=64678756' src='https://st2.depositphotos.com/2959013/8326/i/950/depositphotos_83265464-stock-photo-put-your-hands-up-in.jpg?forcejpeg=true' alt='Black and white photo of audience with hands raised at a music festival and lights streaming down from above the stage. Soft focus, blurred movement.' >
     </a>
 </div>

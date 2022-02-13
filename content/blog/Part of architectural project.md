@@ -1,19 +1,19 @@
 ---
 title: 'Part of architectural project'
-date: 2015-10-05T06:02:20+00:00
-author: Myvisuals
-author_url: https://depositphotos.com/portfolio-5061925.html?ref=64678756
-image: https://st2.depositphotos.com/thumbs/5061925/image/8552/85529230/api_thumb_450.jpg?forcejpeg=true
+date: 2011-03-09T11:59:26+00:00
+author: io_nia
+author_url: https://depositphotos.com/portfolio-1000892.html?ref=64678756
+image: https://static5.depositphotos.com/thumbs/1000892/image/512/5123430/api_thumb_450.jpg?forcejpeg=true
 type: "post"
-tags: ['blue' ,'background' ,'illustration' ,'design' ,'paper' ,'business' ,'new' ,'technology' ,'frame' ,'architecture' ,'construction' ,'house' ,'office' ,'home' ,'lines' ,'document' ,'scale' ,'drawing' ,'pencil' ,'project' ,'built' ,'print' ,'section' ,'draft' ,'sketch' ,'layout' ,'engineering' ,'architectural' ,'rolled' ,'technical' ,'measurements' ,'dimensions' ,'calculator' ,'drafting' ,'diagram' ,'scrolls' ,'schematics' ,'plans' ,'blueprints' ,'part of architectural project' ]
+tags: ['background' ,'graphic' ,'design' ,'paper' ,'business' ,'new' ,'extension' ,'line' ,'elements' ,'idea' ,'architecture' ,'building' ,'construction' ,'estate' ,'house' ,'industry' ,'office' ,'structure' ,'real' ,'interior' ,'home' ,'with' ,'flat' ,'document' ,'part' ,'room' ,'drawing' ,'pencil' ,'project' ,'roll' ,'build' ,'floor' ,'print' ,'draft' ,'sketch' ,'repair' ,'engineering' ,'plan' ,'architectural' ,'residential' ,'builder' ,'technical' ,'renovation' ,'designer' ,'engineer' ,'General' ,'contractor' ,'symbols' ,'for' ,'of' ]
 categories: 
   - project
 ---
 <div aling="center">
-            <font size="60"> Presenting the blueprint of a new house</font>   
+            <font size="60"> Part of architectural project with a pencil</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/5061925/image/8552/85529230/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/5061925/image/8552/85529230/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/5061925/8552/i/950/depositphotos_85529230-stock-photo-part-of-architectural-project.jpg?forcejpeg=true' alt='Presenting the blueprint of a new house' >
+    <a href='https://depositphotos.com/5123430/stock-photo-part-of-architectural-project.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/5123430/stock-photo-part-of-architectural-project.html?ref=64678756' src='https://static5.depositphotos.com/1000892/512/i/950/depositphotos_5123430-stock-photo-part-of-architectural-project.jpg?forcejpeg=true' alt='Part of architectural project with a pencil' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Attractive woman in headphones sitting on table with laptop</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12985848/image/24137/241372374/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12985848/image/24137/241372374/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12985848/24137/i/950/depositphotos_241372374-stock-photo-attractive-woman-headphones-sitting-table.jpg?forcejpeg=true' alt='Attractive woman in headphones sitting on table with laptop' >
+    <a href='https://depositphotos.com/241372374/stock-photo-attractive-woman-headphones-sitting-table.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/241372374/stock-photo-attractive-woman-headphones-sitting-table.html?ref=64678756' src='https://st4.depositphotos.com/12985848/24137/i/950/depositphotos_241372374-stock-photo-attractive-woman-headphones-sitting-table.jpg?forcejpeg=true' alt='Attractive woman in headphones sitting on table with laptop' >
     </a>
 </div>

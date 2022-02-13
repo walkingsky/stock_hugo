@@ -13,7 +13,7 @@ categories:
             <font size="60"> City real estate circuit project</font>   
 </div>
 <div>
-    <a href='https://static9.depositphotos.com/thumbs/1084193/vector/1074/10741797/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static9.depositphotos.com/thumbs/1084193/vector/1074/10741797/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static9.depositphotos.com/1084193/1074/v/950/depositphotos_10741797-stock-illustration-city-real-estate-circuit-project.jpg?forcejpeg=true' alt='City real estate circuit project' >
+    <a href='https://depositphotos.com/10741797/stock-illustration-city-real-estate-circuit-project.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/10741797/stock-illustration-city-real-estate-circuit-project.html?ref=64678756' src='https://static9.depositphotos.com/1084193/1074/v/950/depositphotos_10741797-stock-illustration-city-real-estate-circuit-project.jpg?forcejpeg=true' alt='City real estate circuit project' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> 3d modern architecture interior</font>   
 </div>
 <div>
-    <a href='https://static7.depositphotos.com/thumbs/1202217/image/696/6969333/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static7.depositphotos.com/thumbs/1202217/image/696/6969333/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static7.depositphotos.com/1202217/696/i/950/depositphotos_6969333-stock-photo-3d-modern-architecture-interior.jpg?forcejpeg=true' alt='3d modern architecture interior' >
+    <a href='https://depositphotos.com/6969333/stock-photo-3d-modern-architecture-interior.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/6969333/stock-photo-3d-modern-architecture-interior.html?ref=64678756' src='https://static7.depositphotos.com/1202217/696/i/950/depositphotos_6969333-stock-photo-3d-modern-architecture-interior.jpg?forcejpeg=true' alt='3d modern architecture interior' >
     </a>
 </div>

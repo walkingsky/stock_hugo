@@ -13,7 +13,7 @@ categories:
             <font size="60"> Partial view of woman cutting cucumber for fresh summertime salad at home</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12985790/image/16157/161572846/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12985790/image/16157/161572846/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12985790/16157/i/950/depositphotos_161572846-stock-photo-woman-cutting-cucumber.jpg?forcejpeg=true' alt='Partial view of woman cutting cucumber for fresh summertime salad at home' >
+    <a href='https://depositphotos.com/161572846/stock-photo-woman-cutting-cucumber.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/161572846/stock-photo-woman-cutting-cucumber.html?ref=64678756' src='https://st3.depositphotos.com/12985790/16157/i/950/depositphotos_161572846-stock-photo-woman-cutting-cucumber.jpg?forcejpeg=true' alt='Partial view of woman cutting cucumber for fresh summertime salad at home' >
     </a>
 </div>

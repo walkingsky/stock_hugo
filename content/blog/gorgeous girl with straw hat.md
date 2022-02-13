@@ -13,7 +13,7 @@ categories:
             <font size="60"> Portrait of gorgeous girl with straw hat, isolated on red</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12071432/image/17351/173511386/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12071432/image/17351/173511386/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12071432/17351/i/950/depositphotos_173511386-stock-photo-gorgeous-girl-with-straw-hat.jpg?forcejpeg=true' alt='Portrait of gorgeous girl with straw hat, isolated on red' >
+    <a href='https://depositphotos.com/173511386/stock-photo-gorgeous-girl-with-straw-hat.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/173511386/stock-photo-gorgeous-girl-with-straw-hat.html?ref=64678756' src='https://st3.depositphotos.com/12071432/17351/i/950/depositphotos_173511386-stock-photo-gorgeous-girl-with-straw-hat.jpg?forcejpeg=true' alt='Portrait of gorgeous girl with straw hat, isolated on red' >
     </a>
 </div>

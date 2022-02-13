@@ -13,7 +13,7 @@ categories:
             <font size="60"> Cropped shot of businessman showing digital tablet with couchsurfing website to colleagues at workplace</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12985790/image/22137/221375382/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12985790/image/22137/221375382/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12985790/22137/i/950/depositphotos_221375382-stock-photo-cropped-shot-businessman-showing-digital.jpg?forcejpeg=true' alt='Cropped shot of businessman showing digital tablet with couchsurfing website to colleagues at workplace' >
+    <a href='https://depositphotos.com/221375382/stock-photo-cropped-shot-businessman-showing-digital.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/221375382/stock-photo-cropped-shot-businessman-showing-digital.html?ref=64678756' src='https://st4.depositphotos.com/12985790/22137/i/950/depositphotos_221375382-stock-photo-cropped-shot-businessman-showing-digital.jpg?forcejpeg=true' alt='Cropped shot of businessman showing digital tablet with couchsurfing website to colleagues at workplace' >
     </a>
 </div>

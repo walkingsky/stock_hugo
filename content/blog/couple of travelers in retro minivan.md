@@ -13,7 +13,7 @@ categories:
             <font size="60"> Young couple of travelers spending time together in retro minivan</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12674628/image/16609/166097372/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12674628/image/16609/166097372/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12674628/16609/i/950/depositphotos_166097372-stock-photo-couple-of-travelers-in-retro.jpg?forcejpeg=true' alt='Young couple of travelers spending time together in retro minivan' >
+    <a href='https://depositphotos.com/166097372/stock-photo-couple-of-travelers-in-retro.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/166097372/stock-photo-couple-of-travelers-in-retro.html?ref=64678756' src='https://st3.depositphotos.com/12674628/16609/i/950/depositphotos_166097372-stock-photo-couple-of-travelers-in-retro.jpg?forcejpeg=true' alt='Young couple of travelers spending time together in retro minivan' >
     </a>
 </div>

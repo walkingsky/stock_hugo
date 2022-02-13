@@ -13,7 +13,7 @@ categories:
             <font size="60"> Concepts of idea for business. Flat design illustration</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/4038693/vector/7355/73555687/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/4038693/vector/7355/73555687/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/4038693/7355/v/950/depositphotos_73555687-stock-illustration-concepts-of-idea-for-business.jpg?forcejpeg=true' alt='Concepts of idea for business. Flat design illustration' >
+    <a href='https://depositphotos.com/73555687/stock-illustration-concepts-of-idea-for-business.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/73555687/stock-illustration-concepts-of-idea-for-business.html?ref=64678756' src='https://st2.depositphotos.com/4038693/7355/v/950/depositphotos_73555687-stock-illustration-concepts-of-idea-for-business.jpg?forcejpeg=true' alt='Concepts of idea for business. Flat design illustration' >
     </a>
 </div>

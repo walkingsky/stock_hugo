@@ -13,7 +13,7 @@ categories:
             <font size="60"> Young musician playing acoustic guitar on dark background</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1177973/image/5701/57014475/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1177973/image/5701/57014475/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1177973/5701/i/950/depositphotos_57014475-stock-photo-young-musician-playing-acoustic-guitar.jpg?forcejpeg=true' alt='Young musician playing acoustic guitar on dark background' >
+    <a href='https://depositphotos.com/57014475/stock-photo-young-musician-playing-acoustic-guitar.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/57014475/stock-photo-young-musician-playing-acoustic-guitar.html?ref=64678756' src='https://st2.depositphotos.com/1177973/5701/i/950/depositphotos_57014475-stock-photo-young-musician-playing-acoustic-guitar.jpg?forcejpeg=true' alt='Young musician playing acoustic guitar on dark background' >
     </a>
 </div>

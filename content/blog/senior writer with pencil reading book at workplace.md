@@ -13,7 +13,7 @@ categories:
             <font size="60"> Senior writer with pencil reading book at workplace</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12982378/image/18439/184391172/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12982378/image/18439/184391172/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12982378/18439/i/950/depositphotos_184391172-stock-photo-senior-writer-pencil-reading-book.jpg?forcejpeg=true' alt='Senior writer with pencil reading book at workplace' >
+    <a href='https://depositphotos.com/184391172/stock-photo-senior-writer-pencil-reading-book.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/184391172/stock-photo-senior-writer-pencil-reading-book.html?ref=64678756' src='https://st3.depositphotos.com/12982378/18439/i/950/depositphotos_184391172-stock-photo-senior-writer-pencil-reading-book.jpg?forcejpeg=true' alt='Senior writer with pencil reading book at workplace' >
     </a>
 </div>

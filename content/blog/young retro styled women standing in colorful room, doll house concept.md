@@ -13,7 +13,7 @@ categories:
             <font size="60"> Young retro styled women standing in colorful room, doll house concept</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13194036/image/19087/190878292/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13194036/image/19087/190878292/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13194036/19087/i/950/depositphotos_190878292-stock-photo-young-retro-styled-women-standing.jpg?forcejpeg=true' alt='Young retro styled women standing in colorful room, doll house concept' >
+    <a href='https://depositphotos.com/190878292/stock-photo-young-retro-styled-women-standing.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/190878292/stock-photo-young-retro-styled-women-standing.html?ref=64678756' src='https://st3.depositphotos.com/13194036/19087/i/950/depositphotos_190878292-stock-photo-young-retro-styled-women-standing.jpg?forcejpeg=true' alt='Young retro styled women standing in colorful room, doll house concept' >
     </a>
 </div>

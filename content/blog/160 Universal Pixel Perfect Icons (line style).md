@@ -13,7 +13,7 @@ categories:
             <font size="60"> The Universal icon set consists of all the essential icons for developer"s everyday use. Whether it is for mobile or web projects, these icons are indispensable.</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/3748119/vector/5352/53524045/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/3748119/vector/5352/53524045/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/3748119/5352/v/950/depositphotos_53524045-stock-illustration-160-universal-pixel-perfect-icons.jpg?forcejpeg=true' alt='The Universal icon set consists of all the essential icons for developer"s everyday use. Whether it is for mobile or web projects, these icons are indispensable.' >
+    <a href='https://depositphotos.com/53524045/stock-illustration-160-universal-pixel-perfect-icons.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/53524045/stock-illustration-160-universal-pixel-perfect-icons.html?ref=64678756' src='https://st2.depositphotos.com/3748119/5352/v/950/depositphotos_53524045-stock-illustration-160-universal-pixel-perfect-icons.jpg?forcejpeg=true' alt='The Universal icon set consists of all the essential icons for developer"s everyday use. Whether it is for mobile or web projects, these icons are indispensable.' >
     </a>
 </div>

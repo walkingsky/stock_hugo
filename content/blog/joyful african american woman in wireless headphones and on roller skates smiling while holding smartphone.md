@@ -13,7 +13,7 @@ categories:
             <font size="60"> Joyful african american woman in wireless headphones and on roller skates smiling while holding smartphone</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/20363444/image/50620/506205086/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/20363444/image/50620/506205086/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/20363444/50620/i/950/depositphotos_506205086-stock-photo-joyful-african-american-woman-wireless.jpg?forcejpeg=true' alt='Joyful african american woman in wireless headphones and on roller skates smiling while holding smartphone' >
+    <a href='https://depositphotos.com/506205086/stock-photo-joyful-african-american-woman-wireless.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/506205086/stock-photo-joyful-african-american-woman-wireless.html?ref=64678756' src='https://st2.depositphotos.com/20363444/50620/i/950/depositphotos_506205086-stock-photo-joyful-african-american-woman-wireless.jpg?forcejpeg=true' alt='Joyful african american woman in wireless headphones and on roller skates smiling while holding smartphone' >
     </a>
 </div>

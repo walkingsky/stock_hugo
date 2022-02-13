@@ -13,7 +13,7 @@ categories:
             <font size="60"> FairyTale castle illustration. EPS 10 vector.</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1343351/vector/1736/17367059/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1343351/vector/1736/17367059/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1343351/1736/v/950/depositphotos_17367059-stock-illustration-fairytale-castle-illustration.jpg?forcejpeg=true' alt='FairyTale castle illustration. EPS 10 vector.' >
+    <a href='https://depositphotos.com/17367059/stock-illustration-fairytale-castle-illustration.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/17367059/stock-illustration-fairytale-castle-illustration.html?ref=64678756' src='https://st.depositphotos.com/1343351/1736/v/950/depositphotos_17367059-stock-illustration-fairytale-castle-illustration.jpg?forcejpeg=true' alt='FairyTale castle illustration. EPS 10 vector.' >
     </a>
 </div>

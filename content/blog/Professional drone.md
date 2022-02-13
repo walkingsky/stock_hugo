@@ -13,7 +13,7 @@ categories:
             <font size="60"> Professional drone flying in the sunset</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1213337/image/7117/71173889/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1213337/image/7117/71173889/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1213337/7117/i/950/depositphotos_71173889-stock-photo-professional-drone.jpg?forcejpeg=true' alt='Professional drone flying in the sunset' >
+    <a href='https://depositphotos.com/71173889/stock-photo-professional-drone.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/71173889/stock-photo-professional-drone.html?ref=64678756' src='https://st2.depositphotos.com/1213337/7117/i/950/depositphotos_71173889-stock-photo-professional-drone.jpg?forcejpeg=true' alt='Professional drone flying in the sunset' >
     </a>
 </div>

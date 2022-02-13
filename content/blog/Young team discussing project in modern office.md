@@ -13,7 +13,7 @@ categories:
             <font size="60"> Young team discussing project in modern office</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12674628/image/18241/182415682/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12674628/image/18241/182415682/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12674628/18241/i/950/depositphotos_182415682-stock-photo-young-team-discussing-project-modern.jpg?forcejpeg=true' alt='Young team discussing project in modern office' >
+    <a href='https://depositphotos.com/182415682/stock-photo-young-team-discussing-project-modern.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/182415682/stock-photo-young-team-discussing-project-modern.html?ref=64678756' src='https://st3.depositphotos.com/12674628/18241/i/950/depositphotos_182415682-stock-photo-young-team-discussing-project-modern.jpg?forcejpeg=true' alt='Young team discussing project in modern office' >
     </a>
 </div>

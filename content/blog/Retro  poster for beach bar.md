@@ -13,7 +13,7 @@ categories:
             <font size="60"> Retro style poster for beach bar or summer cocktail party design</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/2758786/vector/7264/72649233/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/2758786/vector/7264/72649233/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/2758786/7264/v/950/depositphotos_72649233-stock-illustration-retro-poster-for-beach-bar.jpg?forcejpeg=true' alt='Retro style poster for beach bar or summer cocktail party design' >
+    <a href='https://depositphotos.com/72649233/stock-illustration-retro-poster-for-beach-bar.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/72649233/stock-illustration-retro-poster-for-beach-bar.html?ref=64678756' src='https://st2.depositphotos.com/2758786/7264/v/950/depositphotos_72649233-stock-illustration-retro-poster-for-beach-bar.jpg?forcejpeg=true' alt='Retro style poster for beach bar or summer cocktail party design' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Modern drone on white background 3D rendering</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/1008648/image/18361/183618384/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/1008648/image/18361/183618384/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/1008648/18361/i/950/depositphotos_183618384-stock-photo-modern-drone-3d-rendering.jpg?forcejpeg=true' alt='Modern drone on white background 3D rendering' >
+    <a href='https://depositphotos.com/183618384/stock-photo-modern-drone-3d-rendering.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/183618384/stock-photo-modern-drone-3d-rendering.html?ref=64678756' src='https://st3.depositphotos.com/1008648/18361/i/950/depositphotos_183618384-stock-photo-modern-drone-3d-rendering.jpg?forcejpeg=true' alt='Modern drone on white background 3D rendering' >
     </a>
 </div>

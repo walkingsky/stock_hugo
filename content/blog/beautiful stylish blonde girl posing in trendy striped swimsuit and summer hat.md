@@ -13,7 +13,7 @@ categories:
             <font size="60"> Beautiful stylish blonde girl posing in trendy striped swimsuit and summer hat</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/13194036/image/20786/207860652/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/13194036/image/20786/207860652/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/13194036/20786/i/950/depositphotos_207860652-stock-photo-beautiful-stylish-blonde-girl-posing.jpg?forcejpeg=true' alt='Beautiful stylish blonde girl posing in trendy striped swimsuit and summer hat' >
+    <a href='https://depositphotos.com/207860652/stock-photo-beautiful-stylish-blonde-girl-posing.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/207860652/stock-photo-beautiful-stylish-blonde-girl-posing.html?ref=64678756' src='https://st4.depositphotos.com/13194036/20786/i/950/depositphotos_207860652-stock-photo-beautiful-stylish-blonde-girl-posing.jpg?forcejpeg=true' alt='Beautiful stylish blonde girl posing in trendy striped swimsuit and summer hat' >
     </a>
 </div>

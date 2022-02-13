@@ -13,7 +13,7 @@ categories:
             <font size="60"> Businessman hand drawing chart red arrow</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1196842/image/2616/26160105/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1196842/image/2616/26160105/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1196842/2616/i/950/depositphotos_26160105-stock-photo-businessman-hand-drawing-chart-red.jpg?forcejpeg=true' alt='Businessman hand drawing chart red arrow' >
+    <a href='https://depositphotos.com/26160105/stock-photo-businessman-hand-drawing-chart-red.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/26160105/stock-photo-businessman-hand-drawing-chart-red.html?ref=64678756' src='https://st.depositphotos.com/1196842/2616/i/950/depositphotos_26160105-stock-photo-businessman-hand-drawing-chart-red.jpg?forcejpeg=true' alt='Businessman hand drawing chart red arrow' >
     </a>
 </div>

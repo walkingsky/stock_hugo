@@ -13,7 +13,7 @@ categories:
             <font size="60"> The Milky Way and some trees in mountains, beautiful evening</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1003580/image/9941/99417734/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1003580/image/9941/99417734/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1003580/9941/i/950/depositphotos_99417734-stock-photo-the-milky-way-and-some.jpg?forcejpeg=true' alt='The Milky Way and some trees in mountains, beautiful evening' >
+    <a href='https://depositphotos.com/99417734/stock-photo-the-milky-way-and-some.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/99417734/stock-photo-the-milky-way-and-some.html?ref=64678756' src='https://st2.depositphotos.com/1003580/9941/i/950/depositphotos_99417734-stock-photo-the-milky-way-and-some.jpg?forcejpeg=true' alt='The Milky Way and some trees in mountains, beautiful evening' >
     </a>
 </div>

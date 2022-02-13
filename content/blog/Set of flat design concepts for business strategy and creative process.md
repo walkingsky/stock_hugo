@@ -13,7 +13,7 @@ categories:
             <font size="60"> Concepts for teamwork consulting on briefing, small business project presentation, planning, brainstorming idea of company financial strategy and marketing ideas.</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1720162/vector/5071/50715347/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1720162/vector/5071/50715347/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1720162/5071/v/950/depositphotos_50715347-stock-illustration-set-of-flat-design-concepts.jpg?forcejpeg=true' alt='Concepts for teamwork consulting on briefing, small business project presentation, planning, brainstorming idea of company financial strategy and marketing ideas.' >
+    <a href='https://depositphotos.com/50715347/stock-illustration-set-of-flat-design-concepts.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/50715347/stock-illustration-set-of-flat-design-concepts.html?ref=64678756' src='https://st.depositphotos.com/1720162/5071/v/950/depositphotos_50715347-stock-illustration-set-of-flat-design-concepts.jpg?forcejpeg=true' alt='Concepts for teamwork consulting on briefing, small business project presentation, planning, brainstorming idea of company financial strategy and marketing ideas.' >
     </a>
 </div>

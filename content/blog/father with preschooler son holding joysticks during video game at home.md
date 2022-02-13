@@ -13,7 +13,7 @@ categories:
             <font size="60"> Father with preschooler son holding joysticks during video game at home</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12982378/image/24793/247933308/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12982378/image/24793/247933308/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12982378/24793/i/950/depositphotos_247933308-stock-photo-father-preschooler-son-holding-joysticks.jpg?forcejpeg=true' alt='Father with preschooler son holding joysticks during video game at home' >
+    <a href='https://depositphotos.com/247933308/stock-photo-father-preschooler-son-holding-joysticks.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/247933308/stock-photo-father-preschooler-son-holding-joysticks.html?ref=64678756' src='https://st4.depositphotos.com/12982378/24793/i/950/depositphotos_247933308-stock-photo-father-preschooler-son-holding-joysticks.jpg?forcejpeg=true' alt='Father with preschooler son holding joysticks during video game at home' >
     </a>
 </div>

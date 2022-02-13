@@ -13,7 +13,7 @@ categories:
             <font size="60"> Vector seamless space pattern with various cosmic elements.</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1523178/vector/1206/12067800/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1523178/vector/1206/12067800/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1523178/1206/v/950/depositphotos_12067800-stock-illustration-cosmic-seamless-pattern.jpg?forcejpeg=true' alt='Vector seamless space pattern with various cosmic elements.' >
+    <a href='https://depositphotos.com/12067800/stock-illustration-cosmic-seamless-pattern.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/12067800/stock-illustration-cosmic-seamless-pattern.html?ref=64678756' src='https://st.depositphotos.com/1523178/1206/v/950/depositphotos_12067800-stock-illustration-cosmic-seamless-pattern.jpg?forcejpeg=true' alt='Vector seamless space pattern with various cosmic elements.' >
     </a>
 </div>

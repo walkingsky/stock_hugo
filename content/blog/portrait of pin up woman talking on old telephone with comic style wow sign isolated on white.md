@@ -13,7 +13,7 @@ categories:
             <font size="60"> Portrait of pin up woman talking on old telephone with comic style wow sign isolated on white</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12982378/image/18424/184244780/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12982378/image/18424/184244780/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12982378/18424/i/950/depositphotos_184244780-stock-photo-portrait-pin-woman-talking-old.jpg?forcejpeg=true' alt='Portrait of pin up woman talking on old telephone with comic style wow sign isolated on white' >
+    <a href='https://depositphotos.com/184244780/stock-photo-portrait-pin-woman-talking-old.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/184244780/stock-photo-portrait-pin-woman-talking-old.html?ref=64678756' src='https://st3.depositphotos.com/12982378/18424/i/950/depositphotos_184244780-stock-photo-portrait-pin-woman-talking-old.jpg?forcejpeg=true' alt='Portrait of pin up woman talking on old telephone with comic style wow sign isolated on white' >
     </a>
 </div>

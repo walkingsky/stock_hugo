@@ -13,7 +13,7 @@ categories:
             <font size="60"> Concentrated young woman with colorful hair reading book in bed</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13194036/image/18844/188449175/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13194036/image/18844/188449175/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13194036/18844/i/950/depositphotos_188449175-stock-photo-concentrated-young-woman-colorful-hair.jpg?forcejpeg=true' alt='Concentrated young woman with colorful hair reading book in bed' >
+    <a href='https://depositphotos.com/188449175/stock-photo-concentrated-young-woman-colorful-hair.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/188449175/stock-photo-concentrated-young-woman-colorful-hair.html?ref=64678756' src='https://st3.depositphotos.com/13194036/18844/i/950/depositphotos_188449175-stock-photo-concentrated-young-woman-colorful-hair.jpg?forcejpeg=true' alt='Concentrated young woman with colorful hair reading book in bed' >
     </a>
 </div>

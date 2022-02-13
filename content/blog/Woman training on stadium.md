@@ -13,7 +13,7 @@ categories:
             <font size="60"> Side view of woman in sportswear training on stadium</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/9842946/image/12607/126079840/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/9842946/image/12607/126079840/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/9842946/12607/i/950/depositphotos_126079840-stock-photo-woman-training-on-stadium.jpg?forcejpeg=true' alt='Side view of woman in sportswear training on stadium' >
+    <a href='https://depositphotos.com/126079840/stock-photo-woman-training-on-stadium.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/126079840/stock-photo-woman-training-on-stadium.html?ref=64678756' src='https://st3.depositphotos.com/9842946/12607/i/950/depositphotos_126079840-stock-photo-woman-training-on-stadium.jpg?forcejpeg=true' alt='Side view of woman in sportswear training on stadium' >
     </a>
 </div>

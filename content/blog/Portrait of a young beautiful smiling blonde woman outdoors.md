@@ -13,7 +13,7 @@ categories:
             <font size="60"> Lovely happy female closeup portrait, sitting in the poppy flower field, enjoying nature, summertime leisure concept</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1000686/image/3738/37383675/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1000686/image/3738/37383675/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1000686/3738/i/950/depositphotos_37383675-stock-photo-portrait-of-a-young-beautiful.jpg?forcejpeg=true' alt='Lovely happy female closeup portrait, sitting in the poppy flower field, enjoying nature, summertime leisure concept' >
+    <a href='https://depositphotos.com/37383675/stock-photo-portrait-of-a-young-beautiful.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/37383675/stock-photo-portrait-of-a-young-beautiful.html?ref=64678756' src='https://st.depositphotos.com/1000686/3738/i/950/depositphotos_37383675-stock-photo-portrait-of-a-young-beautiful.jpg?forcejpeg=true' alt='Lovely happy female closeup portrait, sitting in the poppy flower field, enjoying nature, summertime leisure concept' >
     </a>
 </div>

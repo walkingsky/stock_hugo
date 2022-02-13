@@ -13,7 +13,7 @@ categories:
             <font size="60"> Handsome businessman standing at departure lounge and looking at window in airport</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12985790/image/22335/223355578/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12985790/image/22335/223355578/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12985790/22335/i/950/depositphotos_223355578-stock-photo-handsome-businessman-standing-departure-lounge.jpg?forcejpeg=true' alt='Handsome businessman standing at departure lounge and looking at window in airport' >
+    <a href='https://depositphotos.com/223355578/stock-photo-handsome-businessman-standing-departure-lounge.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/223355578/stock-photo-handsome-businessman-standing-departure-lounge.html?ref=64678756' src='https://st4.depositphotos.com/12985790/22335/i/950/depositphotos_223355578-stock-photo-handsome-businessman-standing-departure-lounge.jpg?forcejpeg=true' alt='Handsome businessman standing at departure lounge and looking at window in airport' >
     </a>
 </div>

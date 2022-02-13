@@ -13,7 +13,7 @@ categories:
             <font size="60"> Happy kid in bathrobe and towel on head smiling while holding tube with cosmetic product isolated on blue, banner</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/12982378/image/44551/445518322/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/12982378/image/44551/445518322/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/12982378/44551/i/950/depositphotos_445518322-stock-photo-happy-kid-bathrobe-towel-head.jpg?forcejpeg=true' alt='Happy kid in bathrobe and towel on head smiling while holding tube with cosmetic product isolated on blue, banner' >
+    <a href='https://depositphotos.com/445518322/stock-photo-happy-kid-bathrobe-towel-head.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/445518322/stock-photo-happy-kid-bathrobe-towel-head.html?ref=64678756' src='https://st2.depositphotos.com/12982378/44551/i/950/depositphotos_445518322-stock-photo-happy-kid-bathrobe-towel-head.jpg?forcejpeg=true' alt='Happy kid in bathrobe and towel on head smiling while holding tube with cosmetic product isolated on blue, banner' >
     </a>
 </div>

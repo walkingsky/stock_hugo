@@ -13,7 +13,7 @@ categories:
             <font size="60"> Multi colored powder explosion isolated on white background. Freeze motion of abstract dust texture.</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/1105977/image/25318/253182056/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/1105977/image/25318/253182056/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/1105977/25318/i/950/depositphotos_253182056-stock-photo-multi-colored-powder-explosion-on.jpg?forcejpeg=true' alt='Multi colored powder explosion isolated on white background. Freeze motion of abstract dust texture.' >
+    <a href='https://depositphotos.com/253182056/stock-photo-multi-colored-powder-explosion-on.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/253182056/stock-photo-multi-colored-powder-explosion-on.html?ref=64678756' src='https://st4.depositphotos.com/1105977/25318/i/950/depositphotos_253182056-stock-photo-multi-colored-powder-explosion-on.jpg?forcejpeg=true' alt='Multi colored powder explosion isolated on white background. Freeze motion of abstract dust texture.' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Beautiful girl with headphones</font>   
 </div>
 <div>
-    <a href='https://static7.depositphotos.com/thumbs/1025804/image/709/7098013/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static7.depositphotos.com/thumbs/1025804/image/709/7098013/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static7.depositphotos.com/1025804/709/i/950/depositphotos_7098013-stock-photo-beautiful-girl-with-headphones.jpg?forcejpeg=true' alt='Beautiful girl with headphones' >
+    <a href='https://depositphotos.com/7098013/stock-photo-beautiful-girl-with-headphones.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/7098013/stock-photo-beautiful-girl-with-headphones.html?ref=64678756' src='https://static7.depositphotos.com/1025804/709/i/950/depositphotos_7098013-stock-photo-beautiful-girl-with-headphones.jpg?forcejpeg=true' alt='Beautiful girl with headphones' >
     </a>
 </div>

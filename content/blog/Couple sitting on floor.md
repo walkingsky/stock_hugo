@@ -13,7 +13,7 @@ categories:
             <font size="60"> Young smiling couple sitting on floor near cardboard boxes</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/10638998/image/14182/141826178/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/10638998/image/14182/141826178/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/10638998/14182/i/950/depositphotos_141826178-stock-photo-couple-sitting-on-floor.jpg?forcejpeg=true' alt='Young smiling couple sitting on floor near cardboard boxes' >
+    <a href='https://depositphotos.com/141826178/stock-photo-couple-sitting-on-floor.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/141826178/stock-photo-couple-sitting-on-floor.html?ref=64678756' src='https://st3.depositphotos.com/10638998/14182/i/950/depositphotos_141826178-stock-photo-couple-sitting-on-floor.jpg?forcejpeg=true' alt='Young smiling couple sitting on floor near cardboard boxes' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> A cup of cappuccino with latte art and two croissants on white wooden table. Traditional french breakfast. Womans hand holding a cup of coffee. Top view.</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/5190361/image/20419/204191066/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/5190361/image/20419/204191066/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/5190361/20419/i/950/depositphotos_204191066-stock-photo-cappuccino-and-two-croissants.jpg?forcejpeg=true' alt='A cup of cappuccino with latte art and two croissants on white wooden table. Traditional french breakfast. Womans hand holding a cup of coffee. Top view.' >
+    <a href='https://depositphotos.com/204191066/stock-photo-cappuccino-and-two-croissants.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/204191066/stock-photo-cappuccino-and-two-croissants.html?ref=64678756' src='https://st4.depositphotos.com/5190361/20419/i/950/depositphotos_204191066-stock-photo-cappuccino-and-two-croissants.jpg?forcejpeg=true' alt='A cup of cappuccino with latte art and two croissants on white wooden table. Traditional french breakfast. Womans hand holding a cup of coffee. Top view.' >
     </a>
 </div>

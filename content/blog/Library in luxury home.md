@@ -13,7 +13,7 @@ categories:
             <font size="60"> Library in luxury home with large desk</font>   
 </div>
 <div>
-    <a href='https://static8.depositphotos.com/thumbs/1392258/image/868/8682307/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static8.depositphotos.com/thumbs/1392258/image/868/8682307/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static8.depositphotos.com/1392258/868/i/950/depositphotos_8682307-stock-photo-library-in-luxury-home.jpg?forcejpeg=true' alt='Library in luxury home with large desk' >
+    <a href='https://depositphotos.com/8682307/stock-photo-library-in-luxury-home.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/8682307/stock-photo-library-in-luxury-home.html?ref=64678756' src='https://static8.depositphotos.com/1392258/868/i/950/depositphotos_8682307-stock-photo-library-in-luxury-home.jpg?forcejpeg=true' alt='Library in luxury home with large desk' >
     </a>
 </div>

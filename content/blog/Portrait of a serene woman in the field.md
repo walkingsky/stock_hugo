@@ -13,7 +13,7 @@ categories:
             <font size="60"> Tranquility of a young girl with eyes closed in a field on the nature</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1001594/image/2538/25386719/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1001594/image/2538/25386719/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1001594/2538/i/950/depositphotos_25386719-stock-photo-portrait-of-a-serene-woman.jpg?forcejpeg=true' alt='Tranquility of a young girl with eyes closed in a field on the nature' >
+    <a href='https://depositphotos.com/25386719/stock-photo-portrait-of-a-serene-woman.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/25386719/stock-photo-portrait-of-a-serene-woman.html?ref=64678756' src='https://st.depositphotos.com/1001594/2538/i/950/depositphotos_25386719-stock-photo-portrait-of-a-serene-woman.jpg?forcejpeg=true' alt='Tranquility of a young girl with eyes closed in a field on the nature' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Beautiful girl enjoying the summer sun outdoors in the park</font>   
 </div>
 <div>
-    <a href='https://static9.depositphotos.com/thumbs/1189140/image/1100/11003434/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static9.depositphotos.com/thumbs/1189140/image/1100/11003434/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static9.depositphotos.com/1189140/1100/i/950/depositphotos_11003434-stock-photo-beautiful-girl-enjoying-the-summer.jpg?forcejpeg=true' alt='Beautiful girl enjoying the summer sun outdoors in the park' >
+    <a href='https://depositphotos.com/11003434/stock-photo-beautiful-girl-enjoying-the-summer.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/11003434/stock-photo-beautiful-girl-enjoying-the-summer.html?ref=64678756' src='https://static9.depositphotos.com/1189140/1100/i/950/depositphotos_11003434-stock-photo-beautiful-girl-enjoying-the-summer.jpg?forcejpeg=true' alt='Beautiful girl enjoying the summer sun outdoors in the park' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Overhead view of home painting equipment brush, roller, tray and paint pot</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1825794/image/7272/72728923/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1825794/image/7272/72728923/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1825794/7272/i/950/depositphotos_72728923-stock-photo-overhead-view-of-home-painting.jpg?forcejpeg=true' alt='Overhead view of home painting equipment brush, roller, tray and paint pot' >
+    <a href='https://depositphotos.com/72728923/stock-photo-overhead-view-of-home-painting.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/72728923/stock-photo-overhead-view-of-home-painting.html?ref=64678756' src='https://st2.depositphotos.com/1825794/7272/i/950/depositphotos_72728923-stock-photo-overhead-view-of-home-painting.jpg?forcejpeg=true' alt='Overhead view of home painting equipment brush, roller, tray and paint pot' >
     </a>
 </div>

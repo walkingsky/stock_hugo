@@ -13,7 +13,7 @@ categories:
             <font size="60"> Top view of user experience design sketches on wooden table</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13194036/image/32811/328110362/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13194036/image/32811/328110362/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13194036/32811/i/950/depositphotos_328110362-stock-photo-top-view-user-experience-design.jpg?forcejpeg=true' alt='Top view of user experience design sketches on wooden table' >
+    <a href='https://depositphotos.com/328110362/stock-photo-top-view-user-experience-design.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/328110362/stock-photo-top-view-user-experience-design.html?ref=64678756' src='https://st3.depositphotos.com/13194036/32811/i/950/depositphotos_328110362-stock-photo-top-view-user-experience-design.jpg?forcejpeg=true' alt='Top view of user experience design sketches on wooden table' >
     </a>
 </div>

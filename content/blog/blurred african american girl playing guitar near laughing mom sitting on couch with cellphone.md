@@ -13,7 +13,7 @@ categories:
             <font size="60"> Blurred african american girl playing guitar near laughing mom sitting on couch with cellphone</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/20363444/image/53550/535508218/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/20363444/image/53550/535508218/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/20363444/53550/i/950/depositphotos_535508218-stock-photo-blurred-african-american-girl-playing.jpg?forcejpeg=true' alt='Blurred african american girl playing guitar near laughing mom sitting on couch with cellphone' >
+    <a href='https://depositphotos.com/535508218/stock-photo-blurred-african-american-girl-playing.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/535508218/stock-photo-blurred-african-american-girl-playing.html?ref=64678756' src='https://st.depositphotos.com/20363444/53550/i/950/depositphotos_535508218-stock-photo-blurred-african-american-girl-playing.jpg?forcejpeg=true' alt='Blurred african american girl playing guitar near laughing mom sitting on couch with cellphone' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Creative top view flat lay of workspace desk styled design office supplies and cup of tea with copy space on a bright pink color paper background minimal style. Template for feminine blog social media</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/1007600/image/23265/232657470/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/1007600/image/23265/232657470/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/1007600/23265/i/950/depositphotos_232657470-stock-photo-creative-top-view-flat-lay.jpg?forcejpeg=true' alt='Creative top view flat lay of workspace desk styled design office supplies and cup of tea with copy space on a bright pink color paper background minimal style. Template for feminine blog social media' >
+    <a href='https://depositphotos.com/232657470/stock-photo-creative-top-view-flat-lay.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/232657470/stock-photo-creative-top-view-flat-lay.html?ref=64678756' src='https://st4.depositphotos.com/1007600/23265/i/950/depositphotos_232657470-stock-photo-creative-top-view-flat-lay.jpg?forcejpeg=true' alt='Creative top view flat lay of workspace desk styled design office supplies and cup of tea with copy space on a bright pink color paper background minimal style. Template for feminine blog social media' >
     </a>
 </div>

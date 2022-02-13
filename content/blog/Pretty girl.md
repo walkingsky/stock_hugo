@@ -13,7 +13,7 @@ categories:
             <font size="60"> Happy girl in casual clothes looking at camera with smile</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1594308/image/3290/32904189/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1594308/image/3290/32904189/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1594308/3290/i/950/depositphotos_32904189-stock-photo-pretty-girl.jpg?forcejpeg=true' alt='Happy girl in casual clothes looking at camera with smile' >
+    <a href='https://depositphotos.com/32904189/stock-photo-pretty-girl.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/32904189/stock-photo-pretty-girl.html?ref=64678756' src='https://st.depositphotos.com/1594308/3290/i/950/depositphotos_32904189-stock-photo-pretty-girl.jpg?forcejpeg=true' alt='Happy girl in casual clothes looking at camera with smile' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Cropped shot of young man holding glass of juice and using smartphone with blank screen</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/13194036/image/21771/217710078/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/13194036/image/21771/217710078/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/13194036/21771/i/950/depositphotos_217710078-stock-photo-cropped-shot-young-man-holding.jpg?forcejpeg=true' alt='Cropped shot of young man holding glass of juice and using smartphone with blank screen' >
+    <a href='https://depositphotos.com/217710078/stock-photo-cropped-shot-young-man-holding.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/217710078/stock-photo-cropped-shot-young-man-holding.html?ref=64678756' src='https://st4.depositphotos.com/13194036/21771/i/950/depositphotos_217710078-stock-photo-cropped-shot-young-man-holding.jpg?forcejpeg=true' alt='Cropped shot of young man holding glass of juice and using smartphone with blank screen' >
     </a>
 </div>

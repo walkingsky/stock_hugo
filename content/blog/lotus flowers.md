@@ -13,7 +13,7 @@ categories:
             <font size="60"> Beautiful lotus flowers and green leaves in pond, Hue, Vietnam</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/16149430/image/18442/184422902/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/16149430/image/18442/184422902/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/16149430/18442/i/950/depositphotos_184422902-stock-photo-lotus-flowers.jpg?forcejpeg=true' alt='Beautiful lotus flowers and green leaves in pond, Hue, Vietnam' >
+    <a href='https://depositphotos.com/184422902/stock-photo-lotus-flowers.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/184422902/stock-photo-lotus-flowers.html?ref=64678756' src='https://st3.depositphotos.com/16149430/18442/i/950/depositphotos_184422902-stock-photo-lotus-flowers.jpg?forcejpeg=true' alt='Beautiful lotus flowers and green leaves in pond, Hue, Vietnam' >
     </a>
 </div>

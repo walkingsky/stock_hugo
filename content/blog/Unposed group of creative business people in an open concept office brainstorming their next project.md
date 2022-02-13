@@ -13,7 +13,7 @@ categories:
             <font size="60"> Candid picture of a business team collaborating. Filtered serie with light flares, bokeh  and warm sunny tones.</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/2810065/image/10955/109559510/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/2810065/image/10955/109559510/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/2810065/10955/i/950/depositphotos_109559510-stock-photo-unposed-group-of-creative-business.jpg?forcejpeg=true' alt='Candid picture of a business team collaborating. Filtered serie with light flares, bokeh  and warm sunny tones.' >
+    <a href='https://depositphotos.com/109559510/stock-photo-unposed-group-of-creative-business.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/109559510/stock-photo-unposed-group-of-creative-business.html?ref=64678756' src='https://st2.depositphotos.com/2810065/10955/i/950/depositphotos_109559510-stock-photo-unposed-group-of-creative-business.jpg?forcejpeg=true' alt='Candid picture of a business team collaborating. Filtered serie with light flares, bokeh  and warm sunny tones.' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Circle vector flat design composition of space icons and infographics elements</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/3333565/vector/7404/74044289/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/3333565/vector/7404/74044289/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/3333565/7404/v/950/depositphotos_74044289-stock-illustration-circle-flat-design-composition-of.jpg?forcejpeg=true' alt='Circle vector flat design composition of space icons and infographics elements' >
+    <a href='https://depositphotos.com/74044289/stock-illustration-circle-flat-design-composition-of.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/74044289/stock-illustration-circle-flat-design-composition-of.html?ref=64678756' src='https://st2.depositphotos.com/3333565/7404/v/950/depositphotos_74044289-stock-illustration-circle-flat-design-composition-of.jpg?forcejpeg=true' alt='Circle vector flat design composition of space icons and infographics elements' >
     </a>
 </div>

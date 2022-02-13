@@ -13,7 +13,7 @@ categories:
             <font size="60"> Young couple resting from moving into a new home. Great copy space.</font>   
 </div>
 <div>
-    <a href='https://static4.depositphotos.com/thumbs/1000970/image/346/3461072/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static4.depositphotos.com/thumbs/1000970/image/346/3461072/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static4.depositphotos.com/1000970/346/i/950/depositphotos_3461072-stock-photo-moving-day.jpg?forcejpeg=true' alt='Young couple resting from moving into a new home. Great copy space.' >
+    <a href='https://depositphotos.com/3461072/stock-photo-moving-day.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/3461072/stock-photo-moving-day.html?ref=64678756' src='https://static4.depositphotos.com/1000970/346/i/950/depositphotos_3461072-stock-photo-moving-day.jpg?forcejpeg=true' alt='Young couple resting from moving into a new home. Great copy space.' >
     </a>
 </div>

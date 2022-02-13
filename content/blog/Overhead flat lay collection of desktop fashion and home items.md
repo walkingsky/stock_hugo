@@ -13,7 +13,7 @@ categories:
             <font size="60"> Overhead flat lay collection of desktop fashion and home items with negative space</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1825794/image/12032/120325828/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1825794/image/12032/120325828/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1825794/12032/i/950/depositphotos_120325828-stock-photo-overhead-flat-lay-collection-of.jpg?forcejpeg=true' alt='Overhead flat lay collection of desktop fashion and home items with negative space' >
+    <a href='https://depositphotos.com/120325828/stock-photo-overhead-flat-lay-collection-of.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/120325828/stock-photo-overhead-flat-lay-collection-of.html?ref=64678756' src='https://st2.depositphotos.com/1825794/12032/i/950/depositphotos_120325828-stock-photo-overhead-flat-lay-collection-of.jpg?forcejpeg=true' alt='Overhead flat lay collection of desktop fashion and home items with negative space' >
     </a>
 </div>

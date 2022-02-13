@@ -13,7 +13,7 @@ categories:
             <font size="60"> Kitchen table with variety of raw vegetables, chopping board and digital tablet ready for preparing breakfast</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/10654668/image/15306/153068274/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/10654668/image/15306/153068274/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/10654668/15306/i/950/depositphotos_153068274-stock-photo-raw-vegetables-on-kitchen-table.jpg?forcejpeg=true' alt='Kitchen table with variety of raw vegetables, chopping board and digital tablet ready for preparing breakfast' >
+    <a href='https://depositphotos.com/153068274/stock-photo-raw-vegetables-on-kitchen-table.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/153068274/stock-photo-raw-vegetables-on-kitchen-table.html?ref=64678756' src='https://st3.depositphotos.com/10654668/15306/i/950/depositphotos_153068274-stock-photo-raw-vegetables-on-kitchen-table.jpg?forcejpeg=true' alt='Kitchen table with variety of raw vegetables, chopping board and digital tablet ready for preparing breakfast' >
     </a>
 </div>

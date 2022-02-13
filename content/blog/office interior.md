@@ -13,7 +13,7 @@ categories:
             <font size="60"> Interior of modern office with white walls</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12548352/image/16211/162117502/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12548352/image/16211/162117502/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12548352/16211/i/950/depositphotos_162117502-stock-photo-office-interior.jpg?forcejpeg=true' alt='Interior of modern office with white walls' >
+    <a href='https://depositphotos.com/162117502/stock-photo-office-interior.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/162117502/stock-photo-office-interior.html?ref=64678756' src='https://st3.depositphotos.com/12548352/16211/i/950/depositphotos_162117502-stock-photo-office-interior.jpg?forcejpeg=true' alt='Interior of modern office with white walls' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Black polygonal abstract vector background, can be used for business, science  presentation</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/2866255/vector/7414/74146219/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/2866255/vector/7414/74146219/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/2866255/7414/v/950/depositphotos_74146219-stock-illustration-black-polygonal-abstract-background.jpg?forcejpeg=true' alt='Black polygonal abstract vector background, can be used for business, science  presentation' >
+    <a href='https://depositphotos.com/74146219/stock-illustration-black-polygonal-abstract-background.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/74146219/stock-illustration-black-polygonal-abstract-background.html?ref=64678756' src='https://st2.depositphotos.com/2866255/7414/v/950/depositphotos_74146219-stock-illustration-black-polygonal-abstract-background.jpg?forcejpeg=true' alt='Black polygonal abstract vector background, can be used for business, science  presentation' >
     </a>
 </div>

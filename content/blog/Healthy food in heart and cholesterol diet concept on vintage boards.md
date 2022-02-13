@@ -13,7 +13,7 @@ categories:
             <font size="60"> Healthy food in heart and cholesterol diet concept on vintage boards</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1592123/image/8898/88989498/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1592123/image/8898/88989498/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1592123/8898/i/950/depositphotos_88989498-stock-photo-healthy-food-in-heart-and.jpg?forcejpeg=true' alt='Healthy food in heart and cholesterol diet concept on vintage boards' >
+    <a href='https://depositphotos.com/88989498/stock-photo-healthy-food-in-heart-and.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/88989498/stock-photo-healthy-food-in-heart-and.html?ref=64678756' src='https://st2.depositphotos.com/1592123/8898/i/950/depositphotos_88989498-stock-photo-healthy-food-in-heart-and.jpg?forcejpeg=true' alt='Healthy food in heart and cholesterol diet concept on vintage boards' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Abstract nature background with sea forest and aurora borealis</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1007634/vector/3513/35130119/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1007634/vector/3513/35130119/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1007634/3513/v/950/depositphotos_35130119-stock-illustration-abstract-background-with-forest-lake.jpg?forcejpeg=true' alt='Abstract nature background with sea forest and aurora borealis' >
+    <a href='https://depositphotos.com/35130119/stock-illustration-abstract-background-with-forest-lake.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/35130119/stock-illustration-abstract-background-with-forest-lake.html?ref=64678756' src='https://st.depositphotos.com/1007634/3513/v/950/depositphotos_35130119-stock-illustration-abstract-background-with-forest-lake.jpg?forcejpeg=true' alt='Abstract nature background with sea forest and aurora borealis' >
     </a>
 </div>

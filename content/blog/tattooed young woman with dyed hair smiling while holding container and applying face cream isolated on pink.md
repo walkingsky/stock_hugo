@@ -13,7 +13,7 @@ categories:
             <font size="60"> Tattooed young woman with dyed hair smiling while holding container and applying face cream isolated on pink</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/12982378/image/50808/508081780/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/12982378/image/50808/508081780/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/12982378/50808/i/950/depositphotos_508081780-stock-photo-tattooed-young-woman-dyed-hair.jpg?forcejpeg=true' alt='Tattooed young woman with dyed hair smiling while holding container and applying face cream isolated on pink' >
+    <a href='https://depositphotos.com/508081780/stock-photo-tattooed-young-woman-dyed-hair.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/508081780/stock-photo-tattooed-young-woman-dyed-hair.html?ref=64678756' src='https://st2.depositphotos.com/12982378/50808/i/950/depositphotos_508081780-stock-photo-tattooed-young-woman-dyed-hair.jpg?forcejpeg=true' alt='Tattooed young woman with dyed hair smiling while holding container and applying face cream isolated on pink' >
     </a>
 </div>

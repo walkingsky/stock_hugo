@@ -13,7 +13,7 @@ categories:
             <font size="60"> Stay Away From Negative People. They Have A Problem For Every Solution</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/6536962/vector/9375/93753142/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/6536962/vector/9375/93753142/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/6536962/9375/v/950/depositphotos_93753142-stock-illustration-stay-away-from-negative-people.jpg?forcejpeg=true' alt='Stay Away From Negative People. They Have A Problem For Every Solution' >
+    <a href='https://depositphotos.com/93753142/stock-illustration-stay-away-from-negative-people.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/93753142/stock-illustration-stay-away-from-negative-people.html?ref=64678756' src='https://st2.depositphotos.com/6536962/9375/v/950/depositphotos_93753142-stock-illustration-stay-away-from-negative-people.jpg?forcejpeg=true' alt='Stay Away From Negative People. They Have A Problem For Every Solution' >
     </a>
 </div>

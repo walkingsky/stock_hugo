@@ -13,7 +13,7 @@ categories:
             <font size="60"> Cartoon illustration</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1030362/vector/4348/43484621/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1030362/vector/4348/43484621/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1030362/4348/v/950/depositphotos_43484621-stock-illustration-set-of-four-monsters-on.jpg?forcejpeg=true' alt='Cartoon illustration' >
+    <a href='https://depositphotos.com/43484621/stock-illustration-set-of-four-monsters-on.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/43484621/stock-illustration-set-of-four-monsters-on.html?ref=64678756' src='https://st.depositphotos.com/1030362/4348/v/950/depositphotos_43484621-stock-illustration-set-of-four-monsters-on.jpg?forcejpeg=true' alt='Cartoon illustration' >
     </a>
 </div>

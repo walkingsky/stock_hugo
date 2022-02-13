@@ -13,7 +13,7 @@ categories:
             <font size="60"> Close-up partial view of young multiethnic friends holding colorful paint in hands at holi festival</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/9880800/image/16020/160207696/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/9880800/image/16020/160207696/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/9880800/16020/i/950/depositphotos_160207696-stock-photo-happy-friends-at-holi-festival.jpg?forcejpeg=true' alt='Close-up partial view of young multiethnic friends holding colorful paint in hands at holi festival' >
+    <a href='https://depositphotos.com/160207696/stock-photo-happy-friends-at-holi-festival.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/160207696/stock-photo-happy-friends-at-holi-festival.html?ref=64678756' src='https://st3.depositphotos.com/9880800/16020/i/950/depositphotos_160207696-stock-photo-happy-friends-at-holi-festival.jpg?forcejpeg=true' alt='Close-up partial view of young multiethnic friends holding colorful paint in hands at holi festival' >
     </a>
 </div>

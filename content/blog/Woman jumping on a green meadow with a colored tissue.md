@@ -13,7 +13,7 @@ categories:
             <font size="60"> Beautiful young woman jumping on a green meadow with a colored tissue</font>   
 </div>
 <div>
-    <a href='https://static4.depositphotos.com/thumbs/1011434/image/506/5064791/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static4.depositphotos.com/thumbs/1011434/image/506/5064791/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static4.depositphotos.com/1011434/506/i/950/depositphotos_5064791-stock-photo-woman-jumping-on-a-green.jpg?forcejpeg=true' alt='Beautiful young woman jumping on a green meadow with a colored tissue' >
+    <a href='https://depositphotos.com/5064791/stock-photo-woman-jumping-on-a-green.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/5064791/stock-photo-woman-jumping-on-a-green.html?ref=64678756' src='https://static4.depositphotos.com/1011434/506/i/950/depositphotos_5064791-stock-photo-woman-jumping-on-a-green.jpg?forcejpeg=true' alt='Beautiful young woman jumping on a green meadow with a colored tissue' >
     </a>
 </div>

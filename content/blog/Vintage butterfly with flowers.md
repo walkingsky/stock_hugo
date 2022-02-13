@@ -13,7 +13,7 @@ categories:
             <font size="60"> Vintage butterfly. Antique style photo with grunge old paper texture</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/2012555/image/2474/24741169/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/2012555/image/2474/24741169/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/2012555/2474/i/950/depositphotos_24741169-stock-photo-vintage-butterfly-with-flowers.jpg?forcejpeg=true' alt='Vintage butterfly. Antique style photo with grunge old paper texture' >
+    <a href='https://depositphotos.com/24741169/stock-photo-vintage-butterfly-with-flowers.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/24741169/stock-photo-vintage-butterfly-with-flowers.html?ref=64678756' src='https://st.depositphotos.com/2012555/2474/i/950/depositphotos_24741169-stock-photo-vintage-butterfly-with-flowers.jpg?forcejpeg=true' alt='Vintage butterfly. Antique style photo with grunge old paper texture' >
     </a>
 </div>

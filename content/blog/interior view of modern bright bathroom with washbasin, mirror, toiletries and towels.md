@@ -13,7 +13,7 @@ categories:
             <font size="60"> Interior view of modern bright bathroom with washbasin, mirror, toiletries and towels</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/12982378/image/47554/475548390/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/12982378/image/47554/475548390/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/12982378/47554/i/950/depositphotos_475548390-stock-photo-interior-view-modern-bright-bathroom.jpg?forcejpeg=true' alt='Interior view of modern bright bathroom with washbasin, mirror, toiletries and towels' >
+    <a href='https://depositphotos.com/475548390/stock-photo-interior-view-modern-bright-bathroom.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/475548390/stock-photo-interior-view-modern-bright-bathroom.html?ref=64678756' src='https://st2.depositphotos.com/12982378/47554/i/950/depositphotos_475548390-stock-photo-interior-view-modern-bright-bathroom.jpg?forcejpeg=true' alt='Interior view of modern bright bathroom with washbasin, mirror, toiletries and towels' >
     </a>
 </div>

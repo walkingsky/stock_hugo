@@ -13,7 +13,7 @@ categories:
             <font size="60"> Closeup of smile with white heatlhy teeth</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1004713/image/3040/30404007/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1004713/image/3040/30404007/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1004713/3040/i/950/depositphotos_30404007-stock-photo-closeup-of-smile-with-white.jpg?forcejpeg=true' alt='Closeup of smile with white heatlhy teeth' >
+    <a href='https://depositphotos.com/30404007/stock-photo-closeup-of-smile-with-white.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/30404007/stock-photo-closeup-of-smile-with-white.html?ref=64678756' src='https://st.depositphotos.com/1004713/3040/i/950/depositphotos_30404007-stock-photo-closeup-of-smile-with-white.jpg?forcejpeg=true' alt='Closeup of smile with white heatlhy teeth' >
     </a>
 </div>

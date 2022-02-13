@@ -13,7 +13,7 @@ categories:
             <font size="60"> Thin line icons set of hosting and cloud computing networks concepts. Outline symbol collection. Editable vector stroke. 64x64 Pixel Perfect.</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/2808409/vector/15326/153265684/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/2808409/vector/15326/153265684/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/2808409/15326/v/950/depositphotos_153265684-stock-illustration-hosting-thin-line-icons.jpg?forcejpeg=true' alt='Thin line icons set of hosting and cloud computing networks concepts. Outline symbol collection. Editable vector stroke. 64x64 Pixel Perfect.' >
+    <a href='https://depositphotos.com/153265684/stock-illustration-hosting-thin-line-icons.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/153265684/stock-illustration-hosting-thin-line-icons.html?ref=64678756' src='https://st3.depositphotos.com/2808409/15326/v/950/depositphotos_153265684-stock-illustration-hosting-thin-line-icons.jpg?forcejpeg=true' alt='Thin line icons set of hosting and cloud computing networks concepts. Outline symbol collection. Editable vector stroke. 64x64 Pixel Perfect.' >
     </a>
 </div>

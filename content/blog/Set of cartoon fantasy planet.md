@@ -13,7 +13,7 @@ categories:
             <font size="60"> Set of cartoon fantasy planet on space background</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/4155807/vector/8229/82298790/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/4155807/vector/8229/82298790/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/4155807/8229/v/950/depositphotos_82298790-stock-illustration-set-of-cartoon-fantasy-planet.jpg?forcejpeg=true' alt='Set of cartoon fantasy planet on space background' >
+    <a href='https://depositphotos.com/82298790/stock-illustration-set-of-cartoon-fantasy-planet.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/82298790/stock-illustration-set-of-cartoon-fantasy-planet.html?ref=64678756' src='https://st2.depositphotos.com/4155807/8229/v/950/depositphotos_82298790-stock-illustration-set-of-cartoon-fantasy-planet.jpg?forcejpeg=true' alt='Set of cartoon fantasy planet on space background' >
     </a>
 </div>

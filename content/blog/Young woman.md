@@ -13,7 +13,7 @@ categories:
             <font size="60"> Young woman enjoying the fresh air.</font>   
 </div>
 <div>
-    <a href='https://static6.depositphotos.com/thumbs/1030327/image/616/6166420/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static6.depositphotos.com/thumbs/1030327/image/616/6166420/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static6.depositphotos.com/1030327/616/i/950/depositphotos_6166420-stock-photo-young-woman.jpg?forcejpeg=true' alt='Young woman enjoying the fresh air.' >
+    <a href='https://depositphotos.com/6166420/stock-photo-young-woman.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/6166420/stock-photo-young-woman.html?ref=64678756' src='https://static6.depositphotos.com/1030327/616/i/950/depositphotos_6166420-stock-photo-young-woman.jpg?forcejpeg=true' alt='Young woman enjoying the fresh air.' >
     </a>
 </div>

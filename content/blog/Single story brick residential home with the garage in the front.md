@@ -13,7 +13,7 @@ categories:
             <font size="60"> Single story brick residential home with the garage in the front.</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/3759967/image/5696/56963459/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/3759967/image/5696/56963459/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/3759967/5696/i/950/depositphotos_56963459-stock-photo-single-story-brick-residential-home.jpg?forcejpeg=true' alt='Single story brick residential home with the garage in the front.' >
+    <a href='https://depositphotos.com/56963459/stock-photo-single-story-brick-residential-home.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/56963459/stock-photo-single-story-brick-residential-home.html?ref=64678756' src='https://st2.depositphotos.com/3759967/5696/i/950/depositphotos_56963459-stock-photo-single-story-brick-residential-home.jpg?forcejpeg=true' alt='Single story brick residential home with the garage in the front.' >
     </a>
 </div>

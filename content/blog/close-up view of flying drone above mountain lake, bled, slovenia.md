@@ -13,7 +13,7 @@ categories:
             <font size="60"> Close-up view of flying drone above mountain lake, bled, slovenia</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/15914886/image/19776/197768608/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/15914886/image/19776/197768608/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/15914886/19776/i/950/depositphotos_197768608-stock-photo-close-view-flying-drone-mountain.jpg?forcejpeg=true' alt='Close-up view of flying drone above mountain lake, bled, slovenia' >
+    <a href='https://depositphotos.com/197768608/stock-photo-close-view-flying-drone-mountain.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/197768608/stock-photo-close-view-flying-drone-mountain.html?ref=64678756' src='https://st4.depositphotos.com/15914886/19776/i/950/depositphotos_197768608-stock-photo-close-view-flying-drone-mountain.jpg?forcejpeg=true' alt='Close-up view of flying drone above mountain lake, bled, slovenia' >
     </a>
 </div>

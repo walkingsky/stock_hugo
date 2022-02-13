@@ -13,7 +13,7 @@ categories:
             <font size="60"> Abstract design. Vector illustration</font>   
 </div>
 <div>
-    <a href='https://static7.depositphotos.com/thumbs/1009160/vector/698/6985254/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static7.depositphotos.com/thumbs/1009160/vector/698/6985254/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static7.depositphotos.com/1009160/698/v/950/depositphotos_6985254-stock-illustration-abstract-design.jpg?forcejpeg=true' alt='Abstract design. Vector illustration' >
+    <a href='https://depositphotos.com/6985254/stock-illustration-abstract-design.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/6985254/stock-illustration-abstract-design.html?ref=64678756' src='https://static7.depositphotos.com/1009160/698/v/950/depositphotos_6985254-stock-illustration-abstract-design.jpg?forcejpeg=true' alt='Abstract design. Vector illustration' >
     </a>
 </div>

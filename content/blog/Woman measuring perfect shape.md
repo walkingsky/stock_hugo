@@ -13,7 +13,7 @@ categories:
             <font size="60"> Woman measuring perfect shape of beautiful thigh healthy lifestyles concept</font>   
 </div>
 <div>
-    <a href='https://static5.depositphotos.com/thumbs/1007330/image/494/4940898/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static5.depositphotos.com/thumbs/1007330/image/494/4940898/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static5.depositphotos.com/1007330/494/i/950/depositphotos_4940898-stock-photo-woman-measuring-perfect-shape.jpg?forcejpeg=true' alt='Woman measuring perfect shape of beautiful thigh healthy lifestyles concept' >
+    <a href='https://depositphotos.com/4940898/stock-photo-woman-measuring-perfect-shape.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/4940898/stock-photo-woman-measuring-perfect-shape.html?ref=64678756' src='https://static5.depositphotos.com/1007330/494/i/950/depositphotos_4940898-stock-photo-woman-measuring-perfect-shape.jpg?forcejpeg=true' alt='Woman measuring perfect shape of beautiful thigh healthy lifestyles concept' >
     </a>
 </div>

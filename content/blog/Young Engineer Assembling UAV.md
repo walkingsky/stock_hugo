@@ -13,7 +13,7 @@ categories:
             <font size="60"> Young engineer assembling UAV helicopter in park</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1003098/image/3436/34369289/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1003098/image/3436/34369289/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1003098/3436/i/950/depositphotos_34369289-stock-photo-young-engineer-assembling-uav.jpg?forcejpeg=true' alt='Young engineer assembling UAV helicopter in park' >
+    <a href='https://depositphotos.com/34369289/stock-photo-young-engineer-assembling-uav.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/34369289/stock-photo-young-engineer-assembling-uav.html?ref=64678756' src='https://st.depositphotos.com/1003098/3436/i/950/depositphotos_34369289-stock-photo-young-engineer-assembling-uav.jpg?forcejpeg=true' alt='Young engineer assembling UAV helicopter in park' >
     </a>
 </div>

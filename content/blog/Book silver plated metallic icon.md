@@ -13,7 +13,7 @@ categories:
             <font size="60"> Book silver plated metallic icon</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/50337402/vector/47118/471180408/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/50337402/vector/47118/471180408/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/50337402/47118/v/950/depositphotos_471180408-stock-illustration-book-silver-plated-metallic-icon.jpg?forcejpeg=true' alt='Book silver plated metallic icon' >
+    <a href='https://depositphotos.com/471180408/stock-illustration-book-silver-plated-metallic-icon.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/471180408/stock-illustration-book-silver-plated-metallic-icon.html?ref=64678756' src='https://st2.depositphotos.com/50337402/47118/v/950/depositphotos_471180408-stock-illustration-book-silver-plated-metallic-icon.jpg?forcejpeg=true' alt='Book silver plated metallic icon' >
     </a>
 </div>

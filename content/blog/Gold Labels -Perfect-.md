@@ -13,7 +13,7 @@ categories:
             <font size="60"> Everyone has a transparent background. Can be placed on a background of any color. Grouped for easy edition. In gallery also variants in silver and in blue.</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1648893/vector/1252/12528793/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1648893/vector/1252/12528793/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1648893/1252/v/950/depositphotos_12528793-stock-illustration-gold-labels-perfect.jpg?forcejpeg=true' alt='Everyone has a transparent background. Can be placed on a background of any color. Grouped for easy edition. In gallery also variants in silver and in blue.' >
+    <a href='https://depositphotos.com/12528793/stock-illustration-gold-labels-perfect.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/12528793/stock-illustration-gold-labels-perfect.html?ref=64678756' src='https://st.depositphotos.com/1648893/1252/v/950/depositphotos_12528793-stock-illustration-gold-labels-perfect.jpg?forcejpeg=true' alt='Everyone has a transparent background. Can be placed on a background of any color. Grouped for easy edition. In gallery also variants in silver and in blue.' >
     </a>
 </div>

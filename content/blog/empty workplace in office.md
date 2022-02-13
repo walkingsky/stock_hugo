@@ -13,7 +13,7 @@ categories:
             <font size="60"> Empty workplace with digital tablet on wooden table in modern office</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12548352/image/16165/161654704/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12548352/image/16165/161654704/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12548352/16165/i/950/depositphotos_161654704-stock-photo-empty-workplace-in-office.jpg?forcejpeg=true' alt='Empty workplace with digital tablet on wooden table in modern office' >
+    <a href='https://depositphotos.com/161654704/stock-photo-empty-workplace-in-office.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/161654704/stock-photo-empty-workplace-in-office.html?ref=64678756' src='https://st3.depositphotos.com/12548352/16165/i/950/depositphotos_161654704-stock-photo-empty-workplace-in-office.jpg?forcejpeg=true' alt='Empty workplace with digital tablet on wooden table in modern office' >
     </a>
 </div>

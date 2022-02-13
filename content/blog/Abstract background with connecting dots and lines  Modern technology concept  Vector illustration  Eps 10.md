@@ -13,7 +13,7 @@ categories:
             <font size="60"> Abstract background with connecting dots and lines. Modern technology concept. Vector illustration. Eps 10</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/3205185/vector/8915/89152856/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/3205185/vector/8915/89152856/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/3205185/8915/v/950/depositphotos_89152856-stock-illustration-abstract-background-with-connecting-dots.jpg?forcejpeg=true' alt='Abstract background with connecting dots and lines. Modern technology concept. Vector illustration. Eps 10' >
+    <a href='https://depositphotos.com/89152856/stock-illustration-abstract-background-with-connecting-dots.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/89152856/stock-illustration-abstract-background-with-connecting-dots.html?ref=64678756' src='https://st2.depositphotos.com/3205185/8915/v/950/depositphotos_89152856-stock-illustration-abstract-background-with-connecting-dots.jpg?forcejpeg=true' alt='Abstract background with connecting dots and lines. Modern technology concept. Vector illustration. Eps 10' >
     </a>
 </div>

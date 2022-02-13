@@ -13,7 +13,7 @@ categories:
             <font size="60"> Casual businessmen working on new project at modern office, business teamwork</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/9880800/image/15208/152080056/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/9880800/image/15208/152080056/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/9880800/15208/i/950/depositphotos_152080056-stock-photo-casual-businessmen-working-at-office.jpg?forcejpeg=true' alt='Casual businessmen working on new project at modern office, business teamwork' >
+    <a href='https://depositphotos.com/152080056/stock-photo-casual-businessmen-working-at-office.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/152080056/stock-photo-casual-businessmen-working-at-office.html?ref=64678756' src='https://st3.depositphotos.com/9880800/15208/i/950/depositphotos_152080056-stock-photo-casual-businessmen-working-at-office.jpg?forcejpeg=true' alt='Casual businessmen working on new project at modern office, business teamwork' >
     </a>
 </div>

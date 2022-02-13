@@ -13,7 +13,7 @@ categories:
             <font size="60"> Top view of bowl with pasta salad and spatulas near napkin on wooden background</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13349494/image/36577/365770414/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13349494/image/36577/365770414/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13349494/36577/i/950/depositphotos_365770414-stock-photo-top-view-bowl-pasta-salad.jpg?forcejpeg=true' alt='Top view of bowl with pasta salad and spatulas near napkin on wooden background' >
+    <a href='https://depositphotos.com/365770414/stock-photo-top-view-bowl-pasta-salad.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/365770414/stock-photo-top-view-bowl-pasta-salad.html?ref=64678756' src='https://st3.depositphotos.com/13349494/36577/i/950/depositphotos_365770414-stock-photo-top-view-bowl-pasta-salad.jpg?forcejpeg=true' alt='Top view of bowl with pasta salad and spatulas near napkin on wooden background' >
     </a>
 </div>

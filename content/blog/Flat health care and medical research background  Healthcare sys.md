@@ -13,7 +13,7 @@ categories:
             <font size="60"> Flat health care and medical research background. Healthcare system concept. Medicine and chemical engineering.</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1071184/vector/8336/83364950/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1071184/vector/8336/83364950/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1071184/8336/v/950/depositphotos_83364950-stock-illustration-flat-health-care-and-medical.jpg?forcejpeg=true' alt='Flat health care and medical research background. Healthcare system concept. Medicine and chemical engineering.' >
+    <a href='https://depositphotos.com/83364950/stock-illustration-flat-health-care-and-medical.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/83364950/stock-illustration-flat-health-care-and-medical.html?ref=64678756' src='https://st2.depositphotos.com/1071184/8336/v/950/depositphotos_83364950-stock-illustration-flat-health-care-and-medical.jpg?forcejpeg=true' alt='Flat health care and medical research background. Healthcare system concept. Medicine and chemical engineering.' >
     </a>
 </div>

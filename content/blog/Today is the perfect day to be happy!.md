@@ -13,7 +13,7 @@ categories:
             <font size="60"> Today is the perfect day to be happy! Inspiration hand drawn quote.</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/4966263/vector/7336/73364157/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/4966263/vector/7336/73364157/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/4966263/7336/v/950/depositphotos_73364157-stock-illustration-today-is-the-perfect-day.jpg?forcejpeg=true' alt='Today is the perfect day to be happy! Inspiration hand drawn quote.' >
+    <a href='https://depositphotos.com/73364157/stock-illustration-today-is-the-perfect-day.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/73364157/stock-illustration-today-is-the-perfect-day.html?ref=64678756' src='https://st2.depositphotos.com/4966263/7336/v/950/depositphotos_73364157-stock-illustration-today-is-the-perfect-day.jpg?forcejpeg=true' alt='Today is the perfect day to be happy! Inspiration hand drawn quote.' >
     </a>
 </div>

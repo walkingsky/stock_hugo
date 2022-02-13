@@ -13,7 +13,7 @@ categories:
             <font size="60"> Young woman with colorful hair covering eye while holding container with cosmetic cream isolated on pink</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/12982378/image/50808/508081966/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/12982378/image/50808/508081966/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/12982378/50808/i/950/depositphotos_508081966-stock-photo-young-woman-colorful-hair-covering.jpg?forcejpeg=true' alt='Young woman with colorful hair covering eye while holding container with cosmetic cream isolated on pink' >
+    <a href='https://depositphotos.com/508081966/stock-photo-young-woman-colorful-hair-covering.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/508081966/stock-photo-young-woman-colorful-hair-covering.html?ref=64678756' src='https://st2.depositphotos.com/12982378/50808/i/950/depositphotos_508081966-stock-photo-young-woman-colorful-hair-covering.jpg?forcejpeg=true' alt='Young woman with colorful hair covering eye while holding container with cosmetic cream isolated on pink' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Close up view of raw classical and black linguine pasta on black background</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/15583058/image/19898/198989012/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/15583058/image/19898/198989012/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/15583058/19898/i/950/depositphotos_198989012-stock-photo-close-view-raw-classical-black.jpg?forcejpeg=true' alt='Close up view of raw classical and black linguine pasta on black background' >
+    <a href='https://depositphotos.com/198989012/stock-photo-close-view-raw-classical-black.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/198989012/stock-photo-close-view-raw-classical-black.html?ref=64678756' src='https://st4.depositphotos.com/15583058/19898/i/950/depositphotos_198989012-stock-photo-close-view-raw-classical-black.jpg?forcejpeg=true' alt='Close up view of raw classical and black linguine pasta on black background' >
     </a>
 </div>

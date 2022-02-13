@@ -13,7 +13,7 @@ categories:
             <font size="60"> Thoughtful architect sitting at workplace near house model and blueprint</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/12982378/image/44285/442857914/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/12982378/image/44285/442857914/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/12982378/44285/i/950/depositphotos_442857914-stock-photo-thoughtful-architect-sitting-workplace-house.jpg?forcejpeg=true' alt='Thoughtful architect sitting at workplace near house model and blueprint' >
+    <a href='https://depositphotos.com/442857914/stock-photo-thoughtful-architect-sitting-workplace-house.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/442857914/stock-photo-thoughtful-architect-sitting-workplace-house.html?ref=64678756' src='https://st2.depositphotos.com/12982378/44285/i/950/depositphotos_442857914-stock-photo-thoughtful-architect-sitting-workplace-house.jpg?forcejpeg=true' alt='Thoughtful architect sitting at workplace near house model and blueprint' >
     </a>
 </div>

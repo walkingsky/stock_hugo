@@ -13,7 +13,7 @@ categories:
             <font size="60"> Small white drone flying over the city</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1277251/image/10188/101885138/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1277251/image/10188/101885138/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1277251/10188/i/950/depositphotos_101885138-stock-photo-drone-flying-over-the-city.jpg?forcejpeg=true' alt='Small white drone flying over the city' >
+    <a href='https://depositphotos.com/101885138/stock-photo-drone-flying-over-the-city.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/101885138/stock-photo-drone-flying-over-the-city.html?ref=64678756' src='https://st2.depositphotos.com/1277251/10188/i/950/depositphotos_101885138-stock-photo-drone-flying-over-the-city.jpg?forcejpeg=true' alt='Small white drone flying over the city' >
     </a>
 </div>

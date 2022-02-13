@@ -13,7 +13,7 @@ categories:
             <font size="60"> Couple at their new empty apartment</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1000691/image/3577/35775179/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1000691/image/3577/35775179/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1000691/3577/i/950/depositphotos_35775179-stock-photo-new-apartment.jpg?forcejpeg=true' alt='Couple at their new empty apartment' >
+    <a href='https://depositphotos.com/35775179/stock-photo-new-apartment.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/35775179/stock-photo-new-apartment.html?ref=64678756' src='https://st.depositphotos.com/1000691/3577/i/950/depositphotos_35775179-stock-photo-new-apartment.jpg?forcejpeg=true' alt='Couple at their new empty apartment' >
     </a>
 </div>

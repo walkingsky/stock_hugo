@@ -1,19 +1,19 @@
 ---
-title: 'Old Book'
-date: 2013-12-09T12:38:36+00:00
-author: hitdelight
-author_url: https://depositphotos.com/portfolio-1003293.html?ref=64678756
-image: https://st.depositphotos.com/thumbs/1003293/image/3686/36867413/api_thumb_450.jpg?forcejpeg=true
+title: 'Old book'
+date: 2011-02-10T11:53:41+00:00
+author: ssuaphoto
+author_url: https://depositphotos.com/portfolio-1007330.html?ref=64678756
+image: https://static5.depositphotos.com/thumbs/1007330/image/486/4861050/api_thumb_450.jpg?forcejpeg=true
 type: "post"
-tags: ['background' ,'object' ,'nobody' ,'design' ,'paper' ,'closeup' ,'illuminated' ,'art' ,'shine' ,'light' ,'black' ,'antique' ,'grunge' ,'old' ,'vintage' ,'open' ,'symbol' ,'imagination' ,'fantasy' ,'text' ,'candle' ,'dream' ,'school' ,'with' ,'writing' ,'glowing' ,'religion' ,'Wisdom' ,'copyspace' ,'wallpaper' ,'reading' ,'book' ,'education' ,'magic' ,'artistic' ,'mystery' ,'library' ,'literature' ,'textbook' ,'page' ,'secret' ,'ray' ,'study' ,'christian' ,'fairytale' ,'story' ,'magical' ,'mystical' ,'bible' ,'literary' ]
+tags: ['table' ,'yellow' ,'white' ,'background' ,'object' ,'nobody' ,'on' ,'horizontal' ,'paper' ,'clipping' ,'path' ,'single' ,'empty' ,'side' ,'one' ,'art' ,'travel' ,'texture' ,'brown' ,'wooden' ,'dark' ,'antique' ,'grunge' ,'memory' ,'old' ,'remember' ,'vintage' ,'open' ,'big' ,'blank' ,'mark' ,'stain' ,'age' ,'fingers' ,'with' ,'copyspace' ,'museum' ,'wood' ,'book' ,'shabby' ,'page' ,'ancient' ,'historic' ,'history' ,'opening' ,'gothic' ,'books' ,'write' ,'story' ,'stationery' ]
 categories: 
   - story
 ---
 <div aling="center">
-            <font size="60"> Open book with magic light</font>   
+            <font size="60"> Vintage book, open, on old wooden table, with clipping path</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1003293/image/3686/36867413/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1003293/image/3686/36867413/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1003293/3686/i/950/depositphotos_36867413-stock-photo-old-book.jpg?forcejpeg=true' alt='Open book with magic light' >
+    <a href='https://depositphotos.com/4861050/stock-photo-old-book.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/4861050/stock-photo-old-book.html?ref=64678756' src='https://static5.depositphotos.com/1007330/486/i/950/depositphotos_4861050-stock-photo-old-book.jpg?forcejpeg=true' alt='Vintage book, open, on old wooden table, with clipping path' >
     </a>
 </div>

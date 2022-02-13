@@ -13,7 +13,7 @@ categories:
             <font size="60"> Panorama landscape of forest in the mist with sun rays. Magical beauty. Drentsche Aa. Drenthe. The Netherlands.</font>   
 </div>
 <div>
-    <a href='https://static9.depositphotos.com/thumbs/1550494/image/1128/11287681/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static9.depositphotos.com/thumbs/1550494/image/1128/11287681/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static9.depositphotos.com/1550494/1128/i/950/depositphotos_11287681-stock-photo-panorama-landscape-of-forest-in.jpg?forcejpeg=true' alt='Panorama landscape of forest in the mist with sun rays. Magical beauty. Drentsche Aa. Drenthe. The Netherlands.' >
+    <a href='https://depositphotos.com/11287681/stock-photo-panorama-landscape-of-forest-in.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/11287681/stock-photo-panorama-landscape-of-forest-in.html?ref=64678756' src='https://static9.depositphotos.com/1550494/1128/i/950/depositphotos_11287681-stock-photo-panorama-landscape-of-forest-in.jpg?forcejpeg=true' alt='Panorama landscape of forest in the mist with sun rays. Magical beauty. Drentsche Aa. Drenthe. The Netherlands.' >
     </a>
 </div>

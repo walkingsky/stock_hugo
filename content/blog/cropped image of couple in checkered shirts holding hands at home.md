@@ -13,7 +13,7 @@ categories:
             <font size="60"> Cropped image of couple in checkered shirts holding hands at home</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/12982378/image/22440/224405112/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/12982378/image/22440/224405112/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/12982378/22440/i/950/depositphotos_224405112-stock-photo-cropped-image-couple-checkered-shirts.jpg?forcejpeg=true' alt='Cropped image of couple in checkered shirts holding hands at home' >
+    <a href='https://depositphotos.com/224405112/stock-photo-cropped-image-couple-checkered-shirts.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/224405112/stock-photo-cropped-image-couple-checkered-shirts.html?ref=64678756' src='https://st4.depositphotos.com/12982378/22440/i/950/depositphotos_224405112-stock-photo-cropped-image-couple-checkered-shirts.jpg?forcejpeg=true' alt='Cropped image of couple in checkered shirts holding hands at home' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Do it yourself home remodeling and renovation concept, work table top view with copyspace and tools top view</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/3889193/image/7173/71736981/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/3889193/image/7173/71736981/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/3889193/7173/i/950/depositphotos_71736981-stock-photo-do-it-yourself-home-remodeling.jpg?forcejpeg=true' alt='Do it yourself home remodeling and renovation concept, work table top view with copyspace and tools top view' >
+    <a href='https://depositphotos.com/71736981/stock-photo-do-it-yourself-home-remodeling.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/71736981/stock-photo-do-it-yourself-home-remodeling.html?ref=64678756' src='https://st2.depositphotos.com/3889193/7173/i/950/depositphotos_71736981-stock-photo-do-it-yourself-home-remodeling.jpg?forcejpeg=true' alt='Do it yourself home remodeling and renovation concept, work table top view with copyspace and tools top view' >
     </a>
 </div>

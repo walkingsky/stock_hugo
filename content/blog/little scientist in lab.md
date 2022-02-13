@@ -13,7 +13,7 @@ categories:
             <font size="60"> Schoolgirl in white coat making experiment with reagents in chemical lab, science student concept</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/11433294/image/15294/152941138/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/11433294/image/15294/152941138/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/11433294/15294/i/950/depositphotos_152941138-stock-photo-little-scientist-in-lab.jpg?forcejpeg=true' alt='Schoolgirl in white coat making experiment with reagents in chemical lab, science student concept' >
+    <a href='https://depositphotos.com/152941138/stock-photo-little-scientist-in-lab.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/152941138/stock-photo-little-scientist-in-lab.html?ref=64678756' src='https://st3.depositphotos.com/11433294/15294/i/950/depositphotos_152941138-stock-photo-little-scientist-in-lab.jpg?forcejpeg=true' alt='Schoolgirl in white coat making experiment with reagents in chemical lab, science student concept' >
     </a>
 </div>

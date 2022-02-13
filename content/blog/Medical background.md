@@ -13,7 +13,7 @@ categories:
             <font size="60"> Medical background. Abstract digestive system.</font>   
 </div>
 <div>
-    <a href='https://static8.depositphotos.com/thumbs/1067125/vector/999/9992790/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static8.depositphotos.com/thumbs/1067125/vector/999/9992790/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static8.depositphotos.com/1067125/999/v/950/depositphotos_9992790-stock-illustration-medical-background.jpg?forcejpeg=true' alt='Medical background. Abstract digestive system.' >
+    <a href='https://depositphotos.com/9992790/stock-illustration-medical-background.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/9992790/stock-illustration-medical-background.html?ref=64678756' src='https://static8.depositphotos.com/1067125/999/v/950/depositphotos_9992790-stock-illustration-medical-background.jpg?forcejpeg=true' alt='Medical background. Abstract digestive system.' >
     </a>
 </div>

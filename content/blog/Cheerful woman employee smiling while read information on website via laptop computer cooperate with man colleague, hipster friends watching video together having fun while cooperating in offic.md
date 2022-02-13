@@ -13,7 +13,7 @@ categories:
             <font size="60"> Cheerful woman employee smiling while read information on website via laptop computer cooperate with man colleague, hipster friends watching video together having fun while cooperating in offic</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/3396639/image/20884/208840198/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/3396639/image/20884/208840198/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/3396639/20884/i/950/depositphotos_208840198-stock-photo-cheerful-woman-employee-smiling-while.jpg?forcejpeg=true' alt='Cheerful woman employee smiling while read information on website via laptop computer cooperate with man colleague, hipster friends watching video together having fun while cooperating in offic' >
+    <a href='https://depositphotos.com/208840198/stock-photo-cheerful-woman-employee-smiling-while.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/208840198/stock-photo-cheerful-woman-employee-smiling-while.html?ref=64678756' src='https://st4.depositphotos.com/3396639/20884/i/950/depositphotos_208840198-stock-photo-cheerful-woman-employee-smiling-while.jpg?forcejpeg=true' alt='Cheerful woman employee smiling while read information on website via laptop computer cooperate with man colleague, hipster friends watching video together having fun while cooperating in offic' >
     </a>
 </div>

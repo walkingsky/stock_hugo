@@ -13,7 +13,7 @@ categories:
             <font size="60"> Happy father and son having fun together on sofa</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/11233746/image/14295/142950299/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/11233746/image/14295/142950299/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/11233746/14295/i/950/depositphotos_142950299-stock-photo-father-and-son-having-fun.jpg?forcejpeg=true' alt='Happy father and son having fun together on sofa' >
+    <a href='https://depositphotos.com/142950299/stock-photo-father-and-son-having-fun.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/142950299/stock-photo-father-and-son-having-fun.html?ref=64678756' src='https://st3.depositphotos.com/11233746/14295/i/950/depositphotos_142950299-stock-photo-father-and-son-having-fun.jpg?forcejpeg=true' alt='Happy father and son having fun together on sofa' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Abstraction</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/3224447/vector/4238/42380933/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/3224447/vector/4238/42380933/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/3224447/4238/v/950/depositphotos_42380933-stock-illustration-abstraction.jpg?forcejpeg=true' alt='Abstraction' >
+    <a href='https://depositphotos.com/42380933/stock-illustration-abstraction.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/42380933/stock-illustration-abstraction.html?ref=64678756' src='https://st.depositphotos.com/3224447/4238/v/950/depositphotos_42380933-stock-illustration-abstraction.jpg?forcejpeg=true' alt='Abstraction' >
     </a>
 </div>

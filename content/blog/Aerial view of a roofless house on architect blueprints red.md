@@ -13,7 +13,7 @@ categories:
             <font size="60"> 3D rendering of a roofless house on top of architect plans</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1007034/image/6590/65901109/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1007034/image/6590/65901109/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1007034/6590/i/950/depositphotos_65901109-stock-photo-aerial-view-of-a-roofless.jpg?forcejpeg=true' alt='3D rendering of a roofless house on top of architect plans' >
+    <a href='https://depositphotos.com/65901109/stock-photo-aerial-view-of-a-roofless.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/65901109/stock-photo-aerial-view-of-a-roofless.html?ref=64678756' src='https://st2.depositphotos.com/1007034/6590/i/950/depositphotos_65901109-stock-photo-aerial-view-of-a-roofless.jpg?forcejpeg=true' alt='3D rendering of a roofless house on top of architect plans' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Territory of modern recreation center at countryside</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12985790/image/17261/172619070/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12985790/image/17261/172619070/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12985790/17261/i/950/depositphotos_172619070-stock-photo-modern-recreation-center.jpg?forcejpeg=true' alt='Territory of modern recreation center at countryside' >
+    <a href='https://depositphotos.com/172619070/stock-photo-modern-recreation-center.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/172619070/stock-photo-modern-recreation-center.html?ref=64678756' src='https://st3.depositphotos.com/12985790/17261/i/950/depositphotos_172619070-stock-photo-modern-recreation-center.jpg?forcejpeg=true' alt='Territory of modern recreation center at countryside' >
     </a>
 </div>

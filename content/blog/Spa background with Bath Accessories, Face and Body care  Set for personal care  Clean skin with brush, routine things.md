@@ -13,7 +13,7 @@ categories:
             <font size="60"> Spa background with Bath Accessories, Face and Body care. Set for personal care. Clean skin with brush, routine things. Spring picture on white background</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/6783846/image/19512/195127470/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/6783846/image/19512/195127470/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/6783846/19512/i/950/depositphotos_195127470-stock-photo-spa-background-with-bath-accessories.jpg?forcejpeg=true' alt='Spa background with Bath Accessories, Face and Body care. Set for personal care. Clean skin with brush, routine things. Spring picture on white background' >
+    <a href='https://depositphotos.com/195127470/stock-photo-spa-background-with-bath-accessories.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/195127470/stock-photo-spa-background-with-bath-accessories.html?ref=64678756' src='https://st3.depositphotos.com/6783846/19512/i/950/depositphotos_195127470-stock-photo-spa-background-with-bath-accessories.jpg?forcejpeg=true' alt='Spa background with Bath Accessories, Face and Body care. Set for personal care. Clean skin with brush, routine things. Spring picture on white background' >
     </a>
 </div>

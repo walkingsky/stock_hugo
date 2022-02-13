@@ -13,7 +13,7 @@ categories:
             <font size="60"> White home interior of modern apartment living room kitchen hall panorama 3d render</font>   
 </div>
 <div>
-    <a href='https://static5.depositphotos.com/thumbs/1007602/image/508/5080383/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static5.depositphotos.com/thumbs/1007602/image/508/5080383/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static5.depositphotos.com/1007602/508/i/950/depositphotos_5080383-stock-photo-white-interior-of-modern-apartment.jpg?forcejpeg=true' alt='White home interior of modern apartment living room kitchen hall panorama 3d render' >
+    <a href='https://depositphotos.com/5080383/stock-photo-white-interior-of-modern-apartment.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/5080383/stock-photo-white-interior-of-modern-apartment.html?ref=64678756' src='https://static5.depositphotos.com/1007602/508/i/950/depositphotos_5080383-stock-photo-white-interior-of-modern-apartment.jpg?forcejpeg=true' alt='White home interior of modern apartment living room kitchen hall panorama 3d render' >
     </a>
 </div>

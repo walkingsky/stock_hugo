@@ -13,7 +13,7 @@ categories:
             <font size="60"> Wedding to do list with flowers. Mockup planner flat lay.</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/6462898/image/18623/186232374/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/6462898/image/18623/186232374/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/6462898/18623/i/950/depositphotos_186232374-stock-photo-wedding-list-flowers-mockup-planner.jpg?forcejpeg=true' alt='Wedding to do list with flowers. Mockup planner flat lay.' >
+    <a href='https://depositphotos.com/186232374/stock-photo-wedding-list-flowers-mockup-planner.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/186232374/stock-photo-wedding-list-flowers-mockup-planner.html?ref=64678756' src='https://st3.depositphotos.com/6462898/18623/i/950/depositphotos_186232374-stock-photo-wedding-list-flowers-mockup-planner.jpg?forcejpeg=true' alt='Wedding to do list with flowers. Mockup planner flat lay.' >
     </a>
 </div>

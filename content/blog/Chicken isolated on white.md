@@ -13,7 +13,7 @@ categories:
             <font size="60"> White chicken isolated, studio shot.</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1784872/image/1392/13927400/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1784872/image/1392/13927400/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1784872/1392/i/950/depositphotos_13927400-stock-photo-chicken-isolated-on-white.jpg?forcejpeg=true' alt='White chicken isolated, studio shot.' >
+    <a href='https://depositphotos.com/13927400/stock-photo-chicken-isolated-on-white.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/13927400/stock-photo-chicken-isolated-on-white.html?ref=64678756' src='https://st.depositphotos.com/1784872/1392/i/950/depositphotos_13927400-stock-photo-chicken-isolated-on-white.jpg?forcejpeg=true' alt='White chicken isolated, studio shot.' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Healthy lifestyle vector illustration. Design elements.</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/3742757/vector/5532/55321533/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/3742757/vector/5532/55321533/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/3742757/5532/v/950/depositphotos_55321533-stock-illustration-healthy-lifestyle-vector-illustration.jpg?forcejpeg=true' alt='Healthy lifestyle vector illustration. Design elements.' >
+    <a href='https://depositphotos.com/55321533/stock-illustration-healthy-lifestyle-vector-illustration.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/55321533/stock-illustration-healthy-lifestyle-vector-illustration.html?ref=64678756' src='https://st2.depositphotos.com/3742757/5532/v/950/depositphotos_55321533-stock-illustration-healthy-lifestyle-vector-illustration.jpg?forcejpeg=true' alt='Healthy lifestyle vector illustration. Design elements.' >
     </a>
 </div>

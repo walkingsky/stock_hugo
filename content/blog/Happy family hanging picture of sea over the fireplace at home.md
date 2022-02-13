@@ -13,7 +13,7 @@ categories:
             <font size="60"> Happy family hanging picture of sea over the fireplace at home</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/12039320/image/15277/152777116/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/12039320/image/15277/152777116/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/12039320/15277/i/950/depositphotos_152777116-stock-photo-happy-family-hanging-picture-of.jpg?forcejpeg=true' alt='Happy family hanging picture of sea over the fireplace at home' >
+    <a href='https://depositphotos.com/152777116/stock-photo-happy-family-hanging-picture-of.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/152777116/stock-photo-happy-family-hanging-picture-of.html?ref=64678756' src='https://st3.depositphotos.com/12039320/15277/i/950/depositphotos_152777116-stock-photo-happy-family-hanging-picture-of.jpg?forcejpeg=true' alt='Happy family hanging picture of sea over the fireplace at home' >
     </a>
 </div>

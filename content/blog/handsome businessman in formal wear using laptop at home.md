@@ -13,7 +13,7 @@ categories:
             <font size="60"> Handsome businessman in formal wear using laptop at home</font>   
 </div>
 <div>
-    <a href='https://st4.depositphotos.com/thumbs/13193658/image/22131/221310394/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st4.depositphotos.com/thumbs/13193658/image/22131/221310394/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st4.depositphotos.com/13193658/22131/i/950/depositphotos_221310394-stock-photo-handsome-businessman-formal-wear-using.jpg?forcejpeg=true' alt='Handsome businessman in formal wear using laptop at home' >
+    <a href='https://depositphotos.com/221310394/stock-photo-handsome-businessman-formal-wear-using.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/221310394/stock-photo-handsome-businessman-formal-wear-using.html?ref=64678756' src='https://st4.depositphotos.com/13193658/22131/i/950/depositphotos_221310394-stock-photo-handsome-businessman-formal-wear-using.jpg?forcejpeg=true' alt='Handsome businessman in formal wear using laptop at home' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Business team drawing a new complex project</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1001201/image/5301/53015743/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1001201/image/5301/53015743/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1001201/5301/i/950/depositphotos_53015743-stock-photo-business-team-drawing-a-new.jpg?forcejpeg=true' alt='Business team drawing a new complex project' >
+    <a href='https://depositphotos.com/53015743/stock-photo-business-team-drawing-a-new.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/53015743/stock-photo-business-team-drawing-a-new.html?ref=64678756' src='https://st2.depositphotos.com/1001201/5301/i/950/depositphotos_53015743-stock-photo-business-team-drawing-a-new.jpg?forcejpeg=true' alt='Business team drawing a new complex project' >
     </a>
 </div>

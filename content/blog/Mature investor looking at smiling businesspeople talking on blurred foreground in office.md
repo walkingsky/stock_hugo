@@ -13,7 +13,7 @@ categories:
             <font size="60"> Mature investor looking at smiling businesspeople talking on blurred foreground in office</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/20363444/image/43781/437810496/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/20363444/image/43781/437810496/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/20363444/43781/i/950/depositphotos_437810496-stock-photo-mature-investor-looking-smiling-businesspeople.jpg?forcejpeg=true' alt='Mature investor looking at smiling businesspeople talking on blurred foreground in office' >
+    <a href='https://depositphotos.com/437810496/stock-photo-mature-investor-looking-smiling-businesspeople.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/437810496/stock-photo-mature-investor-looking-smiling-businesspeople.html?ref=64678756' src='https://st2.depositphotos.com/20363444/43781/i/950/depositphotos_437810496-stock-photo-mature-investor-looking-smiling-businesspeople.jpg?forcejpeg=true' alt='Mature investor looking at smiling businesspeople talking on blurred foreground in office' >
     </a>
 </div>

@@ -13,7 +13,7 @@ categories:
             <font size="60"> Beautiful gerbera flower isolated on black</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13324256/image/17675/176758246/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13324256/image/17675/176758246/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13324256/17675/i/950/depositphotos_176758246-stock-photo-beautiful-gerbera-flower-isolated-black.jpg?forcejpeg=true' alt='Beautiful gerbera flower isolated on black' >
+    <a href='https://depositphotos.com/176758246/stock-photo-beautiful-gerbera-flower-isolated-black.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/176758246/stock-photo-beautiful-gerbera-flower-isolated-black.html?ref=64678756' src='https://st3.depositphotos.com/13324256/17675/i/950/depositphotos_176758246-stock-photo-beautiful-gerbera-flower-isolated-black.jpg?forcejpeg=true' alt='Beautiful gerbera flower isolated on black' >
     </a>
 </div>

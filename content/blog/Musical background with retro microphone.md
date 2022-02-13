@@ -13,7 +13,7 @@ categories:
             <font size="60"> Background with retro microphone and musical notes. Vector illustration</font>   
 </div>
 <div>
-    <a href='https://static5.depositphotos.com/thumbs/1001160/vector/400/4007342/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static5.depositphotos.com/thumbs/1001160/vector/400/4007342/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static5.depositphotos.com/1001160/400/v/950/depositphotos_4007342-stock-illustration-musical-background-with-retro-microphone.jpg?forcejpeg=true' alt='Background with retro microphone and musical notes. Vector illustration' >
+    <a href='https://depositphotos.com/4007342/stock-illustration-musical-background-with-retro-microphone.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/4007342/stock-illustration-musical-background-with-retro-microphone.html?ref=64678756' src='https://static5.depositphotos.com/1001160/400/v/950/depositphotos_4007342-stock-illustration-musical-background-with-retro-microphone.jpg?forcejpeg=true' alt='Background with retro microphone and musical notes. Vector illustration' >
     </a>
 </div>

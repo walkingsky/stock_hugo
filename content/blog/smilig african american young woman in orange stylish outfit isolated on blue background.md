@@ -13,7 +13,7 @@ categories:
             <font size="60"> Smilig african american young woman in orange stylish outfit isolated on blue background</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/13194036/image/42439/424398928/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/13194036/image/42439/424398928/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/13194036/42439/i/950/depositphotos_424398928-stock-photo-smilig-african-american-young-woman.jpg?forcejpeg=true' alt='Smilig african american young woman in orange stylish outfit isolated on blue background' >
+    <a href='https://depositphotos.com/424398928/stock-photo-smilig-african-american-young-woman.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/424398928/stock-photo-smilig-african-american-young-woman.html?ref=64678756' src='https://st2.depositphotos.com/13194036/42439/i/950/depositphotos_424398928-stock-photo-smilig-african-american-young-woman.jpg?forcejpeg=true' alt='Smilig african american young woman in orange stylish outfit isolated on blue background' >
     </a>
 </div>

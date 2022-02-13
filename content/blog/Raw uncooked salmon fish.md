@@ -13,7 +13,7 @@ categories:
             <font size="60"> Dinner cooking ingredints. Raw uncooked salmon fish with vegetables, rice, herbs and spices over rustic wooden background, top view, copy space. Chopping board in center</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/3308451/image/11284/112843860/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/3308451/image/11284/112843860/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/3308451/11284/i/950/depositphotos_112843860-stock-photo-raw-uncooked-salmon-fish.jpg?forcejpeg=true' alt='Dinner cooking ingredints. Raw uncooked salmon fish with vegetables, rice, herbs and spices over rustic wooden background, top view, copy space. Chopping board in center' >
+    <a href='https://depositphotos.com/112843860/stock-photo-raw-uncooked-salmon-fish.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/112843860/stock-photo-raw-uncooked-salmon-fish.html?ref=64678756' src='https://st2.depositphotos.com/3308451/11284/i/950/depositphotos_112843860-stock-photo-raw-uncooked-salmon-fish.jpg?forcejpeg=true' alt='Dinner cooking ingredints. Raw uncooked salmon fish with vegetables, rice, herbs and spices over rustic wooden background, top view, copy space. Chopping board in center' >
     </a>
 </div>

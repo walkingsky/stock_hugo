@@ -13,7 +13,7 @@ categories:
             <font size="60"> African american woman in bathrobe holding container with cosmetic cream in bathroom</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/12982378/image/53551/535515014/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/12982378/image/53551/535515014/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/12982378/53551/i/950/depositphotos_535515014-stock-photo-african-american-woman-bathrobe-holding.jpg?forcejpeg=true' alt='African american woman in bathrobe holding container with cosmetic cream in bathroom' >
+    <a href='https://depositphotos.com/535515014/stock-photo-african-american-woman-bathrobe-holding.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/535515014/stock-photo-african-american-woman-bathrobe-holding.html?ref=64678756' src='https://st.depositphotos.com/12982378/53551/i/950/depositphotos_535515014-stock-photo-african-american-woman-bathrobe-holding.jpg?forcejpeg=true' alt='African american woman in bathrobe holding container with cosmetic cream in bathroom' >
     </a>
 </div>

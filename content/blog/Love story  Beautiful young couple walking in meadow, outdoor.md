@@ -13,7 +13,7 @@ categories:
             <font size="60"> Love story. Beautiful young couple walking in meadow, outdoor. Portrait of stylish fashion man and woman posing in summer in field. Series. Back view</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/1134425/image/8475/84758576/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/1134425/image/8475/84758576/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/1134425/8475/i/950/depositphotos_84758576-stock-photo-love-story-beautiful-young-couple.jpg?forcejpeg=true' alt='Love story. Beautiful young couple walking in meadow, outdoor. Portrait of stylish fashion man and woman posing in summer in field. Series. Back view' >
+    <a href='https://depositphotos.com/84758576/stock-photo-love-story-beautiful-young-couple.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/84758576/stock-photo-love-story-beautiful-young-couple.html?ref=64678756' src='https://st2.depositphotos.com/1134425/8475/i/950/depositphotos_84758576-stock-photo-love-story-beautiful-young-couple.jpg?forcejpeg=true' alt='Love story. Beautiful young couple walking in meadow, outdoor. Portrait of stylish fashion man and woman posing in summer in field. Series. Back view' >
     </a>
 </div>

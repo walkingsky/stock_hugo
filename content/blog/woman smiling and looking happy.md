@@ -13,7 +13,7 @@ categories:
             <font size="60"> Young casual woman smiling and looking happy in studio</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1007995/image/4991/49915825/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1007995/image/4991/49915825/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1007995/4991/i/950/depositphotos_49915825-stock-photo-woman-smiling-and-looking-happy.jpg?forcejpeg=true' alt='Young casual woman smiling and looking happy in studio' >
+    <a href='https://depositphotos.com/49915825/stock-photo-woman-smiling-and-looking-happy.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/49915825/stock-photo-woman-smiling-and-looking-happy.html?ref=64678756' src='https://st.depositphotos.com/1007995/4991/i/950/depositphotos_49915825-stock-photo-woman-smiling-and-looking-happy.jpg?forcejpeg=true' alt='Young casual woman smiling and looking happy in studio' >
     </a>
 </div>

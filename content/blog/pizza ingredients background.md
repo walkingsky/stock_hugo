@@ -13,7 +13,7 @@ categories:
             <font size="60"> Flat lay with fresh vegetables and other pizza ingredients on wooden tabletop</font>   
 </div>
 <div>
-    <a href='https://st3.depositphotos.com/thumbs/13324256/image/16360/163603036/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st3.depositphotos.com/thumbs/13324256/image/16360/163603036/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st3.depositphotos.com/13324256/16360/i/950/depositphotos_163603036-stock-photo-pizza-ingredients-background.jpg?forcejpeg=true' alt='Flat lay with fresh vegetables and other pizza ingredients on wooden tabletop' >
+    <a href='https://depositphotos.com/163603036/stock-photo-pizza-ingredients-background.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/163603036/stock-photo-pizza-ingredients-background.html?ref=64678756' src='https://st3.depositphotos.com/13324256/16360/i/950/depositphotos_163603036-stock-photo-pizza-ingredients-background.jpg?forcejpeg=true' alt='Flat lay with fresh vegetables and other pizza ingredients on wooden tabletop' >
     </a>
 </div>

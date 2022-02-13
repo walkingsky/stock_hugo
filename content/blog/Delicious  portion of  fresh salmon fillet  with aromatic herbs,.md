@@ -13,7 +13,7 @@ categories:
             <font size="60"> Delicious  portion of fresh salmon fillet  with aromatic herbs, spices and vegetables - healthy food, diet or cooking concept</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1001092/image/4768/47684611/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1001092/image/4768/47684611/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1001092/4768/i/950/depositphotos_47684611-stock-photo-delicious-portion-of-fresh-salmon.jpg?forcejpeg=true' alt='Delicious  portion of fresh salmon fillet  with aromatic herbs, spices and vegetables - healthy food, diet or cooking concept' >
+    <a href='https://depositphotos.com/47684611/stock-photo-delicious-portion-of-fresh-salmon.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/47684611/stock-photo-delicious-portion-of-fresh-salmon.html?ref=64678756' src='https://st.depositphotos.com/1001092/4768/i/950/depositphotos_47684611-stock-photo-delicious-portion-of-fresh-salmon.jpg?forcejpeg=true' alt='Delicious  portion of fresh salmon fillet  with aromatic herbs, spices and vegetables - healthy food, diet or cooking concept' >
     </a>
 </div>

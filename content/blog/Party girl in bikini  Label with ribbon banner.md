@@ -13,7 +13,7 @@ categories:
             <font size="60"> Party girl in bikini. Label with ribbon banner. Pin up</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/3246725/vector/11317/113171782/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/3246725/vector/11317/113171782/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/3246725/11317/v/950/depositphotos_113171782-stock-illustration-party-girl-in-bikini-label.jpg?forcejpeg=true' alt='Party girl in bikini. Label with ribbon banner. Pin up' >
+    <a href='https://depositphotos.com/113171782/stock-illustration-party-girl-in-bikini-label.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/113171782/stock-illustration-party-girl-in-bikini-label.html?ref=64678756' src='https://st2.depositphotos.com/3246725/11317/v/950/depositphotos_113171782-stock-illustration-party-girl-in-bikini-label.jpg?forcejpeg=true' alt='Party girl in bikini. Label with ribbon banner. Pin up' >
     </a>
 </div>

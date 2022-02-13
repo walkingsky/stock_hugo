@@ -13,7 +13,7 @@ categories:
             <font size="60"> Colored Trees - top view. Easy to use in your landscape design projects</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/2126555/vector/7850/78506960/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/2126555/vector/7850/78506960/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/2126555/7850/v/950/depositphotos_78506960-stock-illustration-colored-trees-top-view-easy.jpg?forcejpeg=true' alt='Colored Trees - top view. Easy to use in your landscape design projects' >
+    <a href='https://depositphotos.com/78506960/stock-illustration-colored-trees-top-view-easy.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/78506960/stock-illustration-colored-trees-top-view-easy.html?ref=64678756' src='https://st2.depositphotos.com/2126555/7850/v/950/depositphotos_78506960-stock-illustration-colored-trees-top-view-easy.jpg?forcejpeg=true' alt='Colored Trees - top view. Easy to use in your landscape design projects' >
     </a>
 </div>

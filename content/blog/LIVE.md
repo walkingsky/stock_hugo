@@ -13,7 +13,7 @@ categories:
             <font size="60"> LIVE Rubber Stamp over a white background.</font>   
 </div>
 <div>
-    <a href='https://st.depositphotos.com/thumbs/1186248/image/2699/26999717/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st.depositphotos.com/thumbs/1186248/image/2699/26999717/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1186248/2699/i/950/depositphotos_26999717-stock-photo-live.jpg?forcejpeg=true' alt='LIVE Rubber Stamp over a white background.' >
+    <a href='https://depositphotos.com/26999717/stock-photo-live.html?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://depositphotos.com/26999717/stock-photo-live.html?ref=64678756' src='https://st.depositphotos.com/1186248/2699/i/950/depositphotos_26999717-stock-photo-live.jpg?forcejpeg=true' alt='LIVE Rubber Stamp over a white background.' >
     </a>
 </div>
