@@ -7,7 +7,7 @@ image: https://st4.depositphotos.com/thumbs/13193658/image/26514/265142756/api_t
 type: "post"
 tags: ['red' ,'yellow' ,'paper' ,'sign' ,'smiling' ,'cheerful' ,'caucasian' ,'smile' ,'man' ,'connection' ,'technology' ,'card' ,'symbol' ,'emotion' ,'heart' ,'communication' ,'wireless' ,'emotional' ,'internet' ,'using' ,'online' ,'casual' ,'handsome' ,'positive' ,'gadget' ,'like' ,'smartphone' ,'good looking' ,'status' ,'hoodie' ,'looking at camera' ,'Isolated On White' ,'copy space' ,'one person' ,'Studio Shot' ,'young adult' ,'social media' ,'modern life' ,'digital device' ,'virtual life' ]
 categories: 
-  - modern
+  - space
 ---
 <div aling="center">
             <font size="60"> Cheerful young man using smartphone while holding red paper cut card with heart symbol isolated on white</font>   

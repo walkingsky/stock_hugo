@@ -1,19 +1,19 @@
 ---
 title: 'Modern living room'
-date: 2011-02-08T12:39:49+00:00
-author: archideaphoto
-author_url: https://depositphotos.com/portfolio-1047404.html?ref=64678756
-image: https://static5.depositphotos.com/thumbs/1047404/image/488/4880652/api_thumb_450.jpg?forcejpeg=true
+date: 2015-10-22T14:56:54+00:00
+author: wodoplyasov
+author_url: https://depositphotos.com/portfolio-5028327.html?ref=64678756
+image: https://st2.depositphotos.com/thumbs/5028327/image/8738/87389450/api_thumb_450.jpg?forcejpeg=true
 type: "post"
-tags: ['table' ,'white' ,'blue' ,'on' ,'horizontal' ,'design' ,'Decor' ,'brown' ,'style' ,'carpet' ,'pillow' ,'sit' ,'modern' ,'creative' ,'wall' ,'lamp' ,'domestic' ,'relax' ,'interior' ,'beige' ,'home' ,'fingers' ,'with' ,'laptop' ,'lifestyle' ,'salon' ,'live' ,'furniture' ,'room' ,'Bookshelf' ,'book' ,'floor' ,'living' ,'comfort' ,'books' ,'wand' ,'sofa' ,'plaster' ,'dining' ,'contemporary' ,'tv' ,'rendering' ,'couch' ,'cushion' ,'rooms' ,'of' ,'lounge' ,'walls' ,'livingroom' ,'el' ]
+tags: ['design' ,'painting' ,'studio' ,'art' ,'chair' ,'window' ,'lamp' ,'interior' ,'furniture' ,'recreation' ,'apartment' ,'sofa' ,'minimalism' ,'chandelier' ,'convenient' ,'constructionism' ,'Living Room' ,'modern style' ,'Coffee Table' ]
 categories: 
-  - modern
+  - live
 ---
 <div aling="center">
-            <font size="60"> Brown and beige modern living room - rendering</font>   
+            <font size="60"> Modern livingroom in a minimalist style</font>   
 </div>
 <div>
-    <a href='https://static5.depositphotos.com/thumbs/1047404/image/488/4880652/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://static5.depositphotos.com/thumbs/1047404/image/488/4880652/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://static5.depositphotos.com/1047404/488/i/950/depositphotos_4880652-stock-photo-modern-living-room.jpg?forcejpeg=true' alt='Brown and beige modern living room - rendering' >
+    <a href='https://st2.depositphotos.com/thumbs/5028327/image/8738/87389450/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://st2.depositphotos.com/thumbs/5028327/image/8738/87389450/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/5028327/8738/i/950/depositphotos_87389450-stock-photo-modern-living-room.jpg?forcejpeg=true' alt='Modern livingroom in a minimalist style' >
     </a>
 </div>

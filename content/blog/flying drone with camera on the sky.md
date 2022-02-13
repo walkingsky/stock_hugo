@@ -1,19 +1,19 @@
 ---
-title: 'flying drone with camera on the sky'
-date: 2015-02-19T13:08:01+00:00
-author: Fesenko
-author_url: https://depositphotos.com/portfolio-4079177.html?ref=64678756
-image: https://st2.depositphotos.com/thumbs/4079177/image/6529/65298555/api_thumb_450.jpg?forcejpeg=true
+title: 'flying drone with camera on the sky '
+date: 2014-04-22T15:25:28+00:00
+author: goceristeski
+author_url: https://depositphotos.com/portfolio-1003854.html?ref=64678756
+image: https://st.depositphotos.com/thumbs/1003854/image/4507/45078579/api_thumb_450.jpg?forcejpeg=true
 type: "post"
-tags: []
+tags: ['image' ,'blue' ,'on' ,'photography' ,'sky' ,'equipment' ,'flying' ,'technology' ,'modern' ,'motion' ,'industry' ,'moving' ,'device' ,'fingers' ,'wireless' ,'digital' ,'with' ,'professional' ,'camera' ,'photographing' ,'stability' ,'remote' ,'watching' ,'robot' ,'innovation' ,'turning' ,'control' ,'propeller' ,'helicopter' ,'spy' ,'television' ,'technique' ,'the' ,'carbon' ,'ladies' ,'rotor' ,'controlled' ,'drone' ,'drones' ,'hexacopter' ,'octocopter' ,'quadrocopter' ]
 categories: 
   - drone
 ---
 <div aling="center">
-            <font size="60"> Flying drone with camera on blue the sky</font>   
+            <font size="60"> Flying drone with camera on the sky</font>   
 </div>
 <div>
-    <a href='https://st2.depositphotos.com/thumbs/4079177/image/6529/65298555/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
-        <img href='https://st2.depositphotos.com/thumbs/4079177/image/6529/65298555/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st2.depositphotos.com/4079177/6529/i/950/depositphotos_65298555-stock-photo-flying-drone-with-camera-on.jpg?forcejpeg=true' alt='Flying drone with camera on blue the sky' >
+    <a href='https://st.depositphotos.com/thumbs/1003854/image/4507/45078579/api_thumb_450.jpg?forcejpeg=true?ref=64678756' target=_blank > Go "Depositphotos" to get lage size of this picture ->
+        <img href='https://st.depositphotos.com/thumbs/1003854/image/4507/45078579/api_thumb_450.jpg?forcejpeg=true?ref=64678756' src='https://st.depositphotos.com/1003854/4507/i/950/depositphotos_45078579-stock-photo-flying-drone-with-camera-on.jpg?forcejpeg=true' alt='Flying drone with camera on the sky' >
     </a>
 </div>

@@ -7,7 +7,7 @@ image: https://st3.depositphotos.com/thumbs/13193658/image/33384/333848128/api_t
 type: "post"
 tags: ['green' ,'beautiful' ,'happy' ,'girl' ,'smiling' ,'happiness' ,'cheerful' ,'smile' ,'plants' ,'flora' ,'health' ,'medicine' ,'healthcare' ,'medical' ,'emotion' ,'home' ,'woman' ,'emotional' ,'broadcast' ,'curly' ,'dentistry' ,'looking' ,'indoors' ,'online' ,'attractive' ,'positive' ,'tripod' ,'streaming' ,'rack' ,'Medicare' ,'blogger' ,'blogging' ,'braces' ,'one person' ,'selective focus' ,'young adult' ,'black woman' ,'african american' ,'digital camera' ,'dental care' ,'vlog' ,'vlogger' ,'influencer' ,'video blog' ,'video blogger' ]
 categories: 
-  - health
+  - home
 ---
 <div aling="center">
             <font size="60"> Selective focus of happy african american influencer sitting on sofa and looking at digital camera</font>   

@@ -7,7 +7,7 @@ image: https://st2.depositphotos.com/thumbs/1491329/image/6154/61540443/api_thum
 type: "post"
 tags: []
 categories: 
-  - health
+  - lifestyle
 ---
 <div aling="center">
             <font size="60"> Free Happy Woman Enjoying Nature. Beauty Girl Outdoor</font>   

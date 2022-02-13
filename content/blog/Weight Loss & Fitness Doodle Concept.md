@@ -7,7 +7,7 @@ image: https://st2.depositphotos.com/thumbs/1768806/vector/9223/92236354/api_thu
 type: "post"
 tags: ['vector' ,'background' ,'illustration' ,'shape' ,'equipment' ,'water' ,'health' ,'diet' ,'man' ,'vegetable' ,'nutrition' ,'banner' ,'concept' ,'lifestyle' ,'weight' ,'body' ,'fat' ,'fit' ,'fitness' ,'overweight' ,'exercise' ,'meter' ,'loss' ,'thin' ,'doodle' ,'dumbbell' ,'obesity' ,'Healthy Eating' ,'weight loss' ,'fresh food' ,'salonu' ]
 categories: 
-  - health
+  - food
 ---
 <div aling="center">
             <font size="60"> Doodle design style concept of healthy lifestyle, controlling body mass weight, dieting and fitness. Modern line style illustration for web banners, hero images, printed materials</font>   
