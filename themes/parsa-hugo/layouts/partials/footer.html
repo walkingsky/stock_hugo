@@ -48,13 +48,15 @@
 		}
 	})(jQuery);
 
-  if($('.dp-widget'))
+  if($('.dp-widget').length)
   {
-    if($('#dp-widget-value')){
+    var searchQuery = param("s");
+    if($('#dp-widget-value').length){
       searchQuery = $('#dp-widget-value').val();
-    }     
+    }    
     (function()
-          {new dpw(
+          {
+            new dpw(
               {
                   "format":"div",
                   "trackingLink":"https://tracking.depositphotos.com/aff_c?offer_id=4&aff_id=35644",
