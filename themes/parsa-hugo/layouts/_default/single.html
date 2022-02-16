@@ -30,9 +30,11 @@
           -->
           {{.Content}}
         </article>
-      </div>
-      {{partial "sidebar.html" . }}
-    </div>
+        <div class="dp-widget" data-dpw="13"></div>
+        <input id="dp-widget-value" type="text" value="{{ .Params.Categories }}" style="display: none;">        
+          </div>
+              {{partial "sidebar.html" . }}
+        </div>
   </div>
 </section>
 <!-- /blog single -->

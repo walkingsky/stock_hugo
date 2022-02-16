@@ -24,6 +24,7 @@
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>
+<script type="text/javascript" src="https://static.depositphotos.com/js_c/widget-ext.js"></script>
 
 
 <!-- cookie -->
@@ -46,6 +47,38 @@
 			};
 		}
 	})(jQuery);
+
+  if($('.dp-widget'))
+  {
+    if($('#dp-widget-value')){
+      searchQuery = $('#dp-widget-value').val();
+    }     
+    (function()
+          {new dpw(
+              {
+                  "format":"div",
+                  "trackingLink":"https://tracking.depositphotos.com/aff_c?offer_id=4&aff_id=35644",
+                  "feedtype":"search",
+                  "theme":"true",
+                  "searchquery":searchQuery,
+                  "background":"false",
+                  "photo":true,
+                  "vector":true,
+                  "showlogo":true,
+                  "video":true,
+                  "sort":"1",
+                  "thumbsize":"200",
+                  "feedwidth":"900",
+                  "feedheight":"600",
+                  "searchBar":true,
+                  "preview":true,
+                  "showborder":true,
+                  "responsive":true,
+                  "nofollow":true,
+                  "wid":13,"lang":"en"}
+              ).init(); 
+          })();
+  }
 </script>
 
 <!-- cookie style -->

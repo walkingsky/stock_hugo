@@ -542,8 +542,9 @@ textarea.form-control {
 
 .title-border {
   position: relative;
-  margin-bottom: 25px;
-  padding-bottom: 30px;
+/*  margin-bottom: 25px; */
+/*  padding-bottom: 30px; */
+  padding-bottom: 5px;
 }
 
 .title-border::before {
@@ -555,7 +556,7 @@ textarea.form-control {
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
   bottom: 0px;
-  background: #ababab;
+  /* background: #ababab; */
 }
 
 .title-border-lg {
