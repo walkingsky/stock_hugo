@@ -45,12 +45,21 @@
   });
 
   // Masonry
+  /*
   setTimeout(function(){
     $('.masonry-container').masonry({
       itemSelector: '.masonry-container > div',
       columnWidth: 1
     });
   }, 500);
+  */
+  $('.container').imagesLoaded( function() {
+    // 图片加载后执行的方法
+    $('.masonry-container').masonry({
+      itemSelector: '.masonry-container > div',
+      columnWidth: 1
+    });
+  });
 
 
   // instafeed
