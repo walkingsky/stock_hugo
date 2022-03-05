@@ -98,3 +98,8 @@ expire_days = 2
 #icon = "ti-facebook"
 #link = "https://facebook.com/themefisher"
 
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
