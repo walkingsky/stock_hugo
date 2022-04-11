@@ -1,7 +1,7 @@
 # default config
 baseurl = "https://www.kongfumi.com/"
 languageCode = "en-us"
-title = "kongfumi | Personal Gallery website"
+title = "kongfumi | Photos,illustrator and vector images Gallery website"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 20
@@ -65,13 +65,13 @@ home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
 # Meta data
-description = "This is meta description"
+description = "A photos,illustrator and vector images Gallery website."
 # Preloader
 preloader = true
 # search
 search = true
 # about author
-author = "John Doe"
+author = "kongfumi.com"
 author_image = "images/banner-img.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 # Contact info
@@ -81,8 +81,8 @@ bio = "I’m a Freelance Interactive Art Director based in France. Focusing acro
 # Contact Form Action
 #contact_form_action = "#"
 # copyright
-copyright = "Copyright &copy; 2022 **walkingsky**.  "
-theme = "theme by [themefisher.com](https://themefisher.com)"
+#copyright = "Copyright &copy; 2022 **walkingsky**.  "
+#theme = "theme by [themefisher.com](https://themefisher.com)"
 # Instagram feed
 [params.instafeed]
 enable = false
@@ -91,7 +91,7 @@ access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1Nmpx
 # cookies
 [params.cookies]
 enable = true
-expire_days = 2
+expire_days = 60
 
 # social site
 #[[params.social]]
