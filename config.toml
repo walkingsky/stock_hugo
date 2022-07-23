@@ -6,7 +6,7 @@ theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 20
 # google analytics
-googleAnalytics = "" # example : UA-123-45
+googleAnalytics = "G-FHKRGDR1J1" # example : UA-123-45 323684372
 
 # output
 [outputs]
